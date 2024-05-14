@@ -96,8 +96,8 @@ def bio_spacy(texte, nlp=""):
 
 
 
-for modele in ["sm"]:
-# for modele in ["sm", "md", "lg"]:
+#for modele in ["sm"]:
+for modele in ["sm", "md", "lg"]:
     liste_subcorpus = glob.glob("%s/*/"%path_corpora)
     if len(liste_subcorpus)==0:
       print(f"Pas de dossier trouvé dans {path_corpora}, traitement terminé")
