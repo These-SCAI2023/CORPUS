@@ -58,7 +58,7 @@ def stocker(chemin, contenu, is_json=False, verbose=False):
 
 
 def dico_resultats(texte, nlp=""):
-    nlp.max_length = 1500000  # or any large value, as long as you don't run out of RAM
+    nlp.max_length = 50000000  # or any large value, as long as you don't run out of RAM
     # nlp=spacy.load("fr_core_news_sm")):
     if nlp == "":
         try:
@@ -82,7 +82,7 @@ def dico_resultats(texte, nlp=""):
 
 
 def bio_spacy(texte, nlp=""):
-    nlp.max_length = 1500000  # or any large value, as long as you don't run out of RAM
+    nlp.max_length = 50000000  # or any large value, as long as you don't run out of RAM
     # nlp=spacy.load("fr_core_news_sm")):
     if nlp == "":
         try:
@@ -130,17 +130,16 @@ if __name__ == "__main__":
             for path in liste_txt:
                 dossiers = re.split("/", path)[:-1]
                 nom_txt = re.split("/", path)[-1]
-                path_ner = "/".join(dossiers)+"/NER"
+                # path_ner = "/".join(dossiers)+"/NER"
+                path_ner = os.path.join(*dossiers, "NER")
                 os.makedirs(path_ner, exist_ok=True)
-                # Ajouter la version de spacy le chemin ressemble : auteur_titre-titre_ocr_spaCymodel-versionspaCy.json
-                # path_output = "%s/%s_%s.json" % (path_ner, nom_txt, nom_modele)
+                # format json
                 path_output = f"{path_ner}/{nom_txt}_{nom_modele}-{spacy.__version__}.json"
                 print(path_output)
                 # Pour le format bio
-                # path_output_bio = "%s/%s_%s.bio" % (path_ner, nom_txt, nom_modele)
                 path_output_bio = f"{path_ner}/{nom_txt}_{nom_modele}-{spacy.__version__}.bio"
-
-                print(path_output)
+                print(path_output_bio)
+                exit()
                 if os.path.exists(path_output) == True:
                     if options.Force == True:
                         print("  Recomputing :", path_output)
