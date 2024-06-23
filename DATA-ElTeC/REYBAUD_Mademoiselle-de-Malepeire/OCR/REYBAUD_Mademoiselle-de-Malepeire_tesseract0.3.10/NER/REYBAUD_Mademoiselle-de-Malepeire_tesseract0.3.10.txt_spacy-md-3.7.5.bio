@@ -1,1157 +1,1157 @@
-Google;B;ORG
+Google B-ORG
 |
 
-|;O;
-This;O;
-is;O;
-a;O;
-digital;O;
-copy;O;
-of;O;
-a;O;
-book;O;
-that;O;
-was;O;
-preserved;O;
-for;O;
-generations;O;
-on;O;
-library;O;
-shelves;O;
-before;O;
-it;O;
-was;O;
-carefully;O;
-scanned;O;
-by;O;
-Google;O;
-as;O;
-part;O;
-of;B;MISC
-a;I;MISC
-project;I;MISC
+| O 
+This O 
+is O 
+a O 
+digital O 
+copy O 
+of O 
+a O 
+book O 
+that O 
+was O 
+preserved O 
+for O 
+generations O 
+on O 
+library O 
+shelves O 
+before O 
+it O 
+was O 
+carefully O 
+scanned O 
+by O 
+Google O 
+as O 
+part O 
+of B-MISC
+a I-MISC
+project I-MISC
 |
-|;I;MISC
-to;I;MISC
-make;I;MISC
-the;I;MISC
-world’;I;MISC
-s;O;
-books;O;
-discoverable;O;
-online;O;
-.;O;
-|
-
-|;O;
-It;B;MISC
-has;I;MISC
-survived;O;
-long;O;
-enough;O;
-for;O;
-the;O;
-copyright;O;
-to;O;
-expire;O;
-and;O;
-the;O;
-book;O;
-to;O;
-enter;O;
-the;O;
-public;O;
-domain;O;
-.;O;
-A;O;
-public;O;
-domain;O;
-book;O;
-is;O;
-one;O;
-that;O;
-was;O;
-never;O;
-subject;O;
-|
-|;O;
-to;O;
-copyright;O;
-or;O;
-whose;O;
-legal;B;MISC
-copyright;I;MISC
-term;I;MISC
-has;I;MISC
-expired;I;MISC
-.;O;
-Whether;B;MISC
-a;I;MISC
-book;I;MISC
-is;I;MISC
-in;I;MISC
-the;I;MISC
-public;I;MISC
-domain;I;MISC
-may;I;MISC
-vary;I;MISC
-country;I;MISC
-to;I;MISC
-country;I;MISC
-.;O;
-Public;O;
-domain;O;
-books;O;
-|
-|;O;
-are;O;
-our;O;
-gateways;O;
-to;O;
-the;O;
-past;O;
-,;O;
-representing;O;
-a;O;
-wealth;O;
-of;O;
-history;O;
-,;O;
-culture;O;
-and;O;
-knowledge;O;
-that’;O;
-s;O;
-often;O;
-difficult;O;
-to;O;
-discover;O;
-.;O;
+| I-MISC
+to I-MISC
+make I-MISC
+the I-MISC
+world’ I-MISC
+s O 
+books O 
+discoverable O 
+online O 
+. O 
 |
 
-|;O;
-Marks;B;PER
-,;O;
-notations;O;
-and;O;
-other;O;
-marginalia;O;
-present;O;
-in;O;
-the;O;
-original;O;
-volume;O;
-will;O;
-appear;O;
-in;O;
-this;O;
-file;O;
--;O;
-a;O;
-reminder;O;
-of;O;
-this;O;
-book’;O;
-s;O;
-long;O;
-journey;O;
-from;O;
-the;O;
+| O 
+It B-MISC
+has I-MISC
+survived O 
+long O 
+enough O 
+for O 
+the O 
+copyright O 
+to O 
+expire O 
+and O 
+the O 
+book O 
+to O 
+enter O 
+the O 
+public O 
+domain O 
+. O 
+A O 
+public O 
+domain O 
+book O 
+is O 
+one O 
+that O 
+was O 
+never O 
+subject O 
 |
-|;O;
-publisher;O;
-to;B;MISC
-a;I;MISC
-library;I;MISC
-and;I;MISC
-finally;I;MISC
-to;I;MISC
-you;I;MISC
-.;O;
+| O 
+to O 
+copyright O 
+or O 
+whose O 
+legal B-MISC
+copyright I-MISC
+term I-MISC
+has I-MISC
+expired I-MISC
+. O 
+Whether B-MISC
+a I-MISC
+book I-MISC
+is I-MISC
+in I-MISC
+the I-MISC
+public I-MISC
+domain I-MISC
+may I-MISC
+vary I-MISC
+country I-MISC
+to I-MISC
+country I-MISC
+. O 
+Public O 
+domain O 
+books O 
 |
-
-|;O;
-Usage;B;MISC
-guidelines;O;
-|
-
-|;O;
-Google;B;ORG
-is;O;
-proud;O;
-to;O;
-partner;O;
-with;O;
-libraries;O;
-to;O;
-digitize;O;
-public;O;
-domain;O;
-materials;O;
-and;O;
-make;O;
-them;O;
-widely;O;
-accessible;O;
-.;O;
-Public;O;
-domain;O;
-books;O;
-belong;O;
-to;O;
-the;O;
-|
-|;O;
-public;O;
-and;O;
-we;O;
-are;O;
-merely;O;
-their;O;
-custodians;O;
-.;O;
-Nevertheless;B;MISC
-,;O;
-this;O;
-work;O;
-is;O;
-expensive;O;
-,;O;
-so;O;
-in;O;
-order;O;
-to;O;
-keep;O;
-providing;O;
-this;O;
-resource;O;
-,;O;
-we;B;MISC
-have;I;MISC
-taken;I;MISC
-steps;I;MISC
-to;I;MISC
-|
-|;O;
-prevent;O;
-abuse;O;
-by;O;
-commercial;O;
-parties;O;
-,;O;
-including;O;
-placing;O;
-technical;O;
-restrictions;O;
-on;O;
-automated;O;
-querying;O;
-.;O;
+| O 
+are O 
+our O 
+gateways O 
+to O 
+the O 
+past O 
+, O 
+representing O 
+a O 
+wealth O 
+of O 
+history O 
+, O 
+culture O 
+and O 
+knowledge O 
+that’ O 
+s O 
+often O 
+difficult O 
+to O 
+discover O 
+. O 
 |
 
-|;O;
-We;O;
-also;O;
-ask;O;
-that;O;
-you;O;
-:;O;
+| O 
+Marks B-PER
+, O 
+notations O 
+and O 
+other O 
+marginalia O 
+present O 
+in O 
+the O 
+original O 
+volume O 
+will O 
+appear O 
+in O 
+this O 
+file O 
+- O 
+a O 
+reminder O 
+of O 
+this O 
+book’ O 
+s O 
+long O 
+journey O 
+from O 
+the O 
+|
+| O 
+publisher O 
+to B-MISC
+a I-MISC
+library I-MISC
+and I-MISC
+finally I-MISC
+to I-MISC
+you I-MISC
+. O 
 |
 
-|;O;
-+;O;
-Make;B;MISC
-non-commercial;O;
-use;O;
-of;O;
-the;O;
-files;O;
-We;O;
-designed;O;
-Google;O;
-Book;B;MISC
-Search;I;MISC
-for;O;
-use;O;
-by;O;
-individuals;O;
-,;O;
-and;O;
-we;O;
-request;O;
-that;O;
-you;O;
-use;O;
-these;O;
-files;O;
-for;O;
-|
-|;O;
-personal;O;
-,;O;
-non-commercial;O;
-purposes;O;
-.;O;
+| O 
+Usage B-MISC
+guidelines O 
 |
 
-|;O;
-+;O;
-Refrain;B;MISC
-from;I;MISC
-automated;I;MISC
-querying;I;MISC
-Do;I;MISC
-not;I;MISC
-send;I;MISC
-automated;I;MISC
-queries;I;MISC
-of;I;MISC
-any;I;MISC
-sort;O;
-to;O;
-Google’;O;
-s;O;
-system;O;
-:;O;
-If;B;MISC
-you;I;MISC
-are;I;MISC
-conducting;I;MISC
-research;I;MISC
-on;O;
-machine;O;
+| O 
+Google B-ORG
+is O 
+proud O 
+to O 
+partner O 
+with O 
+libraries O 
+to O 
+digitize O 
+public O 
+domain O 
+materials O 
+and O 
+make O 
+them O 
+widely O 
+accessible O 
+. O 
+Public O 
+domain O 
+books O 
+belong O 
+to O 
+the O 
 |
-|;O;
-translation;O;
-,;O;
-optical;O;
-character;O;
-recognition;O;
-or;O;
-other;O;
-areas;O;
-where;O;
-access;O;
-to;O;
-a;O;
-large;O;
-amount;O;
-of;O;
-text;O;
-is;O;
-helpful;O;
-,;O;
-please;O;
-contact;O;
-us;B;LOC
-.;O;
-We;B;MISC
-encourage;I;MISC
-the;I;MISC
+| O 
+public O 
+and O 
+we O 
+are O 
+merely O 
+their O 
+custodians O 
+. O 
+Nevertheless B-MISC
+, O 
+this O 
+work O 
+is O 
+expensive O 
+, O 
+so O 
+in O 
+order O 
+to O 
+keep O 
+providing O 
+this O 
+resource O 
+, O 
+we B-MISC
+have I-MISC
+taken I-MISC
+steps I-MISC
+to I-MISC
 |
-|;I;MISC
-use;I;MISC
-of;I;MISC
-public;I;MISC
-domain;I;MISC
-materials;I;MISC
-for;I;MISC
-these;I;MISC
-purposes;I;MISC
-and;I;MISC
-may;I;MISC
-be;I;MISC
-able;I;MISC
-to;I;MISC
-help;I;MISC
-.;O;
-|
-
-|;O;
-+;O;
-Maintain;B;PER
-attribution;O;
-The;B;ORG
-Google;I;ORG
-“;I;ORG
-watermark;I;ORG
-”;I;ORG
-you;I;ORG
-see;I;ORG
-on;I;ORG
-each;I;ORG
-file;I;ORG
-is;I;ORG
-essential;I;ORG
-for;I;ORG
-informing;I;ORG
-people;I;ORG
-about;I;ORG
-this;I;ORG
-project;I;ORG
-and;I;ORG
-helping;I;ORG
-them;I;ORG
-find;I;ORG
-|
-|;I;ORG
-additional;I;ORG
-materials;I;ORG
-through;I;ORG
-Google;I;ORG
-Book;I;ORG
-Search;I;ORG
-.;O;
-Please;O;
-do;O;
-not;O;
-remove;O;
-it;O;
-.;O;
+| O 
+prevent O 
+abuse O 
+by O 
+commercial O 
+parties O 
+, O 
+including O 
+placing O 
+technical O 
+restrictions O 
+on O 
+automated O 
+querying O 
+. O 
 |
 
-|;O;
-+;O;
-Keep;B;MISC
-it;I;MISC
-legal;I;MISC
-Whatever;I;MISC
-your;I;MISC
-use;O;
-,;O;
-remember;O;
-that;B;MISC
-you;I;MISC
-are;I;MISC
-responsible;O;
-for;O;
-ensuring;O;
-that;O;
-what;O;
-you;O;
-are;O;
-doing;O;
-is;O;
-legal;O;
-.;O;
-Do;B;ORG
-not;I;ORG
-assume;O;
-that;O;
-just;O;
-|
-|;O;
-because;O;
-we;O;
-believe;O;
-a;O;
-book;O;
-is;O;
-in;O;
-the;O;
-public;O;
-domain;O;
-for;O;
-users;O;
-in;O;
-the;O;
-United;O;
-States;O;
-,;O;
-that;O;
-the;O;
-work;O;
-is;O;
-also;O;
-in;O;
-the;O;
-public;O;
-domain;O;
-for;O;
-users;O;
-in;O;
-other;O;
-|
-|;O;
-countries;O;
-.;O;
-Whether;B;LOC
-a;O;
-book;O;
-is;O;
-still;O;
-in;O;
-copyright;O;
-varies;O;
-from;O;
-country;O;
-to;O;
-country;O;
-,;O;
-and;O;
-we;O;
-can’;O;
-t;O;
-offer;O;
-guidance;O;
-on;O;
-whether;O;
-any;O;
-specific;O;
-use;O;
-of;O;
-|
-|;O;
-any;O;
-specific;O;
-book;O;
-is;O;
-allowed;O;
-.;O;
-Please;O;
-do;O;
-not;O;
-assume;O;
-that;B;LOC
-a;O;
-book’;O;
-s;O;
-appearance;O;
-in;O;
-Google;B;MISC
-Book;I;MISC
-Search;I;MISC
-means;I;MISC
-it;I;MISC
-can;I;MISC
-be;I;MISC
-used;I;MISC
-in;I;MISC
-any;I;MISC
-manner;O;
-|
-|;O;
-anywhere;O;
-in;O;
-the;O;
-world;O;
-.;O;
-Copyright;O;
-infringement;O;
-liability;O;
-can;O;
-be;O;
-quite;O;
-severe;B;LOC
-.;O;
+| O 
+We O 
+also O 
+ask O 
+that O 
+you O 
+: O 
 |
 
-|;O;
-About;B;MISC
-Google;I;MISC
-Book;I;MISC
-Search;I;MISC
+| O 
++ O 
+Make B-MISC
+non-commercial O 
+use O 
+of O 
+the O 
+files O 
+We O 
+designed O 
+Google O 
+Book B-MISC
+Search I-MISC
+for O 
+use O 
+by O 
+individuals O 
+, O 
+and O 
+we O 
+request O 
+that O 
+you O 
+use O 
+these O 
+files O 
+for O 
+|
+| O 
+personal O 
+, O 
+non-commercial O 
+purposes O 
+. O 
 |
 
-|;O;
-Google’;O;
-s;O;
-mission;O;
-is;O;
-to;O;
-organize;O;
-the;O;
-world’;O;
-s;O;
-information;O;
-and;O;
-to;O;
-make;O;
-it;O;
-universally;O;
-accessible;O;
-and;O;
-useful;O;
-.;O;
-Google;B;MISC
-Book;I;MISC
-Search;I;MISC
-helps;O;
-readers;O;
+| O 
++ O 
+Refrain B-MISC
+from I-MISC
+automated I-MISC
+querying I-MISC
+Do I-MISC
+not I-MISC
+send I-MISC
+automated I-MISC
+queries I-MISC
+of I-MISC
+any I-MISC
+sort O 
+to O 
+Google’ O 
+s O 
+system O 
+: O 
+If B-MISC
+you I-MISC
+are I-MISC
+conducting I-MISC
+research I-MISC
+on O 
+machine O 
 |
-|;O;
-discover;O;
-the;O;
-world’;O;
-s;O;
-books;O;
-while;O;
-helping;O;
-authors;O;
-and;O;
-publishers;O;
-reach;O;
-new;O;
-audiences;O;
-.;O;
-You;B;MISC
-can;I;MISC
-search;I;MISC
-through;I;MISC
-the;I;MISC
-full;I;MISC
-text;I;MISC
-of;I;MISC
-this;I;MISC
-book;I;MISC
-on;I;MISC
-the;I;MISC
-web;I;MISC
+| O 
+translation O 
+, O 
+optical O 
+character O 
+recognition O 
+or O 
+other O 
+areas O 
+where O 
+access O 
+to O 
+a O 
+large O 
+amount O 
+of O 
+text O 
+is O 
+helpful O 
+, O 
+please O 
+contact O 
+us B-LOC
+. O 
+We B-MISC
+encourage I-MISC
+the I-MISC
+|
+| I-MISC
+use I-MISC
+of I-MISC
+public I-MISC
+domain I-MISC
+materials I-MISC
+for I-MISC
+these I-MISC
+purposes I-MISC
+and I-MISC
+may I-MISC
+be I-MISC
+able I-MISC
+to I-MISC
+help I-MISC
+. O 
 |
 
-|;O;
-atfhttp://books.google.com/;O;
+| O 
++ O 
+Maintain B-PER
+attribution O 
+The B-ORG
+Google I-ORG
+“ I-ORG
+watermark I-ORG
+” I-ORG
+you I-ORG
+see I-ORG
+on I-ORG
+each I-ORG
+file I-ORG
+is I-ORG
+essential I-ORG
+for I-ORG
+informing I-ORG
+people I-ORG
+about I-ORG
+this I-ORG
+project I-ORG
+and I-ORG
+helping I-ORG
+them I-ORG
+find I-ORG
+|
+| I-ORG
+additional I-ORG
+materials I-ORG
+through I-ORG
+Google I-ORG
+Book I-ORG
+Search I-ORG
+. O 
+Please O 
+do O 
+not O 
+remove O 
+it O 
+. O 
+|
+
+| O 
++ O 
+Keep B-MISC
+it I-MISC
+legal I-MISC
+Whatever I-MISC
+your I-MISC
+use O 
+, O 
+remember O 
+that B-MISC
+you I-MISC
+are I-MISC
+responsible O 
+for O 
+ensuring O 
+that O 
+what O 
+you O 
+are O 
+doing O 
+is O 
+legal O 
+. O 
+Do B-ORG
+not I-ORG
+assume O 
+that O 
+just O 
+|
+| O 
+because O 
+we O 
+believe O 
+a O 
+book O 
+is O 
+in O 
+the O 
+public O 
+domain O 
+for O 
+users O 
+in O 
+the O 
+United O 
+States O 
+, O 
+that O 
+the O 
+work O 
+is O 
+also O 
+in O 
+the O 
+public O 
+domain O 
+for O 
+users O 
+in O 
+other O 
+|
+| O 
+countries O 
+. O 
+Whether B-LOC
+a O 
+book O 
+is O 
+still O 
+in O 
+copyright O 
+varies O 
+from O 
+country O 
+to O 
+country O 
+, O 
+and O 
+we O 
+can’ O 
+t O 
+offer O 
+guidance O 
+on O 
+whether O 
+any O 
+specific O 
+use O 
+of O 
+|
+| O 
+any O 
+specific O 
+book O 
+is O 
+allowed O 
+. O 
+Please O 
+do O 
+not O 
+assume O 
+that B-LOC
+a O 
+book’ O 
+s O 
+appearance O 
+in O 
+Google B-MISC
+Book I-MISC
+Search I-MISC
+means I-MISC
+it I-MISC
+can I-MISC
+be I-MISC
+used I-MISC
+in I-MISC
+any I-MISC
+manner O 
+|
+| O 
+anywhere O 
+in O 
+the O 
+world O 
+. O 
+Copyright O 
+infringement O 
+liability O 
+can O 
+be O 
+quite O 
+severe B-LOC
+. O 
+|
+
+| O 
+About B-MISC
+Google I-MISC
+Book I-MISC
+Search I-MISC
+|
+
+| O 
+Google’ O 
+s O 
+mission O 
+is O 
+to O 
+organize O 
+the O 
+world’ O 
+s O 
+information O 
+and O 
+to O 
+make O 
+it O 
+universally O 
+accessible O 
+and O 
+useful O 
+. O 
+Google B-MISC
+Book I-MISC
+Search I-MISC
+helps O 
+readers O 
+|
+| O 
+discover O 
+the O 
+world’ O 
+s O 
+books O 
+while O 
+helping O 
+authors O 
+and O 
+publishers O 
+reach O 
+new O 
+audiences O 
+. O 
+You B-MISC
+can I-MISC
+search I-MISC
+through I-MISC
+the I-MISC
+full I-MISC
+text I-MISC
+of I-MISC
+this I-MISC
+book I-MISC
+on I-MISC
+the I-MISC
+web I-MISC
+|
+
+| O 
+atfhttp://books.google.com/ O 
 |
 
  
 
-|;O;
-PF;O;
+| O 
+PF O 
 |
 
  
 
-|;O;
-||||;O;
-he;O;
-27525;O;
-.;O;
-f;O;
-L29;B;LOC
+| O 
+|||| O 
+he O 
+27525 O 
+. O 
+f O 
+L29 B-LOC
 |
 
  
 
-|;O;
-Dress;O;
-GOOGlE;O;
+| O 
+Dress O 
+GOOGlE O 
 |
 
   
 
-|;O;
-..;O;
+| O 
+.. O 
 |
 
-|;O;
-Google;B;ORG
+| O 
+Google B-ORG
 |
 
 
-|;O;
-|;|;O;
-{;O;
+| O 
+| | O 
+{ O 
 |
-|;O;
-:;O;
-Sr;B;PER
-:;O;
-4;O;
-:;O;
-PUD;O;
-D;O;
-pTR;O;
- ;O;
-N;O;
-ne;O;
-uv;O;
-*;O;
+| O 
+: O 
+Sr B-PER
+: O 
+4 O 
+: O 
+PUD O 
+D O 
+pTR O 
+  O 
+N O 
+ne O 
+uv O 
+* O 
 |
-|;O;
-En;O;
-X;B;ORG
-Les;O;
-w;O;
-Le;O;
-AN;B;ORG
+| O 
+En O 
+X B-ORG
+Les O 
+w O 
+Le O 
+AN B-ORG
 |
-|;I;ORG
-Æ;I;ORG
-SA;I;ORG
-us;I;ORG
-:;O;
-ser;O;
-CR;B;ORG
-|
-
-|;O;
-{;O;
-.;O;
-ELA;B;ORG
-S;I;ORG
-*;O;
-<;O;
-||||;O;
-«;O;
-cu;O;
-«;O;
+| I-ORG
+Æ I-ORG
+SA I-ORG
+us I-ORG
+: O 
+ser O 
+CR B-ORG
 |
 
-|;O;
-»;O;
+| O 
+{ O 
+. O 
+ELA B-ORG
+S I-ORG
+* O 
+< O 
+|||| O 
+« O 
+cu O 
+« O 
 |
 
-|;O;
-N;O;
-°;O;
-?;O;
-,;O;
-+;O;
+| O 
+» O 
+|
+
+| O 
+N O 
+° O 
+? O 
+, O 
++ O 
 |
 
-|;O;
-MADEMOISELLÉ;B;MISC
+| O 
+MADEMOISELLÉ B-MISC
 |
 
-|;O;
-DE;O;
-MALEPEIRE;B;MISC
+| O 
+DE O 
+MALEPEIRE B-MISC
 |
 
  
 
-|;O;
-TYPOGRAPHIE;B;MISC
-DE;I;MISC
-CH;I;MISC
-.;O;
-LAHURE;B;MISC
+| O 
+TYPOGRAPHIE B-MISC
+DE I-MISC
+CH I-MISC
+. O 
+LAHURE B-MISC
 |
-|;O;
-Imprimeur;O;
-du;O;
-Sénat;O;
-et;O;
-de;O;
-la;O;
-Cour;B;LOC
-de;I;LOC
-Cassation;I;LOC
+| O 
+Imprimeur O 
+du O 
+Sénat O 
+et O 
+de O 
+la O 
+Cour B-LOC
+de I-LOC
+Cassation I-LOC
 |
-|;O;
-rue;B;LOC
-de;I;LOC
-Vaugirard;I;LOC
-,;O;
-9;O;
-|
-
-|;O;
-MADEMOISELLE;O;
-|
-
-|;O;
-DE;O;
-MALEPEIRE;O;
-|
-
-|;O;
-PAR;B;ORG
-|
-
-|;I;ORG
-M;I;ORG
-”;I;ORG
-CHARLES;O;
-REYBAUD;B;ORG
-|
-
-|;O;
-PARIS;B;ORG
-|
-|;O;
-LIBRAIRIE;B;MISC
-DE;I;MISC
-L.;I;MISC
-HACHETTE;I;MISC
-ET;I;MISC
-C;I;MISC
-*;O;
-|
-
-|;O;
-RUE;O;
-PIERRE-SARRAZIN;O;
-,;O;
-N;B;LOC
-°;O;
-14;O;
-|
-
-|;O;
-1856;O;
-|
-
-|;O;
-Droit;B;MISC
-de;I;MISC
-traduction;I;MISC
-réservé;O;
+| O 
+rue B-LOC
+de I-LOC
+Vaugirard I-LOC
+, O 
+9 O 
 |
 
-|;O;
-LES;O;
-TR;O;
+| O 
+MADEMOISELLE O 
 |
 
-|;O;
-|||.|;O;
+| O 
+DE O 
+MALEPEIRE O 
 |
-|;O;
-(;O;
-en;O;
-?;O;
-.18N;B;PER
+
+| O 
+PAR B-ORG
 |
-|;O;
-en;O;
+
+| I-ORG
+M I-ORG
+” I-ORG
+CHARLES O 
+REYBAUD B-ORG
+|
+
+| O 
+PARIS B-ORG
+|
+| O 
+LIBRAIRIE B-MISC
+DE I-MISC
+L. I-MISC
+HACHETTE I-MISC
+ET I-MISC
+C I-MISC
+* O 
+|
+
+| O 
+RUE O 
+PIERRE-SARRAZIN O 
+, O 
+N B-LOC
+° O 
+14 O 
+|
+
+| O 
+1856 O 
+|
+
+| O 
+Droit B-MISC
+de I-MISC
+traduction I-MISC
+réservé O 
 |
 
-|;O;
-MADEMOISELLE;O;
+| O 
+LES O 
+TR O 
 |
 
-|;O;
-DE;O;
-MALEPEIRE;O;
-.;O;
+| O 
+|||.| O 
 |
-
-|;O;
-L;O;
+| O 
+( O 
+en O 
+? O 
+.18N B-PER
 |
-
-|;O;
-Quand;O;
-j';O;
-étais;O;
-au;O;
-collége;O;
-,;O;
-il;O;
-y;O;
-ade;O;
-ceci;O;
-trente;O;
-ans;O;
-|
-|;O;
-et;O;
-plus;O;
-,;O;
-j';O;
-allais;O;
-chaque;O;
-année;O;
-passer;O;
-une;O;
-partie;O;
-|
-|;O;
-de;O;
-mes;O;
-vacances;O;
-chez;O;
-un;O;
-oncle;O;
-de;O;
-ma;O;
-mèré;O;
-,;O;
-lequel;O;
-|
-|;O;
-habitait;O;
-une;O;
-jolie;O;
-maison;O;
-de;O;
-campagne;O;
-dans;O;
-la;O;
-|
-|;O;
-haute;O;
-Provence;B;LOC
-,;O;
-à;O;
-quelques;O;
-lieues;O;
-de;O;
-la;O;
-frontière;O;
-|
-|;O;
-du;O;
-Piémont;B;LOC
-.;O;
-Cet;O;
-oncle;O;
-était;O;
-un;O;
-ancien;O;
-bénédictin;O;
-|
-|;O;
-tout;O;
-pétri;O;
-de;O;
-science;O;
-et;O;
-nourri;O;
-d’;O;
-in;O;
--;O;
-folios;O;
-|;|;O;
-on;O;
-s’;O;
-ac-;O;
-|
-|;O;
-cordait;O;
-à;O;
-dire;O;
-qu’;O;
-il;O;
-aurait;O;
-été;O;
-une;O;
-des;O;
-gloires;O;
-de;O;
-la;O;
-|
-|;O;
-savante;O;
-congrégation;O;
-de;O;
-Saint-Maur;B;PER
-,;O;
-si;O;
-la;O;
-Révolu-;B;MISC
-|
-|;O;
-tion;O;
-ne;O;
-l’;O;
-eût;O;
-chassé;O;
-de;O;
-son;O;
-couvent;O;
--;O;
-lorsqu';O;
-il;O;
-ache-;O;
-|
-|;O;
-vait;O;
-à;O;
-peine;O;
-son;O;
-noviciat;O;
-.;O;
-|
-
-|;O;
-Dom;B;PER
-Gérusac;I;PER
-,;O;
-comme;O;
-on;O;
-l’;O;
-appelait;O;
-encore;O;
-dans;O;
-|
-|;O;
-la;O;
-famille;O;
-,;O;
-n';O;
-avait;O;
-guère;O;
-que;O;
-vingt-cinq;O;
-ans;O;
-lors;O;
-de;O;
-|
-|;O;
-la;O;
-promulgation;O;
-du;O;
-décret;O;
-qui;O;
-rompait;O;
-ses;O;
-vœux;O;
-|
-|;O;
-religieux;O;
-|;|;O;
-mais;O;
-il;O;
-ne;O;
-profita;O;
-pas;O;
-du;O;
-bénéfice;O;
-de;O;
-|
-|;O;
-cette;O;
-loi;O;
-pour;O;
-rentrer;O;
-dans;O;
-le;O;
-courant;O;
-des;O;
-choses;O;
-|
-|;O;
-humaines;O;
-.;O;
-Il;O;
-n’;O;
-essaya;O;
-pas;O;
-non;O;
-plus;O;
-de;O;
-retourner;O;
-à;O;
-|
-
-|;O;
-222;O;
-a;O;
+| O 
+en O 
 |
 
-|;O;
-2;O;
-MADEMOISELLE;O;
-DE;O;
-MALEPEIRE;O;
-.;O;
+| O 
+MADEMOISELLE O 
 |
 
-|;O;
-la;O;
-vie;O;
-monastique;O;
-,;O;
-et;O;
-n’;O;
-alla;O;
-pas;O;
-,;O;
-comme;O;
-la;O;
-plupart;O;
+| O 
+DE O 
+MALEPEIRE O 
+. O 
 |
-|;O;
-des;O;
-membres;O;
-de;O;
-l';O;
-ordre;O;
-,;O;
-reprendre;O;
-dans;O;
-quelque;O;
+
+| O 
+L O 
 |
-|;O;
-couvent;O;
-d’;B;LOC
-Espagne;I;LOC
-ou;O;
-d';O;
-Italie;B;LOC
-l’;O;
-habit;O;
-de;O;
-saint;B;PER
-Be-;I;PER
+
+| O 
+Quand O 
+j' O 
+étais O 
+au O 
+collége O 
+, O 
+il O 
+y O 
+ade O 
+ceci O 
+trente O 
+ans O 
 |
-|;O;
-noît;O;
-.;O;
-Quand;O;
-l';O;
-orage;O;
-révolutionnaire;O;
-fut;O;
-un;O;
-peu;O;
+| O 
+et O 
+plus O 
+, O 
+j' O 
+allais O 
+chaque O 
+année O 
+passer O 
+une O 
+partie O 
 |
-|;O;
-apaisé;O;
-,;O;
-il;O;
-réunit;O;
-les;O;
-débris;O;
-de;O;
-l’;O;
-héritage;O;
-paternel;O;
-,;O;
-et;O;
+| O 
+de O 
+mes O 
+vacances O 
+chez O 
+un O 
+oncle O 
+de O 
+ma O 
+mèré O 
+, O 
+lequel O 
 |
-|;O;
-se;O;
-réfugia;O;
-sur;O;
-un;O;
-coin;O;
-de;O;
-terre;O;
-qu’;O;
-il;O;
-appela;O;
-Saint-;B;PER
+| O 
+habitait O 
+une O 
+jolie O 
+maison O 
+de O 
+campagne O 
+dans O 
+la O 
 |
-|;I;PER
-Pierre;I;PER
-de;I;PER
-Corbie;I;PER
-,;O;
-en;O;
-souvenir;O;
-de;O;
-la;O;
-célèbre;O;
-maison;O;
+| O 
+haute O 
+Provence B-LOC
+, O 
+à O 
+quelques O 
+lieues O 
+de O 
+la O 
+frontière O 
 |
-|;O;
-où;O;
-il;O;
-avait;O;
-passé;O;
-les;O;
-premières;O;
-années;O;
-de;O;
-sa;O;
-stu-;O;
+| O 
+du O 
+Piémont B-LOC
+. O 
+Cet O 
+oncle O 
+était O 
+un O 
+ancien O 
+bénédictin O 
 |
-|;O;
-dieuse;O;
-jeunesse;O;
-.;O;
-Ce;O;
-petit;O;
+| O 
+tout O 
+pétri O 
+de O 
+science O 
+et O 
+nourri O 
+d’ O 
+in O 
+- O 
+folios O 
+| | O 
+on O 
+s’ O 
+ac- O 
+|
+| O 
+cordait O 
+à O 
+dire O 
+qu’ O 
+il O 
+aurait O 
+été O 
+une O 
+des O 
+gloires O 
+de O 
+la O 
+|
+| O 
+savante O 
+congrégation O 
+de O 
+Saint-Maur B-PER
+, O 
+si O 
+la O 
+Révolu- B-MISC
+|
+| O 
+tion O 
+ne O 
+l’ O 
+eût O 
+chassé O 
+de O 
+son O 
+couvent O 
+- O 
+lorsqu' O 
+il O 
+ache- O 
+|
+| O 
+vait O 
+à O 
+peine O 
+son O 
+noviciat O 
+. O 
+|
+
+| O 
+Dom B-PER
+Gérusac I-PER
+, O 
+comme O 
+on O 
+l’ O 
+appelait O 
+encore O 
+dans O 
+|
+| O 
+la O 
+famille O 
+, O 
+n' O 
+avait O 
+guère O 
+que O 
+vingt-cinq O 
+ans O 
+lors O 
+de O 
+|
+| O 
+la O 
+promulgation O 
+du O 
+décret O 
+qui O 
+rompait O 
+ses O 
+vœux O 
+|
+| O 
+religieux O 
+| | O 
+mais O 
+il O 
+ne O 
+profita O 
+pas O 
+du O 
+bénéfice O 
+de O 
+|
+| O 
+cette O 
+loi O 
+pour O 
+rentrer O 
+dans O 
+le O 
+courant O 
+des O 
+choses O 
+|
+| O 
+humaines O 
+. O 
+Il O 
+n’ O 
+essaya O 
+pas O 
+non O 
+plus O 
+de O 
+retourner O 
+à O 
+|
+
+| O 
+222 O 
+a O 
+|
+
+| O 
+2 O 
+MADEMOISELLE O 
+DE O 
+MALEPEIRE O 
+. O 
+|
+
+| O 
+la O 
+vie O 
+monastique O 
+, O 
+et O 
+n’ O 
+alla O 
+pas O 
+, O 
+comme O 
+la O 
+plupart O 
+|
+| O 
+des O 
+membres O 
+de O 
+l' O 
+ordre O 
+, O 
+reprendre O 
+dans O 
+quelque O 
+|
+| O 
+couvent O 
+d’ B-LOC
+Espagne I-LOC
+ou O 
+d' O 
+Italie B-LOC
+l’ O 
+habit O 
+de O 
+saint B-PER
+Be- I-PER
+|
+| O 
+noît O 
+. O 
+Quand O 
+l' O 
+orage O 
+révolutionnaire O 
+fut O 
+un O 
+peu O 
+|
+| O 
+apaisé O 
+, O 
+il O 
+réunit O 
+les O 
+débris O 
+de O 
+l’ O 
+héritage O 
+paternel O 
+, O 
+et O 
+|
+| O 
+se O 
+réfugia O 
+sur O 
+un O 
+coin O 
+de O 
+terre O 
+qu’ O 
+il O 
+appela O 
+Saint- B-PER
+|
+| I-PER
+Pierre I-PER
+de I-PER
+Corbie I-PER
+, O 
+en O 
+souvenir O 
+de O 
+la O 
+célèbre O 
+maison O 
+|
+| O 
+où O 
+il O 
+avait O 
+passé O 
+les O 
+premières O 
+années O 
+de O 
+sa O 
+stu- O 
+|
+| O 
+dieuse O 
+jeunesse O 
+. O 
+Ce O 
+petit O 

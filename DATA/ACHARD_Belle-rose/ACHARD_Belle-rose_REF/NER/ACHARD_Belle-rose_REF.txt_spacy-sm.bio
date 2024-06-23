@@ -1,14 +1,14 @@
 | 
 | O 
-Chapitre B PER
+Chapitre B-PER
     O 
 1 O 
 |
 | O 
 LE O 
-FILS B ORG
+FILS B-ORG
 DU O 
-FAUCONNIER B ORG
+FAUCONNIER B-ORG
 |
 | O 
 Il O 
@@ -28,7 +28,7 @@ centaines O
 de O 
 pas O 
 de O 
-Saint-Omer B LOC
+Saint-Omer B-LOC
 , O 
 une O 
 maisonnette O 
@@ -46,7 +46,7 @@ le O
 grand O 
 chemin O 
 de O 
-Paris B LOC
+Paris B-LOC
 . O 
 Une O 
 haie O 
@@ -262,29 +262,29 @@ trois O
 qui O 
 appartenaient O 
 à O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 , O 
 le O 
 maître O 
 du O 
 logis O 
 : O 
-Jacques B PER
+Jacques B-PER
 , O 
-Claudine B PER
+Claudine B-PER
 et O 
-Pierre B MISC
+Pierre B-MISC
 . O 
 |
 | O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 , O 
 ou O 
 le O 
 père O 
-Guillaume B PER
+Guillaume B-PER
 , O 
 comme O 
 on O 
@@ -304,7 +304,7 @@ eût O
 dans O 
 tout O 
 l' O 
-Artois B LOC
+Artois B-LOC
   O 
 | | O 
 mais O 
@@ -329,14 +329,14 @@ régence O
 de O 
 la O 
 reine O 
-Anne B PER
-d' I PER
-Autriche I PER
+Anne B-PER
+d' I-PER
+Autriche I-PER
 , O 
 le O 
 seigneur O 
 d' O 
-Assonville B PER
+Assonville B-PER
 , O 
 son O 
 maître O 
@@ -386,7 +386,7 @@ jardin O
 . O 
 Le O 
 vieux O 
-Grinedal B LOC
+Grinedal B-LOC
 , O 
 se O 
 refusant O 
@@ -421,7 +421,7 @@ veuf O
 , O 
 le O 
 père O 
-Guillaume B PER
+Guillaume B-PER
 ne O 
 pensait O 
 plus O 
@@ -513,7 +513,7 @@ les O
 genoux O 
 du O 
 bonhomme O 
-Grinedal B MISC
+Grinedal B-MISC
 , O 
 et O 
 à O 
@@ -549,7 +549,7 @@ ruisseaux O
 . O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 , O 
 l' O 
 aîné O 
@@ -640,7 +640,7 @@ d' O
 enfants O 
   O 
 | | O 
-Jacques B PER
+Jacques B-PER
 rendait O 
 son O 
 arrêt O 
@@ -681,14 +681,14 @@ ou O
 quelque O 
 toupie O 
 d' O 
-Allemagne B LOC
+Allemagne B-LOC
 , O 
 aussitôt O 
 qu' O 
 on O 
 voyait O 
 arriver O 
-Jacques B PER
+Jacques B-PER
 , O 
 les O 
 plus O 
@@ -703,7 +703,7 @@ se O
 redressaient O 
   O 
 | | O 
-Jacques B PER
+Jacques B-PER
 écartait O 
 les O 
 combattants O 
@@ -863,10 +863,10 @@ de O
 la O 
 présence O 
 de O 
-Mlle B PER
-Suzanne I PER
+Mlle B-PER
+Suzanne I-PER
 de O 
-Malzonvilliers B LOC
+Malzonvilliers B-LOC
 pour O 
 l' O 
 arrêter O 
@@ -947,7 +947,7 @@ accourir O
 à O 
 son O 
 côté O 
-Jacques B PER
+Jacques B-PER
 , O 
 tout O 
 rouge O 
@@ -960,9 +960,9 @@ confus O
 Le O 
 père O 
 de O 
-Mlle B PER
-de I PER
-Malzonvilliers I PER
+Mlle B-PER
+de I-PER
+Malzonvilliers I-PER
 était O 
 un O 
 riche O 
@@ -979,7 +979,7 @@ du O
 temps O 
 de O 
 la O 
-Fronde B LOC
+Fronde B-LOC
 , O 
 où O 
 tant O 
@@ -999,7 +999,7 @@ du O
 nom O 
 brillant O 
 de O 
-Malzonvilliers B LOC
+Malzonvilliers B-LOC
 , O 
 qui O 
 était O 
@@ -1058,7 +1058,7 @@ ses O
 écus O 
 . O 
 M. O 
-Dufailly B PER
+Dufailly B-PER
 était O 
 devenu O 
 progressivement O 
@@ -1072,22 +1072,22 @@ habiles O
 , O 
 d' O 
 abord O 
-M. B PER
+M. B-PER
 du O 
-Failly B LOC
+Failly B-LOC
 , O 
 puis O 
-M. B PER
+M. B-PER
 du O 
-Failly B LOC
-de I LOC
-Malzonvilliers I LOC
+Failly B-LOC
+de I-LOC
+Malzonvilliers I-LOC
 , O 
 puis O 
 enfin O 
-M. B PER
-de I PER
-Malzonvilliers I PER
+M. B-PER
+de I-PER
+Malzonvilliers I-PER
 tout O 
 court O 
 . O 
@@ -1130,11 +1130,11 @@ souvent O
 même O 
 jusqu' O 
 à O 
-Paris B LOC
+Paris B-LOC
 , O 
-M. B LOC
-de I LOC
-Malzonvilliers I LOC
+M. B-LOC
+de I-LOC
+Malzonvilliers I-LOC
 avait O 
 maintes O 
 fois O 
@@ -1145,8 +1145,8 @@ de O
 ses O 
 biens O 
 à O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 , O 
 qui O 
 passait O 
@@ -1156,15 +1156,15 @@ plus O
 honnête O 
 artisan O 
 de O 
-Saint-Omer B LOC
+Saint-Omer B-LOC
 . O 
 Cette O 
 confiance O 
 , O 
 dont O 
-M. B PER
-de I PER
-Malzonvilliers I PER
+M. B-PER
+de I-PER
+Malzonvilliers I-PER
 s' O 
 était O 
 toujours O 
@@ -1191,11 +1191,11 @@ aux O
 trois O 
 enfants O 
 , O 
-Jacques B PER
+Jacques B-PER
 , O 
-Claudine B PER
+Claudine B-PER
 et O 
-Pierre B MISC
+Pierre B-MISC
 . O 
 Suzanne O 
 , O 
@@ -1208,7 +1208,7 @@ de O
 l' O 
 âge O 
 de O 
-Claudine B PER
+Claudine B-PER
 , O 
 avait O 
 des O 
@@ -1233,7 +1233,7 @@ les O
 fils O 
 du O 
 père O 
-Guillaume B PER
+Guillaume B-PER
 en O 
 surent O 
 bientôt O 
@@ -1246,11 +1246,11 @@ des O
 petits O 
 bourgeois O 
 de O 
-Saint-Omer B LOC
+Saint-Omer B-LOC
 . O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 profitait O 
 surtout O 
 de O 
@@ -1369,8 +1369,8 @@ remettre O
 en O 
 état O 
 . O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 était O 
 le O 
 meilleur O 
@@ -1396,9 +1396,9 @@ maître O
 de O 
 fauconnerie O 
 chez O 
-M. B PER
-d' I PER
-Assonville I PER
+M. B-PER
+d' I-PER
+Assonville I-PER
 , O 
 et O 
 qui O 
@@ -1454,7 +1454,7 @@ il O
 ne O 
 valait O 
 . O 
-Jacques B PER
+Jacques B-PER
 s' O 
 amusait O 
 souvent O 
@@ -1486,9 +1486,9 @@ pays O
 pourvu O 
 toutefois O 
 que O 
-Mlle B PER
-de I PER
-Malzonvilliers I PER
+Mlle B-PER
+de I-PER
+Malzonvilliers I-PER
 lui O 
 donnât O 
 au O 
@@ -1500,7 +1500,7 @@ sourire O
 quotidien O 
 . O 
 Lorsque O 
-Suzanne B PER
+Suzanne B-PER
 se O 
 promenait O 
 dans O 
@@ -1528,7 +1528,7 @@ elle O
 offrait O 
 , O 
 avec O 
-Jacques B PER
+Jacques B-PER
 , O 
 le O 
 plus O 
@@ -1539,7 +1539,7 @@ se O
 pût O 
 voir O 
 . O 
-Jacques B PER
+Jacques B-PER
 était O 
 grand O 
 , O 
@@ -1562,7 +1562,7 @@ brillaient O
 sous O 
 un O 
 front O 
-bruni B PER
+bruni B-PER
 par O 
 le O 
 hâle O 
@@ -1612,7 +1612,7 @@ au O
 moindre O 
 mot O 
 de O 
-Suzanne B PER
+Suzanne B-PER
 , O 
 il O 
 rougissait O 
@@ -1751,7 +1751,7 @@ sur O
 l' O 
 épaule O 
 de O 
-Jacques B PER
+Jacques B-PER
 , O 
 le O 
 pauvre O 
@@ -1804,7 +1804,7 @@ roses O
 et O 
 sérieuses O 
 , O 
-Jacques B PER
+Jacques B-PER
 retenait O 
 son O 
 haleine O 
@@ -1819,7 +1819,7 @@ oscillait O
 la O 
 voix O 
 de O 
-Suzanne B PER
+Suzanne B-PER
 comme O 
 le O 
 rameau O 
@@ -1891,11 +1891,11 @@ temps O
 avant O 
 la O 
 glorieuse O 
-bataille B MISC
-des I MISC
-Dunes I MISC
+bataille B-MISC
+des I-MISC
+Dunes I-MISC
 , O 
-Jacques B PER
+Jacques B-PER
 , O 
 qui O 
 pouvait O 
@@ -1925,7 +1925,7 @@ une O
 petite O 
 distance O 
 de O 
-Saint-Omer B LOC
+Saint-Omer B-LOC
 , O 
 un O 
 inconnu O 
@@ -1978,7 +1978,7 @@ l' O
 épaule O 
 , O 
 et O 
-Jacques B PER
+Jacques B-PER
 pensa O 
 que O 
 ce O 
@@ -2026,7 +2026,7 @@ il O
 fut O 
 proche O 
 de O 
-Jacques B PER
+Jacques B-PER
 , O 
 il O 
 s' O 
@@ -2040,7 +2040,7 @@ considérer O
 un O 
 instant O 
 . O 
-Jacques B PER
+Jacques B-PER
 était O 
 appuyé O 
 contre O 
@@ -2079,9 +2079,9 @@ lui O
 |
 | O 
 — O 
-Es B LOC
-- I LOC
-tu I LOC
+Es B-LOC
+- I-LOC
+tu I-LOC
 de O 
 ce O 
 pays O 
@@ -2102,7 +2102,7 @@ Oui O
 monsieur O 
 , O 
 répondit O 
-Jacques B PER
+Jacques B-PER
 . O 
 |
 | O 
@@ -2112,7 +2112,7 @@ on O
 avait O 
 demandé O 
 à O 
-Jacques B PER
+Jacques B-PER
 pourquoi O 
 il O 
 avait O 
@@ -2127,7 +2127,7 @@ colporteur O
 du O 
 nom O 
 de O 
-monsieur B PER
+monsieur B-PER
 , O 
 il O 
 aurait O 
@@ -2147,15 +2147,15 @@ air O
 qui O 
 imposait O 
 à O 
-Jacques B PER
+Jacques B-PER
 , O 
 bien O 
 que O 
 le O 
 fils O 
 de O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 ne O 
 se O 
 laissât O 
@@ -2194,9 +2194,9 @@ toute O
 l' O 
 importance O 
 de O 
-M. B PER
-de I PER
-Malzonvilliers I PER
+M. B-PER
+de I-PER
+Malzonvilliers I-PER
 . O 
 |
 | O 
@@ -2247,15 +2247,15 @@ monsieur O
 |
 | O 
 — O 
-Toi B PER
+Toi B-PER
   O 
 ? O 
 |
 | O 
 — O 
-Moi B LOC
-- I LOC
-même I LOC
+Moi B-LOC
+- I-LOC
+même I-LOC
 . O 
 |
 | O 
@@ -2355,7 +2355,7 @@ courir O
 |
 | O 
 — O 
-Viens B PER
+Viens B-PER
 donc O 
   O 
 | | O 
@@ -2371,7 +2371,7 @@ loin O
 L' O 
 inconnu O 
 et O 
-Jacques B PER
+Jacques B-PER
 quittèrent O 
 la O 
 prairie O 
@@ -2390,7 +2390,7 @@ derrière O
 un O 
 fourré O 
 , O 
-Jacques B PER
+Jacques B-PER
 aperçut O 
 un O 
 cheval O 
@@ -2418,7 +2418,7 @@ empêchait O
 de O 
 hennir O 
 . O 
-Jacques B PER
+Jacques B-PER
 n' O 
 avait O 
 jamais O 
@@ -2433,9 +2433,9 @@ dans O
 les O 
 écuries O 
 de O 
-M. B PER
-de I PER
-Malzonvilliers I PER
+M. B-PER
+de I-PER
+Malzonvilliers I-PER
 . O 
 Il O 
 s' O 
@@ -2506,7 +2506,7 @@ est O
 juste O 
 , O 
 répondit O 
-Jacques B PER
+Jacques B-PER
 , O 
 qui O 
 avait O 
@@ -2541,17 +2541,17 @@ course O
 |
 | O 
 — O 
-Tu B MISC
-sais I MISC
-sans I MISC
-doute I MISC
+Tu B-MISC
+sais I-MISC
+sans I-MISC
+doute I-MISC
 où O 
 est O 
 le O 
 petit O 
 village O 
 de O 
-Witternesse B PER
+Witternesse B-PER
   O 
 ? O 
 |
@@ -2574,7 +2574,7 @@ droite O
 du O 
 côté O 
 d' O 
-Aire B LOC
+Aire B-LOC
 . O 
 |
 | O 
@@ -2598,7 +2598,7 @@ avant O
 d' O 
 entrer O 
 à O 
-Witternesse B PER
+Witternesse B-PER
 , O 
 tu O 
 verras O 
@@ -2652,7 +2652,7 @@ voix O
 le O 
 nom O 
 de O 
-Bergame B LOC
+Bergame B-LOC
   O 
 | | O 
 un O 
@@ -2696,9 +2696,9 @@ d' O
 |
 | O 
 — O 
-Sais B LOC
-- I LOC
-tu I LOC
+Sais B-LOC
+- I-LOC
+tu I-LOC
 lire O 
   O 
 ? O 
@@ -2707,7 +2707,7 @@ demanda O
 -il O 
 brusquement O 
 à O 
-Jacques B PER
+Jacques B-PER
 . O 
 |
 | O 
@@ -2735,7 +2735,7 @@ fut O
 si O 
 rapide O 
 que O 
-Jacques B PER
+Jacques B-PER
 n' O 
 eut O 
 pas O 
@@ -2779,7 +2779,7 @@ et O
 le O 
 présentant O 
 à O 
-Jacques B PER
+Jacques B-PER
 , O 
 attacha O 
 sur O 
@@ -2789,7 +2789,7 @@ un O
 regard O 
 profond O 
 . O 
-Jacques B PER
+Jacques B-PER
 examina O 
 le O 
 papier O 
@@ -2797,14 +2797,14 @@ papier O
 |
 | O 
 — O 
-Je B MISC
-lis I MISC
-, I MISC
-mais I MISC
-je I MISC
-ne I MISC
-comprends I MISC
-pas I MISC
+Je B-MISC
+lis I-MISC
+, I-MISC
+mais I-MISC
+je I-MISC
+ne I-MISC
+comprends I-MISC
+pas I-MISC
 , O 
 dit O 
 -il O 
@@ -2846,7 +2846,7 @@ Bien O
   O 
 ! O 
 … O 
-Parbleu B MISC
+Parbleu B-MISC
 , O 
 mon O 
 garçon O 
@@ -2934,9 +2934,9 @@ gardé O
 le O 
 souvenir O 
 … O 
-Ah B MISC
-  I MISC
-! I MISC
+Ah B-MISC
+  I-MISC
+! I-MISC
 tu O 
 ris O 
   O 
@@ -2951,7 +2951,7 @@ garçon O
 |
 | O 
 Comme O 
-Jacques B PER
+Jacques B-PER
 lâchait O 
 la O 
 bride O 
@@ -2970,9 +2970,9 @@ Un O
 mot O 
 encore O 
 . O 
-Connais B LOC
-- I LOC
-tu I LOC
+Connais B-LOC
+- I-LOC
+tu I-LOC
 dans O 
 les O 
 environs O 
@@ -3046,7 +3046,7 @@ droite O
 . O 
 Vous O 
 la O 
-reconnaîtrez B LOC
+reconnaîtrez B-LOC
 facilement O 
 . O 
 Tout O 
@@ -3063,8 +3063,8 @@ chez O
 mon O 
 père O 
 , O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 , O 
 comme O 
 chez O 
@@ -3073,7 +3073,7 @@ vous O
 |
 | O 
 — O 
-Diable B PER
+Diable B-PER
   O 
 ! O 
 mais O 
@@ -3122,8 +3122,8 @@ dans O
 le O 
 jardin O 
 de O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 . O 
 A O 
 la O 
@@ -3168,7 +3168,7 @@ hospitalité O
 |
 | O 
 — O 
-Entrez B PER
+Entrez B-PER
 . O 
 Ce O 
 que O 
@@ -3213,7 +3213,7 @@ pour O
 le O 
 voyageur O 
 que O 
-Dieu B MISC
+Dieu B-MISC
 conduit O 
 . O 
 |
@@ -3224,7 +3224,7 @@ ainsi O
 , O 
 le O 
 père O 
-Guillaume B PER
+Guillaume B-PER
 avait O 
 découvert O 
 son O 
@@ -3282,7 +3282,7 @@ partirai O
 . O 
 |
 | O 
-Guillaume B PER
+Guillaume B-PER
 l' O 
 interrogea O 
 du O 
@@ -3291,9 +3291,9 @@ regard O
 |
 | O 
 — O 
-Oh B MISC
-  I MISC
-! I MISC
+Oh B-MISC
+  I-MISC
+! I-MISC
 reprit O 
 son O 
 hôte O 
@@ -3322,7 +3322,7 @@ suis O
 un O 
 marchand O 
 d' O 
-Arras B LOC
+Arras B-LOC
 qui O 
 vais O 
 , O 
@@ -3334,7 +3334,7 @@ mon O
 commerce O 
 , O 
 à O 
-Lille B LOC
+Lille B-LOC
   O 
 | | O 
 le O 
@@ -3368,7 +3368,7 @@ de O
 mon O 
 valet O 
 à O 
-Witternesse B LOC
+Witternesse B-LOC
 . O 
 On O 
 ne O 
@@ -3392,9 +3392,9 @@ l' O
 étranger O 
 parlait O 
 , O 
-Pierre B MISC
+Pierre B-MISC
 , O 
-Claudine B PER
+Claudine B-PER
 et O 
 quelques O 
 enfants O 
@@ -3437,7 +3437,7 @@ qu' O
 elle O 
 voit O 
 . O 
-Guillaume B PER
+Guillaume B-PER
 les O 
 écarta O 
 du O 
@@ -3528,7 +3528,7 @@ manières O
 . O 
 |
 | O 
-A B LOC
+A B-LOC
 ces O 
 mots O 
 , O 
@@ -3630,10 +3630,10 @@ compris O
 |
 | O 
 — O 
-Vous B MISC
-êtes I MISC
-un I MISC
-brave I MISC
+Vous B-MISC
+êtes I-MISC
+un I-MISC
+brave I-MISC
 homme O 
   O 
 ! O 
@@ -3643,7 +3643,7 @@ impétueusement O
 l' O 
 étranger O 
 . O 
-Mordieu B LOC
+Mordieu B-LOC
   O 
 ! O 
 je O 
@@ -3664,7 +3664,7 @@ pas O
 trompé O 
 , O 
 maître O 
-Guillaume B PER
+Guillaume B-PER
 , O 
 je O 
 suis O 
@@ -3709,9 +3709,9 @@ davantage O
 Que O 
 vous O 
 soyez O 
-Espagnol B MISC
+Espagnol B-MISC
 ou O 
-Français B MISC
+Français B-MISC
 , O 
 vous O 
 n' O 
@@ -3751,7 +3751,7 @@ pays O
 c' O 
 est O 
 à O 
-Dieu B MISC
+Dieu B-MISC
 de O 
 vous O 
 juger O 
@@ -3816,7 +3816,7 @@ fauconnier O
 |
 | O 
 — O 
-Soit B LOC
+Soit B-LOC
 , O 
 mon O 
 brave O 
@@ -3959,7 +3959,7 @@ jardin O
 . O 
 Le O 
 père O 
-Guillaume B PER
+Guillaume B-PER
 le O 
 suivit O 
 . O 
@@ -3976,10 +3976,10 @@ profond O
 |
 | O 
 — O 
-Votre B PER
-fils I PER
+Votre B-PER
+fils I-PER
 est O 
-brave B PER
+brave B-PER
   O 
 ? O 
 dit O 
@@ -3992,7 +3992,7 @@ fauconnier O
 |
 | O 
 — O 
-Honnête B MISC
+Honnête B-MISC
 et O 
 brave O 
 comme O 
@@ -4044,7 +4044,7 @@ votre O
 fils O 
 , O 
 maître O 
-Guillaume B PER
+Guillaume B-PER
 . O 
 |
 | O 
@@ -4115,8 +4115,8 @@ rapides O
 , O 
 incertains O 
 . O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 s' O 
 appuyait O 
 sur O 
@@ -4153,7 +4153,7 @@ habit O
 |
 | O 
 — O 
-Rien B PER
+Rien B-PER
 , O 
 rien O 
 encore O 
@@ -4168,7 +4168,7 @@ Oh O
 je O 
 donnerais O 
 mille O 
-louis B PER
+louis B-PER
 pour O 
 entendre O 
 le O 
@@ -4215,7 +4215,7 @@ du O
 fauconnier O 
 , O 
 qui O 
-sauta B LOC
+sauta B-LOC
 sur O 
 la O 
 route O 
@@ -4223,10 +4223,10 @@ route O
 |
 | O 
 — O 
-Un B MISC
-coup I MISC
-de I MISC
-fusil I MISC
+Un B-MISC
+coup I-MISC
+de I-MISC
+fusil I-MISC
   O 
 ! O 
 L' O 
@@ -4249,8 +4249,8 @@ ai O
 entendu O 
 , O 
 répondit O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 , O 
 qui O 
 se O 
@@ -4303,8 +4303,8 @@ le O
 ciel O 
 profond O 
 . O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 écoutait O 
 l' O 
 oreille O 
@@ -4327,7 +4327,7 @@ gentilhomme O
 |
 | O 
 — O 
-Rien B PER
+Rien B-PER
 … O 
 rien O 
 encore O 
@@ -4379,9 +4379,9 @@ cheval O
 |
 | O 
 — O 
-Oh B MISC
-  I MISC
-! I MISC
+Oh B-MISC
+  I-MISC
+! I-MISC
 le O 
 brave O 
 enfant O 
@@ -4396,8 +4396,8 @@ explosion O
 . O 
 |
 | O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 ne O 
 dit O 
 rien O 
@@ -4453,11 +4453,11 @@ nuit O
 |
 | O 
 — O 
-Je B LOC
-le I LOC
-vois I LOC
+Je B-LOC
+le I-LOC
+vois I-LOC
 , O 
-mordieu B LOC
+mordieu B-LOC
   O 
 ! O 
 je O 
@@ -4505,7 +4505,7 @@ Mais O
 le O 
 fauconnier O 
 remerciait O 
-Dieu B MISC
+Dieu B-MISC
   O 
 | | O 
 deux O 
@@ -4554,8 +4554,8 @@ sur O
 eux O 
 . O 
 L' O 
-enfant B MISC
-sauta I MISC
+enfant B-MISC
+sauta I-MISC
 sur O 
 la O 
 route O 
@@ -4599,8 +4599,8 @@ cœur O
 Mais O 
 , O 
 dit O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 tout O 
 à O 
 coup O 
@@ -4629,7 +4629,7 @@ est O
 rien O 
 , O 
 répondit O 
-Jacques B PER
+Jacques B-PER
 , O 
 une O 
 balle O 
@@ -4681,14 +4681,14 @@ sous O
 les O 
 drapeaux O 
 de O 
-Sa B MISC
-Majesté I MISC
-le I MISC
-roi I MISC
-Louis B PER
+Sa B-MISC
+Majesté I-MISC
+le I-MISC
+roi I-MISC
+Louis B-PER
 , O 
 vrai O 
-Dieu B MISC
+Dieu B-MISC
   O 
 ! O 
 tu O 
@@ -4721,8 +4721,8 @@ cheval O
 |
 | O 
 — O 
-Pauvre B PER
-Phœbus I PER
+Pauvre B-PER
+Phœbus I-PER
   O 
 ! O 
 Tu O 
@@ -4731,7 +4731,7 @@ as O
 rudement O 
 mené O 
 , O 
-hein B PER
+hein B-PER
   O 
 ? O 
 dit O 
@@ -4750,7 +4750,7 @@ cheval O
 . O 
 |
 | O 
-Phœbus B PER
+Phœbus B-PER
 frotta O 
 ses O 
 naseaux O 
@@ -4800,12 +4800,12 @@ valise O
 |
 | O 
 — O 
-A B LOC
+A B-LOC
 une O 
 petite O 
 lieue O 
 de O 
-Witternesse B PER
+Witternesse B-PER
 j' O 
 ai O 
 dû O 
@@ -4822,7 +4822,7 @@ maraudeurs O
 espagnols O 
 , O 
 répondit O 
-Jacques B PER
+Jacques B-PER
 . O 
 Deux O 
 lieues O 
@@ -4832,11 +4832,11 @@ loin O
 en O 
 avant O 
 de O 
-Roquetoire B LOC
+Roquetoire B-LOC
 , O 
 près O 
 de O 
-Blendecques B LOC
+Blendecques B-LOC
 , O 
 je O 
 suis O 
@@ -4868,7 +4868,7 @@ d' O
 heure O 
 . O 
 Mais O 
-Phœbus B PER
+Phœbus B-PER
 a O 
 de O 
 bonnes O 
@@ -4885,14 +4885,14 @@ perdu O
 mes O 
 traces O 
 . O 
-Ah B MISC
-  I MISC
-! I MISC
+Ah B-MISC
+  I-MISC
+! I-MISC
 j' O 
 oubliais O 
   O 
 ! O 
-Bergame B LOC
+Bergame B-LOC
 m' O 
 a O 
 chargé O 
@@ -4974,8 +4974,8 @@ appeler O
 l' O 
 hôte O 
 de O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
   O 
 | | O 
 il O 
@@ -4991,12 +4991,12 @@ jour O
 , O 
 l' O 
 étranger O 
-sauta B LOC
+sauta B-LOC
 sur O 
 la O 
 selle O 
 de O 
-Phœbus B PER
+Phœbus B-PER
 , O 
 qui O 
 avait O 
@@ -5027,14 +5027,14 @@ de O
 paysan O 
 de O 
 l' O 
-Artois B LOC
+Artois B-LOC
 . O 
 |
 | O 
 — O 
-Adieu B PER
+Adieu B-PER
 , O 
-Guillaume B PER
+Guillaume B-PER
 , O 
 dit O 
 -il O 
@@ -5077,9 +5077,9 @@ de O
 l' O 
 or O 
 . O 
-Prenez B PER
-ma I PER
-main I PER
+Prenez B-PER
+ma I-PER
+main I-PER
 , O 
 et O 
 serrez O 
@@ -5117,7 +5117,7 @@ toi O
 , O 
 mon O 
 ami O 
-Jacques B PER
+Jacques B-PER
 , O 
 conserve O 
 ce O 
@@ -5137,7 +5137,7 @@ en O
 aide O 
 : O 
 si O 
-Dieu B MISC
+Dieu B-MISC
 me O 
 prête O 
 vie O 
@@ -5168,7 +5168,7 @@ grands O
 yeux O 
 noirs O 
 de O 
-Jacques B PER
+Jacques B-PER
 regardaient O 
 l' O 
 étranger O 
@@ -5192,7 +5192,7 @@ le O
 faux O 
 marchand O 
 d' O 
-Arras B LOC
+Arras B-LOC
 lui O 
 semblait O 
 plus O 
@@ -5222,7 +5222,7 @@ main O
 le O 
 cœur O 
 de O 
-Jacques B PER
+Jacques B-PER
 battit O 
 à O 
 coups O 
@@ -5235,7 +5235,7 @@ pressant O
 les O 
 flancs O 
 de O 
-Phœbus B PER
+Phœbus B-PER
 , O 
 l' O 
 inconnu O 
@@ -5255,7 +5255,7 @@ suivirent O
 du O 
 regard O 
 , O 
-émus B LOC
+émus B-LOC
 et O 
 silencieux O 
 . O 
@@ -5270,7 +5270,7 @@ jardin O
 le O 
 pied O 
 de O 
-Jacques B PER
+Jacques B-PER
 fit O 
 rouler O 
 un O 
@@ -5292,7 +5292,7 @@ guilloché O
 |
 | O 
 — O 
-Voyez B MISC
+Voyez B-MISC
 , O 
 mon O 
 père O 
@@ -5323,7 +5323,7 @@ c' O
 est O 
 peut-être O 
 la O 
-Providence B LOC
+Providence B-LOC
 qui O 
 te O 
 l' O 
@@ -5331,7 +5331,7 @@ envoie O
 . O 
 |
 | O 
-Chapitre B PER
+Chapitre B-PER
     O 
 2 O 
 |
@@ -5353,7 +5353,7 @@ dans O
 la O 
 mémoire O 
 de O 
-Jacques B PER
+Jacques B-PER
 . O 
 Le O 
 temps O 
@@ -5520,7 +5520,7 @@ mots O
 du O 
 marchand O 
 d' O 
-Arras B LOC
+Arras B-LOC
 : O 
 Si O 
 jamais O 
@@ -5562,21 +5562,21 @@ et O
 d' O 
 assaut O 
 que O 
-Jacques B PER
+Jacques B-PER
 n' O 
 abandonnât O 
 volontiers O 
 pour O 
 suivre O 
-Mlle B PER
-de I PER
-Malzonvilliers I PER
+Mlle B-PER
+de I-PER
+Malzonvilliers I-PER
 , O 
 quand O 
 elle O 
 allait O 
 avec O 
-Claudine B PER
+Claudine B-PER
 chercher O 
 des O 
 fraises O 
@@ -5609,9 +5609,9 @@ tout O
 interdit O 
 lorsque O 
 la O 
-main B PER
-de I PER
-Suzanne I PER
+main B-PER
+de I-PER
+Suzanne I-PER
 rencontrait O 
 sa O 
 main O 
@@ -5642,7 +5642,7 @@ si O
 charmant O 
 , O 
 que O 
-Jacques B PER
+Jacques B-PER
 serait O 
 parti O 
 pour O 
@@ -5710,8 +5710,8 @@ expéditions O
 meurtrières O 
 . O 
 Le O 
-cardinal B PER
-Mazarin I PER
+cardinal B-PER
+Mazarin I-PER
 et O 
 le O 
 parti O 
@@ -5726,11 +5726,11 @@ les O
 princes O 
 et O 
 l' O 
-Espagnol B MISC
+Espagnol B-MISC
 . O 
-M. B PER
-de I PER
-Condé I PER
+M. B-PER
+de I-PER
+Condé I-PER
 tenait O 
 la O 
 campagne O 
@@ -5748,7 +5748,7 @@ alors O
 la O 
 ville O 
 de O 
-Saint-Omer B LOC
+Saint-Omer B-LOC
 , O 
 protégée O 
 par O 
@@ -5768,7 +5768,7 @@ de O
 l' O 
 ennemi O 
 . O 
-Jacques B PER
+Jacques B-PER
 serait O 
 parti O 
 depuis O 
@@ -5790,7 +5790,7 @@ il O
 vivre O 
 auprès O 
 de O 
-Mlle B LOC
+Mlle B-LOC
 de O 
 Malzonvilliers O 
 . O 
@@ -5855,7 +5855,7 @@ doigts O
 , O 
 sa O 
 sœur O 
-Claudine B PER
+Claudine B-PER
 vint O 
 tout O 
 doucement O 
@@ -5865,7 +5865,7 @@ sur O
 l' O 
 épaule O 
 . O 
-Jacques B PER
+Jacques B-PER
 tressaillit O 
 . O 
 |
@@ -5894,9 +5894,9 @@ rien O
 |
 | O 
 — O 
-Veux B PER
-- I PER
-tu I PER
+Veux B-PER
+- I-PER
+tu I-PER
 que O 
 je O 
 te O 
@@ -5910,7 +5910,7 @@ Tu O
 penses O 
 à O 
 mamzelle O 
-Suzanne B PER
+Suzanne B-PER
 . O 
 |
 | O 
@@ -5927,7 +5927,7 @@ autre O
 ? O 
 s' O 
 écria O 
-Jacques B PER
+Jacques B-PER
 un O 
 peu O 
 confus O 
@@ -5937,14 +5937,14 @@ confus O
 — O 
 Parce O 
 que O 
-Suzanne B PER
+Suzanne B-PER
 est O 
-Suzanne B LOC
+Suzanne B-LOC
 . O 
 |
 | O 
 — O 
-Belle B MISC
+Belle B-MISC
 raison O 
   O 
 ! O 
@@ -5986,12 +5986,12 @@ toi O
 |
 | O 
 — O 
-Tiens B LOC
+Tiens B-LOC
 , O 
-Jacques B PER
+Jacques B-PER
 , O 
 ajouta O 
-Claudine B PER
+Claudine B-PER
 en O 
 prenant O 
 un O 
@@ -6003,7 +6003,7 @@ tu O
 penses O 
 à O 
 mamzelle O 
-Suzanne B PER
+Suzanne B-PER
 , O 
 parce O 
 que O 
@@ -6013,7 +6013,7 @@ aimes O
 . O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 rougit O 
 jusqu' O 
 à O 
@@ -6055,7 +6055,7 @@ pensée O
 , O 
 il O 
 saisit O 
-Claudine B PER
+Claudine B-PER
 par O 
 le O 
 bras O 
@@ -6063,10 +6063,10 @@ bras O
 |
 | O 
 — O 
-Mon B MISC
-Dieu I MISC
-  I MISC
-! I MISC
+Mon B-MISC
+Dieu I-MISC
+  I-MISC
+! I-MISC
 qu' O 
 as O 
 - O 
@@ -6076,7 +6076,7 @@ donc O
 ? O 
 s' O 
 écria O 
-Claudine B PER
+Claudine B-PER
 , O 
 effrayée O 
 du O 
@@ -6096,7 +6096,7 @@ frère O
 |
 | O 
 — O 
-Ecoute B PER
+Ecoute B-PER
 -moi O 
 , O 
 ma O 
@@ -6133,7 +6133,7 @@ enfant O
 Mais O 
 , O 
 continua O 
-Jacques B PER
+Jacques B-PER
 , O 
 on O 
 dit O 
@@ -6163,10 +6163,10 @@ que O
 j' O 
 aimais O 
 mamzelle O 
-Suzanne B PER
+Suzanne B-PER
   O 
 ? O 
-Ca B LOC
+Ca B-LOC
 se O 
 peut O 
 , O 
@@ -6332,7 +6332,7 @@ est O
 vrai O 
 , O 
 murmura O 
-Jacques B PER
+Jacques B-PER
 en O 
 lâchant O 
 le O 
@@ -6374,13 +6374,13 @@ de O
 triste O 
 qui O 
 émut O 
-Claudine B PER
+Claudine B-PER
 . O 
 |
 | O 
 — O 
-Eh B MISC
-bien I MISC
+Eh B-MISC
+bien I-MISC
 , O 
 dit O 
 -elle O 
@@ -6441,7 +6441,7 @@ présent O
 | O 
 La O 
 pauvre O 
-Claudine B PER
+Claudine B-PER
 essuya O 
 le O 
 coin O 
@@ -6480,7 +6480,7 @@ de O
 l' O 
 oreille O 
 de O 
-Jacques B PER
+Jacques B-PER
 , O 
 elle O 
 reprit O 
@@ -6488,9 +6488,9 @@ reprit O
 |
 | O 
 — O 
-Bah B PER
-  I PER
-! I PER
+Bah B-PER
+  I-PER
+! I-PER
 à O 
 ta O 
 place O 
@@ -6500,7 +6500,7 @@ je O
 me O 
 réjouirais O 
 . O 
-Suzanne B PER
+Suzanne B-PER
 n' O 
 est O 
 pas O 
@@ -6527,9 +6527,9 @@ l' O
 . O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 embrassa O 
-Claudine B PER
+Claudine B-PER
 sur O 
 les O 
 deux O 
@@ -6565,7 +6565,7 @@ commande O
 |
 | O 
 Et O 
-Jacques B PER
+Jacques B-PER
 , O 
 se O 
 dégageant O 
@@ -6596,9 +6596,9 @@ une O
 haie O 
 il O 
 rencontra O 
-M. B PER
-de I PER
-Malzonvilliers I PER
+M. B-PER
+de I-PER
+Malzonvilliers I-PER
 . O 
 |
 | O 
@@ -6619,9 +6619,9 @@ saluant O
 |
 | O 
 — O 
-Moi B MISC
-  I MISC
-? I MISC
+Moi B-MISC
+  I-MISC
+? I-MISC
 Et O 
 qu' O 
 as O 
@@ -6668,7 +6668,7 @@ t' O
 |
 | O 
 — O 
-Monsieur B PER
+Monsieur B-PER
 , O 
 j' O 
 ai O 
@@ -6680,7 +6680,7 @@ quelques O
 mois O 
 , O 
 reprit O 
-Jacques B PER
+Jacques B-PER
 de O 
 l' O 
 air O 
@@ -6723,7 +6723,7 @@ qui O
 est O 
 curé O 
 en O 
-Picardie B LOC
+Picardie B-LOC
   O 
 | | O 
 car O 
@@ -6749,7 +6749,7 @@ laisser O
 à O 
 ma O 
 sœur O 
-Claudine B PER
+Claudine B-PER
 . O 
 En O 
 cet O 
@@ -6792,9 +6792,9 @@ donc O
 ? O 
 s' O 
 écria O 
-M. B PER
-de I PER
-Malzonvilliers I PER
+M. B-PER
+de I-PER
+Malzonvilliers I-PER
 tout O 
 étourdi O 
 . O 
@@ -6809,8 +6809,8 @@ monsieur O
 que O 
 j' O 
 aime O 
-Mlle B PER
-Suzanne I PER
+Mlle B-PER
+Suzanne I-PER
   O 
 | | O 
 le O 
@@ -6859,7 +6859,7 @@ Pendant O
 ce O 
 discours O 
 , O 
-Jacques B PER
+Jacques B-PER
 , O 
 le O 
 chapeau O 
@@ -6977,7 +6977,7 @@ au O
 nouveau O 
 discours O 
 de O 
-Jacques B PER
+Jacques B-PER
 , O 
 il O 
 ne O 
@@ -6996,7 +6996,7 @@ Tout O
 le O 
 sang O 
 de O 
-Jacques B PER
+Jacques B-PER
 lui O 
 monta O 
 au O 
@@ -7048,7 +7048,7 @@ plaisanter O
 |
 | O 
 — O 
-Ma B PER
+Ma B-PER
 proposition O 
 vous O 
 a O 
@@ -7089,9 +7089,9 @@ joie O
 |
 | O 
 — O 
-Eh B MISC
-  I MISC
-! I MISC
+Eh B-MISC
+  I-MISC
+! I-MISC
 mon O 
 ami O 
 , O 
@@ -7108,7 +7108,7 @@ telle O
 aventure O 
   O 
 ! O 
-Vit B PER
+Vit B-PER
 -on O 
 jamais O 
 chose O 
@@ -7123,8 +7123,8 @@ qu' O
 une O 
 comédie O 
 de O 
-M. B PER
-Corneille I PER
+M. B-PER
+Corneille I-PER
 , O 
 parole O 
 d' O 
@@ -7133,7 +7133,7 @@ honneur O
 ! O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 déchira O 
 les O 
 bords O 
@@ -7151,7 +7151,7 @@ tut O
 . O 
 M. O 
 de O 
-Malzonvilliers B LOC
+Malzonvilliers B-LOC
 riait O 
 toujours O 
 . O 
@@ -7188,7 +7188,7 @@ rire O
 après O 
 , O 
 reprit O 
-Jacques B PER
+Jacques B-PER
 , O 
 mais O 
 c' O 
@@ -7204,7 +7204,7 @@ répondre O
 | | O 
 vous O 
 ne O 
-sauriez B PER
+sauriez B-PER
 deviner O 
 , O 
 monsieur O 
@@ -7223,8 +7223,8 @@ sais O
 que O 
 j' O 
 aime O 
-Mlle B PER
-Suzanne I PER
+Mlle B-PER
+Suzanne I-PER
 . O 
 J' O 
 attends O 
@@ -7232,17 +7232,17 @@ attends O
 |
 | O 
 — O 
-Ah B ORG
+Ah B-ORG
 çà O 
   O 
 ! O 
 mon O 
 garçon O 
 , O 
-es B MISC
-- I MISC
-tu I MISC
-fou I MISC
+es B-MISC
+- I-MISC
+tu I-MISC
+fou I-MISC
   O 
 ? O 
 répondit O 
@@ -7257,8 +7257,8 @@ yeux O
 |
 | O 
 — O 
-Un B MISC
-fou I MISC
+Un B-MISC
+fou I-MISC
 ne O 
 vient O 
 pas O 
@@ -7295,9 +7295,9 @@ sérieusement O
 |
 | O 
 — O 
-Tais B LOC
-- I LOC
-toi I LOC
+Tais B-LOC
+- I-LOC
+toi I-LOC
 , O 
 et O 
 surtout O 
@@ -7367,9 +7367,9 @@ sentiments O
 |
 | O 
 — O 
-Va B LOC
-- I LOC
-t' I LOC
+Va B-LOC
+- I-LOC
+t' I-LOC
 en O 
 au O 
 diable O 
@@ -7399,7 +7399,7 @@ maître O
 fou O 
   O 
 ! O 
-Voyez B MISC
+Voyez B-MISC
 donc O 
 la O 
 belle O 
@@ -7409,14 +7409,14 @@ alliance O
 la O 
 fille O 
 de O 
-M. B PER
-Malzonvilliers I PER
+M. B-PER
+Malzonvilliers I-PER
 avec O 
 le O 
 fils O 
 de O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 le O 
 fauconnier O 
   O 
@@ -7424,7 +7424,7 @@ fauconnier O
 |
 | O 
 — O 
-Raillez B LOC
+Raillez B-LOC
 -vous O 
 de O 
 moi O 
@@ -7445,12 +7445,12 @@ pas O
 , O 
 s' O 
 écria O 
-Jacques B PER
+Jacques B-PER
 vivement O 
   O 
 | | O 
 mais O 
-gardez B PER
+gardez B-PER
 -vous O 
 de O 
 toucher O 
@@ -7468,7 +7468,7 @@ il O
 y O 
 a O 
 un O 
-Dieu B MISC
+Dieu B-MISC
 au O 
 ciel O 
 , O 
@@ -7483,7 +7483,7 @@ fût O
 le O 
 père O 
 de O 
-Suzanne B PER
+Suzanne B-PER
 , O 
 je O 
 me O 
@@ -7494,9 +7494,9 @@ vengerais O
 — O 
 Et O 
 que O 
-ferais B LOC
-- I LOC
-tu I LOC
+ferais B-LOC
+- I-LOC
+tu I-LOC
 , O 
 drôle O 
   O 
@@ -7512,7 +7512,7 @@ l' O
 |
 | O 
 Et O 
-Jacques B PER
+Jacques B-PER
 leva O 
 au-dessus O 
 de O 
@@ -7533,7 +7533,7 @@ menace O
 . O 
 M. O 
 de O 
-Malzonvilliers B LOC
+Malzonvilliers B-LOC
 se O 
 dressa O 
 brusquement O 
@@ -7554,7 +7554,7 @@ déjà O
 les O 
 doigts O 
 de O 
-Jacques B PER
+Jacques B-PER
 se O 
 nouer O 
 derrière O 
@@ -7562,7 +7562,7 @@ sa O
 nuque O 
 . O 
 Mais O 
-Jacques B PER
+Jacques B-PER
 abaissa O 
 subitement O 
 ses O 
@@ -7661,8 +7661,8 @@ ne O
 vis O 
 que O 
 pour O 
-Mlle B PER
-Suzanne I PER
+Mlle B-PER
+Suzanne I-PER
 , O 
 et O 
 je O 
@@ -7698,7 +7698,7 @@ avec O
 l' O 
 aide O 
 de O 
-Dieu B MISC
+Dieu B-MISC
 , O 
 il O 
 me O 
@@ -7708,7 +7708,7 @@ j' O
 y O 
 parviendrais O 
 . O 
-Parlez B PER
+Parlez B-PER
 , O 
 monsieur O 
 , O 
@@ -7770,7 +7770,7 @@ venues O
 aux O 
 yeux O 
 de O 
-Jacques B PER
+Jacques B-PER
 , O 
 et O 
 son O 
@@ -7786,9 +7786,9 @@ la O
 résignation O 
   O 
 | | O 
-M. B PER
-de I PER
-Malzonvilliers I PER
+M. B-PER
+de I-PER
+Malzonvilliers I-PER
 était O 
 au O 
 fond O 
@@ -7818,7 +7818,7 @@ tendit O
 la O 
 main O 
 à O 
-Jacques B PER
+Jacques B-PER
 . O 
 |
 | O 
@@ -7900,7 +7900,7 @@ mal O
 . O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 secoua O 
 la O 
 tête O 
@@ -7928,8 +7928,8 @@ traitant O
 Eh O 
   O 
 ! O 
-mon B MISC
-Dieu I MISC
+mon B-MISC
+Dieu I-MISC
 , O 
 à O 
 ton O 
@@ -7957,7 +7957,7 @@ flamme O
 ! O 
 Mais O 
 , O 
-bah B LOC
+bah B-LOC
   O 
 ! O 
 j' O 
@@ -7995,9 +7995,9 @@ pays O
 me O 
 demandent O 
 la O 
-main B PER
-de I PER
-Suzanne I PER
+main B-PER
+de I-PER
+Suzanne I-PER
 . O 
 Puis O 
 -je O 
@@ -8033,7 +8033,7 @@ cela O
 ? O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 baissa O 
 la O 
 tête O 
@@ -8051,7 +8051,7 @@ sentier O
 |
 | O 
 — O 
-Parbleu B PER
+Parbleu B-PER
   O 
 ! O 
 si O 
@@ -8062,9 +8062,9 @@ et O
 noble O 
 , O 
 reprit O 
-M. B PER
-de I PER
-Malzonvilliers I PER
+M. B-PER
+de I-PER
+Malzonvilliers I-PER
 , O 
 je O 
 ne O 
@@ -8080,7 +8080,7 @@ toi O
 |
 | O 
 — O 
-Si B MISC
+Si B-MISC
 j' O 
 étais O 
 riche O 
@@ -8090,7 +8090,7 @@ noble O
 ? O 
 s' O 
 écria O 
-Jacques B PER
+Jacques B-PER
 . O 
 |
 | O 
@@ -8102,10 +8102,10 @@ vraiment O
 |
 | O 
 — O 
-Eh B MISC
-bien I MISC
-, I MISC
-monsieur I MISC
+Eh B-MISC
+bien I-MISC
+, I-MISC
+monsieur I-MISC
 , O 
 je O 
 m' O 
@@ -8119,7 +8119,7 @@ noblesse O
 |
 | O 
 — O 
-Ecoute B PER
+Ecoute B-PER
 donc O 
 , O 
 mon O 
@@ -8144,7 +8144,7 @@ attendre O
 . O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 hésita O 
 un O 
 instant O 
@@ -8168,7 +8168,7 @@ A O
 la O 
 garde O 
 de O 
-Dieu B MISC
+Dieu B-MISC
 , O 
 monsieur O 
 , O 
@@ -8184,17 +8184,17 @@ pourrai O
 |
 | O 
 — O 
-Pauvre B PER
+Pauvre B-PER
 garçon O 
   O 
 ! O 
 murmura O 
-M. B PER
-de I PER
-Malzonvilliers I PER
+M. B-PER
+de I-PER
+Malzonvilliers I-PER
 tandis O 
 que O 
-Jacques B PER
+Jacques B-PER
 s' O 
 éloignait O 
 , O 
@@ -8216,7 +8216,7 @@ millionnaire O
 . O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 se O 
 dirigea O 
 d' O 
@@ -8231,12 +8231,12 @@ vers O
 un O 
 côté O 
 du O 
-parc B LOC
-de I LOC
-Malzonvilliers I LOC
+parc B-LOC
+de I-LOC
+Malzonvilliers I-LOC
 , O 
 où O 
-Suzanne B PER
+Suzanne B-PER
 avait O 
 coutume O 
 de O 
@@ -8287,7 +8287,7 @@ son O
 regard O 
 assuré O 
 . O 
-Suzanne B PER
+Suzanne B-PER
 s' O 
 était O 
 sentie O 
@@ -8296,7 +8296,7 @@ au O
 premier O 
 mot O 
 de O 
-Jacques B PER
+Jacques B-PER
   O 
 | | O 
 mais O 
@@ -8334,8 +8334,8 @@ bleus O
 |
 | O 
 — O 
-Votre B MISC
-père I MISC
+Votre B-MISC
+père I-MISC
 ne O 
 m' O 
 a O 
@@ -8347,7 +8347,7 @@ espérance O
 mademoiselle O 
 , O 
 dit O 
-Jacques B PER
+Jacques B-PER
 après O 
 qu' O 
 il O 
@@ -8377,11 +8377,11 @@ permettez O
 |
 | O 
 — O 
-M' B PER
-aimez I PER
+M' B-PER
+aimez I-PER
 -vous O 
 , O 
-Jacques B PER
+Jacques B-PER
   O 
 ? O 
 reprit O 
@@ -8416,7 +8416,7 @@ vie O
 pour O 
 ma O 
 sœur O 
-Claudine B PER
+Claudine B-PER
   O 
 | | O 
 mais O 
@@ -8429,7 +8429,7 @@ semble O
 , O 
 et O 
 que O 
-Dieu B MISC
+Dieu B-MISC
 me O 
 pardonne O 
 ce O 
@@ -8462,13 +8462,13 @@ mon O
 ami O 
 , O 
 reprit O 
-Suzanne B PER
+Suzanne B-PER
 en O 
 tendant O 
 sa O 
 main O 
 à O 
-Jacques B PER
+Jacques B-PER
 , O 
 qui O 
 sentit O 
@@ -8499,7 +8499,7 @@ un O
 sourire O 
 , O 
 mais O 
-Dieu B MISC
+Dieu B-MISC
 nous O 
 viendra O 
 en O 
@@ -8517,7 +8517,7 @@ fort O
 ! O 
 s' O 
 écria O 
-Jacques B PER
+Jacques B-PER
   O 
 | | O 
 ô O 
@@ -8551,17 +8551,17 @@ vous O
 ! O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 voulut O 
 baiser O 
 la O 
 main O 
 de O 
-Suzanne B PER
+Suzanne B-PER
   O 
 | | O 
 mais O 
-Suzanne B PER
+Suzanne B-PER
 lui O 
 ouvrit O 
 ses O 
@@ -8593,13 +8593,13 @@ cœur O
 |
 | O 
 — O 
-Allez B LOC
+Allez B-LOC
 et O 
 méritez O 
 -moi O 
 , O 
 reprit O 
-Suzanne B PER
+Suzanne B-PER
 , O 
 les O 
 joues O 
@@ -8615,7 +8615,7 @@ vous O
 attendrai O 
 en O 
 priant O 
-Dieu B MISC
+Dieu B-MISC
 . O 
 |
 | O 
@@ -8630,7 +8630,7 @@ séparèrent O
 . O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 reprit O 
 le O 
 chemin O 
@@ -8652,8 +8652,8 @@ de O
 suite O 
 part O 
 à O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
 de O 
 ce O 
 qui O 
@@ -8699,9 +8699,9 @@ bleu O
 |
 | O 
 — O 
-Serments B MISC
-d' I MISC
-amoureux I MISC
+Serments B-MISC
+d' I-MISC
+amoureux I-MISC
   O 
 ! O 
 dit O 
@@ -8741,7 +8741,7 @@ mon O
 intention O 
 , O 
 répondit O 
-Jacques B PER
+Jacques B-PER
 . O 
 |
 | O 
@@ -8758,20 +8758,20 @@ main O
 |
 | O 
 — O 
-La B MISC
-fille I MISC
+La B-MISC
+fille I-MISC
 appartient O 
 au O 
 père O 
 , O 
 reprit O 
-Guillaume B PER
-Grinedal I PER
+Guillaume B-PER
+Grinedal I-PER
   O 
 | | O 
-M. B PER
-de I PER
-Malzonvilliers I PER
+M. B-PER
+de I-PER
+Malzonvilliers I-PER
 a O 
 été O 
 bon O 
@@ -8803,11 +8803,11 @@ sans O
 chercher O 
 à O 
 revoir O 
-Suzanne B PER
+Suzanne B-PER
 . O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 hésita O 
 . O 
 |
@@ -8862,7 +8862,7 @@ dîner O
 fut O 
 silencieux O 
 . O 
-Jacques B PER
+Jacques B-PER
 ne O 
 mangeait O 
 pas O 
@@ -8884,7 +8884,7 @@ sur O
 ses O 
 lèvres O 
 . O 
-Claudine B PER
+Claudine B-PER
 ne O 
 voulait O 
 pas O 
@@ -8908,9 +8908,9 @@ essuyer O
 les O 
 yeux O 
 . O 
-Jacques B PER
+Jacques B-PER
 et O 
-Guillaume B PER
+Guillaume B-PER
 s' O 
 efforçaient O 
 de O 
@@ -8949,7 +8949,7 @@ enfants O
 | | O 
 il O 
 retint O 
-Jacques B PER
+Jacques B-PER
 plus O 
 longtemps O 
 sur O 
@@ -8959,8 +8959,8 @@ cœur O
 |
 | O 
 — O 
-Va B PER
-dormir I PER
+Va B-PER
+dormir I-PER
 , O 
 lui O 
 dit O 
@@ -8972,7 +8972,7 @@ auparavant O
 , O 
 demande O 
 à O 
-Dieu B MISC
+Dieu B-MISC
 du O 
 courage O 
 pour O 
@@ -9050,7 +9050,7 @@ de O
 la O 
 porte O 
 . O 
-Jacques B PER
+Jacques B-PER
 avait O 
 chaussé O 
 de O 
@@ -9095,12 +9095,12 @@ bâton O
 de O 
 houx O 
 . O 
-Pierre B PER
+Pierre B-PER
 et O 
-Claudine B PER
+Claudine B-PER
 sanglotaient O 
 . O 
-Jacques B PER
+Jacques B-PER
 était O 
 un O 
 peu O 
@@ -9121,10 +9121,10 @@ fermeté O
 |
 | O 
 — O 
-Où B MISC
-vas I MISC
-- I MISC
-tu I MISC
+Où B-MISC
+vas I-MISC
+- I-MISC
+tu I-MISC
 , O 
 mon O 
 fils O 
@@ -9142,7 +9142,7 @@ Déjà O
 cette O 
 époque O 
 , O 
-Paris B LOC
+Paris B-LOC
 était O 
 la O 
 ville O 
@@ -9166,7 +9166,7 @@ les O
 imaginations O 
 inquiètes O 
 . O 
-Jacques B PER
+Jacques B-PER
 n' O 
 avait O 
 pas O 
@@ -9201,7 +9201,7 @@ hésiter O
 | O 
 — O 
 A O 
-Paris B LOC
+Paris B-LOC
 . O 
 |
 | O 
@@ -9248,7 +9248,7 @@ l' O
 honnêteté O 
 . O 
 Que O 
-Dieu B MISC
+Dieu B-MISC
 te O 
 bénisse O 
 , O 
@@ -9257,7 +9257,7 @@ fils O
 . O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 s' O 
 agenouilla O 
 entre O 
@@ -9268,7 +9268,7 @@ sa O
 sœur O 
 , O 
 et O 
-Guillaume B PER
+Guillaume B-PER
 posa O 
 ses O 
 mains O 
@@ -9298,7 +9298,7 @@ dans O
 la O 
 main O 
 de O 
-Jacques B PER
+Jacques B-PER
 une O 
 bourse O 
 où O 
@@ -9308,7 +9308,7 @@ l' O
 or O 
 , O 
 mais O 
-Jacques B PER
+Jacques B-PER
 la O 
 lui O 
 rendit O 
@@ -9316,7 +9316,7 @@ rendit O
 |
 | O 
 — O 
-Gardez B PER
+Gardez B-PER
 cet O 
 or O 
 , O 
@@ -9330,7 +9330,7 @@ est O
 la O 
 dot O 
 de O 
-Claudine B PER
+Claudine B-PER
   O 
 | | O 
 j' O 
@@ -9377,7 +9377,7 @@ passa O
 au O 
 cou O 
 de O 
-Jacques B PER
+Jacques B-PER
 . O 
 |
 | O 
@@ -9387,7 +9387,7 @@ reconnais O
 - O 
 tu O 
 , O 
-Jacques B PER
+Jacques B-PER
   O 
 ? O 
 lui O 
@@ -9452,22 +9452,22 @@ maintenant O
 , O 
 et O 
 que O 
-Dieu B MISC
+Dieu B-MISC
 te O 
 conduise O 
 . O 
 |
 | O 
-Jacques B PER
+Jacques B-PER
 embrassa O 
 d' O 
 abord O 
-Guillaume B PER
+Guillaume B-PER
 et O 
-Pierre B MISC
+Pierre B-MISC
   O 
 | | O 
-Claudine B PER
+Claudine B-PER
 était O 
 restée O 
 un O 
@@ -9484,11 +9484,11 @@ son O
 tour O 
 , O 
 elle O 
-sauta B MISC
+sauta B-MISC
 au O 
 cou O 
 de O 
-Jacques B PER
+Jacques B-PER
 . O 
 |
 | O 
