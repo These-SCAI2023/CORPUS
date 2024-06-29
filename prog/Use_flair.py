@@ -7,7 +7,8 @@ import os
 import csv
 from flair.data import Sentence
 from flair.models import SequenceTagger
-import torch
+import flair
+# import torch
 
 
 def get_parser():
@@ -41,17 +42,20 @@ def lire_fichier(chemin, is_json=False):
             return json.load(f)
 
 
-def stocker(chemin, contenu, is_json=False, verbose=False):
-    with open(chemin, "w", encoding='utf-8') as w:
-        if is_json:
+def stocker(chemin: str, contenu, is_json=False, verbose=False, delimiter: str = " ", quotechar: str = "|"):
+    if is_json:
+        with open(chemin, "w", encoding='utf-8') as w:
             w.write(json.dumps(contenu, indent=2, ensure_ascii=False))
-        else:
-            w.write(contenu)
+    else:
+        with open(chemin, 'w', newline='', encoding='utf-8') as w:
+            writer = csv.writer(
+                csvfile=w, delimiter=delimiter, quotechar=quotechar)
+            writer.writerows(entites_bio)
     if verbose:
         print(f"  Output written in {chemin}")
 
 
-def chunk_text(text, chunk_size):
+def chunk_text(text, chunk_size) -> list[list]:
     """Splits text into chunks of specified size."""
     chunks = []
     start = 0
@@ -72,23 +76,49 @@ def get_entity(entity_dict: dict) -> dict:
     ] else entity_dict["labels"][0]["value"]
 
     return {
+        'label': label,
         'text': entity_dict["text"],
-        'start_pos': entity_dict["start_pos"],
-        'end_pos': entity_dict["end_pos"],
-        'label': label
+        'jalons': [entity_dict["start_pos"], entity_dict["end_pos"]]
     }
+
+
+def dico_resultats(text, tagger: SequenceTagger, chunk_size: int = 512):
+    chunks: list[list] = chunk_text(text=text, chunk_size=chunk_size)
+    all_ner_results: list[dict] = []
+    for chunk in chunks:
+        sentence = Sentence(chunk)
+        tagger.predict(sentence)
+        all_ner_results.extend([get_entity(entity_dict=entity)
+                                for entity in sentence.to_dict(tag_type='ner')["entities"]])
+    return {f"entite_{i}" for i, ent in enumerate(all_ner_results)}
+
+
+def bio_flair(text, tagger: SequenceTagger, chunk_size: int = 512):
+    chunks: list[list] = chunk_text(text=text, chunk_size=chunk_size)
+    all_ner_results: list[dict] = []
+    for chunk in chunks:
+        sentence = Sentence(chunk)
+        tagger.predict(sentence)
+        all_ner_results.extend([get_entity(entity_dict=entity)
+                                for entity in sentence.to_dict(tag_type='ner')["entities"]])
+
+    return
 
 
 def flair_ner(text, tagger, chunk_size=512):
     chunks = chunk_text(text, chunk_size)
-    entities = []
+    entities: dict[str, dict] = {}
+    i: int = 0
     for chunk in chunks:
         sentence = Sentence(chunk)
         tagger.predict(sentence)
-        # print(sentence.to_dict(tag_type='ner'))
+        entities.extend([get_entity(entity_dict=entity)
+                        for entity in sentence.to_dict(tag_type='ner')["entities"]])
+        """
         for entity in sentence.to_dict(tag_type='ner')["entities"]:
             print(entity)
             entities.append(get_entity(entity_dict=entity))
+        """
     return entities
 
 
@@ -104,20 +134,21 @@ if __name__ == "__main__":
         exit()
 
     for subcorpus in liste_subcorpus:
-        print("  Processing %s" % subcorpus)
-        liste_txt = glob.glob("%s/*_REF/*.txt" % subcorpus)
-        liste_txt += glob.glob("%s/OCR/*/*.txt" % subcorpus)
+        print(f"  Processing {subcorpus}")
+        liste_txt = glob.glob(f"{subcorpus}/*_REF/*.txt")
+        liste_txt += glob.glob(f"{subcorpus}/OCR/*/*.txt")
         print("  nombre de fichiers txt trouvés :", len(liste_txt))
         for path in liste_txt:
             dossiers = re.split("/", path)[:-1]
             nom_txt = re.split("/", path)[-1]
             path_ner = os.path.join(*dossiers, "NER")
             os.makedirs(path_ner, exist_ok=True)
-            path_output = f"{path_ner}/{nom_txt}_flair.json"
+            path_output = f"{path_ner}/{nom_txt}_flair-{flair.__version__}.json"
             if os.path.exists(path_output) and not options.Force:
                 print("Already DONE : ", path_output)
                 continue
 
             texte = lire_fichier(path)
-            entites = flair_ner(texte, tagger)
+            # entites = flair_ner(texte, tagger)
+            entites = dico_resultats(texte, tagger)
             stocker(path_output, entites, is_json=True)

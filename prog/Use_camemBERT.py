@@ -5,8 +5,10 @@ from pathlib import Path
 import json
 import os
 import csv
-from transformers import CamembertTokenizer, CamembertForTokenClassification, pipeline
-import torch
+from transformers import CamembertTokenizer, CamembertForTokenClassification, pipeline, Pipeline, TokenClassificationPipeline
+import transformers
+# import torch
+from itertools import chain
 
 
 def get_parser():
@@ -59,39 +61,47 @@ def chunk_text(text, chunk_size, overlap):
         start += chunk_size - overlap
 
 
-def dico_resultats(texte, nlp, chunk_size=512, overlap=50):
-    all_ner_results = []
-    for chunk in chunk_text(texte, chunk_size, overlap):
-        ner_results = nlp(chunk)
-        all_ner_results.extend(ner_results)
-
-    dico_resultats = {}
-    for i, ent in enumerate(all_ner_results):
-        entite = f"entite_{i}"
-        dico_resultats[entite] = {
-            "label": ent['entity_group'],
-            "text": ent['word'],
-            "jalons": [ent['start'], ent['end']]
-        }
-    return dico_resultats
+def get_entity_dict(entity: dict) -> dict:
+    return {"label": entity['entity_group'],
+            "text": entity['word'],
+            "jalons": [entity['start'], entity['end']]}
 
 
-def bio_spacy(texte, nlp, chunk_size=512, overlap=50):
-    all_ner_results = []
-    for chunk in chunk_text(texte, chunk_size, overlap):
-        ner_results = nlp(chunk)
-        all_ner_results.extend(ner_results)
+def dico_resultats(texte, nlp: TokenClassificationPipeline, chunk_size=512, overlap=50) -> dict[str, dict]:
+    """returns a dict of all the entitites in the text like: {entity_0: {"label": PER, "text": "Harry James Potter", "jalons": [0, 30]}}
+    """
+    chunks: list = chunk_text(texte, chunk_size, overlap)
+    all_ner_results: list[dict] = chain.from_iterable(
+        [nlp(chunk) for chunk in chunks])
+    return {f"entite_{i}": get_entity_dict(
+        entity=ent) for i, ent in enumerate(all_ner_results)}
 
-    liste_bio = []
-    for ent in all_ner_results:
-        liste_bio.append([ent['word'], ent['entity_group']])
-    return liste_bio
+
+def generate_bio_tags(entity: dict, sep: str = " ") -> list[list[str]]:
+    """generate bio tags (B/I) for potentially multiword entities.
+    """
+    words: list[str] = entity["word"].split(sep)
+    bio_entity_list: list[list] = [
+        [words.pop(0), f"B-{entity['entity_group']}"]]
+    bio_entity_list.extend(
+        [[word, f"I-{entity['entity_group']}"] for word in words])
+    return bio_entity_list
+
+
+def bio_camemBERT(texte, nlp: TokenClassificationPipeline, chunk_size=512, overlap=50) -> list[list[str]]:
+    """returns a list of bio entities for the text like: [["Harry", "B", "PER"], ["James", "I", "PER"], ["Potter", "I", "PER"]]
+    """
+    chunks: list = chunk_text(texte, chunk_size, overlap)
+    all_ner_results: list[dict] = chain.from_iterable(
+        [nlp(chunk) for chunk in chunks])
+    return chain.from_iterable(
+        [generate_bio_tags(entity=entity) for entity in all_ner_results])
 
 
 if __name__ == "__main__":
     model_name = "Jean-Baptiste/camembert-ner-with-dates"
-    nlp = pipeline("ner", model=model_name, tokenizer=model_name,
-                   aggregation_strategy="simple", device=-1)
+    nlp: TokenClassificationPipeline = pipeline("ner", model=model_name, tokenizer=model_name,
+                                                aggregation_strategy="simple", device=-1)
 
     liste_subcorpus = list(Path(path_corpora).glob("*"))
     print(liste_subcorpus)
@@ -110,9 +120,9 @@ if __name__ == "__main__":
             nom_txt = re.split("/", path)[-1]
             os.makedirs(os.path.join(*dossiers, "NER"), exist_ok=True)
             path_output = os.path.join(
-                *dossiers, "NER", f"{nom_txt}_camembert-{torch.__version__}.json")
+                *dossiers, "NER", f"{nom_txt}_camembert-{transformers.__version__}.json")
             path_output_bio = os.path.join(
-                *dossiers, "NER", f"{nom_txt}_camembert-{torch.__version__}.bio")
+                *dossiers, "NER", f"{nom_txt}_camembert-{transformers.__version__}.bio")
             if os.path.exists(path_output) and not options.Force:
                 print("Already DONE : ", path_output)
                 continue
@@ -121,7 +131,7 @@ if __name__ == "__main__":
             entites = dico_resultats(texte, nlp)
             stocker(path_output, entites, is_json=True)
 
-            entites_bio = bio_spacy(texte, nlp)
+            entites_bio = bio_camemBERT(texte, nlp)
             with open(path_output_bio, 'w', newline='', encoding='utf-8') as file:
                 writer = csv.writer(file, delimiter=' ', quotechar='|')
                 writer.writerows(entites_bio)
