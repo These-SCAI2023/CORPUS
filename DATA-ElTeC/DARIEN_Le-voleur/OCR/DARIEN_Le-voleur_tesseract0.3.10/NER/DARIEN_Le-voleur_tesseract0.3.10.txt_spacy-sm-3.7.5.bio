@@ -1,1300 +1,1300 @@
 | 
 
-| O 
-1e O 
-Gallica B-PER
+|;O;
+1e;O;
+Gallica;B;PER
 |
 
-| O 
-Le O 
-voleur O 
-: O 
-roman O 
-/ O 
-Georges B-PER
+|;O;
+Le;O;
+voleur;O;
+:;O;
+roman;O;
+/;O;
+Georges;B;PER
 |
-| I-PER
-Darien I-PER
+|;I;PER
+Darien;I;PER
 |
 
-| I-PER
-Source I-PER
-gallica.bnf.fr O 
-/ O 
-Bibliothèque B-ORG
-nationale I-ORG
-de I-ORG
-France I-ORG
+|;I;PER
+Source;I;PER
+gallica.bnf.fr;O;
+/;O;
+Bibliothèque;B;ORG
+nationale;I;ORG
+de;I;ORG
+France;I;ORG
 |
 
-| O 
-11 O 
-Gallica O 
+|;O;
+11;O;
+Gallica;O;
 |
 
  
 
-| O 
-Darien O 
-, O 
-Georges B-MISC
-( O 
-1862 O 
-- O 
-1921 O 
-) O 
-. O 
-Auteur O 
-du O 
-texte O 
-. O 
-Le O 
-voleur O 
-: O 
-roman O 
+|;O;
+Darien;O;
+,;O;
+Georges;B;MISC
+(;O;
+1862;O;
+-;O;
+1921;O;
+);O;
+.;O;
+Auteur;O;
+du;O;
+texte;O;
+.;O;
+Le;O;
+voleur;O;
+:;O;
+roman;O;
 |
-| O 
-|||| O 
-Georges B-PER
-Darien I-PER
-. O 
-1898 O 
-. O 
-|
-
-| O 
-1/ O 
-Les O 
-contenus O 
-accessibles O 
-sur O 
-le O 
-site O 
-Gallica B-MISC
-sont O 
-pour O 
-la O 
-plupart O 
-|
-| O 
-des O 
-reproductions O 
-numériques O 
-d' O 
-oeuvres O 
-tombées O 
-dans O 
-le O 
-|
-| O 
-domaine O 
-public O 
-provenant O 
-des O 
-collections O 
-de O 
-la O 
-BnF. B-MISC
-Leur I-MISC
-|
-| I-MISC
-réutilisation I-MISC
-s' I-MISC
-inscrit I-MISC
-dans I-MISC
-le I-MISC
-cadre I-MISC
-de I-MISC
-la I-MISC
-loi I-MISC
-n° I-MISC
-78 I-MISC
-- I-MISC
-753 I-MISC
-du O 
-17 O 
-juillet O 
-|
-| O 
-1978 O 
-: O 
+|;O;
+||||;O;
+Georges;B;PER
+Darien;I;PER
+.;O;
+1898;O;
+.;O;
 |
 
-| O 
-- O 
-La O 
-réutilisation O 
-non O 
-commerciale O 
-de O 
-ces O 
-contenus O 
-ou O 
-dans O 
-le O 
+|;O;
+1/;O;
+Les;O;
+contenus;O;
+accessibles;O;
+sur;O;
+le;O;
+site;O;
+Gallica;B;MISC
+sont;O;
+pour;O;
+la;O;
+plupart;O;
 |
-| O 
-cadre O 
-d’ O 
-une O 
-publication O 
-académique O 
-ou O 
-scientifique O 
-est O 
-libre O 
-et O 
+|;O;
+des;O;
+reproductions;O;
+numériques;O;
+d';O;
+oeuvres;O;
+tombées;O;
+dans;O;
+le;O;
 |
-| O 
-gratuite O 
-dans O 
-le O 
-respect O 
-de O 
-la O 
-législation O 
-en O 
-vigueur O 
-et O 
-notamment O 
+|;O;
+domaine;O;
+public;O;
+provenant;O;
+des;O;
+collections;O;
+de;O;
+la;O;
+BnF.;B;MISC
+Leur;I;MISC
 |
-| O 
-du O 
-maintien O 
-de O 
-la O 
-mention O 
-de O 
-source O 
-des O 
-contenus O 
-telle O 
-que O 
+|;I;MISC
+réutilisation;I;MISC
+s';I;MISC
+inscrit;I;MISC
+dans;I;MISC
+le;I;MISC
+cadre;I;MISC
+de;I;MISC
+la;I;MISC
+loi;I;MISC
+n°;I;MISC
+78;I;MISC
+-;I;MISC
+753;I;MISC
+du;O;
+17;O;
+juillet;O;
 |
-| O 
-précisée O 
-ci O 
-- O 
-après O 
-: O 
-« O 
-Source O 
-gallica.bnf.fr O 
-/ O 
-Bibliothèque B-ORG
-nationale I-ORG
-|
-| I-ORG
-de I-ORG
-France I-ORG
-» O 
-ou O 
-« O 
-Source B-ORG
-gallica.bnf.fr I-ORG
-/ I-ORG
-BnF I-ORG
-» O 
-. O 
+|;O;
+1978;O;
+:;O;
 |
 
-| O 
-- O 
-La O 
-réutilisation O 
-commerciale O 
-de O 
-ces O 
-contenus O 
-est O 
-payante O 
-et O 
-fait O 
+|;O;
+-;O;
+La;O;
+réutilisation;O;
+non;O;
+commerciale;O;
+de;O;
+ces;O;
+contenus;O;
+ou;O;
+dans;O;
+le;O;
 |
-| O 
-l' O 
-objet O 
-d' O 
-une O 
-licence O 
-. O 
-Est O 
-entendue O 
-par O 
-réutilisation O 
-commerciale O 
-la O 
+|;O;
+cadre;O;
+d’;O;
+une;O;
+publication;O;
+académique;O;
+ou;O;
+scientifique;O;
+est;O;
+libre;O;
+et;O;
 |
-| O 
-revente O 
-de O 
-contenus O 
-sous O 
-forme O 
-de O 
-produits O 
-élaborés O 
-ou O 
-de O 
+|;O;
+gratuite;O;
+dans;O;
+le;O;
+respect;O;
+de;O;
+la;O;
+législation;O;
+en;O;
+vigueur;O;
+et;O;
+notamment;O;
 |
-| O 
-fourniture O 
-de O 
-service O 
-ou O 
-toute O 
-autre O 
-réutilisation O 
-des O 
-contenus O 
+|;O;
+du;O;
+maintien;O;
+de;O;
+la;O;
+mention;O;
+de;O;
+source;O;
+des;O;
+contenus;O;
+telle;O;
+que;O;
 |
-| O 
-générant O 
-directement O 
-des O 
-revenus O 
-: O 
-publication O 
-vendue O 
-( O 
-à O 
+|;O;
+précisée;O;
+ci;O;
+-;O;
+après;O;
+:;O;
+«;O;
+Source;O;
+gallica.bnf.fr;O;
+/;O;
+Bibliothèque;B;ORG
+nationale;I;ORG
 |
-| O 
-l' O 
-exception O 
-des O 
-ouvrages O 
-académiques O 
-ou O 
-scientifiques O 
-) O 
-, O 
-une O 
-|
-| O 
-exposition O 
-, O 
-une O 
-production O 
-audiovisuelle O 
-, O 
-un O 
-service O 
-ou O 
-un O 
-produit O 
-|
-| O 
-payant O 
-, O 
-un O 
-support O 
-à O 
-vocation O 
-promotionnelle O 
-etc. O 
+|;I;ORG
+de;I;ORG
+France;I;ORG
+»;O;
+ou;O;
+«;O;
+Source;B;ORG
+gallica.bnf.fr;I;ORG
+/;I;ORG
+BnF;I;ORG
+»;O;
+.;O;
 |
 
-| O 
-CLIQUER B-MISC
-ICI I-MISC
-POUR O 
-ACCÉDER B-ORG
-AUX O 
-TARIFS B-MISC
-ET O 
-À B-MISC
-LA I-MISC
-LICENCE I-MISC
+|;O;
+-;O;
+La;O;
+réutilisation;O;
+commerciale;O;
+de;O;
+ces;O;
+contenus;O;
+est;O;
+payante;O;
+et;O;
+fait;O;
+|
+|;O;
+l';O;
+objet;O;
+d';O;
+une;O;
+licence;O;
+.;O;
+Est;O;
+entendue;O;
+par;O;
+réutilisation;O;
+commerciale;O;
+la;O;
+|
+|;O;
+revente;O;
+de;O;
+contenus;O;
+sous;O;
+forme;O;
+de;O;
+produits;O;
+élaborés;O;
+ou;O;
+de;O;
+|
+|;O;
+fourniture;O;
+de;O;
+service;O;
+ou;O;
+toute;O;
+autre;O;
+réutilisation;O;
+des;O;
+contenus;O;
+|
+|;O;
+générant;O;
+directement;O;
+des;O;
+revenus;O;
+:;O;
+publication;O;
+vendue;O;
+(;O;
+à;O;
+|
+|;O;
+l';O;
+exception;O;
+des;O;
+ouvrages;O;
+académiques;O;
+ou;O;
+scientifiques;O;
+);O;
+,;O;
+une;O;
+|
+|;O;
+exposition;O;
+,;O;
+une;O;
+production;O;
+audiovisuelle;O;
+,;O;
+un;O;
+service;O;
+ou;O;
+un;O;
+produit;O;
+|
+|;O;
+payant;O;
+,;O;
+un;O;
+support;O;
+à;O;
+vocation;O;
+promotionnelle;O;
+etc.;O;
 |
 
-| I-MISC
-2 I-MISC
-] O 
-Les O 
-contenus O 
-de O 
-Gallica B-LOC
-sont O 
-la O 
-propriété O 
-de O 
-la O 
-BnF B-ORG
-au O 
-sens O 
-de O 
-|
-| O 
-l' O 
-article O 
-L.2112 B-ORG
-- I-ORG
-1 I-ORG
-du O 
-code O 
-général O 
-de O 
-la O 
-propriété O 
-des O 
-personnes O 
-|
-| O 
-publiques O 
-. O 
+|;O;
+CLIQUER;B;MISC
+ICI;I;MISC
+POUR;O;
+ACCÉDER;B;ORG
+AUX;O;
+TARIFS;B;MISC
+ET;O;
+À;B;MISC
+LA;I;MISC
+LICENCE;I;MISC
 |
 
-| O 
-3/ O 
-Quelques O 
-contenus O 
-sont O 
-soumis O 
-à O 
-un O 
-régime O 
-de O 
-réutilisation O 
+|;I;MISC
+2;I;MISC
+];O;
+Les;O;
+contenus;O;
+de;O;
+Gallica;B;LOC
+sont;O;
+la;O;
+propriété;O;
+de;O;
+la;O;
+BnF;B;ORG
+au;O;
+sens;O;
+de;O;
 |
-| O 
-particulier O 
-. O 
-Il O 
-s' O 
-agit O 
-: O 
+|;O;
+l';O;
+article;O;
+L.2112;B;ORG
+-;I;ORG
+1;I;ORG
+du;O;
+code;O;
+général;O;
+de;O;
+la;O;
+propriété;O;
+des;O;
+personnes;O;
 |
-
-| O 
-- O 
-des O 
-reproductions O 
-de O 
-documents O 
-protégés O 
-par O 
-un O 
-droit O 
-d' O 
-auteur O 
-|
-| O 
-appartenant O 
-à O 
-un O 
-tiers O 
-. O 
-Ces O 
-documents O 
-ne O 
-peuvent O 
-être O 
-réutilisés O 
-, O 
-|
-| O 
-sauf O 
-dans O 
-le O 
-cadre O 
-de O 
-la O 
-copie O 
-privée O 
-, O 
-sans O 
-l' O 
-autorisation O 
-préalable O 
-|
-| O 
-du O 
-titulaire O 
-des O 
-droits O 
-. O 
+|;O;
+publiques;O;
+.;O;
 |
 
-| O 
-- O 
-des O 
-reproductions O 
-de O 
-documents O 
-conservés O 
-dans O 
-les O 
+|;O;
+3/;O;
+Quelques;O;
+contenus;O;
+sont;O;
+soumis;O;
+à;O;
+un;O;
+régime;O;
+de;O;
+réutilisation;O;
 |
-| O 
-bibliothèques O 
-ou O 
-autres O 
-institutions O 
-partenaires O 
-. O 
-Ceux O 
-- O 
-ci O 
-sont O 
-|
-| O 
-signalés O 
-par O 
-la O 
-mention O 
-Source B-ORG
-gallica.BnF.fr I-ORG
-/ O 
-Bibliothèque B-LOC
-|
-| O 
-municipale O 
-de O 
-… O 
-( O 
-ou O 
-autre O 
-partenaire O 
-) O 
-. O 
-L' O 
-utilisateur O 
-est O 
-invité O 
-à O 
-|
-| O 
-s' O 
-informer O 
-auprès O 
-de O 
-ces O 
-bibliothèques O 
-de O 
-leurs O 
-conditions O 
-de O 
-|
-| O 
-réutilisation O 
-. O 
+|;O;
+particulier;O;
+.;O;
+Il;O;
+s';O;
+agit;O;
+:;O;
 |
 
-| O 
-4 O 
-] O 
-Gallica B-PER
-constitue O 
-une O 
-base O 
-de O 
-données O 
-, O 
-dont O 
-la O 
-BnF B-ORG
-est O 
-le O 
+|;O;
+-;O;
+des;O;
+reproductions;O;
+de;O;
+documents;O;
+protégés;O;
+par;O;
+un;O;
+droit;O;
+d';O;
+auteur;O;
 |
-| O 
-producteur O 
-, O 
-protégée O 
-au O 
-sens O 
-des O 
-articles O 
-L341 B-MISC
-- I-MISC
-1 I-MISC
-et O 
-suivants O 
-du O 
+|;O;
+appartenant;O;
+à;O;
+un;O;
+tiers;O;
+.;O;
+Ces;O;
+documents;O;
+ne;O;
+peuvent;O;
+être;O;
+réutilisés;O;
+,;O;
 |
-| O 
-code O 
-de O 
-la O 
-propriété O 
-intellectuelle O 
-. O 
+|;O;
+sauf;O;
+dans;O;
+le;O;
+cadre;O;
+de;O;
+la;O;
+copie;O;
+privée;O;
+,;O;
+sans;O;
+l';O;
+autorisation;O;
+préalable;O;
 |
-
-| O 
-5/ O 
-Les O 
-présentes O 
-conditions O 
-d' O 
-utilisation O 
-des O 
-contenus O 
-de O 
-Gallica B-LOC
-|
-| O 
-sont O 
-régies O 
-par O 
-la O 
-loi O 
-française O 
-. O 
-En O 
-cas O 
-de O 
-réutilisation O 
-prévue O 
-dans O 
-|
-| O 
-un O 
-autre O 
-pays O 
-, O 
-il O 
-appartient O 
-à O 
-chaque O 
-utilisateur O 
-de O 
-vérifier O 
-la O 
-|
-| O 
-conformité O 
-de O 
-son O 
-projet O 
-avec O 
-le O 
-droit O 
-de O 
-ce O 
-pays O 
-. O 
+|;O;
+du;O;
+titulaire;O;
+des;O;
+droits;O;
+.;O;
 |
 
-| O 
-6/ O 
-L' O 
-utilisateur O 
-s' O 
-engage O 
-à O 
-respecter O 
-les O 
-présentes O 
-conditions O 
+|;O;
+-;O;
+des;O;
+reproductions;O;
+de;O;
+documents;O;
+conservés;O;
+dans;O;
+les;O;
 |
-| O 
-d' O 
-utilisation O 
-ainsi O 
-que O 
-la O 
-législation O 
-en O 
-vigueur O 
-, O 
-notamment O 
-en O 
+|;O;
+bibliothèques;O;
+ou;O;
+autres;O;
+institutions;O;
+partenaires;O;
+.;O;
+Ceux;O;
+-;O;
+ci;O;
+sont;O;
 |
-| O 
-matière O 
-de O 
-propriété O 
-intellectuelle O 
-. O 
-En O 
-cas O 
-de O 
-non O 
-respect O 
-de O 
-ces O 
+|;O;
+signalés;O;
+par;O;
+la;O;
+mention;O;
+Source;B;ORG
+gallica.BnF.fr;I;ORG
+/;O;
+Bibliothèque;B;LOC
 |
-| O 
-dispositions O 
-, O 
-il O 
-est O 
-notamment O 
-passible O 
-d' O 
-une O 
-amende O 
-prévue O 
-par O 
+|;O;
+municipale;O;
+de;O;
+…;O;
+(;O;
+ou;O;
+autre;O;
+partenaire;O;
+);O;
+.;O;
+L';O;
+utilisateur;O;
+est;O;
+invité;O;
+à;O;
 |
-| O 
-la O 
-loi O 
-du O 
-17 O 
-juillet O 
-1978 O 
-. O 
+|;O;
+s';O;
+informer;O;
+auprès;O;
+de;O;
+ces;O;
+bibliothèques;O;
+de;O;
+leurs;O;
+conditions;O;
+de;O;
+|
+|;O;
+réutilisation;O;
+.;O;
 |
 
-| O 
-7 O 
-] O 
-Pour O 
-obtenir O 
-un O 
-document O 
-de O 
-Gallica B-LOC
-en O 
-haute O 
-définition O 
-, O 
+|;O;
+4;O;
+];O;
+Gallica;B;PER
+constitue;O;
+une;O;
+base;O;
+de;O;
+données;O;
+,;O;
+dont;O;
+la;O;
+BnF;B;ORG
+est;O;
+le;O;
 |
-| O 
-contacter O 
+|;O;
+producteur;O;
+,;O;
+protégée;O;
+au;O;
+sens;O;
+des;O;
+articles;O;
+L341;B;MISC
+-;I;MISC
+1;I;MISC
+et;O;
+suivants;O;
+du;O;
 |
-| O 
-utilisation.commerciale@ O 
-bnf.fr O 
-. O 
+|;O;
+code;O;
+de;O;
+la;O;
+propriété;O;
+intellectuelle;O;
+.;O;
+|
+
+|;O;
+5/;O;
+Les;O;
+présentes;O;
+conditions;O;
+d';O;
+utilisation;O;
+des;O;
+contenus;O;
+de;O;
+Gallica;B;LOC
+|
+|;O;
+sont;O;
+régies;O;
+par;O;
+la;O;
+loi;O;
+française;O;
+.;O;
+En;O;
+cas;O;
+de;O;
+réutilisation;O;
+prévue;O;
+dans;O;
+|
+|;O;
+un;O;
+autre;O;
+pays;O;
+,;O;
+il;O;
+appartient;O;
+à;O;
+chaque;O;
+utilisateur;O;
+de;O;
+vérifier;O;
+la;O;
+|
+|;O;
+conformité;O;
+de;O;
+son;O;
+projet;O;
+avec;O;
+le;O;
+droit;O;
+de;O;
+ce;O;
+pays;O;
+.;O;
+|
+
+|;O;
+6/;O;
+L';O;
+utilisateur;O;
+s';O;
+engage;O;
+à;O;
+respecter;O;
+les;O;
+présentes;O;
+conditions;O;
+|
+|;O;
+d';O;
+utilisation;O;
+ainsi;O;
+que;O;
+la;O;
+législation;O;
+en;O;
+vigueur;O;
+,;O;
+notamment;O;
+en;O;
+|
+|;O;
+matière;O;
+de;O;
+propriété;O;
+intellectuelle;O;
+.;O;
+En;O;
+cas;O;
+de;O;
+non;O;
+respect;O;
+de;O;
+ces;O;
+|
+|;O;
+dispositions;O;
+,;O;
+il;O;
+est;O;
+notamment;O;
+passible;O;
+d';O;
+une;O;
+amende;O;
+prévue;O;
+par;O;
+|
+|;O;
+la;O;
+loi;O;
+du;O;
+17;O;
+juillet;O;
+1978;O;
+.;O;
+|
+
+|;O;
+7;O;
+];O;
+Pour;O;
+obtenir;O;
+un;O;
+document;O;
+de;O;
+Gallica;B;LOC
+en;O;
+haute;O;
+définition;O;
+,;O;
+|
+|;O;
+contacter;O;
+|
+|;O;
+utilisation.commerciale@;O;
+bnf.fr;O;
+.;O;
 |
 
-| O 
-j- O 
+|;O;
+j-;O;
 |
 
-| O 
-us O 
+|;O;
+us;O;
 |
 
  
 
-| O 
-Sovts B-LOC
+|;O;
+Sovts;B;LOC
 |
 
-| O 
-Se O 
+|;O;
+Se;O;
 |
 
  
 
-| O 
-TS B-ORG
-œ O 
-mme B-MISC
-mms I-MISC
-© O 
-© O 
+|;O;
+TS;B;ORG
+œ;O;
+mme;B;MISC
+mms;I;MISC
+©;O;
+©;O;
 |
 
-| O 
-TT O 
-bi O 
-LUS B-ORG
+|;O;
+TT;O;
+bi;O;
+LUS;B;ORG
 |
 
  
 
-| O 
-. O 
-D O 
-: O 
+|;O;
+.;O;
+D;O;
+:;O;
 |
 
-| O 
-CHEPT B-ORG
-F I-ORG
-LÉGA I-ORG
-di I-ORG
-: O 
+|;O;
+CHEPT;B;ORG
+F;I;ORG
+LÉGA;I;ORG
+di;I;ORG
+:;O;
 |
 
-| O 
-GEORGES O 
-DARIEN O 
-LL B-ORG
+|;O;
+GEORGES;O;
+DARIEN;O;
+LL;B;ORG
 |
-| O 
-|||| O 
-AR O 
-2H. O 
-LE O 
-|
-
- 
-
- 
-
-| O 
-LE O 
+|;O;
+||||;O;
+AR;O;
+2H.;O;
+LE;O;
 |
 
  
 
-| O 
-| | O 
--- O 
-o O 
-_ O 
-\ O 
-|
-| O 
-\ O 
-SF O 
-À O 
-|
-| O 
-\ O 
-, O 
-f O 
-LT B-MISC
-# I-MISC
-|||| O 
-|||| O 
-|
-| O 
-ns O 
-. O 
-… O 
-[ O 
-Les O 
-voleurs O 
-ne O 
-sont O 
-pas O 
-|
+ 
 
-| O 
-Gens B-LOC
-honteux O 
-ni O 
-fort O 
-délicats O 
-. O 
-|
-| O 
-La O 
-FONTAINE B-ORG
-, O 
+|;O;
+LE;O;
 |
 
  
 
-| O 
-PARIS B-ORG
-oo I-ORG
-do I-ORG
-LS O 
+|;O;
+|;|;O;
+--;O;
+o;O;
+_;O;
+\;O;
 |
-| O 
-P.-V. B-PER
-STOCK I-PER
-, O 
-ÉDITEUR B-MISC
-8 O 
+|;O;
+\;O;
+SF;O;
+À;O;
 |
-| O 
-{ O 
-Ancienne B-PER
-Librairie I-PER
-TRESSE I-PER
-& I-PER
-STOCK I-PER
-) O 
+|;O;
+\;O;
+,;O;
+f;O;
+LT;B;MISC
+#;I;MISC
+||||;O;
+||||;O;
 |
-
-| O 
-Oy O 
-Q O 
-» O 
-10 O 
-, O 
-11 O 
-, O 
-GALERIE B-ORG
-Di O 
-} O 
-THÉATRE O 
-- O 
-FRANÇAIS O 
-| | O 
-|
-| O 
-PALAIS O 
-- O 
-ROYAL B-ORG
-3 I-ORG
+|;O;
+ns;O;
+.;O;
+…;O;
+[;O;
+Les;O;
+voleurs;O;
+ne;O;
+sont;O;
+pas;O;
 |
 
-| O 
-1898 O 
-a O 
-oo O 
+|;O;
+Gens;B;LOC
+honteux;O;
+ni;O;
+fort;O;
+délicats;O;
+.;O;
 |
-
-| O 
-s O 
-de O 
-reproduction O 
-et O 
-de O 
-traduction O 
-réservés O 
-. O 
-pour O 
-tous O 
-les O 
-pays O 
-, O 
-y. O 
-compris O 
-|
-| O 
-la O 
-Suède B-LOC
-et O 
-la O 
-. O 
-Noïvège B-PER
-. O 
-|
-
-| O 
-1 O 
-|
-| O 
-3 O 
-|
-
- 
-
-| O 
-tr O 
-: O 
+|;O;
+La;O;
+FONTAINE;B;ORG
+,;O;
 |
 
  
 
-| O 
-Dane B-LOC
-pe O 
-ele O 
-ai O 
-me O 
-a O 
-PE B-ORG
-LE O 
-RSI B-MISC
-2 I-MISC
-EN O 
-Rs B-ORG
-1 I-ORG
-an O 
-np O 
-, O 
+|;O;
+PARIS;B;ORG
+oo;I;ORG
+do;I;ORG
+LS;O;
+|
+|;O;
+P.-V.;B;PER
+STOCK;I;PER
+,;O;
+ÉDITEUR;B;MISC
+8;O;
+|
+|;O;
+{;O;
+Ancienne;B;PER
+Librairie;I;PER
+TRESSE;I;PER
+&;I;PER
+STOCK;I;PER
+);O;
 |
 
- 
-
-| O 
-> O 
-. O 
-un O 
+|;O;
+Oy;O;
+Q;O;
+»;O;
+10;O;
+,;O;
+11;O;
+,;O;
+GALERIE;B;ORG
+Di;O;
+};O;
+THÉATRE;O;
+-;O;
+FRANÇAIS;O;
+|;|;O;
 |
-| O 
-2 O 
-d O 
-Er B-LOC
-mapaeas O 
-th O 
-dé O 
-nt O 
-ré O 
-va O 
-tte O 
-rt O 
-|
-
-| O 
-NE O 
-|
-
-| O 
-L' O 
-auteur O 
-et O 
-l' O 
-éditeur O 
-déclarent O 
-réserver O 
-leurs O 
-droits O 
-de O 
-traduction O 
-et O 
-de O 
-|
-| O 
-reproduclion O 
-jour O 
-lous O 
-pays O 
-, O 
-y O 
-compris O 
-la O 
-Suèle B-PER
-et O 
-ia O 
-Norvège B-LOC
-. O 
+|;O;
+PALAIS;O;
+-;O;
+ROYAL;B;ORG
+3;I;ORG
 |
 
-| O 
-Ce O 
-volume O 
-- O 
-a O 
-élè O 
-déposé O 
-au O 
-Ministère B-ORG
-de I-ORG
-l' I-ORG
-Intérieur I-ORG
-( O 
-seelion O 
-de O 
-Îa B-PER
-librairie O 
-) O 
-|
-| O 
-en O 
-novembre O 
-1897 O 
-. O 
-: O 
+|;O;
+1898;O;
+a;O;
+oo;O;
 |
 
-| O 
-oh O 
+|;O;
+s;O;
+de;O;
+reproduction;O;
+et;O;
+de;O;
+traduction;O;
+réservés;O;
+.;O;
+pour;O;
+tous;O;
+les;O;
+pays;O;
+,;O;
+y.;O;
+compris;O;
+|
+|;O;
+la;O;
+Suède;B;LOC
+et;O;
+la;O;
+.;O;
+Noïvège;B;PER
+.;O;
 |
 
-| O 
-A B-LOC
-LA O 
-MÊME B-ORG
-LIBRATRIE O 
+|;O;
+1;O;
 |
-
-| O 
-fa O 
-|
-
-| O 
-DU O 
-MÈME B-ORG
-AUTEUR O 
-|
-
-| O 
-Bas B-MISC
-les I-MISC
-Cœurs I-MISC
-, O 
-1870 O 
-- O 
-1871 O 
-. O 
-roman O 
-, O 
-1 O 
-volume O 
-. O 
-|
-| O 
-Biribi B-ORG
-, O 
-armée O 
-d' O 
-Afrique B-LOC
-, O 
-roman O 
-, O 
-1 O 
-volume O 
-. O 
-|
-
-| O 
-Les B-MISC
-Chapons I-MISC
-, I-MISC
-pièce I-MISC
-en O 
-un O 
-acte O 
-, O 
-représentée O 
-au O 
-Théätre B-LOC
-- I-LOC
-Libre I-LOC
-|
-| O 
-( O 
-en O 
-collaboration O 
-avec O 
-M. B-PER
-Lucien I-PER
-Descaves I-PER
-) O 
-, O 
-r O 
-brochure O 
-, O 
-|
-
- 
-
-| O 
-Pour O 
-paraître O 
-prochainement O 
-: O 
-|
-
-| O 
-La B-MISC
-Malhonnête I-MISC
-Femme I-MISC
-, O 
-roman O 
-. O 
-|
-
- 
-
-| O 
-Ua O 
-clé O 
-tiré O 
-à O 
-part O 
-, O 
-de O 
-cel O 
-ouvrage O 
-, O 
-sur O 
-papier O 
-de O 
-|
-| O 
-Hollande B-LOC
-, O 
-dix O 
-exemplaires O 
-numérotés O 
-à O 
-la O 
-presse O 
-. O 
-|
-
- 
-
-| O 
-SAINT-AMAND B-ORG
-, O 
-CHER B-ORG
-, O 
-— O 
-IMPRIMÉRIL O 
-BUSSIÈRE B-LOC
-FRÈRES I-LOC
-. O 
-|
-
-| O 
-LP B-LOC
-A I-LOC
-HEURE B-MISC
-7e I-MISC
-TL I-MISC
-ER O 
-PE O 
-En O 
-à O 
-ere O 
-ere O 
-|
-
-| O 
-CRETE B-MISC
+|;O;
+3;O;
 |
 
  
-
-| O 
-ROMAN O 
-|
-
-| O 
-Les B-MISC
-Voleurs I-MISC
-ne O 
-sont O 
-pas O 
-, O 
-|
-| O 
-Gens B-LOC
-honteux O 
-ni O 
-fort O 
-délicats O 
-. O 
+
+|;O;
+tr;O;
+:;O;
 |
 
  
 
-| O 
-F1 B-ORG
-LA O 
-FoxTAINE O 
-. O 
-% O 
+|;O;
+Dane;B;LOC
+pe;O;
+ele;O;
+ai;O;
+me;O;
+a;O;
+PE;B;ORG
+LE;O;
+RSI;B;MISC
+2;I;MISC
+EN;O;
+Rs;B;ORG
+1;I;ORG
+an;O;
+np;O;
+,;O;
+|
+
+ 
+
+|;O;
+>;O;
+.;O;
+un;O;
+|
+|;O;
+2;O;
+d;O;
+Er;B;LOC
+mapaeas;O;
+th;O;
+dé;O;
+nt;O;
+ré;O;
+va;O;
+tte;O;
+rt;O;
+|
+
+|;O;
+NE;O;
+|
+
+|;O;
+L';O;
+auteur;O;
+et;O;
+l';O;
+éditeur;O;
+déclarent;O;
+réserver;O;
+leurs;O;
+droits;O;
+de;O;
+traduction;O;
+et;O;
+de;O;
+|
+|;O;
+reproduclion;O;
+jour;O;
+lous;O;
+pays;O;
+,;O;
+y;O;
+compris;O;
+la;O;
+Suèle;B;PER
+et;O;
+ia;O;
+Norvège;B;LOC
+.;O;
+|
+
+|;O;
+Ce;O;
+volume;O;
+-;O;
+a;O;
+élè;O;
+déposé;O;
+au;O;
+Ministère;B;ORG
+de;I;ORG
+l';I;ORG
+Intérieur;I;ORG
+(;O;
+seelion;O;
+de;O;
+Îa;B;PER
+librairie;O;
+);O;
+|
+|;O;
+en;O;
+novembre;O;
+1897;O;
+.;O;
+:;O;
+|
+
+|;O;
+oh;O;
+|
+
+|;O;
+A;B;LOC
+LA;O;
+MÊME;B;ORG
+LIBRATRIE;O;
+|
+
+|;O;
+fa;O;
+|
+
+|;O;
+DU;O;
+MÈME;B;ORG
+AUTEUR;O;
+|
+
+|;O;
+Bas;B;MISC
+les;I;MISC
+Cœurs;I;MISC
+,;O;
+1870;O;
+-;O;
+1871;O;
+.;O;
+roman;O;
+,;O;
+1;O;
+volume;O;
+.;O;
+|
+|;O;
+Biribi;B;ORG
+,;O;
+armée;O;
+d';O;
+Afrique;B;LOC
+,;O;
+roman;O;
+,;O;
+1;O;
+volume;O;
+.;O;
+|
+
+|;O;
+Les;B;MISC
+Chapons;I;MISC
+,;I;MISC
+pièce;I;MISC
+en;O;
+un;O;
+acte;O;
+,;O;
+représentée;O;
+au;O;
+Théätre;B;LOC
+-;I;LOC
+Libre;I;LOC
+|
+|;O;
+(;O;
+en;O;
+collaboration;O;
+avec;O;
+M.;B;PER
+Lucien;I;PER
+Descaves;I;PER
+);O;
+,;O;
+r;O;
+brochure;O;
+,;O;
+|
+
+ 
+
+|;O;
+Pour;O;
+paraître;O;
+prochainement;O;
+:;O;
+|
+
+|;O;
+La;B;MISC
+Malhonnête;I;MISC
+Femme;I;MISC
+,;O;
+roman;O;
+.;O;
+|
+
+ 
+
+|;O;
+Ua;O;
+clé;O;
+tiré;O;
+à;O;
+part;O;
+,;O;
+de;O;
+cel;O;
+ouvrage;O;
+,;O;
+sur;O;
+papier;O;
+de;O;
+|
+|;O;
+Hollande;B;LOC
+,;O;
+dix;O;
+exemplaires;O;
+numérotés;O;
+à;O;
+la;O;
+presse;O;
+.;O;
+|
+
+ 
+
+|;O;
+SAINT-AMAND;B;ORG
+,;O;
+CHER;B;ORG
+,;O;
+—;O;
+IMPRIMÉRIL;O;
+BUSSIÈRE;B;LOC
+FRÈRES;I;LOC
+.;O;
+|
+
+|;O;
+LP;B;LOC
+A;I;LOC
+HEURE;B;MISC
+7e;I;MISC
+TL;I;MISC
+ER;O;
+PE;O;
+En;O;
+à;O;
+ere;O;
+ere;O;
+|
+
+|;O;
+CRETE;B;MISC
+|
+
+ 
+
+|;O;
+ROMAN;O;
+|
+
+|;O;
+Les;B;MISC
+Voleurs;I;MISC
+ne;O;
+sont;O;
+pas;O;
+,;O;
+|
+|;O;
+Gens;B;LOC
+honteux;O;
+ni;O;
+fort;O;
+délicats;O;
+.;O;
+|
+
+ 
+
+|;O;
+F1;B;ORG
+LA;O;
+FoxTAINE;O;
+.;O;
+%;O;
 |
 
   
  
   
 
-| O 
-AE B-ORG
-Sc O 
-en O 
+|;O;
+AE;B;ORG
+Sc;O;
+en;O;
 |
-| O 
-SRSNUT B-ORG
-. O 
-|
-
-| O 
-ETC B-ORG
-|
-| O 
-37 O 
-, O 
-W B-MISC
-|
-| I-MISC
-En O 
+|;O;
+SRSNUT;B;ORG
+.;O;
 |
 
-| O 
-|||| O 
-PARIS B-LOC
+|;O;
+ETC;B;ORG
 |
-| O 
-: O 
-P.-V O 
-, O 
-STOCK B-MISC
-, O 
-ÉDITEUR B-MISC
+|;O;
+37;O;
+,;O;
+W;B;MISC
 |
-
-| O 
-( O 
-Ancienne B-LOC
-Librairie I-LOC
-Tresse I-LOC
-et O 
-Stock B-LOC
-) O 
+|;I;MISC
+En;O;
 |
 
-| O 
-8,9 O 
-, O 
-I0 B-ORG
-, O 
-II B-MISC
-, O 
-GALERIE B-ORG
-DU O 
-THÉATRE B-MISC
-- I-MISC
-FRANCAIS I-MISC
+|;O;
+||||;O;
+PARIS;B;LOC
+|
+|;O;
+:;O;
+P.-V;O;
+,;O;
+STOCK;B;MISC
+,;O;
+ÉDITEUR;B;MISC
 |
 
-| I-MISC
-Le O 
-PALAIS O 
-- O 
-ROYAL O 
+|;O;
+(;O;
+Ancienne;B;LOC
+Librairie;I;LOC
+Tresse;I;LOC
+et;O;
+Stock;B;LOC
+);O;
 |
 
-| O 
-1898 O 
-s O 
+|;O;
+8,9;O;
+,;O;
+I0;B;ORG
+,;O;
+II;B;MISC
+,;O;
+GALERIE;B;ORG
+DU;O;
+THÉATRE;B;MISC
+-;I;MISC
+FRANCAIS;I;MISC
 |
 
-| O 
-SRE O 
-enr O 
-, O 
-Lot B-PER
-tt O 
-Se O 
-|
-| O 
-sv B-LOC
-, O 
-D O 
-- O 
-= O 
-. O 
-|
-| O 
-Ÿ O 
-À O 
-° O 
-|
-| O 
-’ O 
-“ O 
-ai O 
-|
-| O 
-- O 
+|;I;MISC
+Le;O;
+PALAIS;O;
+-;O;
+ROYAL;O;
 |
 
-| O 
-LE B-ORG
+|;O;
+1898;O;
+s;O;
 |
-| I-ORG
-GE I-ORG
-" O 
-! O 
+
+|;O;
+SRE;O;
+enr;O;
+,;O;
+Lot;B;PER
+tt;O;
+Se;O;
+|
+|;O;
+sv;B;LOC
+,;O;
+D;O;
+-;O;
+=;O;
+.;O;
+|
+|;O;
+Ÿ;O;
+À;O;
+°;O;
+|
+|;O;
+’;O;
+“;O;
+ai;O;
+|
+|;O;
+-;O;
+|
+
+|;O;
+LE;B;ORG
+|
+|;I;ORG
+GE;I;ORG
+";O;
+!;O;
 |
 
-| O 
-RAT B-ORG
-= O 
-, O 
-sw O 
-. O 
-Lou O 
-- O 
-, O 
+|;O;
+RAT;B;ORG
+=;O;
+,;O;
+sw;O;
+.;O;
+Lou;O;
+-;O;
+,;O;
 |
 
  
@@ -1303,9814 +1303,9814 @@ Lou O
 
  
 
-| O 
-AVANT-PROPOS O 
+|;O;
+AVANT-PROPOS;O;
 |
 
-| O 
-Le O 
-livre O 
-qu' O 
-on O 
-va O 
-lire O 
-, O 
-et O 
-que O 
-je O 
-signe O 
-, O 
-n' O 
-est O 
-pas O 
-de O 
+|;O;
+Le;O;
+livre;O;
+qu';O;
+on;O;
+va;O;
+lire;O;
+,;O;
+et;O;
+que;O;
+je;O;
+signe;O;
+,;O;
+n';O;
+est;O;
+pas;O;
+de;O;
 |
-| O 
-mmoL B-LOC
-.. O 
-|||| O 
-|||| O 
-|||| O 
+|;O;
+mmoL;B;LOC
+..;O;
+||||;O;
+||||;O;
+||||;O;
 |
-| O 
-Cette O 
-déclaration O 
-faite O 
-, O 
-on O 
-pourra O 
-supposer O 
-‘ O 
-à O 
-pré- O 
-|
-
-| O 
--mière O 
-vue O 
-, O 
-à O 
-la O 
-lecture O 
-du O 
-titre O 
-, O 
-que O 
-le O 
-manuscrit O 
-m' O 
-en O 
-|
-| O 
-a O 
-été O 
-remis O 
-en O 
-depôt O 
-par O 
-un O 
-ministre O 
-déchu O 
-, O 
-confié O 
-à O 
-|
-| O 
-‘ O 
-son O 
-lit O 
-de O 
-mort O 
-par O 
-un O 
-notairé O 
-infidèle O 
-, O 
-ou O 
-légué O 
-par O 
+|;O;
+Cette;O;
+déclaration;O;
+faite;O;
+,;O;
+on;O;
+pourra;O;
+supposer;O;
+‘;O;
+à;O;
+pré-;O;
 |
 
-| O 
-un O 
-caissier O 
-prévaricateur O 
-. O 
-Mais O 
-ces O 
-hypothèses O 
-bien O 
+|;O;
+-mière;O;
+vue;O;
+,;O;
+à;O;
+la;O;
+lecture;O;
+du;O;
+titre;O;
+,;O;
+que;O;
+le;O;
+manuscrit;O;
+m';O;
+en;O;
+|
+|;O;
+a;O;
+été;O;
+remis;O;
+en;O;
+depôt;O;
+par;O;
+un;O;
+ministre;O;
+déchu;O;
+,;O;
+confié;O;
+à;O;
+|
+|;O;
+‘;O;
+son;O;
+lit;O;
+de;O;
+mort;O;
+par;O;
+un;O;
+notairé;O;
+infidèle;O;
+,;O;
+ou;O;
+légué;O;
+par;O;
 |
 
-| O 
-que O 
-vraisemblables O 
-, O 
-je O 
-me O 
-hâte O 
-de O 
-le O 
-dire O 
-, O 
-seraient O 
+|;O;
+un;O;
+caissier;O;
+prévaricateur;O;
+.;O;
+Mais;O;
+ces;O;
+hypothèses;O;
+bien;O;
 |
 
-| O 
-absolument O 
-- O 
-fausses O 
-. O 
-Ce O 
-livre O 
-ne O 
-m' O 
-a O 
-point O 
-été O 
-remis O 
-par O 
+|;O;
+que;O;
+vraisemblables;O;
+,;O;
+je;O;
+me;O;
+hâte;O;
+de;O;
+le;O;
+dire;O;
+,;O;
+seraient;O;
 |
 
-| O 
-un O 
-ministre O 
-, O 
-ni O 
-confié O 
-par O 
-un O 
-notaire O 
-, O 
-nt B-MISC
-légué O 
-par O 
-un O 
+|;O;
+absolument;O;
+-;O;
+fausses;O;
+.;O;
+Ce;O;
+livre;O;
+ne;O;
+m';O;
+a;O;
+point;O;
+été;O;
+remis;O;
+par;O;
 |
 
-| O 
-caissier O 
-. O 
-|
-| O 
-Je O 
-Pat O 
-volé O 
-. O 
-|||| O 
-|
-| O 
-J' O 
-avoue O 
-mon O 
-crime O 
-. O 
-Je O 
-ne O 
-cherche O 
-pas O 
-à O 
-éluder O 
-les O 
-|
-| O 
-responsabilités O 
-de O 
-ma O 
-mauvaise O 
-action O 
-| | O 
-el O 
-je O 
-suis O 
-prêt O 
-|
-| O 
-à O 
-comparaître O 
-, O 
-s' O 
-il O 
-le O 
-faut O 
-, O 
-devant O 
-le O 
-Procureur B-LOC
-du I-LOC
-Roi I-LOC
-. O 
-|
-| O 
-( O 
-Ca B-LOC
-se O 
-passe O 
-en O 
-Belrique B-LOC
-. O 
-) O 
-|||| O 
-|
-| O 
-© O 
-Case B-LOC
-passe O 
-en O 
-Belgique B-LOC
-. O 
-J' O 
-avais O 
-été O 
-faire O 
-un O 
-petit O 
-|
-| O 
-voyage O 
-, O 
-11 O 
-y O 
-a O 
-quelque O 
-temps O 
-, O 
-dans O 
-celte O 
-contrée O 
-st O 
-peu O 
-|
-| O 
-connue O 
-( O 
-je O 
-parle O 
-sérieusement O 
-) O 
-. O 
-Ma O 
-raison O 
-pour O 
-passer O 
-|
-| O 
-ainsi O 
-la O 
-frontière O 
-? O 
-Mon B-MISC
-Dieu I-MISC
-! I-MISC
-j' O 
-avais O 
-voulu O 
-voir O 
-le O 
+|;O;
+un;O;
+ministre;O;
+,;O;
+ni;O;
+confié;O;
+par;O;
+un;O;
+notaire;O;
+,;O;
+nt;B;MISC
+légué;O;
+par;O;
+un;O;
 |
 
-| O 
-roi B-PER
-Léopold I-PER
-, O 
-avant O 
-de O 
-mourir O 
-. O 
-Un O 
-dada O 
-. O 
-Je O 
-n' O 
-avais O 
+|;O;
+caissier;O;
+.;O;
+|
+|;O;
+Je;O;
+Pat;O;
+volé;O;
+.;O;
+||||;O;
+|
+|;O;
+J';O;
+avoue;O;
+mon;O;
+crime;O;
+.;O;
+Je;O;
+ne;O;
+cherche;O;
+pas;O;
+à;O;
+éluder;O;
+les;O;
+|
+|;O;
+responsabilités;O;
+de;O;
+ma;O;
+mauvaise;O;
+action;O;
+|;|;O;
+el;O;
+je;O;
+suis;O;
+prêt;O;
+|
+|;O;
+à;O;
+comparaître;O;
+,;O;
+s';O;
+il;O;
+le;O;
+faut;O;
+,;O;
+devant;O;
+le;O;
+Procureur;B;LOC
+du;I;LOC
+Roi;I;LOC
+.;O;
+|
+|;O;
+(;O;
+Ca;B;LOC
+se;O;
+passe;O;
+en;O;
+Belrique;B;LOC
+.;O;
+);O;
+||||;O;
+|
+|;O;
+©;O;
+Case;B;LOC
+passe;O;
+en;O;
+Belgique;B;LOC
+.;O;
+J';O;
+avais;O;
+été;O;
+faire;O;
+un;O;
+petit;O;
+|
+|;O;
+voyage;O;
+,;O;
+11;O;
+y;O;
+a;O;
+quelque;O;
+temps;O;
+,;O;
+dans;O;
+celte;O;
+contrée;O;
+st;O;
+peu;O;
+|
+|;O;
+connue;O;
+(;O;
+je;O;
+parle;O;
+sérieusement;O;
+);O;
+.;O;
+Ma;O;
+raison;O;
+pour;O;
+passer;O;
+|
+|;O;
+ainsi;O;
+la;O;
+frontière;O;
+?;O;
+Mon;B;MISC
+Dieu;I;MISC
+!;I;MISC
+j';O;
+avais;O;
+voulu;O;
+voir;O;
+le;O;
 |
 
-| O 
-] O 
+|;O;
+roi;B;PER
+Léopold;I;PER
+,;O;
+avant;O;
+de;O;
+mourir;O;
+.;O;
+Un;O;
+dada;O;
+.;O;
+Je;O;
+n';O;
+avais;O;
 |
 
-| O 
-” O 
+|;O;
+];O;
 |
 
-| O 
-amais O 
-vu O 
-de O 
-roi O 
-. O 
-Quel O 
-est O 
-le O 
-Républicain B-ORG
-qui O 
-ne O 
-me O 
+|;O;
+”;O;
 |
 
-| O 
-_ O 
-comprendra O 
-pas O 
-? O 
+|;O;
+amais;O;
+vu;O;
+de;O;
+roi;O;
+.;O;
+Quel;O;
+est;O;
+le;O;
+Républicain;B;ORG
+qui;O;
+ne;O;
+me;O;
 |
 
-| O 
-J' B-MISC
-étais I-MISC
-entré I-MISC
-, O 
-en O 
-arrivant O 
-à O 
-Bruxelles B-LOC
-, O 
-dans O 
-le O 
-premier O 
-|
-| O 
-hôtel O 
-venu O 
-, O 
-l' O 
-hôtel B-LOC
-du I-LOC
-Roï I-LOC
-Salomon I-LOC
-. O 
-/e O 
-ne O 
-me O 
-fie O 
-guère O 
-|
-| O 
-aux O 
-maisons O 
-recommandées O 
-par O 
-les O 
-guides O 
-, O 
-et O 
-je O 
-n' O 
-avais O 
-|
-| O 
-pas O 
-le O 
-temps O 
-de O 
-chercher O 
-| | O 
-il O 
-pleuvait O 
-. O 
-D' O 
-ailleurs O 
-, O 
+|;O;
+_;O;
+comprendra;O;
+pas;O;
+?;O;
 |
 
-| O 
-* O 
+|;O;
+J';B;MISC
+étais;I;MISC
+entré;I;MISC
+,;O;
+en;O;
+arrivant;O;
+à;O;
+Bruxelles;B;LOC
+,;O;
+dans;O;
+le;O;
+premier;O;
+|
+|;O;
+hôtel;O;
+venu;O;
+,;O;
+l';O;
+hôtel;B;LOC
+du;I;LOC
+Roï;I;LOC
+Salomon;I;LOC
+.;O;
+/e;O;
+ne;O;
+me;O;
+fie;O;
+guère;O;
+|
+|;O;
+aux;O;
+maisons;O;
+recommandées;O;
+par;O;
+les;O;
+guides;O;
+,;O;
+et;O;
+je;O;
+n';O;
+avais;O;
+|
+|;O;
+pas;O;
+le;O;
+temps;O;
+de;O;
+chercher;O;
+|;|;O;
+il;O;
+pleuvait;O;
+.;O;
+D';O;
+ailleurs;O;
+,;O;
+|
+
+|;O;
+*;O;
 |
 
-| O 
-\ O 
-— O 
+|;O;
+\;O;
+—;O;
 |
 
-| O 
-æ- O 
+|;O;
+æ-;O;
 |
 
-| O 
-tl O 
-|||| O 
-- O 
-_ O 
-AVANT-PROPOS O 
+|;O;
+tl;O;
+||||;O;
+-;O;
+_;O;
+AVANT-PROPOS;O;
 |
 
-| O 
-quaurais O 
-je O 
-trouvé O 
-? O 
-Je O 
-ne O 
-connais O 
-rien O 
-de O 
-rien O 
-, O 
-à O 
+|;O;
+quaurais;O;
+je;O;
+trouvé;O;
+?;O;
+Je;O;
+ne;O;
+connais;O;
+rien;O;
+de;O;
+rien;O;
+,;O;
+à;O;
 |
-| O 
-l' O 
-étranger O 
-, O 
-n' O 
-ayant O 
-étudié O 
-la O 
-géographie O 
-que O 
-sur O 
-les O 
+|;O;
+l';O;
+étranger;O;
+,;O;
+n';O;
+ayant;O;
+étudié;O;
+la;O;
+géographie;O;
+que;O;
+sur;O;
+les;O;
 |
-| O 
-atlas O 
-universitaires O 
-et O 
-n' O 
-étant O 
-jamais O 
-sorti O 
-de O 
-mon O 
+|;O;
+atlas;O;
+universitaires;O;
+et;O;
+n';O;
+étant;O;
+jamais;O;
+sorti;O;
+de;O;
+mon;O;
 |
-| O 
-trou B-LOC
-. O 
-|||| O 
-|
-
-| O 
-.— O 
-Monsieur B-PER
-est O 
-sans O 
-doute O 
-un O 
-ami O 
-de O 
-M. B-PER
-Randal I-PER
-, O 
-|
-| O 
-me O 
-dit O 
-l' O 
-hôtelière O 
-comme O 
-je O 
-signe O 
-mon O 
-nom O 
-sur O 
-le O 
-re- O 
-|
-| O 
-gisire O 
-. O 
-|||| O 
-|||| O 
+|;O;
+trou;B;LOC
+.;O;
+||||;O;
 |
 
-| O 
-— O 
-Non O 
-, O 
-Madaine B-PER
-| | O 
-je O 
-n' O 
-ai O 
-pas O 
-cet O 
-honneur O 
-. O 
+|;O;
+.—;O;
+Monsieur;B;PER
+est;O;
+sans;O;
+doute;O;
+un;O;
+ami;O;
+de;O;
+M.;B;PER
+Randal;I;PER
+,;O;
+|
+|;O;
+me;O;
+dit;O;
+l';O;
+hôtelière;O;
+comme;O;
+je;O;
+signe;O;
+mon;O;
+nom;O;
+sur;O;
+le;O;
+re-;O;
+|
+|;O;
+gisire;O;
+.;O;
+||||;O;
+||||;O;
 |
 
-| O 
-— O 
-Tiens B-LOC
-, O 
-c' O 
-est O 
-drôle O 
-. O 
-Je O 
-vous O 
-aurais O 
-cru O 
-son O 
-parent O 
-. O 
-|
-| O 
-Vous O 
-vous O 
-ressemblez O 
-étonnamment O 
-| | O 
-on O 
-vous O 
-prendrait O 
-|
-| O 
-l’ B-LOC
-un O 
-pour O 
-l’ B-LOC
-autre O 
-. O 
-Mais O 
-vous O 
-le O 
-connaissez O 
-sans O 
-aucun O 
-|
-| O 
-doute O 
-, O 
-dans O 
-votre O 
-métier O 
-... O 
-|||| O 
+|;O;
+—;O;
+Non;O;
+,;O;
+Madaine;B;PER
+|;|;O;
+je;O;
+n';O;
+ai;O;
+pas;O;
+cet;O;
+honneur;O;
+.;O;
 |
 
-| O 
-Quel O 
-métier O 
-? O 
-Mais O 
-à O 
-quoi O 
-bon O 
-détromper O 
-cette O 
-brave O 
+|;O;
+—;O;
+Tiens;B;LOC
+,;O;
+c';O;
+est;O;
+drôle;O;
+.;O;
+Je;O;
+vous;O;
+aurais;O;
+cru;O;
+son;O;
+parent;O;
+.;O;
 |
-| O 
-Jemme B-LOC
-? O 
+|;O;
+Vous;O;
+vous;O;
+ressemblez;O;
+étonnamment;O;
+|;|;O;
+on;O;
+vous;O;
+prendrait;O;
 |
-
-| O 
-— O 
-Du O 
-reste O 
-, O 
-ajoute O 
--t O 
--elle O 
-en O 
-posant O 
-le O 
-doigt O 
-sur O 
-le O 
+|;O;
+l’;B;LOC
+un;O;
+pour;O;
+l’;B;LOC
+autre;O;
+.;O;
+Mais;O;
+vous;O;
+le;O;
+connaissez;O;
+sans;O;
+aucun;O;
 |
-| O 
-livre O 
-, O 
-vous O 
-avez O 
-le O 
-inéme O 
-prénom O 
-| | O 
-il O 
-s' O 
-appelle O 
-Georges B-MISC
-, O 
-|
-| O 
-comme O 
-vous O 
-savéz O 
-— O 
-Georges B-PER
-Randal I-PER
-. O 
-— O 
-Eh O 
-1 O 
-bien O 
-, O 
-|
-| O 
-puisque O 
-vous O 
-lé O 
-connaissez O 
-, O 
-je O 
-vais O 
-vous O 
-donner O 
-Sa B-MISC
-|
-| I-MISC
-chambre I-MISC
-| | O 
-il O 
-est O 
-parti O 
-hier O 
-el O 
-je O 
-ne O 
-pense O 
-pas O 
-qu' O 
-il O 
-re- O 
-|
-| O 
-vienne B-LOC
-avant O 
-plusieurs O 
-jours O 
-. O 
-C' O 
-est O 
-la O 
-plus O 
-belle O 
-cham- O 
-|
-| O 
-bre O 
-de O 
-la O 
-maison O 
-| | O 
-au O 
-- O 
-premier O 
-| | O 
-voulez O 
--vous O 
-me O 
-suivre O 
-? O 
-. O 
-… O 
-. O 
-|
-| O 
-Là B-MISC
-! I-MISC
-Une O 
-jolie O 
-chambre O 
-, O 
-n' O 
-est O 
--ce O 
-pas O 
-? O 
-J' O 
-ai O 
-vu O 
-des O 
-dames O 
-|
-| O 
-me O 
-la O 
-rélenir O 
-quelquefois O 
-deux O 
-mois O 
-à O 
-l' O 
-avance O 
-. O 
-Mais O 
-à O 
-|
-| O 
-présent O 
-, O 
-savez O 
--vous O 
-, O 
-il O 
-n' O 
-y O 
-a O 
-plus O 
-grand O 
-monde O 
-ici O 
-. O 
-Ces O 
-|
-| O 
-messieurs O 
-sont O 
-à O 
-Spa B-LOC
-, O 
-à O 
-Dinan B-LOC
-, O 
-à O 
-Ostende B-LOC
-, O 
-ou O 
-bien O 
-|
-| O 
-dans O 
-les O 
-villes O 
-d' O 
-eaux O 
-de B-LOC
-France I-LOC
-ou O 
-d' O 
-Allemagne B-LOC
-| | O 
-par- O 
-|
-| O 
-tout O 
-où O 
-1l O 
-y O 
-a O 
-du O 
-travail O 
-, O 
-quoïil O 
-C' B-MISC
-est I-MISC
-la I-MISC
-saison I-MISC
-. O 
-Et O 
-|
-| O 
-puis O 
-, O 
-ts O 
-ne O 
-peuvent O 
-pas O 
-laisser O 
-leurs O 
-dames O 
-toutes O 
+|;O;
+doute;O;
+,;O;
+dans;O;
+votre;O;
+métier;O;
+...;O;
+||||;O;
 |
 
-| O 
-seules O 
-| | O 
-les O 
-’ O 
-dames O 
-, O 
-savez O 
--vous O 
-, O 
-ça O 
-fait O 
-des O 
-bêtises O 
-st O 
+|;O;
+Quel;O;
+métier;O;
+?;O;
+Mais;O;
+à;O;
+quoi;O;
+bon;O;
+détromper;O;
+cette;O;
+brave;O;
+|
+|;O;
+Jemme;B;LOC
+?;O;
 |
 
-| O 
-facilement O 
-... O 
-|||| O 
-EE O 
-ne O 
+|;O;
+—;O;
+Du;O;
+reste;O;
+,;O;
+ajoute;O;
+-t;O;
+-elle;O;
+en;O;
+posant;O;
+le;O;
+doigt;O;
+sur;O;
+le;O;
+|
+|;O;
+livre;O;
+,;O;
+vous;O;
+avez;O;
+le;O;
+inéme;O;
+prénom;O;
+|;|;O;
+il;O;
+s';O;
+appelle;O;
+Georges;B;MISC
+,;O;
+|
+|;O;
+comme;O;
+vous;O;
+savéz;O;
+—;O;
+Georges;B;PER
+Randal;I;PER
+.;O;
+—;O;
+Eh;O;
+1;O;
+bien;O;
+,;O;
+|
+|;O;
+puisque;O;
+vous;O;
+lé;O;
+connaissez;O;
+,;O;
+je;O;
+vais;O;
+vous;O;
+donner;O;
+Sa;B;MISC
+|
+|;I;MISC
+chambre;I;MISC
+|;|;O;
+il;O;
+est;O;
+parti;O;
+hier;O;
+el;O;
+je;O;
+ne;O;
+pense;O;
+pas;O;
+qu';O;
+il;O;
+re-;O;
+|
+|;O;
+vienne;B;LOC
+avant;O;
+plusieurs;O;
+jours;O;
+.;O;
+C';O;
+est;O;
+la;O;
+plus;O;
+belle;O;
+cham-;O;
+|
+|;O;
+bre;O;
+de;O;
+la;O;
+maison;O;
+|;|;O;
+au;O;
+-;O;
+premier;O;
+|;|;O;
+voulez;O;
+-vous;O;
+me;O;
+suivre;O;
+?;O;
+.;O;
+…;O;
+.;O;
+|
+|;O;
+Là;B;MISC
+!;I;MISC
+Une;O;
+jolie;O;
+chambre;O;
+,;O;
+n';O;
+est;O;
+-ce;O;
+pas;O;
+?;O;
+J';O;
+ai;O;
+vu;O;
+des;O;
+dames;O;
+|
+|;O;
+me;O;
+la;O;
+rélenir;O;
+quelquefois;O;
+deux;O;
+mois;O;
+à;O;
+l';O;
+avance;O;
+.;O;
+Mais;O;
+à;O;
+|
+|;O;
+présent;O;
+,;O;
+savez;O;
+-vous;O;
+,;O;
+il;O;
+n';O;
+y;O;
+a;O;
+plus;O;
+grand;O;
+monde;O;
+ici;O;
+.;O;
+Ces;O;
+|
+|;O;
+messieurs;O;
+sont;O;
+à;O;
+Spa;B;LOC
+,;O;
+à;O;
+Dinan;B;LOC
+,;O;
+à;O;
+Ostende;B;LOC
+,;O;
+ou;O;
+bien;O;
+|
+|;O;
+dans;O;
+les;O;
+villes;O;
+d';O;
+eaux;O;
+de;B;LOC
+France;I;LOC
+ou;O;
+d';O;
+Allemagne;B;LOC
+|;|;O;
+par-;O;
+|
+|;O;
+tout;O;
+où;O;
+1l;O;
+y;O;
+a;O;
+du;O;
+travail;O;
+,;O;
+quoïil;O;
+C';B;MISC
+est;I;MISC
+la;I;MISC
+saison;I;MISC
+.;O;
+Et;O;
+|
+|;O;
+puis;O;
+,;O;
+ts;O;
+ne;O;
+peuvent;O;
+pas;O;
+laisser;O;
+leurs;O;
+dames;O;
+toutes;O;
 |
 
-| O 
-- O 
-Quels O 
-messieurs O 
-? O 
-Quelle O 
-saison O 
-? O 
-Quelles O 
-dames O 
-? O 
-|
-| O 
-L' O 
-hôtesse O 
-continue O 
-: O 
-: O 
-- O 
-: O 
+|;O;
+seules;O;
+|;|;O;
+les;O;
+’;O;
+dames;O;
+,;O;
+savez;O;
+-vous;O;
+,;O;
+ça;O;
+fait;O;
+des;O;
+bêtises;O;
+st;O;
 |
 
-| O 
-“ O 
-— O 
-On O 
-va O 
-vous O 
-apporter O 
-voire O 
-malle O 
-de O 
-la O 
-gare O 
-. O 
-Vous O 
+|;O;
+facilement;O;
+...;O;
+||||;O;
+EE;O;
+ne;O;
 |
-| O 
-pouvez O 
-être O 
-tranquille O 
-, O 
-savez O 
--vous O 
-| | O 
-on O 
-ne O 
-l' O 
-ouvrira O 
+
+|;O;
+-;O;
+Quels;O;
+messieurs;O;
+?;O;
+Quelle;O;
+saison;O;
+?;O;
+Quelles;O;
+dames;O;
+?;O;
 |
-| O 
-pas O 
-. O 
-C' O 
-est O 
-mon O 
-mari O 
-qui O 
-a O 
-été O 
-la O 
-chercher O 
-lui-même O 
-| | O 
+|;O;
+L';O;
+hôtesse;O;
+continue;O;
+:;O;
+:;O;
+-;O;
+:;O;
 |
-| O 
-el B-LOC
-avec O 
-lui O 
-, O 
-Savez B-PER
--vous O 
-, O 
-jamais O 
-de O 
-visite O 
-| | O 
-il O 
-s’ B-PER
-est O 
+
+|;O;
+“;O;
+—;O;
+On;O;
+va;O;
+vous;O;
+apporter;O;
+voire;O;
+malle;O;
+de;O;
+la;O;
+gare;O;
+.;O;
+Vous;O;
 |
-| O 
-arrangé O 
-avec O 
-les O 
-douaniers O 
-pour O 
-ça O 
-. O 
-Ca B-LOC
-nous O 
-coûte O 
-ce O 
+|;O;
+pouvez;O;
+être;O;
+tranquille;O;
+,;O;
+savez;O;
+-vous;O;
+|;|;O;
+on;O;
+ne;O;
+l';O;
+ouvrira;O;
 |
-| O 
-que O 
-ça O 
-nous O 
-coûte O 
-| | O 
-mais O 
-au O 
-moins O 
-, O 
-les O 
-bagages O 
-de O 
-nos O 
+|;O;
+pas;O;
+.;O;
+C';O;
+est;O;
+mon;O;
+mari;O;
+qui;O;
+a;O;
+été;O;
+la;O;
+chercher;O;
+lui-même;O;
+|;|;O;
 |
-| O 
-clients O 
-, O 
-c' O 
-est O 
-sacré O 
-. O 
-Sans O 
-ça O 
-, O 
-avec O 
-les O 
-droits O 
-d' O 
-entrée O 
+|;O;
+el;B;LOC
+avec;O;
+lui;O;
+,;O;
+Savez;B;PER
+-vous;O;
+,;O;
+jamais;O;
+de;O;
+visite;O;
+|;|;O;
+il;O;
+s’;B;PER
+est;O;
 |
-| O 
-sur O 
-les O 
-toileftes O 
-, O 
-ces O 
-dames O 
-auraient O 
-quelque O 
-chose O 
-à O 
+|;O;
+arrangé;O;
+avec;O;
+les;O;
+douaniers;O;
+pour;O;
+ça;O;
+.;O;
+Ca;B;LOC
+nous;O;
+coûte;O;
+ce;O;
 |
-| O 
-payer O 
-, O 
-savez O 
--vous O 
-. O 
-ET O 
-puis O 
-, O 
-vos O 
-instruments O 
-à O 
-vous O 
-, O 
-ls O 
+|;O;
+que;O;
+ça;O;
+nous;O;
+coûte;O;
+|;|;O;
+mais;O;
+au;O;
+moins;O;
+,;O;
+les;O;
+bagages;O;
+de;O;
+nos;O;
 |
-| O 
-auraient O 
-du O 
-mal O 
-à O 
-échapper O 
-à O 
-l' O 
-œil O 
-, O 
-hein O 
-? O 
-Je O 
-sais O 
-bien O 
+|;O;
+clients;O;
+,;O;
+c';O;
+est;O;
+sacré;O;
+.;O;
+Sans;O;
+ça;O;
+,;O;
+avec;O;
+les;O;
+droits;O;
+d';O;
+entrée;O;
 |
-| O 
-qu' O 
-il O 
-vous O 
-en O 
-faut O 
-des O 
-solides O 
-el O 
-que O 
-vous O 
-ne O 
-fouvez O 
-pas O 
+|;O;
+sur;O;
+les;O;
+toileftes;O;
+,;O;
+ces;O;
+dames;O;
+auraient;O;
+quelque;O;
+chose;O;
+à;O;
+|
+|;O;
+payer;O;
+,;O;
+savez;O;
+-vous;O;
+.;O;
+ET;O;
+puis;O;
+,;O;
+vos;O;
+instruments;O;
+à;O;
+vous;O;
+,;O;
+ls;O;
+|
+|;O;
+auraient;O;
+du;O;
+mal;O;
+à;O;
+échapper;O;
+à;O;
+l';O;
+œil;O;
+,;O;
+hein;O;
+?;O;
+Je;O;
+sais;O;
+bien;O;
+|
+|;O;
+qu';O;
+il;O;
+vous;O;
+en;O;
+faut;O;
+des;O;
+solides;O;
+el;O;
+que;O;
+vous;O;
+ne;O;
+fouvez;O;
+pas;O;
 |
 
-| O 
-Pa O 
+|;O;
+Pa;O;
 |
 
-| O 
-LUS O 
+|;O;
+LUS;O;
 |
 
-| O 
-. O 
+|;O;
+.;O;
 |
 
-| O 
-AVANT-PROPOS B-PER
-IT I-PER
+|;O;
+AVANT-PROPOS;B;PER
+IT;I;PER
 |
 
-| O 
-toujours O 
-les O 
-mettre O 
-dans O 
-vos O 
-poches O 
-| | O 
-mais O 
-, O 
-enfin O 
-, O 
-on O 
+|;O;
+toujours;O;
+les;O;
+mettre;O;
+dans;O;
+vos;O;
+poches;O;
+|;|;O;
+mais;O;
+,;O;
+enfin;O;
+,;O;
+on;O;
 |
-| O 
-voit O 
-bien O 
-que O 
-ce O 
-n' O 
-est O 
-pas O 
-fait O 
-pour O 
-arracher O 
-les O 
-dents O 
-. O 
+|;O;
+voit;O;
+bien;O;
+que;O;
+ce;O;
+n';O;
+est;O;
+pas;O;
+fait;O;
+pour;O;
+arracher;O;
+les;O;
+dents;O;
+.;O;
 |
-| O 
-Vaut O 
-mieux O 
-que O 
-tout O 
-ça O 
-passe B-LOC
-franco I-LOC
-. O 
-|
-
-| O 
-— O 
-C' O 
-est O 
-bien O 
-certain O 
-. O 
-Mais O 
-. O 
-|||| O 
+|;O;
+Vaut;O;
+mieux;O;
+que;O;
+tout;O;
+ça;O;
+passe;B;LOC
+franco;I;LOC
+.;O;
 |
 
-| O 
-— O 
-Ah B-MISC
-! I-MISC
-j' O 
-oubliais O 
-. O 
-La O 
-valise O 
-qui O 
-est O 
-dans O 
-le O 
-coin O 
-, O 
-là O 
-, O 
-|
-| O 
-c’ B-MISC
-est O 
-la O 
-valise O 
-de O 
-M. B-PER
-Randal I-PER
-| | O 
-1l O 
-n' O 
-a O 
-pas O 
-voulu O 
-l’ B-ORG
-empor- O 
-|
-| O 
-ler O 
-, O 
-hier O 
-. O 
-Si O 
-elle O 
-ne O 
-vous O 
-gêne O 
-pas O 
-, O 
-je O 
-la O 
-laisserai O 
-dans O 
-|
-| O 
-la O 
-chambre O 
-| | O 
-elle O 
-est O 
-plus O 
-en O 
-Sûreté B-LOC
-qu' O 
-ailleurs O 
-| | O 
-car O 
-je O 
-|
-| O 
-sais O 
-bien O 
-qu' O 
-entre O 
-vous O 
-... O 
-À O 
-moins O 
-qu’ B-PER
-elle O 
-né O 
-vous O 
-|
-| O 
-embarrasse O 
-? O 
-|||| O 
+|;O;
+—;O;
+C';O;
+est;O;
+bien;O;
+certain;O;
+.;O;
+Mais;O;
+.;O;
+||||;O;
 |
 
-| O 
-— O 
-Pas B-LOC
-le O 
-moins O 
-du O 
-monde O 
-. O 
+|;O;
+—;O;
+Ah;B;MISC
+!;I;MISC
+j';O;
+oubliais;O;
+.;O;
+La;O;
+valise;O;
+qui;O;
+est;O;
+dans;O;
+le;O;
+coin;O;
+,;O;
+là;O;
+,;O;
+|
+|;O;
+c’;B;MISC
+est;O;
+la;O;
+valise;O;
+de;O;
+M.;B;PER
+Randal;I;PER
+|;|;O;
+1l;O;
+n';O;
+a;O;
+pas;O;
+voulu;O;
+l’;B;ORG
+empor-;O;
+|
+|;O;
+ler;O;
+,;O;
+hier;O;
+.;O;
+Si;O;
+elle;O;
+ne;O;
+vous;O;
+gêne;O;
+pas;O;
+,;O;
+je;O;
+la;O;
+laisserai;O;
+dans;O;
+|
+|;O;
+la;O;
+chambre;O;
+|;|;O;
+elle;O;
+est;O;
+plus;O;
+en;O;
+Sûreté;B;LOC
+qu';O;
+ailleurs;O;
+|;|;O;
+car;O;
+je;O;
+|
+|;O;
+sais;O;
+bien;O;
+qu';O;
+entre;O;
+vous;O;
+...;O;
+À;O;
+moins;O;
+qu’;B;PER
+elle;O;
+né;O;
+vous;O;
+|
+|;O;
+embarrasse;O;
+?;O;
+||||;O;
 |
 
-| O 
-— O 
-J' O 
-eshère O 
-que O 
-Monsieur B-PER
-sera O 
-satisfait O 
-, O 
-dit O 
-l' O 
-hôlesse O 
-|
-| O 
-én O 
-se O 
-retirant O 
-. O 
-ET O 
-pour O 
-le O 
-tarif O 
-, O 
-c' O 
-est O 
-toujours O 
-comme O 
-|
-| O 
-ces O 
-messieurs O 
-ont O 
-dû O 
-le O 
-dire O 
-à O 
-Monsieur B-PER
-. O 
+|;O;
+—;O;
+Pas;B;LOC
+le;O;
+moins;O;
+du;O;
+monde;O;
+.;O;
 |
 
-| O 
-J' O 
-esquisse O 
-un O 
-sourire O 
-. O 
-|||| O 
+|;O;
+—;O;
+J';O;
+eshère;O;
+que;O;
+Monsieur;B;PER
+sera;O;
+satisfait;O;
+,;O;
+dit;O;
+l';O;
+hôlesse;O;
+|
+|;O;
+én;O;
+se;O;
+retirant;O;
+.;O;
+ET;O;
+pour;O;
+le;O;
+tarif;O;
+,;O;
+c';O;
+est;O;
+toujours;O;
+comme;O;
+|
+|;O;
+ces;O;
+messieurs;O;
+ont;O;
+dû;O;
+le;O;
+dire;O;
+à;O;
+Monsieur;B;PER
+.;O;
 |
 
-| O 
-J' O 
-ai O 
-été O 
-très O 
-satisfait O 
-. O 
-Et O 
-le O 
-soir O 
-, O 
-retiré O 
-dans O 
-ma O 
-|
-| O 
-chambre O 
-, O 
-fort O 
-ennuyé O 
-— O 
-car O 
-j' O 
-avais O 
-appris O 
-que O 
-le O 
-roi O 
-|
-| O 
-Léopold B-PER
-était O 
-enrhumé O 
-et O 
-qu’ B-PER
-il O 
-ne O 
-sortirait O 
-pas O 
-de O 
-quel- O 
-|
-| O 
-que O 
-temps O 
-— O 
-il O 
-m' O 
-est O 
-venu O 
-à O 
-l' O 
-idée O 
-, O 
-pour O 
-tromper O 
-mon O 
-|
-| O 
-chagrin O 
-, O 
-de O 
-regarder O 
-ce O 
-que O 
-contenait O 
-la O 
-valise O 
-de O 
-|
-| O 
-M. B-PER
-Randal I-PER
-. O 
-Curiosité B-LOC
-malsaine,.je O 
-l' O 
-accorde O 
-. O 
-Mais O 
-. O 
-|
-| O 
-pourquoi O 
-avait O 
--on O 
-laissé O 
-ce O 
-porte-manteau O 
-dans O 
-ma O 
-|
-| O 
-chambre O 
-? O 
-Pourquot B-PER
-étais O 
--je O 
-morose O 
-et O 
-désœuvré O 
-? O 
-Pour- O 
-|
-| O 
-quot O 
-le O 
-roi B-PER
-Léopold I-PER
-était-1l O 
-enrhumé O 
-? O 
-Autant O 
-de O 
-ques- O 
-|
-| O 
-fions O 
-auxquelles O 
-il O 
-faudrait O 
-répondre O 
-avant O 
-de O 
-me O 
-|
-| O 
-juger O 
-trop O 
-sévèrement O 
-. O 
-_ O 
+|;O;
+J';O;
+esquisse;O;
+un;O;
+sourire;O;
+.;O;
+||||;O;
 |
 
-| O 
-_ O 
-Bref O 
-, O 
-j' O 
-ouvris O 
-la O 
-valise O 
-| | O 
-elle O 
-n’ B-PER
-était O 
-point O 
-fermée O 
-à O 
+|;O;
+J';O;
+ai;O;
+été;O;
+très;O;
+satisfait;O;
+.;O;
+Et;O;
+le;O;
+soir;O;
+,;O;
+retiré;O;
+dans;O;
+ma;O;
 |
-| O 
-clé O 
-| | O 
-les O 
-courroies O 
-seules O 
-la O 
-bouclaient O 
-. O 
-Je O 
-n' O 
-aurai O 
-pas O 
-, O 
+|;O;
+chambre;O;
+,;O;
+fort;O;
+ennuyé;O;
+—;O;
+car;O;
+j';O;
+avais;O;
+appris;O;
+que;O;
+le;O;
+roi;O;
 |
-| O 
-Dieu B-MISC
-merci O 
-, O 
-une O 
-effraction O 
-sur O 
-la O 
-conscience O 
-. O 
-Dedans B-LOC
-, O 
+|;O;
+Léopold;B;PER
+était;O;
+enrhumé;O;
+et;O;
+qu’;B;PER
+il;O;
+ne;O;
+sortirait;O;
+pas;O;
+de;O;
+quel-;O;
 |
-| O 
-pas O 
-grand'chose O 
-d' O 
-intéressant O 
-: O 
-des O 
-ferrailles O 
-, O 
-des O 
-ins- O 
+|;O;
+que;O;
+temps;O;
+—;O;
+il;O;
+m';O;
+est;O;
+venu;O;
+à;O;
+l';O;
+idée;O;
+,;O;
+pour;O;
+tromper;O;
+mon;O;
 |
-| O 
-{ O 
-ruments O 
-d' O 
-acier O 
-de O 
-différentes O 
-formes O 
-et O 
-de O 
-différentes O 
+|;O;
+chagrin;O;
+,;O;
+de;O;
+regarder;O;
+ce;O;
+que;O;
+contenait;O;
+la;O;
+valise;O;
+de;O;
 |
-| O 
-grandeurs O 
-, O 
-dont O 
-j' O 
-ignore O 
-l' O 
-usage O 
-. O 
-À O 
-quoi O 
-ça O 
-peut O 
--il O 
+|;O;
+M.;B;PER
+Randal;I;PER
+.;O;
+Curiosité;B;LOC
+malsaine,.je;O;
+l';O;
+accorde;O;
+.;O;
+Mais;O;
+.;O;
 |
-| O 
-servir O 
-? O 
-Mystère B-PER
-. O 
-Une O 
-petite O 
-bouteille O 
-éfiquetée O 
-: O 
-Chlo- O 
+|;O;
+pourquoi;O;
+avait;O;
+-on;O;
+laissé;O;
+ce;O;
+porte-manteau;O;
+dans;O;
+ma;O;
 |
-| O 
-roforme O 
-. O 
-Ne O 
-l’ B-ORG
-ouvrons O 
-pas O 
-! O 
-Une O 
-boîte O 
-en O 
-fer O 
-, O 
-avec O 
-des O 
+|;O;
+chambre;O;
+?;O;
+Pourquot;B;PER
+étais;O;
+-je;O;
+morose;O;
+et;O;
+désœuvré;O;
+?;O;
+Pour-;O;
 |
-| O 
-boulettes O 
-dedans O 
-. O 
-Qu' O 
-est O 
--ce O 
-que O 
-c' O 
-est O 
-que O 
-ça O 
-? O 
-N' O 
-y O 
-tou- O 
+|;O;
+quot;O;
+le;O;
+roi;B;PER
+Léopold;I;PER
+était-1l;O;
+enrhumé;O;
+?;O;
+Autant;O;
+de;O;
+ques-;O;
 |
-| O 
-chons O 
-pas O 
-, O 
-c' O 
-est O 
-plus O 
-prudent O 
-. O 
-Un O 
-gros O 
-rouleau O 
-de O 
+|;O;
+fions;O;
+auxquelles;O;
+il;O;
+faudrait;O;
+répondre;O;
+avant;O;
+de;O;
+me;O;
 |
-| O 
-papiers O 
-. O 
-Je O 
-dénoue O 
-la O 
-ficelle O 
-qui O 
-l’ B-LOC
-attache O 
-. O 
-Qu' O 
-est O 
--ce O 
-que O 
-|
-| O 
-cela O 
-peut O 
-être O 
-? O 
-Je O 
-me O 
-mets O 
-à O 
-lire O 
-... B-MISC
+|;O;
+juger;O;
+trop;O;
+sévèrement;O;
+.;O;
+_;O;
 |
 
-| I-MISC
-J' I-MISC
-ai I-MISC
-lu I-MISC
-toute I-MISC
-la I-MISC
-nuit I-MISC
-. O 
-Avec O 
-intérêt O 
-? O 
-Vous O 
-en O 
-jugerez O 
-: O 
+|;O;
+_;O;
+Bref;O;
+,;O;
+j';O;
+ouvris;O;
+la;O;
+valise;O;
+|;|;O;
+elle;O;
+n’;B;PER
+était;O;
+point;O;
+fermée;O;
+à;O;
 |
-| O 
-ce O 
-que O 
-j' O 
-ai O 
-lu O 
-cette O 
-nuit O 
--là O 
-, O 
-vous O 
-allez O 
-lé O 
-lire O 
-tout O 
-à O 
+|;O;
+clé;O;
+|;|;O;
+les;O;
+courroies;O;
+seules;O;
+la;O;
+bouclaient;O;
+.;O;
+Je;O;
+n';O;
+aurai;O;
+pas;O;
+,;O;
 |
-| O 
-l' O 
-heure O 
-. O 
-ET O 
-le O 
-matin O 
-, O 
-quand O 
-il O 
-m' O 
-a O 
-fallu O 
-sortir O 
-, O 
-je O 
-nai O 
-: O 
+|;O;
+Dieu;B;MISC
+merci;O;
+,;O;
+une;O;
+effraction;O;
+sur;O;
+la;O;
+conscience;O;
+.;O;
+Dedans;B;LOC
+,;O;
 |
-| O 
-pas O 
-voulu O 
-laisser O 
-traîner O 
-sur O 
-une O 
-table O 
-le O 
-manuscrit O 
+|;O;
+pas;O;
+grand'chose;O;
+d';O;
+intéressant;O;
+:;O;
+des;O;
+ferrailles;O;
+,;O;
+des;O;
+ins-;O;
+|
+|;O;
+{;O;
+ruments;O;
+d';O;
+acier;O;
+de;O;
+différentes;O;
+formes;O;
+et;O;
+de;O;
+différentes;O;
+|
+|;O;
+grandeurs;O;
+,;O;
+dont;O;
+j';O;
+ignore;O;
+l';O;
+usage;O;
+.;O;
+À;O;
+quoi;O;
+ça;O;
+peut;O;
+-il;O;
+|
+|;O;
+servir;O;
+?;O;
+Mystère;B;PER
+.;O;
+Une;O;
+petite;O;
+bouteille;O;
+éfiquetée;O;
+:;O;
+Chlo-;O;
+|
+|;O;
+roforme;O;
+.;O;
+Ne;O;
+l’;B;ORG
+ouvrons;O;
+pas;O;
+!;O;
+Une;O;
+boîte;O;
+en;O;
+fer;O;
+,;O;
+avec;O;
+des;O;
+|
+|;O;
+boulettes;O;
+dedans;O;
+.;O;
+Qu';O;
+est;O;
+-ce;O;
+que;O;
+c';O;
+est;O;
+que;O;
+ça;O;
+?;O;
+N';O;
+y;O;
+tou-;O;
+|
+|;O;
+chons;O;
+pas;O;
+,;O;
+c';O;
+est;O;
+plus;O;
+prudent;O;
+.;O;
+Un;O;
+gros;O;
+rouleau;O;
+de;O;
+|
+|;O;
+papiers;O;
+.;O;
+Je;O;
+dénoue;O;
+la;O;
+ficelle;O;
+qui;O;
+l’;B;LOC
+attache;O;
+.;O;
+Qu';O;
+est;O;
+-ce;O;
+que;O;
+|
+|;O;
+cela;O;
+peut;O;
+être;O;
+?;O;
+Je;O;
+me;O;
+mets;O;
+à;O;
+lire;O;
+...;B;MISC
+|
+
+|;I;MISC
+J';I;MISC
+ai;I;MISC
+lu;I;MISC
+toute;I;MISC
+la;I;MISC
+nuit;I;MISC
+.;O;
+Avec;O;
+intérêt;O;
+?;O;
+Vous;O;
+en;O;
+jugerez;O;
+:;O;
+|
+|;O;
+ce;O;
+que;O;
+j';O;
+ai;O;
+lu;O;
+cette;O;
+nuit;O;
+-là;O;
+,;O;
+vous;O;
+allez;O;
+lé;O;
+lire;O;
+tout;O;
+à;O;
+|
+|;O;
+l';O;
+heure;O;
+.;O;
+ET;O;
+le;O;
+matin;O;
+,;O;
+quand;O;
+il;O;
+m';O;
+a;O;
+fallu;O;
+sortir;O;
+,;O;
+je;O;
+nai;O;
+:;O;
+|
+|;O;
+pas;O;
+voulu;O;
+laisser;O;
+traîner;O;
+sur;O;
+une;O;
+table;O;
+le;O;
+manuscrit;O;
 |
 
-| O 
-EN O 
+|;O;
+EN;O;
 |
 
-| O 
-IV B-MISC
-. O 
-AVANT O 
--PROPOS O 
+|;O;
+IV;B;MISC
+.;O;
+AVANT;O;
+-PROPOS;O;
 |
 
-| O 
-dont O 
-je O 
-n' O 
-avais O 
-pas O 
-achevé O 
-la O 
-lecture O 
-, O 
-ni O 
-même O 
-le O 
-re- O 
+|;O;
+dont;O;
+je;O;
+n';O;
+avais;O;
+pas;O;
+achevé;O;
+la;O;
+lecture;O;
+,;O;
+ni;O;
+même;O;
+le;O;
+re-;O;
 |
 
-| O 
-meltre O 
-dans O 
-la O 
-valise O 
-. O 
-On O 
-aurait O 
-pu O 
-l' O 
-enlever O 
-, O 
-pendant O 
+|;O;
+meltre;O;
+dans;O;
+la;O;
+valise;O;
+.;O;
+On;O;
+aurait;O;
+pu;O;
+l';O;
+enlever;O;
+,;O;
+pendant;O;
 |
-| O 
-mon O 
-absence O 
-. O 
-Je O 
-l' O 
-ai O 
-enfermé O 
-dans O 
-ma O 
-imalle O 
-. O 
-|
-
-| O 
-Dans O 
-la O 
-journée O 
-, O 
-j' O 
-ai O 
-appris O 
-une O 
-chose O 
-très O 
-ennuyante O 
-. O 
-|
-| O 
-L' O 
-hôtel O 
-où O 
-j' O 
-habile O 
-est O 
-un O 
-hôtel O 
-interlope O 
-— O 
-des O 
-plus O 
-|
-| O 
-interlopes O 
-. O 
-— O 
-Il O 
-n' O 
-est O 
-fréquenté O 
-que O 
-par O 
-des O 
-voleurs O 
-| | O 
-|
-| O 
-pas O 
-toujours O 
-célibataires O 
-. O 
-Quel O 
-malheur O 
-d' O 
-être O 
-tombé O 
-, O 
-|
-| O 
-du O 
-permier O 
-coup O 
-, O 
-dans O 
-une O 
-maison O 
--pareille O 
-— O 
-une O 
+|;O;
+mon;O;
+absence;O;
+.;O;
+Je;O;
+l';O;
+ai;O;
+enfermé;O;
+dans;O;
+ma;O;
+imalle;O;
+.;O;
 |
 
-| O 
-_ O 
-inaison O 
-où O 
-l’ B-LOC
-on O 
-était O 
-si O 
-bien O 
-, O 
-pourtant O 
-... O 
-— O 
-Enfin O 
-! O 
-Je O 
+|;O;
+Dans;O;
+la;O;
+journée;O;
+,;O;
+j';O;
+ai;O;
+appris;O;
+une;O;
+chose;O;
+très;O;
+ennuyante;O;
+.;O;
+|
+|;O;
+L';O;
+hôtel;O;
+où;O;
+j';O;
+habile;O;
+est;O;
+un;O;
+hôtel;O;
+interlope;O;
+—;O;
+des;O;
+plus;O;
+|
+|;O;
+interlopes;O;
+.;O;
+—;O;
+Il;O;
+n';O;
+est;O;
+fréquenté;O;
+que;O;
+par;O;
+des;O;
+voleurs;O;
+|;|;O;
+|
+|;O;
+pas;O;
+toujours;O;
+célibataires;O;
+.;O;
+Quel;O;
+malheur;O;
+d';O;
+être;O;
+tombé;O;
+,;O;
+|
+|;O;
+du;O;
+permier;O;
+coup;O;
+,;O;
+dans;O;
+une;O;
+maison;O;
+-pareille;O;
+—;O;
+une;O;
 |
 
-| O 
-n' O 
-ai O 
-fait O 
-ni O 
-uncnideux O 
-. O 
-J' O 
-ai O 
-envoyé O 
-un O 
-commissionnatire O 
-|
-| O 
-chercher O 
-mes O 
-bagages O 
-et O 
-régler O 
-ma O 
-note O 
-, O 
-ct O 
-je O 
-me O 
-suis O 
-|
-| O 
-installé O 
-ailleurs O 
-. O 
-, O 
-|
-| O 
-ET O 
-maintenant O 
-, O 
-maintenant O 
-que O 
-j' O 
-ai O 
-lerminé O 
-la O 
-|
-| O 
-lecture O 
-des O 
-mémoires O 
-de O 
-M. B-PER
-Randal I-PER
-— O 
-l' O 
-appellerai-7e O 
-|
-| O 
-Monsieur B-PER
-? O 
-— O 
-maintenant O 
-que O 
-j' O 
-ai O 
-en O 
-ina O 
-possession O 
-ce O 
-|
-| O 
-manuscrit O 
-que O 
-je O 
-n' O 
-aurais O 
-jamais O 
-dit O 
-lire O 
-, O 
-jamais O 
-dû O 
-|
-| O 
-loucher B-PER
-, O 
-qu' O 
-en O 
-dois O 
--je O 
-faire O 
-, O 
-de O 
-ce O 
-manuscrit O 
-? O 
+|;O;
+_;O;
+inaison;O;
+où;O;
+l’;B;LOC
+on;O;
+était;O;
+si;O;
+bien;O;
+,;O;
+pourtant;O;
+...;O;
+—;O;
+Enfin;O;
+!;O;
+Je;O;
 |
 
-| O 
-— O 
-Le O 
-restituer O 
-|||| O 
-me O 
-crie O 
-une O 
-voix O 
-intérieure O 
-, O 
-mais O 
+|;O;
+n';O;
+ai;O;
+fait;O;
+ni;O;
+uncnideux;O;
+.;O;
+J';O;
+ai;O;
+envoyé;O;
+un;O;
+commissionnatire;O;
 |
-| O 
-impérieuse O 
-. O 
+|;O;
+chercher;O;
+mes;O;
+bagages;O;
+et;O;
+régler;O;
+ma;O;
+note;O;
+,;O;
+ct;O;
+je;O;
+me;O;
+suis;O;
 |
-| O 
-‘ O 
-Naturellement B-PER
-. O 
-Mais O 
-comment O 
-faire O 
-? O 
-Le O 
-renvoyer O 
+|;O;
+installé;O;
+ailleurs;O;
+.;O;
+,;O;
 |
-| O 
-par O 
-la O 
-- O 
-poste O 
-? O 
-Impossible B-PER
-, O 
-mon O 
-départ O 
-précipité O 
-a O 
-dû O 
+|;O;
+ET;O;
+maintenant;O;
+,;O;
+maintenant;O;
+que;O;
+j';O;
+ai;O;
+lerminé;O;
+la;O;
 |
-| O 
-dejà O 
-sembler O 
-louche O 
-. O 
-On O 
-saura O 
-d’ B-MISC
-où O 
-il O 
-vient O 
-, O 
-ce O 
-rouleau O 
+|;O;
+lecture;O;
+des;O;
+mémoires;O;
+de;O;
+M.;B;PER
+Randal;I;PER
+—;O;
+l';O;
+appellerai-7e;O;
 |
-| O 
-de O 
-papiers O 
-que O 
-rapportera O 
-le O 
-facteur O 
-| | O 
-je O 
-passerai O 
-pour O 
+|;O;
+Monsieur;B;PER
+?;O;
+—;O;
+maintenant;O;
+que;O;
+j';O;
+ai;O;
+en;O;
+ina;O;
+possession;O;
+ce;O;
 |
-| O 
-un O 
-mouchard O 
-narquois O 
-qui O 
-n' O 
-a O 
-pas O 
-le O 
-courage O 
-de O 
-sa O 
+|;O;
+manuscrit;O;
+que;O;
+je;O;
+n';O;
+aurais;O;
+jamais;O;
+dit;O;
+lire;O;
+,;O;
+jamais;O;
+dû;O;
 |
-| O 
-fonchion O 
-, O 
-et O 
-un O 
-de O 
-ces O 
-soirs O 
-« O 
-ces O 
-Messieurs B-PER
-» O 
-1ne O 
-Casse- B-PER
-|
-| O 
-ront O 
-le O 
-nez O 
-, O 
-dans O 
-un O 
-coin O 
-. O 
-Bien O 
-grand O 
-merci O 
-. O 
-oo O 
+|;O;
+loucher;B;PER
+,;O;
+qu';O;
+en;O;
+dois;O;
+-je;O;
+faire;O;
+,;O;
+de;O;
+ce;O;
+manuscrit;O;
+?;O;
 |
 
-| O 
-Le B-MISC
-rapporter I-MISC
-moi I-MISC
-- I-MISC
-même I-MISC
-, O 
-avec O 
-quelques O 
-plaisanteries O 
+|;O;
+—;O;
+Le;O;
+restituer;O;
+||||;O;
+me;O;
+crie;O;
+une;O;
+voix;O;
+intérieure;O;
+,;O;
+mais;O;
 |
-| O 
-en O 
-guise O 
-d' O 
-excuses O 
-? O 
-Ce O 
-serait O 
-le O 
-mieux O 
-, O 
-à O 
-tous O 
-les O 
-points O 
+|;O;
+impérieuse;O;
+.;O;
 |
-| O 
-de O 
-vue O 
-. O 
-Malheureusement O 
-, O 
-c’ B-MISC
-est O 
-impraticable O 
-. O 
-ke O 
-suis O 
+|;O;
+‘;O;
+Naturellement;B;PER
+.;O;
+Mais;O;
+comment;O;
+faire;O;
+?;O;
+Le;O;
+renvoyer;O;
 |
-| O 
-entré O 
-une O 
-fois O 
-dans O 
-cet O 
-hôtel O 
-interlope O 
-et O 
-, O 
-j' O 
-aime O 
-au O 
+|;O;
+par;O;
+la;O;
+-;O;
+poste;O;
+?;O;
+Impossible;B;PER
+,;O;
+mon;O;
+départ;O;
+précipité;O;
+a;O;
+dû;O;
 |
-| O 
-moins O 
-à O 
-l’ B-LOC
-espérer O 
-, O 
-personne O 
-ne O 
-ma O 
-vu O 
-. O 
-Maïs B-PER
-si O 
-7 O 
-y O 
-re- O 
+|;O;
+dejà;O;
+sembler;O;
+louche;O;
+.;O;
+On;O;
+saura;O;
+d’;B;MISC
+où;O;
+il;O;
+vient;O;
+,;O;
+ce;O;
+rouleau;O;
 |
-| O 
-tourne O 
-et O 
-qu' O 
-on O 
-m' O 
-observe O 
-, O 
-si O 
-l' O 
-on O 
-vient O 
-à O 
-remarquer O 
-ma O 
+|;O;
+de;O;
+papiers;O;
+que;O;
+rapportera;O;
+le;O;
+facteur;O;
+|;|;O;
+je;O;
+passerai;O;
+pour;O;
 |
-| O 
-présence O 
-dans O 
-ce O 
-repaire O 
-de O 
-bandits O 
-cosmopoliles O 
-, O 
-st B-MISC
+|;O;
+un;O;
+mouchard;O;
+narquois;O;
+qui;O;
+n';O;
+a;O;
+pas;O;
+le;O;
+courage;O;
+de;O;
+sa;O;
 |
-| I-MISC
-l' I-MISC
-on I-MISC
-s' I-MISC
-aperçoit I-MISC
-que I-MISC
-je I-MISC
-fréquente I-MISC
-des I-MISC
-endroits I-MISC
-suspects I-MISC
-— I-MISC
+|;O;
+fonchion;O;
+,;O;
+et;O;
+un;O;
+de;O;
+ces;O;
+soirs;O;
+«;O;
+ces;O;
+Messieurs;B;PER
+»;O;
+1ne;O;
+Casse-;B;PER
 |
-| O 
-que O 
-n' O 
-ira O 
--t O 
--on O 
-pas O 
-supposer O 
-? O 
-Quels B-PER
-quoyements O 
-témé- O 
-|
-| O 
-raires O 
-ne O 
-bortera O 
--t O 
--on O 
-pas O 
-sur O 
-ma O 
-vie O 
-privée O 
-? O 
-Que O 
-diront O 
-|
-| O 
-mes O 
-ennemis O 
-? O 
+|;O;
+ront;O;
+le;O;
+nez;O;
+,;O;
+dans;O;
+un;O;
+coin;O;
+.;O;
+Bien;O;
+grand;O;
+merci;O;
+.;O;
+oo;O;
 |
 
-| O 
-La O 
-situation O 
-est O 
-embarrassante O 
-. O 
-Comment O 
-en O 
-sortir O 
-? O 
+|;O;
+Le;B;MISC
+rapporter;I;MISC
+moi;I;MISC
+-;I;MISC
+même;I;MISC
+,;O;
+avec;O;
+quelques;O;
+plaisanteries;O;
 |
-| O 
-Eh B-MISC
-! I-MISC
-bien O 
-, O 
-le O 
-manuscrit O 
-lui-même O 
-men O 
-donne O 
-le O 
+|;O;
+en;O;
+guise;O;
+d';O;
+excuses;O;
+?;O;
+Ce;O;
+serait;O;
+le;O;
+mieux;O;
+,;O;
+à;O;
+tous;O;
+les;O;
+points;O;
 |
-| O 
-moyen O 
-. O 
-Lequel O 
-? O 
-Vous O 
-le O 
-verrez O 
-. O 
-Maïs B-PER
-je O 
-viens O 
-de O 
-relire O 
+|;O;
+de;O;
+vue;O;
+.;O;
+Malheureusement;O;
+,;O;
+c’;B;MISC
+est;O;
+impraticable;O;
+.;O;
+ke;O;
+suis;O;
 |
-| O 
-les O 
-dernières O 
-pages O 
-— O 
-et O 
-je O 
-me O 
-suis O 
-décidé O 
-, O 
-— O 
-Je B-MISC
-le I-MISC
+|;O;
+entré;O;
+une;O;
+fois;O;
+dans;O;
+cet;O;
+hôtel;O;
+interlope;O;
+et;O;
+,;O;
+j';O;
+aime;O;
+au;O;
 |
-| I-MISC
-garde I-MISC
-, O 
-le O 
-manuscrit O 
-. O 
-Je O 
-le O 
-œurde O 
-ou O 
-, O 
-plutôt O 
-, O 
-je O 
-le O 
-vole B-MISC
+|;O;
+moins;O;
+à;O;
+l’;B;LOC
+espérer;O;
+,;O;
+personne;O;
+ne;O;
+ma;O;
+vu;O;
+.;O;
+Maïs;B;PER
+si;O;
+7;O;
+y;O;
+re-;O;
+|
+|;O;
+tourne;O;
+et;O;
+qu';O;
+on;O;
+m';O;
+observe;O;
+,;O;
+si;O;
+l';O;
+on;O;
+vient;O;
+à;O;
+remarquer;O;
+ma;O;
+|
+|;O;
+présence;O;
+dans;O;
+ce;O;
+repaire;O;
+de;O;
+bandits;O;
+cosmopoliles;O;
+,;O;
+st;B;MISC
+|
+|;I;MISC
+l';I;MISC
+on;I;MISC
+s';I;MISC
+aperçoit;I;MISC
+que;I;MISC
+je;I;MISC
+fréquente;I;MISC
+des;I;MISC
+endroits;I;MISC
+suspects;I;MISC
+—;I;MISC
+|
+|;O;
+que;O;
+n';O;
+ira;O;
+-t;O;
+-on;O;
+pas;O;
+supposer;O;
+?;O;
+Quels;B;PER
+quoyements;O;
+témé-;O;
+|
+|;O;
+raires;O;
+ne;O;
+bortera;O;
+-t;O;
+-on;O;
+pas;O;
+sur;O;
+ma;O;
+vie;O;
+privée;O;
+?;O;
+Que;O;
+diront;O;
+|
+|;O;
+mes;O;
+ennemis;O;
+?;O;
 |
 
-| I-MISC
-TE I-MISC
-RE O 
-ne O 
-à O 
-mm O 
+|;O;
+La;O;
+situation;O;
+est;O;
+embarrassante;O;
+.;O;
+Comment;O;
+en;O;
+sortir;O;
+?;O;
+|
+|;O;
+Eh;B;MISC
+!;I;MISC
+bien;O;
+,;O;
+le;O;
+manuscrit;O;
+lui-même;O;
+men;O;
+donne;O;
+le;O;
+|
+|;O;
+moyen;O;
+.;O;
+Lequel;O;
+?;O;
+Vous;O;
+le;O;
+verrez;O;
+.;O;
+Maïs;B;PER
+je;O;
+viens;O;
+de;O;
+relire;O;
+|
+|;O;
+les;O;
+dernières;O;
+pages;O;
+—;O;
+et;O;
+je;O;
+me;O;
+suis;O;
+décidé;O;
+,;O;
+—;O;
+Je;B;MISC
+le;I;MISC
+|
+|;I;MISC
+garde;I;MISC
+,;O;
+le;O;
+manuscrit;O;
+.;O;
+Je;O;
+le;O;
+œurde;O;
+ou;O;
+,;O;
+plutôt;O;
+,;O;
+je;O;
+le;O;
+vole;B;MISC
+|
+
+|;I;MISC
+TE;I;MISC
+RE;O;
+ne;O;
+à;O;
+mm;O;
 |
 
-| O 
-£ O 
+|;O;
+£;O;
 |
-| O 
-Az B-MISC
+|;O;
+Az;B;MISC
 |
-| O 
-Ë B-LOC
-|
-
-| I-LOC
-F I-LOC
-|
-| O 
-is O 
+|;O;
+Ë;B;LOC
 |
 
-| O 
-1 O 
-: O 
+|;I;LOC
+F;I;LOC
 |
-| O 
-4 O 
-° O 
-|
-| O 
-M. B-PER
-" O 
-|
-| O 
-ss O 
-|
-| O 
-& O 
-|
-| O 
-| | O 
+|;O;
+is;O;
 |
 
-| O 
-RS O 
+|;O;
+1;O;
+:;O;
+|
+|;O;
+4;O;
+°;O;
+|
+|;O;
+M.;B;PER
+";O;
+|
+|;O;
+ss;O;
+|
+|;O;
+&;O;
+|
+|;O;
+|;|;O;
 |
 
-| O 
-5 O 
-Six O 
+|;O;
+RS;O;
 |
-| O 
-hs O 
+
+|;O;
+5;O;
+Six;O;
 |
-| O 
-pes O 
+|;O;
+hs;O;
+|
+|;O;
+pes;O;
 |
 
  
 
-| O 
-5 O 
-: O 
-. O 
+|;O;
+5;O;
+:;O;
+.;O;
 |
-| O 
-08 O 
-dun O 
-© O 
-|
-
-| O 
-AVANT-PROPOS O 
-eV O 
+|;O;
+08;O;
+dun;O;
+©;O;
 |
 
-| O 
-— O 
-comme O 
-je O 
-l' O 
-ai O 
-écrit O 
-plus O 
-haut O 
-el O 
-comme O 
-l' O 
-avait O 
-écrit O 
-, O 
-|
-| O 
-d' O 
-avance O 
-, O 
-le O 
-sieur O 
-Randal B-PER
-. O 
-— O 
-Tant O 
-pis O 
-por O 
-lui O 
-| | O 
-tant O 
-|
-| O 
-pis O 
-pour O 
-moi O 
-. O 
-Je O 
-sais O 
-ce O 
-que O 
-ma O 
-conscience O 
-me O 
-reproche O 
-| | O 
-|
-| O 
-mais O 
-il O 
-n' O 
-est O 
-pas O 
-mauvais O 
-qu' O 
-on O 
-rende O 
-la O 
-pareille O 
-aux O 
+|;O;
+AVANT-PROPOS;O;
+eV;O;
 |
 
-| O 
-_ O 
-filous O 
-, O 
-de O 
-temps O 
-en O 
-temps O 
-. O 
-En O 
-fait O 
-de O 
-respect O 
-de O 
-la O 
-pro- O 
+|;O;
+—;O;
+comme;O;
+je;O;
+l';O;
+ai;O;
+écrit;O;
+plus;O;
+haut;O;
+el;O;
+comme;O;
+l';O;
+avait;O;
+écrit;O;
+,;O;
+|
+|;O;
+d';O;
+avance;O;
+,;O;
+le;O;
+sieur;O;
+Randal;B;PER
+.;O;
+—;O;
+Tant;O;
+pis;O;
+por;O;
+lui;O;
+|;|;O;
+tant;O;
+|
+|;O;
+pis;O;
+pour;O;
+moi;O;
+.;O;
+Je;O;
+sais;O;
+ce;O;
+que;O;
+ma;O;
+conscience;O;
+me;O;
+reproche;O;
+|;|;O;
+|
+|;O;
+mais;O;
+il;O;
+n';O;
+est;O;
+pas;O;
+mauvais;O;
+qu';O;
+on;O;
+rende;O;
+la;O;
+pareille;O;
+aux;O;
 |
 
-| O 
-priété O 
-, O 
-que O 
-Messieurs B-PER
-les O 
-voleurs O 
-commencent O 
-— O 
-pour O 
-|
-| O 
-qu' O 
-on O 
-sache O 
-où O 
-ça O 
-finira O 
-. O 
-|||| O 
-|||| O 
-|||| O 
+|;O;
+_;O;
+filous;O;
+,;O;
+de;O;
+temps;O;
+en;O;
+temps;O;
+.;O;
+En;O;
+fait;O;
+de;O;
+respect;O;
+de;O;
+la;O;
+pro-;O;
 |
 
-| O 
-Finir B-MISC
-! I-MISC
-C’ O 
-est O 
-ce O 
-livre O 
-, O 
-que O 
-je O 
-voudrais O 
-bien O 
-avoir O 
-fint O 
-| | O 
+|;O;
+priété;O;
+,;O;
+que;O;
+Messieurs;B;PER
+les;O;
+voleurs;O;
+commencent;O;
+—;O;
+pour;O;
 |
-| O 
-ce O 
-livre O 
-que O 
-je O 
-n' O 
-ai O 
-pas O 
-écrit O 
-, O 
-et O 
-que O 
-je O 
-tente O 
-vainement O 
-|
-| O 
-de O 
-récrire O 
-. O 
-J' O 
-aurais O 
-été O 
-si O 
-heireux O 
-d' O 
-étendre O 
-cette O 
-prose O 
-, O 
-|
-| O 
-comme O 
-le O 
-corps O 
-d' O 
-un O 
-malandrin O 
-, O 
-sur O 
-le O 
-chevalet O 
-de O 
-tor- O 
-|
-| O 
-ture O 
-! O 
-de O 
-la O 
-tailler O 
-, O 
-de O 
-la O 
-rogner O 
-, O 
-dé O 
-la O 
-fouetter O 
-de O 
-|
-| O 
-cominentaires O 
-ümplacables O 
-— O 
-de O 
-placer O 
-des O 
-phrases O 
-|
-| O 
-sévères O 
-en O 
-enluminures O 
-et O 
-des O 
-conclusions O 
-vengeresses O 
-|
-| O 
-en O 
-culs-de-lampe O 
-1 O 
-! O 
-— O 
-J' O 
-aurais O 
-voulu O 
-moraliser O 
-— O 
-mo- O 
-|
-| O 
-raliser O 
-à O 
-tour O 
-de O 
-bras O 
-, O 
-— O 
-C’ B-MISC
-aurait O 
-été O 
-si O 
-beau O 
-, O 
-n' O 
-est- O 
-|
-| O 
-ce O 
-- O 
-pas O 
-? O 
-un O 
-bon O 
-jugement O 
-, O 
-rendu O 
-par O 
-un O 
-bon O 
-magistrat O 
-, O 
+|;O;
+qu';O;
+on;O;
+sache;O;
+où;O;
+ça;O;
+finira;O;
+.;O;
+||||;O;
+||||;O;
+||||;O;
 |
 
-| O 
-qui O 
-eût O 
-envoyé O 
-le O 
-voleur O 
-dans O 
-une O 
-bonne O 
-prison O 
-, O 
-pour O 
+|;O;
+Finir;B;MISC
+!;I;MISC
+C’;O;
+est;O;
+ce;O;
+livre;O;
+,;O;
+que;O;
+je;O;
+voudrais;O;
+bien;O;
+avoir;O;
+fint;O;
+|;|;O;
+|
+|;O;
+ce;O;
+livre;O;
+que;O;
+je;O;
+n';O;
+ai;O;
+pas;O;
+écrit;O;
+,;O;
+et;O;
+que;O;
+je;O;
+tente;O;
+vainement;O;
+|
+|;O;
+de;O;
+récrire;O;
+.;O;
+J';O;
+aurais;O;
+été;O;
+si;O;
+heireux;O;
+d';O;
+étendre;O;
+cette;O;
+prose;O;
+,;O;
+|
+|;O;
+comme;O;
+le;O;
+corps;O;
+d';O;
+un;O;
+malandrin;O;
+,;O;
+sur;O;
+le;O;
+chevalet;O;
+de;O;
+tor-;O;
+|
+|;O;
+ture;O;
+!;O;
+de;O;
+la;O;
+tailler;O;
+,;O;
+de;O;
+la;O;
+rogner;O;
+,;O;
+dé;O;
+la;O;
+fouetter;O;
+de;O;
+|
+|;O;
+cominentaires;O;
+ümplacables;O;
+—;O;
+de;O;
+placer;O;
+des;O;
+phrases;O;
+|
+|;O;
+sévères;O;
+en;O;
+enluminures;O;
+et;O;
+des;O;
+conclusions;O;
+vengeresses;O;
+|
+|;O;
+en;O;
+culs-de-lampe;O;
+1;O;
+!;O;
+—;O;
+J';O;
+aurais;O;
+voulu;O;
+moraliser;O;
+—;O;
+mo-;O;
+|
+|;O;
+raliser;O;
+à;O;
+tour;O;
+de;O;
+bras;O;
+,;O;
+—;O;
+C’;B;MISC
+aurait;O;
+été;O;
+si;O;
+beau;O;
+,;O;
+n';O;
+est-;O;
+|
+|;O;
+ce;O;
+-;O;
+pas;O;
+?;O;
+un;O;
+bon;O;
+jugement;O;
+,;O;
+rendu;O;
+par;O;
+un;O;
+bon;O;
+magistrat;O;
+,;O;
 |
 
-| O 
-une O 
-bonne O 
-paire O 
-d' O 
-années O 
-! O 
-J' O 
-aurais O 
-voulu O 
-mettre O 
-le O 
-|
-| O 
-repentir O 
-à O 
-côté O 
-du O 
-forfait O 
-, O 
-le O 
-remords O 
-en O 
-face O 
-du O 
-crime O 
-|
-| O 
-— O 
-et O 
-ausst O 
-parler O 
-des O 
-prisons O 
-, O 
-pour O 
-én O 
-dire O 
-du O 
-bien O 
-ou O 
-|
-| O 
-du O 
-mal O 
-( O 
-je O 
-l’ B-ORG
-ignore O 
-. O 
-) O 
-— O 
-J' O 
-ai O 
-essayé O 
-| | O 
-pas O 
-pu O 
-. O 
-Je O 
-ne O 
-sais O 
-|
-| O 
-point O 
-comment O 
-il O 
-écrit O 
-, O 
-ce O 
-Voleur B-PER
--là O 
-| | O 
-mes O 
-phrases O 
-n' O 
-en- O 
-|
-| O 
-{ O 
-rent O 
-pas O 
-dans O 
-les O 
-siennes O 
-. O 
+|;O;
+qui;O;
+eût;O;
+envoyé;O;
+le;O;
+voleur;O;
+dans;O;
+une;O;
+bonne;O;
+prison;O;
+,;O;
+pour;O;
 |
 
-| O 
-ÎT B-ORG
-m' O 
-aurait O 
-fallu O 
-démolir O 
-le O 
-manuscrit O 
-d' O 
-un O 
-bout O 
-à O 
+|;O;
+une;O;
+bonne;O;
+paire;O;
+d';O;
+années;O;
+!;O;
+J';O;
+aurais;O;
+voulu;O;
+mettre;O;
+le;O;
 |
-| O 
-l' O 
-autre O 
-, O 
-ct O 
-le O 
-reconstruire O 
-entièrement O 
-| | O 
-mais O 
-je O 
-manque O 
+|;O;
+repentir;O;
+à;O;
+côté;O;
+du;O;
+forfait;O;
+,;O;
+le;O;
+remords;O;
+en;O;
+face;O;
+du;O;
+crime;O;
 |
-| O 
-d' O 
-expérience O 
-pour O 
-ces O 
-choses O 
--là O 
-. O 
-Qu' O 
-on O 
-ne O 
-m' O 
-en O 
-garde O 
+|;O;
+—;O;
+et;O;
+ausst;O;
+parler;O;
+des;O;
+prisons;O;
+,;O;
+pour;O;
+én;O;
+dire;O;
+du;O;
+bien;O;
+ou;O;
 |
-| O 
-pas O 
-rancune O 
-. O 
-|||| O 
+|;O;
+du;O;
+mal;O;
+(;O;
+je;O;
+l’;B;ORG
+ignore;O;
+.;O;
+);O;
+—;O;
+J';O;
+ai;O;
+essayé;O;
+|;|;O;
+pas;O;
+pu;O;
+.;O;
+Je;O;
+ne;O;
+sais;O;
 |
-
-| O 
-Une O 
-chose O 
-qu' O 
-on O 
-me O 
-reprochera O 
-, O 
-pourtant O 
-— O 
-et O 
-avec O 
+|;O;
+point;O;
+comment;O;
+il;O;
+écrit;O;
+,;O;
+ce;O;
+Voleur;B;PER
+-là;O;
+|;|;O;
+mes;O;
+phrases;O;
+n';O;
+en-;O;
 |
-| O 
-raison O 
-, O 
-je O 
-le O 
-sais O 
-, O 
-— O 
-c’ B-MISC
-est O 
-de O 
-n' O 
-avoir O 
-point O 
-introduit O 
-un O 
-|
-| O 
-personnage O 
-, O 
-un O 
-ancien O 
-élève O 
-de O 
-l' O 
-Ecole B-ORG
-Polytechnique I-ORG
-, O 
-|
-| O 
-par O 
-exemple O 
-, O 
-qui O 
-, O 
-tout O 
-le O 
-long O 
-du O 
-volume O 
-, O 
-aurait O 
-dit O 
-|
-| O 
-son O 
-fait O 
-au O 
-Voleur B-PER
-. O 
-Il O 
-aurait O 
-suffi O 
-de O 
-le O 
-faire O 
-apparaître O 
-|
-| O 
-deux O 
-ou O 
-trois O 
-fois O 
-par O 
-chapitre O 
-et O 
-, O 
-en O 
-vérilé O 
-, O 
-— O 
-à O 
-con- O 
-|
-| O 
-dition O 
-de O 
-ne O 
-changer O 
-son O 
-costume O 
-que O 
-de O 
-temps O 
-à O 
-autre O 
-|
-| O 
-— O 
-rien O 
-ne O 
-m' O 
-eit O 
-élé O 
-plus O 
-facile O 
-. O 
+|;O;
+{;O;
+rent;O;
+pas;O;
+dans;O;
+les;O;
+siennes;O;
+.;O;
 |
 
-| O 
-Mais O 
-, O 
-réflexion O 
-faite O 
-, O 
-je O 
-n' O 
-ai O 
-pas O 
-voulu O 
-créer O 
-ce O 
-per- O 
+|;O;
+ÎT;B;ORG
+m';O;
+aurait;O;
+fallu;O;
+démolir;O;
+le;O;
+manuscrit;O;
+d';O;
+un;O;
+bout;O;
+à;O;
 |
-| O 
-sonnage O 
-sympathique O 
-. O 
-Après O 
-avoir O 
-échoué O 
-dans O 
-ma O 
+|;O;
+l';O;
+autre;O;
+,;O;
+ct;O;
+le;O;
+reconstruire;O;
+entièrement;O;
+|;|;O;
+mais;O;
+je;O;
+manque;O;
 |
-| O 
-première O 
-tentative O 
-, O 
-j' O 
-ai O 
-refusé O 
-d' O 
-en O 
-risquer O 
-une O 
-seconde O 
-. O 
+|;O;
+d';O;
+expérience;O;
+pour;O;
+ces;O;
+choses;O;
+-là;O;
+.;O;
+Qu';O;
+on;O;
+ne;O;
+m';O;
+en;O;
+garde;O;
 |
-| O 
-Æt B-PER
-puis O 
-, O 
-si O 
-vous O 
-voulez O 
-que O 
-je O 
-vous O 
-le O 
-dise O 
-, O 
-je O 
-me O 
-suis O 
-|
-| O 
-aperçu O 
-qu' O 
-il O 
-y O 
-avait O 
-là O 
-- O 
-dedans O 
-une O 
-question O 
-de O 
-cons- O 
-|
-| O 
-cience O 
-. O 
-. O 
+|;O;
+pas;O;
+rancune;O;
+.;O;
+||||;O;
 |
 
-| O 
-Mot B-PER
-qui O 
-ai O 
-volé O 
-le O 
-Voleur B-PER
-, O 
-je O 
-ne O 
-puis O 
-guère O 
-le O 
-flétrir O 
-. O 
+|;O;
+Une;O;
+chose;O;
+qu';O;
+on;O;
+me;O;
+reprochera;O;
+,;O;
+pourtant;O;
+—;O;
+et;O;
+avec;O;
+|
+|;O;
+raison;O;
+,;O;
+je;O;
+le;O;
+sais;O;
+,;O;
+—;O;
+c’;B;MISC
+est;O;
+de;O;
+n';O;
+avoir;O;
+point;O;
+introduit;O;
+un;O;
+|
+|;O;
+personnage;O;
+,;O;
+un;O;
+ancien;O;
+élève;O;
+de;O;
+l';O;
+Ecole;B;ORG
+Polytechnique;I;ORG
+,;O;
+|
+|;O;
+par;O;
+exemple;O;
+,;O;
+qui;O;
+,;O;
+tout;O;
+le;O;
+long;O;
+du;O;
+volume;O;
+,;O;
+aurait;O;
+dit;O;
+|
+|;O;
+son;O;
+fait;O;
+au;O;
+Voleur;B;PER
+.;O;
+Il;O;
+aurait;O;
+suffi;O;
+de;O;
+le;O;
+faire;O;
+apparaître;O;
+|
+|;O;
+deux;O;
+ou;O;
+trois;O;
+fois;O;
+par;O;
+chapitre;O;
+et;O;
+,;O;
+en;O;
+vérilé;O;
+,;O;
+—;O;
+à;O;
+con-;O;
+|
+|;O;
+dition;O;
+de;O;
+ne;O;
+changer;O;
+son;O;
+costume;O;
+que;O;
+de;O;
+temps;O;
+à;O;
+autre;O;
+|
+|;O;
+—;O;
+rien;O;
+ne;O;
+m';O;
+eit;O;
+élé;O;
+plus;O;
+facile;O;
+.;O;
 |
 
-| O 
-_ O 
-… O 
+|;O;
+Mais;O;
+,;O;
+réflexion;O;
+faite;O;
+,;O;
+je;O;
+n';O;
+ai;O;
+pas;O;
+voulu;O;
+créer;O;
+ce;O;
+per-;O;
+|
+|;O;
+sonnage;O;
+sympathique;O;
+.;O;
+Après;O;
+avoir;O;
+échoué;O;
+dans;O;
+ma;O;
+|
+|;O;
+première;O;
+tentative;O;
+,;O;
+j';O;
+ai;O;
+refusé;O;
+d';O;
+en;O;
+risquer;O;
+une;O;
+seconde;O;
+.;O;
+|
+|;O;
+Æt;B;PER
+puis;O;
+,;O;
+si;O;
+vous;O;
+voulez;O;
+que;O;
+je;O;
+vous;O;
+le;O;
+dise;O;
+,;O;
+je;O;
+me;O;
+suis;O;
+|
+|;O;
+aperçu;O;
+qu';O;
+il;O;
+y;O;
+avait;O;
+là;O;
+-;O;
+dedans;O;
+une;O;
+question;O;
+de;O;
+cons-;O;
+|
+|;O;
+cience;O;
+.;O;
+.;O;
+|
+
+|;O;
+Mot;B;PER
+qui;O;
+ai;O;
+volé;O;
+le;O;
+Voleur;B;PER
+,;O;
+je;O;
+ne;O;
+puis;O;
+guère;O;
+le;O;
+flétrir;O;
+.;O;
+|
+
+|;O;
+_;O;
+…;O;
 |
 
-| O 
-VI B-MISC
-AVANT-PROPOS I-MISC
+|;O;
+VI;B;MISC
+AVANT-PROPOS;I;MISC
 |
 
-| O 
-Que O 
-d' O 
-autres O 
-, O 
-qui O 
-n' O 
-ont O 
-rien O 
-à O 
-se O 
-reprocher O 
-— O 
-au O 
-moins O 
+|;O;
+Que;O;
+d';O;
+autres;O;
+,;O;
+qui;O;
+n';O;
+ont;O;
+rien;O;
+à;O;
+se;O;
+reprocher;O;
+—;O;
+au;O;
+moins;O;
 |
-| O 
-à O 
-son O 
-égard O 
-— O 
-le O 
-stigmatisent O 
-à O 
-leur O 
-gré O 
-| | O 
-je O 
-n' O 
-y O 
-vois O 
+|;O;
+à;O;
+son;O;
+égard;O;
+—;O;
+le;O;
+stigmatisent;O;
+à;O;
+leur;O;
+gré;O;
+|;|;O;
+je;O;
+n';O;
+y;O;
+vois;O;
 |
-| O 
-point O 
-d' O 
-inconvénient O 
-, O 
-Mais B-MISC
-, I-MISC
-mot I-MISC
-, I-MISC
-je I-MISC
-n' I-MISC
-en I-MISC
-ai I-MISC
-pas I-MISC
-le I-MISC
-droit I-MISC
-. O 
+|;O;
+point;O;
+d';O;
+inconvénient;O;
+,;O;
+Mais;B;MISC
+,;I;MISC
+mot;I;MISC
+,;I;MISC
+je;I;MISC
+n';I;MISC
+en;I;MISC
+ai;I;MISC
+pas;I;MISC
+le;I;MISC
+droit;I;MISC
+.;O;
 |
-| O 
-Je O 
-suis O 
-peut-être O 
-le O 
-seul O 
-à O 
-n' O 
-en O 
-avoir O 
-pas O 
-le O 
-droit O 
-. O 
+|;O;
+Je;O;
+suis;O;
+peut-être;O;
+le;O;
+seul;O;
+à;O;
+n';O;
+en;O;
+avoir;O;
+pas;O;
+le;O;
+droit;O;
+.;O;
 |
-| O 
-Peut O 
-- O 
-être O 
-. O 
-|||| O 
-|
-
-| O 
-GEORGES O 
-DARIEN B-MISC
-. O 
+|;O;
+Peut;O;
+-;O;
+être;O;
+.;O;
+||||;O;
 |
 
-| O 
-Londres B-LOC
-, O 
-1806 O 
-. O 
-|
-
- 
-
-| O 
-» O 
-|
-| O 
-‘ O 
-L B-MISC
-|
-| I-MISC
-.'s I-MISC
-|
-| I-MISC
-. O 
-Ÿ O 
-|
-| O 
-ru O 
+|;O;
+GEORGES;O;
+DARIEN;B;MISC
+.;O;
 |
 
-| O 
-& O 
-|
-
- 
-
-| O 
-TABLE O 
-DES O 
-CHAPITRES O 
-|
-
-| O 
-AVANT- O 
-PROPOS B-MISC
-. O 
-. O 
-. O 
-+ O 
-4 O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-|
-
-| O 
-I. B-PER
-— I-PER
-Aurore B-PER
-. O 
-. O 
-. O 
-. O 
-. O 
-no O 
-ns O 
-|
-| O 
-II B-MISC
-. O 
-— O 
-Le O 
-cœur O 
-d’ O 
-un O 
-homme O 
-vierge O 
-est O 
-un O 
-vase O 
-|
-
-| O 
-|||| O 
-profond O 
-. O 
-. O 
-, O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-|
-
-| O 
-III O 
-. O 
-— O 
-Les O 
-bons O 
-comptes O 
-font O 
-les O 
-bons O 
-amis O 
-. O 
-. O 
-. O 
-|
-| O 
-IV B-MISC
-. O 
-— O 
-Où O 
-l' O 
-ont O 
-voit O 
-bien O 
-que O 
-tout O 
-n’ B-PER
-est O 
-pas O 
-gai O 
-|
-
-| O 
-|||| O 
-dans O 
-l’ B-LOC
-existence O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-|
-| O 
-V B-PER
-, O 
-— O 
-Où B-LOC
-court-ilr I-LOC
-. O 
-. O 
-. O 
-. O 
-, O 
-. O 
-. O 
-. O 
-. O 
-|
-| O 
-VI B-LOC
-. O 
-— O 
-Plein B-PER
-ciel O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-|
-| O 
-VII B-LOC
-. O 
-— O 
-Dans O 
-lequel O 
-on O 
-apprend O 
-, O 
-entre O 
-autres O 
-choses O 
-, O 
-|
-| O 
-ce O 
-que O 
-deviennent O 
-les O 
-anciens O 
-notaires O 
-. O 
-|
-
-| O 
-VIII B-MISC
-. O 
-— O 
-L' O 
-art O 
-de O 
-se O 
-faire O 
-cinquante O 
-mille O 
-francs O 
-de O 
-|
-
-| O 
-rente O 
-sans O 
-élever O 
-de O 
-lapins O 
-. O 
-. O 
-. O 
-. O 
-. O 
-|
-
-| O 
-IX B-LOC
-. O 
-— O 
-De O 
-quelques O 
-quadrupèdes O 
-et O 
-de O 
-certains O 
-|
-
-| O 
-X. B-PER
-|
-| I-PER
-XI I-PER
-. O 
-|
-| O 
-XII B-PER
-. O 
-|
-| O 
-XIII B-MISC
-. O 
-|
-| O 
-XIV B-PER
-. O 
-|
-
-| O 
-bipèdes B-LOC
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-|
-| O 
-— O 
-Les B-MISC
-voyages I-MISC
-forment O 
-la O 
-jeunesse O 
-. O 
-. O 
-. O 
-. O 
-|
-| O 
-— O 
-Cheveux B-MISC
-, I-MISC
-barbes I-MISC
-et I-MISC
-postiches I-MISC
-. O 
-. O 
-. O 
-. O 
-. O 
-|
-| O 
-— O 
-L' B-MISC
-idée I-MISC
-marche I-MISC
-. O 
-- O 
-. O 
-: O 
-. B-LOC
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-|
-| O 
-— O 
-Rencontres B-MISC
-heureuses I-MISC
-et O 
-malheureuses O 
-. O 
-. O 
-|
-| O 
-— O 
-Aventures B-MISC
-de.deux I-MISC
-voleurs I-MISC
-, O 
-d' O 
-un O 
-cadavre O 
-et O 
-|
-
-| O 
-d’ O 
-une O 
-jolie O 
-femme O 
-, O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-|
-
-| O 
-XV B-PER
-. O 
-— O 
-Dans O 
-lequel O 
-le O 
-vice O 
-est O 
-bien O 
-près O 
-d’ O 
-être O 
-|
-
-| O 
-À O 
-VI B-LOC
-. O 
-|
-
-| O 
-XVII B-MISC
-. O 
-|
-
-| O 
-XVIIE O 
-, O 
-|
-
-| O 
-TÉCOMIPENSÉ B-LOC
-. O 
-. O 
-4 O 
-. O 
-+ B-LOC
-. O 
-+ B-LOC
-. O 
-. O 
-|
-
-| O 
-— O 
-Orpheline B-PER
-de O 
-par O 
-la O 
-loi O 
-- O 
-. O 
-. O 
-. O 
-. O 
-. O 
-. O 
-|
-
-| O 
-— O 
-Enfin O 
-seuls O 
-! O 
-. O 
-. O 
-. O 
-. O 
-. O 
-|
-
-| O 
-— O 
-Combinaisons B-MISC
-machiavéliques I-MISC
-et O 
-leurs O 
-résul- O 
-|
-| O 
-taits O 
-. O 
-e O 
-- O 
-L O 
-- O 
-, O 
-. O 
-‘ O 
-L O 
-% O 
-, O 
-. O 
-+ O 
-|
-
-| O 
-104 O 
-|
-| O 
-124 O 
-|
-
-| O 
-I4I B-MISC
-|
-| O 
-154 O 
-|
-| O 
-173 O 
-|
-| O 
-179 O 
-|
-
-| O 
-107 O 
-|
-| O 
-21S. O 
-|
-| O 
-237 O 
-|
-| O 
-250 O 
-|
-
-| O 
-261 O 
-|
-
-| O 
-280 O 
-|
-
-| O 
-VIE O 
-. O 
-|
-
-| O 
-XIX B-MISC
-. O 
-|
-| O 
-XX O 
-. O 
-|
-
-| O 
-XXI B-MISC
-. O 
-|
-
-| O 
-X B-MISC
-AIT I-MISC
-. O 
-|
-| O 
-XXIIL B-MISC
-. O 
-|
-| O 
-XXIV B-LOC
-. O 
-|
-
-| O 
-XXV B-LOC
-, O 
-|
-
-| O 
-XXVI B-MISC
-, O 
-|
-| O 
-XX B-PER
-VII I-PER
-. O 
-|
-
-| O 
-XX O 
-VII O 
-. O 
-|
-
-| O 
-XXIX B-MISC
-. O 
-|
-
-| O 
-XXX B-MISC
-. O 
-|
-
- 
-
-| O 
-TABLE O 
-DES B-MISC
-CHAPITRES O 
-|
-
-| O 
-— O 
-Evènements O 
-complètement O 
-inattendus O 
-, O 
-o O 
-|
-| O 
-— O 
-Où B-LOC
-l’ I-LOC
-on O 
-voit O 
-qu' O 
-il O 
-est O 
-. O 
-souvent O 
-difficile O 
-de O 
-|
-| O 
-tenir O 
-sa O 
-parole O 
-. O 
-. O 
-|
-| O 
-— O 
-On O 
-n' O 
-échappe O 
-pas O 
-à O 
-son O 
-destin O 
-|
-| O 
-— O 
-« O 
-Bonjour B-MISC
-, O 
-mon O 
-neveu O 
-. O 
-» O 
-. O 
-: O 
-. O 
-|
-| O 
-— O 
-Barbe B-PER
-- I-PER
-Bleu I-PER
-et O 
-le O 
-domino O 
-noir O 
-. O 
-|
-| O 
-— O 
-On O 
-dira O 
-pourquoi O 
-. O 
-nos O 
-ee O 
-|
-| O 
-— O 
-Le O 
-Christ B-PER
-a O 
-dit O 
-: O 
-« O 
-Pitié B-LOC
-pour O 
-qui O 
-suc- O 
-|
-| O 
-combe O 
-! O 
-... O 
-» O 
-, O 
-. O 
-. O 
-|
-| O 
-— O 
-Geneviève B-PER
-de I-PER
-Brabant I-PER
-|
-| O 
-— O 
-Le O 
-repentir O 
-fait O 
-oublier O 
-l' O 
-erreur O 
-: O 
-|
-| O 
-— O 
-Dans O 
-lequel O 
-on O 
-apprend O 
-que O 
-l' O 
-argent O 
-ne O 
-fait O 
-|
-| O 
-pas O 
-le O 
-bonheur O 
-. O 
-. O 
-. O 
-+ O 
-|
-| O 
-— O 
-Si O 
-les O 
-femmes O 
-savaient O 
-s’ B-PER
-y O 
-prendre O 
-|
-| O 
-— O 
-Conclusion B-PER
-provisoire O 
-— O 
-comme O 
-toutes O 
-les O 
-|
-| O 
-conclusions O 
-+ O 
-. O 
-. O 
-. O 
-+ B-LOC
-. O 
-.. O 
-. O 
-. O 
-|
-
-| O 
-292 O 
-|
-
-| O 
-308 O 
-|
-| O 
-324 O 
-|
-| O 
-338 O 
-|
-| O 
-363 O 
-|
-| O 
-375 O 
-|
-| O 
-384 O 
-|
-| O 
-39È B-MISC
-|
-| O 
-404 O 
-|
-
-| O 
-417 O 
-|
-| O 
-424 O 
-|
-
-| O 
-428 O 
-|
-
-| O 
-‘ O 
-- O 
-4 O 
-|
-| O 
-D O 
-ANT O 
-RAT B-MISC
-2 I-MISC
-habranmmarare O 
-ve O 
-mn O 
-dès O 
-cum O 
-uma B-ORG
+|;O;
+Londres;B;LOC
+,;O;
+1806;O;
+.;O;
 |
 
  
 
-| O 
-LT B-ORG
+|;O;
+»;O;
+|
+|;O;
+‘;O;
+L;B;MISC
+|
+|;I;MISC
+.'s;I;MISC
+|
+|;I;MISC
+.;O;
+Ÿ;O;
+|
+|;O;
+ru;O;
+|
+
+|;O;
+&;O;
 |
 
  
 
-| O 
-AURORE B-ORG
+|;O;
+TABLE;O;
+DES;O;
+CHAPITRES;O;
 |
 
-| O 
-. O 
-Mes B-PER
-parents O 
-ne O 
-peuvent O 
-plus O 
-faire O 
-autrement O 
-. O 
+|;O;
+AVANT-;O;
+PROPOS;B;MISC
+.;O;
+.;O;
+.;O;
++;O;
+4;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
 |
 
-| O 
-Tout O 
-le O 
-monde O 
-le O 
-leur O 
-dit O 
-. O 
-On O 
-les O 
-y O 
-pousse O 
-de O 
-tous O 
+|;O;
+I.;B;PER
+—;I;PER
+Aurore;B;PER
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+no;O;
+ns;O;
 |
-| O 
-les O 
-côtés O 
-. O 
-Mme B-PER
-Dubourg I-PER
-a O 
-laissé O 
-entendre O 
-à O 
-ma O 
-mère O 
-|
-| O 
-qu' O 
-il O 
-était O 
-grand O 
-temps O 
-| | O 
-et O 
-ma O 
-tante O 
-Augustine B-PER
-, O 
-en O 
-|
-| O 
-termes O 
-voilés O 
-, O 
-a O 
-mis O 
-mon O 
-père O 
-au O 
-pied O 
-du O 
-mur B-MISC
-. O 
-|||| O 
+|;O;
+II;B;MISC
+.;O;
+—;O;
+Le;O;
+cœur;O;
+d’;O;
+un;O;
+homme;O;
+vierge;O;
+est;O;
+un;O;
+vase;O;
 |
 
-| O 
-— O 
-Comment O 
-! O 
-des O 
-gens O 
-. O 
-à O 
-leur O 
-aise O 
-, O 
-dans O 
-une O 
-si- O 
-|
-| O 
-tuation O 
-commerciale O 
-superbe O 
-, O 
-avec O 
-une O 
-santé O 
-floris- O 
-|
-| O 
-sante O 
-, O 
-vivre O 
-seuls O 
-? O 
-Ne O 
-pas O 
-avoir O 
-d’ O 
-enfant O 
-? O 
-De O 
-gueux O 
-, O 
-|
-| O 
-de O 
-gens O 
-qui O 
-vivent O 
-comme O 
-loiseau O 
-sur O 
-la O 
-branche O 
-, O 
-|
-| O 
-sans O 
-lendemains O 
-assurés O 
-, O 
-on O 
-comprend O 
-ça O 
-. O 
-Mais O 
-, O 
-sa- O 
-|
-| O 
-pristi O 
-! O 
-... O 
-Et O 
-la O 
-fortune O 
-amassée O 
-, O 
-où O 
-ira O 
--t O 
--elle O 
-? O 
-Et O 
-les O 
-|
-| O 
-bôns O 
-exemples O 
-à O 
-léguer O 
-, O 
-le O 
-fruit O 
-de O 
-l’ B-LOC
-expérience O 
-à O 
-dé- O 
-|
-| O 
-poser O 
-en O 
-mains O 
-sûres O 
-? O 
-.. O 
-Voyons B-PER
-, O 
-voyons O 
-, O 
-il O 
-vous O 
-|
-| O 
-faut O 
-un O 
-enfant O 
-— O 
-au O 
-moins O 
-un O 
-. O 
-— O 
-Réfléchissez B-LOC
-- I-LOC
-y. I-LOC
+|;O;
+||||;O;
+profond;O;
+.;O;
+.;O;
+,;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
 |
 
-| I-LOC
-Le O 
-médecin O 
-s’ B-PER
-en O 
-mêle O 
-: O 
-: O 
+|;O;
+III;O;
+.;O;
+—;O;
+Les;O;
+bons;O;
+comptes;O;
+font;O;
+les;O;
+bons;O;
+amis;O;
+.;O;
+.;O;
+.;O;
+|
+|;O;
+IV;B;MISC
+.;O;
+—;O;
+Où;O;
+l';O;
+ont;O;
+voit;O;
+bien;O;
+que;O;
+tout;O;
+n’;B;PER
+est;O;
+pas;O;
+gai;O;
 |
 
-| O 
-— O 
-Mais O 
-, O 
-oui O 
-| | O 
-vous O 
-êtes O 
-encore O 
-assez O 
-jeune O 
-| | O 
-pour O 
+|;O;
+||||;O;
+dans;O;
+l’;B;LOC
+existence;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
 |
-| O 
-tant O 
-, O 
-il O 
-serait O 
-peut-être O 
-imprudent O 
-d' O 
-attendre O 
-davan- O 
+|;O;
+V;B;PER
+,;O;
+—;O;
+Où;B;LOC
+court-ilr;I;LOC
+.;O;
+.;O;
+.;O;
+.;O;
+,;O;
+.;O;
+.;O;
+.;O;
+.;O;
 |
-| O 
-tage O 
-. O 
-|||| O 
+|;O;
+VI;B;LOC
+.;O;
+—;O;
+Plein;B;PER
+ciel;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+|
+|;O;
+VII;B;LOC
+.;O;
+—;O;
+Dans;O;
+lequel;O;
+on;O;
+apprend;O;
+,;O;
+entre;O;
+autres;O;
+choses;O;
+,;O;
+|
+|;O;
+ce;O;
+que;O;
+deviennent;O;
+les;O;
+anciens;O;
+notaires;O;
+.;O;
 |
 
-| O 
-Le O 
-curé O 
-aussi O 
-: O 
+|;O;
+VIII;B;MISC
+.;O;
+—;O;
+L';O;
+art;O;
+de;O;
+se;O;
+faire;O;
+cinquante;O;
+mille;O;
+francs;O;
+de;O;
 |
 
-| O 
-— O 
-— O 
-Un B-MISC
-des I-MISC
-premiers I-MISC
-préceptes I-MISC
-donnés O 
-à O 
-homme O 
-. O 
+|;O;
+rente;O;
+sans;O;
+élever;O;
+de;O;
+lapins;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
 |
 
-| O 
-_ O 
-Que O 
-voulez O 
--vous O 
-répondre O 
-à O 
-ça O 
-? O 
+|;O;
+IX;B;LOC
+.;O;
+—;O;
+De;O;
+quelques;O;
+quadrupèdes;O;
+et;O;
+de;O;
+certains;O;
 |
-| O 
-— O 
-Oui O 
-, O 
-oui O 
-, O 
-il O 
-vous O 
-faut O 
-un O 
-enfant O 
-. O 
+
+|;O;
+X.;B;PER
+|
+|;I;PER
+XI;I;PER
+.;O;
+|
+|;O;
+XII;B;PER
+.;O;
+|
+|;O;
+XIII;B;MISC
+.;O;
+|
+|;O;
+XIV;B;PER
+.;O;
+|
+
+|;O;
+bipèdes;B;LOC
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+|
+|;O;
+—;O;
+Les;B;MISC
+voyages;I;MISC
+forment;O;
+la;O;
+jeunesse;O;
+.;O;
+.;O;
+.;O;
+.;O;
+|
+|;O;
+—;O;
+Cheveux;B;MISC
+,;I;MISC
+barbes;I;MISC
+et;I;MISC
+postiches;I;MISC
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+|
+|;O;
+—;O;
+L';B;MISC
+idée;I;MISC
+marche;I;MISC
+.;O;
+-;O;
+.;O;
+:;O;
+.;B;LOC
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+|
+|;O;
+—;O;
+Rencontres;B;MISC
+heureuses;I;MISC
+et;O;
+malheureuses;O;
+.;O;
+.;O;
+|
+|;O;
+—;O;
+Aventures;B;MISC
+de.deux;I;MISC
+voleurs;I;MISC
+,;O;
+d';O;
+un;O;
+cadavre;O;
+et;O;
+|
+
+|;O;
+d’;O;
+une;O;
+jolie;O;
+femme;O;
+,;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+|
+
+|;O;
+XV;B;PER
+.;O;
+—;O;
+Dans;O;
+lequel;O;
+le;O;
+vice;O;
+est;O;
+bien;O;
+près;O;
+d’;O;
+être;O;
+|
+
+|;O;
+À;O;
+VI;B;LOC
+.;O;
+|
+
+|;O;
+XVII;B;MISC
+.;O;
+|
+
+|;O;
+XVIIE;O;
+,;O;
+|
+
+|;O;
+TÉCOMIPENSÉ;B;LOC
+.;O;
+.;O;
+4;O;
+.;O;
++;B;LOC
+.;O;
++;B;LOC
+.;O;
+.;O;
+|
+
+|;O;
+—;O;
+Orpheline;B;PER
+de;O;
+par;O;
+la;O;
+loi;O;
+-;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+|
+
+|;O;
+—;O;
+Enfin;O;
+seuls;O;
+!;O;
+.;O;
+.;O;
+.;O;
+.;O;
+.;O;
+|
+
+|;O;
+—;O;
+Combinaisons;B;MISC
+machiavéliques;I;MISC
+et;O;
+leurs;O;
+résul-;O;
+|
+|;O;
+taits;O;
+.;O;
+e;O;
+-;O;
+L;O;
+-;O;
+,;O;
+.;O;
+‘;O;
+L;O;
+%;O;
+,;O;
+.;O;
++;O;
+|
+
+|;O;
+104;O;
+|
+|;O;
+124;O;
+|
+
+|;O;
+I4I;B;MISC
+|
+|;O;
+154;O;
+|
+|;O;
+173;O;
+|
+|;O;
+179;O;
+|
+
+|;O;
+107;O;
+|
+|;O;
+21S.;O;
+|
+|;O;
+237;O;
+|
+|;O;
+250;O;
+|
+
+|;O;
+261;O;
+|
+
+|;O;
+280;O;
 |
 
-| O 
-2 O 
-|||| O 
-|||| O 
-LE O 
-VOLEUR B-MISC
+|;O;
+VIE;O;
+.;O;
 |
 
-| I-MISC
-Eh I-MISC
-! O 
-bien O 
-, O 
-puisque O 
-tout O 
-le O 
-monde O 
-le O 
-veut O 
-, O 
-c’ B-MISC
-est O 
+|;O;
+XIX;B;MISC
+.;O;
 |
-| O 
-bon O 
-: O 
-ils O 
-en O 
-auront O 
-un O 
-. O 
-|||| O 
-|||| O 
-|
-| O 
-Ils O 
-Pont O 
-. O 
-|
-| O 
-Je O 
-me O 
-présente O 
-— O 
-très O 
-bien O 
-( O 
-j’ B-LOC
-en O 
-ai O 
-conservé O 
-l’ O 
-ha- B-PER
-|
-| O 
-bitude O 
-) O 
-— O 
-un O 
-matin O 
-d’ O 
-avril O 
-, O 
-sur O 
-le O 
-coup O 
-de O 
-dix O 
-heures O 
-|
-| O 
-un O 
-quart O 
-. O 
+|;O;
+XX;O;
+.;O;
 |
 
-| O 
-— O 
-Je B-MISC
-m' I-MISC
-en I-MISC
-souviendrai I-MISC
-toute I-MISC
-ma I-MISC
-vie I-MISC
-, O 
-disait O 
-plus O 
-|
-| O 
-tard O 
-Aglaé B-PER
-, O 
-la O 
-cuisinière O 
-| | O 
-il O 
-faisait O 
-un O 
-temps O 
-magni- O 
+|;O;
+XXI;B;MISC
+.;O;
 |
 
-| O 
-fique O 
-et O 
-le O 
-baromètre O 
-marquait O 
-: O 
-variable O 
-. O 
+|;O;
+X;B;MISC
+AIT;I;MISC
+.;O;
+|
+|;O;
+XXIIL;B;MISC
+.;O;
+|
+|;O;
+XXIV;B;LOC
+.;O;
 |
 
-| O 
-Quel O 
-présage O 
-! O 
+|;O;
+XXV;B;LOC
+,;O;
 |
 
-| O 
-Et O 
-l O 
-- O 
-dessus O 
-, O 
-si O 
-vous O 
-voulez O 
-bien O 
-, O 
-nous O 
-allons O 
-passer O 
+|;O;
+XXVI;B;MISC
+,;O;
 |
-| O 
-plusieurs O 
-années O 
-. O 
+|;O;
+XX;B;PER
+VII;I;PER
+.;O;
 |
 
-| O 
-Qu' O 
-est O 
--ce O 
-que O 
-vous O 
-diriez O 
-, O 
-à O 
-présent O 
-, O 
-si O 
-jappa- O 
-|
-| O 
-raissais O 
-à O 
-vous O 
-en O 
-costume O 
-de O 
-collégien O 
-? O 
-Vous O 
-diriez O 
-|
-| O 
-que O 
-ma O 
-tunique O 
-est O 
-trop O 
-longue O 
-, O 
-que O 
-mon O 
-pantalon O 
-|
-| O 
-est O 
-trop O 
-court O 
-, O 
-que O 
-mon O 
-képi O 
-me O 
-va O 
-mal O 
-, O 
-que O 
-mes O 
-|
-| O 
-doigts O 
-sont O 
-tachés O 
-d’ B-MISC
-encre O 
-et O 
-que O 
-jai O 
-l' O 
-air O 
-d’ O 
-un O 
-serin O 
-. O 
+|;O;
+XX;O;
+VII;O;
+.;O;
 |
 
-| O 
-Peut O 
-- O 
-être O 
-bien O 
-. O 
-Mais O 
-ce O 
-que O 
-vous O 
-ne O 
-diriez O 
-pas O 
-, O 
-|
-| O 
-parce O 
-que O 
-c’ B-MISC
-est O 
-difficile O 
-à O 
-deviner O 
-, O 
-même O 
-pour O 
-les O 
-|
-| O 
-grandes O 
-personnes O 
-, O 
-c’ B-MISC
-est O 
-que O 
-je O 
-suis O 
-un O 
-élève O 
-mo- O 
-|
-| O 
-dèle O 
-| | O 
-je O 
-fais O 
-l' O 
-honneur O 
-de O 
-ma O 
-classe O 
-et O 
-la O 
-joie O 
-de O 
-ma O 
-|
-| O 
-famille O 
-. O 
-On O 
-vient O 
-de O 
-loin O 
-, O 
-tous O 
-les O 
-ans O 
-, O 
-pour O 
-me O 
-voir O 
-|
-| O 
-couronner O 
-de O 
-papier O 
-vert O 
-, O 
-et O 
-même O 
-de O 
-papier O 
-doré O 
-| | O 
-|
-| O 
-le O 
-ban O 
-et O 
-l’ B-LOC
-arrière-ban O 
-des O 
-parents O 
-sont O 
-convoqués O 
-|
-| O 
-pour O 
-la O 
-circonstance O 
-. O 
-Solennité B-MISC
-majestueuse I-MISC
-! O 
-Céré- O 
-|
-| O 
-monie O 
-imposante O 
-! O 
-La O 
-robe O 
-d’ O 
-un O 
-professeur O 
-enfante O 
-|
-| O 
-un O 
-discours O 
-latin O 
-et O 
-les O 
-broderies O 
-d’ O 
-un O 
-fonctionnaire O 
-|
-| O 
-étincellent O 
-sur O 
-un O 
-discours O 
-français O 
-. O 
-Les O 
-pères O 
-applau- O 
-|
-| O 
-dissent O 
-majestueusement O 
-. O 
-|||| O 
+|;O;
+XXIX;B;MISC
+.;O;
 |
 
-| O 
-— O 
-C' B-MISC
-est' I-MISC
-à O 
-moi O 
-, O 
-cet O 
-enfant O 
--là O 
-. O 
-Vous O 
-le O 
-voyez O 
-, O 
-heïn O 
-? O 
-|
-| O 
-Eh B-MISC
-! I-MISC
-bien O 
-, O 
-c’ B-MISC
-est O 
-à O 
-moi O 
-! O 
-|
-
-| O 
-Les B-LOC
-mères O 
-ont O 
-la O 
-larme O 
-à O 
-l' O 
-œil O 
-. O 
-|
-
-| O 
-— O 
-Cher B-LOC
-petit O 
-! O 
-Comme O 
-il O 
-a O 
-dû O 
-travailler O 
-! O 
-Ah B-MISC
-! I-MISC
-|
-| I-MISC
-c’ B-MISC
-est O 
-bien O 
-beau O 
-, O 
-l' O 
-instruction O 
-... O 
-|
-| O 
-= O 
-Les O 
-parents O 
-de O 
-province O 
-s’ O 
-agitent O 
-. O 
-Des O 
-chapeaux O 
-|
-| O 
-barbares O 
-, O 
-échappés O 
-pour O 
-‘ O 
-un O 
-jour O 
-de O 
-leur O 
-prison O 
-|
-| O 
-d’ B-PER
-acajou I-PER
-, O 
-font O 
-des O 
-grâces O 
-avec O 
-leurs O 
-plumes O 
-. O 
-Des O 
-re- O 
-|
-| O 
-dingotes O 
-1830 O 
-s’ B-PER
-empèsent O 
-de O 
-gloire O 
-. O 
-Des O 
-parapluies O 
-|
-
-| O 
-7 O 
-. O 
-Sy O 
-) O 
-|
-
-| O 
-LE O 
-ETS B-MISC
-res I-MISC
-mm O 
-|
-
-| O 
-ADSL O 
-UOE B-LOC
-PME O 
-|
-
-| O 
-+ O 
-|
-
-| O 
-RE O 
-ne O 
-tn O 
-Le B-MISC
-|
-| I-MISC
-frs I-MISC
-LE O 
-ets O 
-ini O 
-|
-
-| O 
-Tr B-MISC
-|
-
-| I-MISC
-ETES O 
-PER O 
-PRE O 
-TE O 
-TS O 
-PT B-MISC
-nt I-MISC
-px O 
-ï O 
-|
-| O 
-FRA O 
-RARE O 
-EE O 
-AS O 
-CT O 
-|
-
-| O 
-EC O 
-|
-| O 
-Fe B-LOC
-UN O 
-|
-
-| O 
-Dee B-MISC
-eu I-MISC
-ee I-MISC
-|
-| I-MISC
-mir I-MISC
-|
-| I-MISC
-roi I-MISC
-|
-
- 
-
-| O 
-CCR B-ORG
-|
-
-| I-ORG
-LE O 
-VOLEUR O 
-or O 
-. O 
-3 O 
-|
-| O 
-centenaires O 
-allongent O 
-fièrement O 
-leurs O 
-grands O 
-becs O 
-. O 
-On O 
-|
-| O 
-voit O 
-tressaillir O 
-des O 
-châles O 
-- O 
-tapis O 
-. O 
-|
-
-| O 
-Et O 
-je O 
-sors O 
-de O 
-là O 
-acclamé O 
-, O 
-triomphant O 
-, O 
-avec O 
-le O 
-fil O 
-de O 
-|
-| O 
-fer O 
-des O 
-couronnes O 
-qui O 
-me O 
-déchire O 
-le O 
-front O 
-et O 
-m’ B-PER
-égra- O 
-|
-| O 
-tigne O 
-les O 
-oreilles O 
-, O 
-avec O 
-des O 
-livres O 
-plein O 
-les O 
-bras O 
-— O 
-|
-| O 
-des O 
-livres O 
-verts O 
-, O 
-jaunes O 
-, O 
-rouges O 
-, O 
-bleus O 
-et O 
-dorés O 
-sur O 
-|
-| O 
-tranche O 
-, O 
-à O 
-faire O 
-hurler O 
-un O 
-Peau B-MISC
-- I-MISC
-Rouge I-MISC
-et O 
-à O 
-me O 
-donner O 
-|
-| O 
-des O 
-excitations O 
-terribles O 
-à O 
-la O 
-sauvagerie O 
-, O 
-si O 
-j' O 
-étais O 
-|
-| O 
-moins O 
-raisonnable O 
-. O 
-|
-
-| O 
-Mais O 
-je O 
-suis O 
-raisonnable O 
-. O 
-Et O 
-c’ B-MISC
-est O 
-justement O 
-pour- O 
-|
-| O 
-quoi O 
-ça O 
-m' O 
-est O 
-bien O 
-égal O 
-, O 
-d’ B-MISC
-avoir O 
-une O 
-tunique O 
-trop O 
-|
-| O 
-longue.et O 
-l’ B-ORG
-air I-ORG
-bête I-ORG
-. O 
-Si O 
-je O 
-suis O 
-un O 
-serin O 
-, O 
-c’ B-MISC
-est O 
-un O 
-de O 
-|
-| O 
-ces O 
-serins O 
-auxquels O 
-on O 
-crève O 
-les O 
-yeux O 
-pour O 
-leur O 
-ap- O 
-|
-| O 
-prendre O 
-à O 
-mieux O 
-chanter O 
-. O 
-Si B-MISC
-mes O 
-vêtements O 
-sont O 
-ri- O 
-|
-| O 
-dicules O 
-, O 
-est O 
--ce O 
-ma O 
-faute O 
-si O 
-l’ B-ORG
-on O 
-me O 
-harnache O 
-aujour- O 
-|
-| O 
-d’ B-PER
-hui O 
-en O 
-garde-national O 
-, O 
-comme O 
-on O 
-m’ B-PER
-habillera O 
-en O 
-|
-| O 
-lézard O 
-à O 
-cornes O 
-quand O 
-je O 
-serai O 
-académicien O 
-? O 
-|
-
-| O 
-Car O 
-j' O 
-irai O 
-loin O 
-. O 
-On O 
-me O 
-le O 
-prédit O 
-tous O 
-les O 
-jours O 
-. O 
-Sic B-PER
-|
-| O 
-itur O 
-ad O 
-astra O 
-. O 
-|
-
-| O 
-J’ B-PER
-aile I-PER
-temps I-PER
-, O 
-d’ O 
-ailleurs O 
-. O 
-Je O 
-n' O 
-ai O 
-encore O 
-que O 
-quinze O 
-|
-| O 
-ans O 
-. O 
-|||| O 
-|
-
-| O 
-— O 
-Un O 
-bel O 
-âge O 
-! O 
-dit O 
-mon O 
-oncle O 
-. O 
-On O 
-est O 
-déjà O 
-|
-| O 
-presque O 
-un O 
-jeune O 
-homme O 
-et O 
-l’ B-ORG
-on O 
-a O 
-encors O 
-toute O 
-la O 
-|
-| O 
-candeur O 
-de O 
-l’ B-LOC
-enfance O 
-. O 
-|||| O 
-|||| O 
-|
-
-| O 
-Candeur B-LOC
-! O 
-... O 
-Mon O 
-enfance O 
-? O 
-Jene B-PER
-me O 
-rappelle O 
-déjà O 
-|
-
-| O 
-plus O 
-. O 
-Mes O 
-souvenirs O 
-voguent O 
-confusément O 
-, O 
-fouettés O 
-de O 
-|
-
-| O 
-la O 
-brise O 
-des O 
-claques O 
-et O 
-mouillés O 
-de O 
-la O 
-moiteur O 
-des O 
-em- O 
-|
-
-| O 
-brassades O 
-, O 
-sur O 
-des O 
-lacs O 
-d’ O 
-huile O 
-de O 
-foie O 
-de O 
-morue O 
-. O 
-|
-| O 
-Comment O 
-me O 
-rappellerais O 
--je O 
-quelque O 
-chose O 
-? O 
-J' O 
-ai O 
-été O 
-|
-
-| O 
-un O 
-petit O 
-prodige O 
-. O 
-Je O 
-crois O 
-. O 
-que O 
-je O 
-savais O 
-lire O 
-avant O 
-de O 
-|
-
-| O 
-pouvoir O 
-marcher O 
-. O 
-J' O 
-ai O 
-appris O 
-par O 
-cœur O 
-beaucoup O 
-deli- O 
-|
-
-| O 
-vres O 
-| | O 
-jai O 
-noirci O 
-des O 
-fourgonsde O 
-papier O 
-blanc O 
-| | O 
-j’ B-LOC
-ai O 
-écouté O 
-|
-| O 
-parler O 
-les O 
-grandes O 
-personnes O 
-. O 
-J' O 
-ai O 
-été O 
-bien O 
-élevé O 
-. O 
-|
-| O 
-Des O 
-souvenirs O 
-? O 
-En O 
-vérité O 
-, O 
-même O 
-aujourd’hui O 
-, O 
-|
-| O 
-c' O 
-est O 
-avec O 
-peine O 
-que O 
-j' O 
-arrive O 
-à O 
-faire O 
-évoluer O 
-des O 
-per- O 
-|
-| O 
-sonnages O 
-devant O 
-le O 
-tableau O 
-noir O 
-qui O 
-a O 
-servi O 
-de O 
-fond O 
-à O 
-|
-| O 
-la O 
-tristesse O 
-de O 
-mes O 
-premières O 
-années O 
-. O 
-Oui O 
-, O 
-même O 
-en O 
-|
-| O 
-faisant O 
-voyager O 
-ma O 
-mémoire O 
-dans O 
-tous O 
-les O 
-coins O 
-de O 
-|
-| O 
-notre O 
-maison O 
-de O 
-Paris B-LOC
-| | O 
-dans O 
-les O 
-allées O 
-ratissées O 
-de O 
-|
-
-| O 
-1 O 
-° O 
-DT B-ORG
-|
-
-| O 
-4 O 
-. O 
-LE O 
-VOLEUR O 
-|
-
-| O 
-notre O 
-jardin O 
-de O 
-la O 
-campagne O 
-— O 
-un O 
-jardin O 
-où O 
-je O 
-ne O 
-|
-| O 
-peux O 
-me O 
-promener O 
-qu' O 
-avec O 
-précaution O 
-, O 
-où O 
-des O 
-allées O 
-|
-
-| O 
-me O 
-sont O 
-défendues O 
-parce O 
-que O 
-j' O 
-effleurerais O 
-des O 
-|
-| O 
-branches O 
-et O 
-que O 
-j’ B-LOC
-arracherais O 
-des O 
-fleurs O 
-, O 
-où O 
-les O 
-rosiers O 
-|
-| O 
-ont O 
-des O 
-étiquettes O 
-, O 
-les O 
-géraniums O 
-des O 
-scapulaires O 
-et O 
-|
-| O 
-les O 
-giroflées O 
-un O 
-état O 
-- O 
-civil O 
-à O 
-la O 
-planchette O 
-| | O 
-— O 
-dans O 
-|
-| O 
-l’ B-ORG
-herbe I-ORG
-et O 
-sous O 
-les O 
-arbres O 
-de O 
-la O 
-propriété O 
-de O 
-mon O 
-|
-| O 
-grand’père O 
-qui O 
-pourtant O 
-ne O 
-demanderait O 
-pas O 
-mieux O 
-, O 
-|
-| O 
-lui O 
-, O 
-que O 
-de O 
-me O 
-laisser O 
-vacciner O 
-les O 
-hêtres O 
-et O 
-décapiter O 
-|
-| O 
-les O 
-boutons O 
-d’ O 
-or O 
-... O 
-|
-
-| O 
-Des O 
-souvenirs O 
-? O 
-Si O 
-vous O 
-voulez O 
-. O 
-|
-
-| O 
-Mon O 
-père O 
-? O 
-J' O 
-ai O 
-deux O 
-souvenirs O 
-de O 
-lui O 
-. O 
-|
-
-| O 
-Un B-MISC
-dimanche I-MISC
-, I-MISC
-ii I-MISC
-m' O 
-a O 
-emmené O 
-à O 
-une O 
-fête O 
-de O 
-ban- O 
-|
-| O 
-lieue O 
-. O 
-Comme O 
-j' O 
-avais O 
-fait O 
-manœuvrer O 
-sans O 
-succès O 
-les O 
-|
-| O 
-différents O 
-tourniquets O 
-chargés O 
-de O 
-pavés O 
-de O 
-Reims B-LOC
-, O 
-de O 
-|
-| O 
-porcelaines O 
-utiles O 
-et O 
-de O 
-lapins O 
-mélancoliques O 
-, O 
-il O 
-s’ B-PER
-est O 
-|
-| O 
-mis O 
-en O 
-colère O 
-. O 
-|||| O 
-|
-
-| O 
-— O 
-Tu O 
-vas O 
-voir O 
-, O 
-a O 
--t O 
--il O 
-dit O 
-, O 
-que O 
-Phanor B-PER
-est O 
-plus O 
-|
-| O 
-adroit O 
-que O 
-toi O 
-. O 
-|
-
-| O 
-Ïl O 
-a O 
-fait O 
-dresser O 
-le O 
-chien O 
-contre O 
-la O 
-machine O 
-et O 
-la O 
-lui O 
-|
-| O 
-a O 
-fait O 
-mettre O 
-en O 
-mouvement O 
-d’ O 
-un O 
-coup O 
-de O 
-patte O 
-auto- O 
-|
-| O 
-ritaire O 
-. O 
-Phanor B-PER
-a O 
-gagné O 
-le O 
-gros O 
-lot O 
-, O 
-un O 
-grand O 
-morceau O 
-|
-| O 
-de O 
-pain O 
-d' O 
-épice O 
-. O 
-|
-
-| O 
-— O 
-Puisqu' O 
-il O 
-l4 O 
-gagné O 
-, O 
-a O 
-prononcé O 
-mon O 
-père O 
-, O 
-qu’ B-PER
-il O 
-|
-
-| O 
-le O 
-mange O 
-! O 
-|||| O 
-|
-| O 
-Il O 
-a O 
-déposé O 
-le O 
-pain O 
-d' O 
-épice O 
-sur O 
-l’ B-ORG
-herbe I-ORG
-et O 
-le O 
-chien O 
-|
-| O 
-s’ B-PER
-est O 
-mis O 
-à O 
-l' O 
-entamer O 
-, O 
-avec O 
-plaisir O 
-certainement O 
-, O 
-mais O 
-|
-| O 
-sans O 
-enthousiasme O 
-. O 
-Des O 
-homines O 
-vêtus O 
-en O 
-ouvriers O 
-, O 
-|
-| O 
-derrière O 
-nous O 
-, O 
-ont O 
-murmuré O 
-. O 
-|
-
-| O 
-— O 
-C' O 
-est O 
-honteux O 
-, O 
-ont O 
--ils O 
-dit O 
-, O 
-de O 
-jeter O 
-ce O 
-pain O 
-|
-
-| O 
-d' O 
-épice O 
-à O 
-un O 
-chien O 
-lorsque O 
-tant O 
-d' O 
-enfants O 
-seraient O 
-si O 
-|
-
-| O 
-heureux O 
-de O 
-lavoir O 
-. O 
-|
-
-| O 
-Mon O 
-père O 
-n' O 
-a O 
-pas O 
-bronché O 
-. O 
-Mais O 
-, O 
-quand O 
-nous O 
-avons O 
-|
-| O 
-été O 
-partis O 
-, O 
-je O 
-l’ B-LOC
-ai O 
-entendu O 
-qui O 
-disait O 
-à O 
-ma O 
-mèr O 
-|
-
-| O 
-— O 
-Ce O 
-sont O 
-des O 
-souteneurs O 
-, O 
-tu O 
-sais O 
-. O 
-|||| O 
-|
-
-| O 
-J' O 
-ai O 
-demandé O 
-ce O 
-que O 
-c' O 
-était O 
-que O 
-les O 
-souteneurs O 
-. O 
-On O 
-|
-
-| O 
-ne O 
-m' O 
-a O 
-pas O 
-répondu O 
-. O 
-Alors O 
-, O 
-j' O 
-ai O 
-pensé O 
-que O 
-les O 
-souteneurs O 
-|
-| O 
-étaient O 
-des O 
-gens O 
-qui O 
-aimaient O 
-beaucoup O 
-les O 
-enfants O 
-. O 
-|
-
-| O 
-à O 
-0 O 
-— O 
-ns O 
-|
-| O 
-2 O 
-rs O 
-25 O 
-|
-
-| O 
-ere O 
-|
-
-| O 
-— O 
-— O 
-|
-
-| O 
-Le B-MISC
-TR I-MISC
-|
-
-| I-MISC
-CA I-MISC
-ET O 
-. O 
-|
-
-| O 
-ES B-LOC
-. O 
-. O 
-|
-
-| O 
-EE B-ORG
-. O 
-L O 
-|
-
-| O 
-a O 
-md O 
-- O 
-|
-| O 
-+ O 
-|
-
-| O 
-Fa O 
-|
-| O 
-LT B-ORG
-. O 
-|
-| O 
-LE O 
-|
-
-| O 
-Ke B-MISC
+|;O;
+XXX;B;MISC
+.;O;
 |
 
  
 
-| I-MISC
-LE I-MISC
-VOLEUR I-MISC
-S. I-MISC
-|
-
-| I-MISC
-Plus I-MISC
-tard I-MISC
-, O 
-mon O 
-père O 
-m' O 
-a O 
-procuré O 
-une O 
-joie O 
-plus O 
-|
-| O 
-grave O 
-. O 
-Il O 
-m’ B-PER
-a O 
-fait O 
-voir O 
-Gambetta B-PER
-. O 
-C' O 
-était O 
-au O 
-Palais B-LOC
-de I-LOC
-|
-| I-LOC
-Versailles I-LOC
-, O 
-où O 
-se O 
-tenait O 
-alors O 
-l’ B-ORG
-Assemblée I-ORG
-Nationale I-ORG
-. O 
-|
-| O 
-La O 
-séance O 
-était O 
-ouverte O 
-quand O 
-nous O 
-sommes O 
-entrés O 
-. O 
-|
-| O 
-Un B-MISC
-monsieur I-MISC
-chauve I-MISC
-, O 
-fortifié O 
-d’ B-PER
-un O 
-gilet O 
-blanc O 
-, O 
-était O 
-à O 
-|
-| O 
-la O 
-tribune O 
-. O 
-Il O 
-disait O 
-que O 
-le O 
-maïs O 
-est O 
-très O 
-mauvais O 
-pour O 
-|
-| O 
-les O 
-chevaux O 
-. O 
-Jai O 
-cru O 
-que O 
-c' O 
-était O 
-Gambetta B-PER
-. O 
-|
-
-| O 
-Mon O 
-père O 
-s’ B-PER
-est O 
-mis O 
-en O 
-colère O 
-. O 
-Comment O 
-! O 
-je O 
-ne O 
-re- O 
-|
-| O 
-connais O 
-pas O 
-Gambetta B-PER
-! O 
-Il O 
-est O 
-assez O 
-facile O 
-à O 
-distinguer O 
-|
-| O 
-des O 
-autres O 
-, O 
-pourtant O 
-. O 
-Ne O 
-m'’a O 
--t O 
--on O 
-pas O 
-dit O 
-mille O 
-fois O 
-|
-| O 
-qu' O 
-il O 
-s' O 
-était O 
-crevé O 
-un O 
-œil O 
-parce O 
-que O 
-ses O 
-parents O 
-ne O 
-vou- O 
-|
-| O 
-laient O 
-pas O 
-le O 
-retirer O 
-d' O 
-un O 
-collège O 
-de O 
-Jésuites B-ORG
-? O 
-|
-
-| O 
-Si O 
-, O 
-on O 
-me O 
-l’ B-LOC
-a O 
-dit O 
-mille O 
-fois O 
-. O 
-Je O 
-sais O 
-ainsi O 
-qu' O 
-un O 
-fils O 
-|
-
-| O 
-a O 
-le O 
-droit O 
-de O 
-désobéir O 
-à O 
-ses O 
-parents O 
-quand O 
-ils O 
-le O 
-met- O 
-|
-| O 
-tent O 
-chez O 
-les O 
-Jésuites B-ORG
-, O 
-mais O 
-qu' O 
-il O 
-doit O 
-leur O 
-obéir O 
-aveu- O 
-|
-| O 
-glement O 
-lorsqu' O 
-ils O 
-lenferment O 
-ailleurs O 
-. O 
-|
-| O 
-Ah B-MISC
-! I-MISC
-tu O 
-es O 
-vraiment O 
-bien O 
-nigaud O 
-, O 
-mon O 
-pauvre O 
-|
-| O 
-enfant O 
-! O 
-À O 
-quoi O 
-ça O 
-sert O 
--il O 
-, O 
-alors O 
-, O 
-d’ B-MISC
-avoir O 
-mis O 
-dans O 
-ta O 
-|
-| O 
-chambre O 
-le O 
-vortrait O 
-du O 
-grand O 
-patriote O 
-? O 
-Je O 
-parie O 
-que O 
-|
-| O 
-tu O 
-ne O 
-le O 
-regardes O 
-seulement O 
-pas O 
-, O 
-avant O 
-de O 
-te O 
-coucher O 
-. O 
-|
-| O 
-En O 
-tous O 
-cas O 
-, O 
-tu O 
-n’ B-PER
-es O 
-guère O 
-physionsmiste O 
-| | O 
-combien O 
-|
-| O 
-a O 
-- O 
-t-1l O 
-d’ O 
-yeux O 
-, O 
-le O 
-député O 
-qui O 
-parle O 
-à O 
-la O 
-tribune O 
-? O 
-Un O 
-, O 
-|
-| O 
-ou O 
-deux O 
-? O 
-|||| O 
-|
-
-| O 
-Je O 
-ne O 
-sais O 
-pas O 
-, O 
-je O 
-ne O 
-sais O 
-pas O 
-. O 
-Je O 
-crois O 
-bien O 
-qu’ O 
-il O 
-en O 
-|
-| O 
-a O 
-trois O 
-. O 
-[ O 
-la O 
-des O 
-yeux O 
-partout O 
-. O 
-Il O 
-en O 
-est O 
-plein O 
-. O 
-Je O 
-le O 
-|
-| O 
-vois O 
-bien O 
-, O 
-à O 
-présent O 
-| | O 
-mais O 
-, O 
-tout O 
-à O 
-l’ B-LOC
-heure O 
-, O 
-je O 
-ne O 
-pou- O 
-|
-| O 
-vais O 
-rien O 
-voir O 
-| | O 
-j' O 
-étais O 
-ébloui O 
-. O 
-Ah B-MISC
-! I-MISC
-j' O 
-ai O 
-été O 
-tellement O 
-|
-| O 
-ému O 
-, O 
-en O 
-pénétrant O 
-dans O 
-l’ B-MISC
-auguste I-MISC
-enceinte O 
-, O 
-dans O 
-le O 
-|
-| O 
-sanctuaire O 
-des O 
-lois O 
-! O 
-J’ O 
-en O 
-suis O 
-encore O 
-tout O 
-agité O 
-. O 
-Et O 
-|
-| O 
-puis O 
-, O 
-je O 
-croyais O 
-que O 
-Gambetta B-PER
-ne O 
-quittait O 
-pas O 
-la O 
-tri- O 
-|
-| O 
-bane O 
-, O 
-que O 
-c' O 
-était O 
-lui O 
-qui O 
-parlait O 
-tout O 
-le O 
-temps O 
-— O 
-que O 
-|
-| O 
-les O 
-autres O 
-n’ B-MISC
-étaient O 
-là O 
-que O 
-pour O 
-l’ B-ORG
-écouter O 
-. O 
-|
-
-| O 
-Mon O 
-père O 
-donne O 
-des O 
-explications O 
-aux O 
-voisins O 
-qui O 
-|
-| O 
-ébauchent O 
-des O 
-gestes O 
-indulgents O 
-, O 
-après O 
-avoir O 
-souri O 
-de O 
-|
-| O 
-pitié O 
-. O 
-|
-
-| O 
-— O 
-Je O 
-ne O 
-comprends O 
-vraiment O 
-pas O 
-comment O 
-il O 
-a O 
-pu O 
-|
-
- 
-
-| O 
-confondre O 
-ainsi O 
-... O 
-[ O 
-l O 
-a O 
-toujours O 
-le O 
-premier O 
-prix B-MISC
-|
-
-| I-MISC
-d' I-MISC
-Histoire I-MISC
-et O 
-il O 
-reconnaîtrait O 
-M. B-PER
-Thiers I-PER
-à O 
-une O 
-demi- O 
-. O 
-|
-| O 
-lieue O 
-… O 
-|
-
-| O 
-6 O 
-LE O 
-VOLEUR B-MISC
-|
-
-| I-MISC
-Puis I-MISC
-, O 
-il O 
-se O 
-tourne O 
-vers O 
-moi O 
-. O 
-|
-
-| O 
-— O 
-Le O 
-voilà O 
-, O 
-Gambetta B-MISC
-! I-MISC
-Tiens B-LOC
-, O 
-là O 
-, O 
-là O 
-! O 
-|
-
-| O 
-Oui O 
-, O 
-c’ B-MISC
-est O 
-lui O 
-, O 
-c’ B-MISC
-est O 
-bien O 
-lui O 
-. O 
-Je O 
-reconnais O 
-son O 
-œil O 
-|
-| O 
-— O 
-la O 
-place O 
-de O 
-son O 
-œil O 
-. O 
-— O 
-Il O 
-est O 
-là O 
-, O 
-au O 
-premier O 
-banc O 
-|
-| O 
-— O 
-le O 
-banc O 
-de O 
-la O 
-commission O 
-, O 
-dit O 
-un O 
-voisin O 
-qui O 
-s’ B-PER
-y O 
-|
-| O 
-connaît O 
-— O 
-étendu O 
-de O 
-tout O 
-son O 
-long O 
-, O 
-ou O 
-presque O 
-, O 
-les O 
-|
-| O 
-mains O 
-dans O 
-les O 
-poches O 
-et O 
-la O 
-cravate O 
-de O 
-travers O 
-. O 
-Et O 
-, O 
-de O 
-|
-| O 
-toute O 
-l' O 
-après-midi O 
-, O 
-il O 
-ne O 
-desserre O 
-point O 
-les O 
-dents O 
-, O 
-pas O 
-|
-| O 
-une O 
-seule O 
-fois O 
-. O 
-Il O 
-se O 
-contente O 
-de O 
-renifler O 
-. O 
-Une O 
-séance O 
-|
-| O 
-fort O 
-intéressante O 
-, O 
-cependant O 
-, O 
-où O 
-l’ B-LOC
-on O 
-discute O 
-la O 
-qualité O 
-|
-| O 
-des O 
-fourrages O 
-— O 
-paille O 
-, O 
-foin O 
-, O 
-luzerne O 
-, O 
-avoine O 
-, O 
-son O 
-et O 
-|
-| O 
-recoupette O 
-. O 
-|
-
-| O 
-— O 
-( O 
-C' O 
-est O 
-bien O 
-dommage O 
-que O 
-Gambetta B-PER
-n' O 
-ait O 
-pas O 
-|
-| O 
-parlé O 
-, O 
-dis O 
--je O 
-à O 
-mon O 
-père O 
-, O 
-comme O 
-nous O 
-sortons O 
-. O 
-|
-
-| O 
-— O 
-La O 
-parole O 
-est O 
-d' O 
-argent O 
-et O 
-le O 
-silence O 
-est O 
-d’ O 
-or O 
-, O 
-me O 
-|
-| O 
-répond O 
--il O 
-d’ O 
-une O 
-voix O 
-qui O 
-me O 
-fait O 
-comprendre O 
-qu’ O 
-il O 
-|
-| O 
-m' O 
-en O 
-veut O 
-de O 
-ma O 
-bévue O 
-de O 
-tout O 
-à O 
-l' O 
-heure O 
-. O 
-Mais O 
-je O 
-ne O 
-|
-| O 
-t' O 
-avais O 
-pas O 
-promis O 
-de O 
-te O 
-faire O 
-entendre O 
-Gambetta B-PER
-| | O 
-ça O 
-|
-| O 
-ne O 
-dépend O 
-point O 
-de O 
-moi O 
-. O 
-Je O 
-t' O 
-avais O 
-promis O 
-de O 
-te O 
-le O 
-|
-| O 
-faire O 
-voir O 
-. O 
-Tu O 
-l’ B-LOC
-as O 
-vu O 
-. O 
-Tu O 
-n’ B-PER
-espérais O 
-pas O 
-quelque O 
-chose O 
-|
-| O 
-d’ B-PER
-extraordinaire O 
-, O 
-je O 
-pense O 
-? O 
-|
-
-| O 
-Moi B-MISC
-? I-MISC
-Pas O 
-du O 
-tout O 
-. O 
-Je O 
-ne O 
-m' O 
-attendais O 
-pas O 
-, O 
-bien O 
-sûr O 
-, O 
-|
-| O 
-à O 
-voir O 
-le O 
-tribun O 
-rincer O 
-son O 
-œil O 
-de O 
-plomb O 
-dans O 
-le O 
-verre O 
-|
-| O 
-d' O 
-eau O 
-sucrée O 
-, O 
-ou O 
-le O 
-lancer O 
-au O 
-plafond O 
-pour O 
-le O 
-rattraper O 
-|
-| O 
-dans O 
-la O 
-cuiller O 
-. O 
-Je O 
-sais O 
-qu’ B-MISC
-il O 
-est O 
-trop O 
-bien O 
-élevé O 
-pour O 
-ça O 
-. O 
-|
-
-| O 
-— O 
-Que O 
-son O 
-exemple O 
-te O 
-serve O 
-de O 
-leçon O 
-, O 
-reprend O 
-|
-| O 
-mon O 
-père O 
-. O 
-Avec O 
-de O 
-l' O 
-économie O 
-et O 
-en O 
-faisant O 
-son O 
-droit O 
-, O 
-|
-| O 
-on O 
-peut O 
-aujourd'hui O 
-arriver O 
-à O 
-tout O 
-. O 
-Il O 
-dépend O 
-de O 
-toi O 
-|
-| O 
-de O 
-monter O 
-aussi O 
-haut O 
-que O 
-lui O 
-. O 
-|
-
-| O 
-Je O 
-crois O 
-que O 
-j' O 
-aurais O 
-peur O 
-, O 
-en O 
-ballon O 
-. O 
-Du O 
-reste O 
-, O 
-bien O 
-|
-| O 
-que O 
-je O 
-ne O 
-l' O 
-avoue O 
-qu’ B-MISC
-à I-MISC
-moi I-MISC
-- I-MISC
-même I-MISC
-, O 
-j' O 
-ai O 
-été O 
-très O 
-désillu- O 
-|
-| O 
-sionné O 
-. O 
-Le O 
-Gambetta B-LOC
-que O 
-j' O 
-ai O 
-vu O 
-n’ B-PER
-est O 
-point O 
-celui O 
-que O 
-|
-| O 
-j O 
-espérais O 
-voir O 
-. O 
-Non O 
-, O 
-pas O 
-du O 
-tout O 
-. O 
-Je O 
-ne O 
-me O 
-rappelle O 
-|
-| O 
-déjà O 
-plus O 
-sa O 
-figure O 
-: O 
-et O 
-si O 
-sa O 
-face O 
-— O 
-de O 
-profil O 
-— O 
-ne O 
-|
-| O 
-protégeait O 
-pas O 
-mon O 
-sommeil O 
-, O 
-pendant O 
-les O 
-vacances O 
-, O 
-|
-| O 
-_ O 
-j' O 
-ignorerais O 
-demain O 
-comment O 
-1l O 
-a O 
-le O 
-nez O 
-fait O 
-. O 
-Est O 
--ce O 
-|
-| O 
-que O 
-je O 
-ne O 
-suis O 
-pas O 
-physionomiste O 
-, O 
-comme O 
-l’ B-ORG
-assure O 
-|
-| O 
-mon O 
-père O 
-? O 
-|
-
-| O 
-Si O 
-, O 
-je O 
-lesuis O 
-| | O 
-au O 
-moins O 
-quelquefois O 
-. O 
-Et O 
-le O 
-monsieur O 
-|
-
-| O 
-4e O 
-, O 
-|
-
-| O 
-TERRE B-ORG
-|
-| O 
-LORS B-ORG
-FE B-LOC
-|
-| O 
-. O 
-" O 
-7 O 
-, O 
-VV B-ORG
-, O 
-4 O 
-|
-
-| O 
-= O 
-rte O 
-+ O 
-|
-| O 
-, O 
-|
-
-| O 
-LE B-MISC
-EL I-MISC
-|
-
-| O 
-_ O 
-|
-
-| O 
-LE O 
-VOLEUR B-ORG
-: O 
-7 O 
-|
-
-| O 
-chauve O 
-, O 
-en O 
-gilet O 
-blanc O 
-, O 
-qui O 
-parlait O 
-quand O 
-nous O 
-sommes O 
-|
-
-| O 
-entrés O 
-, O 
-je O 
-vous O 
-jure O 
-que O 
-je O 
-ne O 
-J' B-MISC
-ai I-MISC
-point I-MISC
-oublié I-MISC
-. O 
-Ses O 
-|
-| O 
-traits O 
-se O 
-sont O 
-gravés O 
-en O 
-moi O 
-sans O 
-que O 
-le O 
-temps O 
-ait O 
-ja- O 
-|
-| O 
-mais O 
-pu O 
-les O 
-effacer O 
-. O 
-Quand O 
-je O 
-veux O 
-, O 
-dans O 
-les O 
-circons- O 
-|
-| O 
-tances O 
-graves O 
-, O 
-me O 
-représenter O 
-un O 
-homme O 
-d' O 
-Etat B-LOC
-, O 
-c’ B-MISC
-est O 
-|
-| O 
-son O 
-visage O 
-que O 
-j’ B-LOC
-évoque O 
-, O 
-c’ B-MISC
-est O 
-son O 
-linge O 
-et O 
-son O 
-attitude O 
-|
-| O 
-que O 
-vient O 
-m' O 
-offrir O 
-ma O 
-mémoire O 
-. O 
-Oui O 
-, O 
-malgré O 
-mon O 
-|
-| O 
-père O 
-, O 
-dont O 
-les O 
-admirations O 
-étaient O 
-certainement O 
-justi- O 
-|
-| O 
-fiées O 
-, O 
-ce O 
-n’ B-PER
-est O 
-pas O 
-Gambetta B-PER
-, O 
-ni O 
-même O 
-M. O 
-Thiers B-PER
-, O 
-qui O 
-|
-| O 
-symbolisent O 
-pour O 
-moi O 
-le O 
-gouvernement O 
-nécessaire O 
-|
-| O 
-d’ O 
-un O 
-peuple O 
-libre O 
-, O 
-mais O 
-policé O 
-. O 
-C’ B-PER
-estce I-PER
-monsieur I-PER
-, O 
-dont O 
-|
-| O 
-j' O 
-ignore O 
-le O 
-nom O 
-, O 
-dont O 
-les O 
-cheveux O 
-avaient O 
-quitté O 
-la O 
-|
-| O 
-France B-LOC
-dans O 
-le O 
-fiacre O 
-à O 
-Louis-Philippe B-PER
-, O 
-dont O 
-la O 
-blan- O 
-|
-| O 
-chisseuse O 
-avait O 
-: O 
-un O 
-si O 
-joli O 
-coup O 
-de O 
-fer O 
-, O 
-et O 
-qui O 
-con- O 
-|
-| O 
-damnait O 
-le O 
-maïs O 
-, O 
-formellement O 
-et O 
-sans O 
-appel O 
-, O 
-au O 
-nom O 
-|
-| O 
-de O 
-la O 
-cavalerie O 
-tout O 
-entière O 
-. O 
-|
-
-| O 
-J' O 
-ai O 
-trois O 
-souvenirs O 
-de O 
-ma O 
-mère O 
-. O 
-|
-| O 
-Un O 
-jour O 
-, O 
-comme O 
-j' O 
-étais O 
-tout O 
-petit O 
-, O 
-elle O 
-me O 
-tenait O 
-sur O 
-|
-| O 
-ses O 
-genoux O 
-quand O 
-on O 
-est O 
-venu O 
-lui O 
-annoncer O 
-qu’ O 
-une O 
-|
-
-| O 
-traite O 
-souscrite O 
-par O 
-un O 
-client O 
-était O 
-demeurée O 
-impayée O 
-. O 
-|
-
-| O 
-Elle O 
-m' O 
-a O 
-posé O 
-à O 
-terre O 
-si O 
-rudement O 
-que O 
-je O 
-suis O 
-tombéet O 
-|
-
-| O 
-que O 
-j' O 
-ai O 
-eu O 
-le O 
-poignet O 
-foulé O 
-. O 
-|
-
-| O 
-Une O 
-fois O 
-, O 
-elle O 
-m' O 
-a O 
-récompensé O 
-parce O 
-que O 
-j' O 
-avais O 
-ré- O 
-|
-
-| O 
-_ O 
-pondu O 
-à O 
-un O 
-vieux O 
-mendiant O 
-qui O 
-venait O 
-demander O 
-|
-
-| O 
-l’ B-LOC
-aumône O 
-à O 
-la O 
-grille O 
-: O 
-« O 
-Allez O 
-donc O 
-travailler O 
-, O 
-fainéant O 
-| | O 
-|
-| O 
-vous O 
-ferez O 
-mieux O 
-. O 
-» O 
-|
-
-| O 
-— O 
-C’ B-LOC
-est O 
-très O 
-bien O 
-, O 
-mon O 
-enfant O 
-, O 
-m’ B-PER
-a O 
--t O 
--elle O 
-dit O 
-. O 
-Le O 
-|
-| O 
-travail O 
-est O 
-le O 
-seul O 
-remède O 
-à O 
-la O 
-misère O 
-et O 
-empêche O 
-bien O 
-|
-
-| O 
-des O 
-mauvaises O 
-actions O 
-| | O 
-quand O 
-on O 
-travaille O 
-, O 
-on O 
-ne O 
-|
-
-| O 
-pense O 
-pas O 
-à O 
-faire O 
-du O 
-mal O 
-à O 
-autrui O 
-. O 
-|
-
-| O 
-Et O 
-elle O 
-m’ B-PER
-a O 
-donné O 
-une O 
-petite O 
-carabine O 
-avec O 
-laquelle O 
-|
-| O 
-on O 
-peut O 
-aisément O 
-tuer O 
-des O 
-oiseaux O 
-. O 
-|
-
-| O 
-Une O 
-autre O 
-fois O 
-, O 
-elle O 
-m' O 
-a O 
-puni O 
-parce O 
-que O 
-« O 
-je O 
-demande O 
-|
-| O 
-toujours O 
-où O 
-mènent O 
-leschemins O 
-qu’ B-LOC
-on O 
-traverse O 
-, O 
-quand O 
-|
-| O 
-on O 
-va O 
-se O 
-promener O 
-. O 
-» O 
-Ma B-PER
-mère I-PER
-avait O 
-raison O 
-, O 
-je O 
-l’ B-LOC
-ai O 
-vu O 
-|
-| O 
-depuis O 
-. O 
-C’ B-MISC
-est O 
-tout O 
-à O 
-fait O 
-ridicule O 
-, O 
-de O 
-demander O 
-où O 
-|
-| O 
-mènent O 
-les O 
-chemins O 
-. O 
-Ils O 
-vous O 
-conduisent O 
-toujours O 
-où O 
-|
-| O 
-vous O 
-devez O 
-aller O 
-. O 
-|||| O 
-|
-
-| O 
-8 O 
-LE O 
-VOLEUR B-MISC
-|
-
-| I-MISC
-‘ I-MISC
-Mon I-MISC
-grand-père I-MISC
-... I-MISC
-C’ B-MISC
-est O 
-un O 
-ancien O 
-avoué O 
-, O 
-à O 
-[ O 
-a O 
-|
-| O 
-bouche O 
-sans O 
-lèvres O 
-, O 
-aux O 
-yeux O 
-narquois O 
-, O 
-qui O 
-dit O 
-tou- O 
-|
-| O 
-jours O 
-que O 
-le O 
-Code B-MISC
-est I-MISC
-formel I-MISC
-. O 
-|||| O 
-|
-
-| O 
-= O 
-Le B-MISC
-Code I-MISC
-est I-MISC
-formel I-MISC
-. O 
-|
-| O 
-Le O 
-geste O 
-est O 
-facétieux O 
-| | O 
-l’ O 
-intonation O 
-est O 
-cruelle O 
-. O 
-La O 
-|
-| O 
-main O 
-s' O 
-ouvre O 
-, O 
-les O 
-doigts O 
-écartés O 
-, O 
-la O 
-paume O 
-dilatée O 
-|
-| O 
-comme O 
-celle O 
-d’ B-MISC
-un O 
-charlatan O 
-qui O 
-vient O 
-d’ B-PER
-escamoter O 
-la O 
-|
-| O 
-muscade O 
-. O 
-La O 
-voix O 
-siffle O 
-, O 
-tranche O 
-, O 
-dissèque O 
-ia O 
-phrase O 
-, O 
-|
-| O 
-désarticule O 
-les O 
-mots O 
-, O 
-incise O 
-les O 
-voyelles O 
-, O 
-fait O 
-des O 
-liga- O 
-|
-| O 
-turés O 
-aux O 
-consonnes O 
-. O 
-|
-| O 
-" O 
-, O 
-. O 
-— O 
-Le B-MISC
-Code I-MISC
-est I-MISC
-formel I-MISC
-! I-MISC
-|
-| O 
-‘ O 
-” O 
-Pécoute B-LOC
-ça O 
-, O 
-plein O 
-d’ O 
-une O 
-sombre O 
-admiration O 
-pour O 
-|
-| O 
-l’ B-ORG
-Autorité I-ORG
-souveraine I-ORG
-et O 
-mystérieuse O 
-du O 
-Code B-MISC
-, O 
-un O 
-peu O 
-|
-| O 
-térrifié O 
-aussi O 
--— O 
-et O 
-en O 
-mangeant O 
-mes O 
-ongles O 
-. O 
-— O 
-C' O 
-est O 
-|
-| O 
-une O 
-habitude O 
-que O 
-rien O 
-n’ B-PER
-a O 
-pu O 
-me O 
-faire O 
-perdre O 
-, O 
-ni O 
-les O 
-|
-| O 
-choses O 
-amères O 
-dont O 
-on O 
-me O 
-barbouille O 
-les O 
-doigts O 
-, O 
-quand O 
-|
-| O 
-je O 
-dors O 
-, O 
-et O 
-qui O 
-me O 
-font O 
-faire O 
-des O 
-grimaces O 
-au O 
-réveil O 
-, O 
-|
-| O 
-ni O 
-les O 
-exhortations O 
-, O 
-ni O 
-les O 
-réprimandes O 
-| | O 
-mais O 
-mon O 
-|
-| O 
-grand-père O 
-, O 
-en O 
-un O 
-clin O 
-d’ O 
-œil O 
-, O 
-m' O 
-en O 
-a O 
-radicalement O 
-|
-| O 
-corrigé O 
-. O 
-|
- | O 
-— O 
-Jine B-PER
-faut O 
-pas O 
-mangertes O 
-ongles O 
-, O 
-m O 
-a O 
-- O 
-t O 
-- O 
-ildit O 
-. O 
-Il O 
-ne O 
-|
-| O 
-faut O 
-pas O 
-manger O 
-tes O 
-ongles O 
-parce O 
-qu' O 
-ils O 
-sont O 
-à O 
-toi O 
-. O 
-Si O 
-tu O 
-|
-| O 
-aimes O 
-les O 
-ongles O 
-, O 
-mange O 
-ceux O 
-des O 
-autres O 
-, O 
-si O 
-tu O 
-veux O 
-|
-
-| O 
-et O 
-si O 
-tu O 
-peux O 
-| | O 
-mais O 
-les O 
-tiens O 
-sont O 
-ta O 
-propriété O 
-, O 
-et O 
-ton O 
-|
-
-| O 
-devoir O 
-est O 
-de O 
-conserver O 
-ta O 
-propriété O 
-. O 
-|
-
-| O 
-© O 
-J' O 
-ai O 
-écouté O 
-mon O 
-grand-père O 
-et O 
-j' O 
-ai O 
-perdu O 
-ma O 
-mau- O 
-|
-| O 
-vaise O 
-habitude O 
-. O 
-Peut O 
-- O 
-être O 
-que O 
-le O 
-Code B-MISC
-est O 
-formel O 
-, O 
-pour O 
-|
-| O 
-les O 
-ongles O 
-. O 
-|||| O 
-|
-
-| O 
-J' O 
-ai O 
-voulu O 
-m’ B-PER
-en O 
-assurer O 
-, O 
-un O 
-jour O 
-, O 
-quand O 
-j' O 
-ai O 
-été O 
-plus O 
-|
-
-| O 
-grand O 
-| | O 
-voir O 
-aussi O 
-ce O 
-que O 
-c’ B-MISC
-est O 
-que O 
-ce O 
-livre O 
-qui O 
-résume O 
-: O 
-|
-
-| O 
-la O 
-sagesse O 
-des O 
-âges O 
-et O 
-condense O 
-l’ B-ORG
-expérience O 
-de O 
-l’ B-LOC
-huma- O 
-|
-| O 
-nité O 
-, O 
-qui O 
-décide O 
-du O 
-jas O 
-et O 
-du O 
-nefas O 
-, O 
-qui O 
-promulgue O 
-des O 
-|
-| O 
-interdictions O 
-et O 
-sugoère O 
-des O 
-conseils O 
-, O 
-qui O 
-fait O 
-la O 
-tran- O 
-|
-| O 
-quillité O 
-des O 
-bons O 
-et O 
-la O 
-terreur O 
-des O 
-méchants O 
-. O 
-|
-
-| O 
-On O 
-m' O 
-avait O 
-envoyé O 
-, O 
-pendant O 
-les O 
-vacances O 
-, O 
-passer O 
-|
-| O 
-quelques O 
-jours O 
-chez O 
-mon O 
-grand-père O 
-. O 
-Une O 
-après-midi O 
-, O 
-|
-| O 
-j' O 
-ai O 
-pu O 
-m' O 
-introduire O 
-sans O 
-bruit O 
-dans O 
-la O 
-bibliothèque O 
-, O 
-|
-| O 
-saisir O 
-un O 
-Code B-MISC
-, O 
-le O 
-cacher O 
-sous O 
-ma O 
-blouse O 
-et O 
-me O 
-réfu- O 
-|
-
-| O 
-AA B-LOC
-IT I-LOC
-es O 
-ne O 
-ee O 
-|
-
-| O 
-RE O 
-r O 
-  O 
-— O 
-— O 
-|
-
-| O 
-“ O 
-‘ O 
-|
-| O 
-AO B-ORG
-as O 
-|
-| O 
-: O 
-7 O 
-|
-
-| O 
-LE O 
-VOLEUR B-MISC
-9 I-MISC
-|
-
-| O 
-gier O 
-, O 
-sans O 
-être O 
-vu O 
-, O 
-derrière O 
-le O 
-feuillage O 
-d’ O 
-une O 
-tonnelle O 
-, O 
-|
-| O 
-tout O 
-au O 
-fond O 
-du O 
-jardin O 
-. O 
-|
-
-| O 
-Avec O 
-quel O 
-battement O 
-de O 
-cœur O 
-j' O 
-ai O 
-posé O 
-le O 
-volume O 
-|
-| O 
-sur O 
-la O 
-table O 
-rustique O 
-du O 
-berceau O 
-! O 
-Avec O 
-quelles O 
-transes O 
-|
-| O 
-d’ O 
-être O 
-surpris O 
-avant O 
-d’ B-MISC
-avoir O 
-pu O 
-boire O 
-à O 
-ma O 
-soif O 
-à O 
-la O 
-|
-| O 
-source O 
-de O 
-justiceet O 
-de O 
-vérité O 
-, O 
-avec O 
-quels O 
-espoirs O 
-inex- O 
-|
-| O 
-primables O 
-et O 
-quels O 
-pressentiments O 
-indicibles O 
-! O 
-Le O 
-voile O 
-|
-| O 
-qui O 
-me O 
-cache O 
-la O 
-vie O 
-va O 
-se O 
-déchirer O 
-tout O 
-d’ O 
-un O 
-coup O 
-, O 
-je O 
-|
-| O 
-le O 
-sens O 
-| | O 
-je O 
-vais O 
-savoir O 
-le O 
-pourquoi O 
-et O 
-le O 
-comment O 
-de O 
-|
-| O 
-l’ B-LOC
-existence O 
-de O 
-tous O 
-les O 
-êtres O 
-, O 
-connaître O 
-les O 
-liens O 
-qui O 
-|
-| O 
-les O 
-attachent O 
-les O 
-uns O 
-aux O 
-autres O 
-, O 
-les O 
-causes O 
-profondes O 
-|
-| O 
-de O 
-l' O 
-harmonie O 
-qui O 
-préside O 
-aux O 
-rapports O 
-des O 
-hommes O 
-, O 
-|
-| O 
-pénétrer O 
-les O 
-bienfaisants O 
-eflets O 
-de O 
-ce O 
-progrès O 
-que O 
-rien O 
-|
-| O 
-n' O 
-arrête O 
-, O 
-de O 
-cette O 
-civilisation O 
-dont O 
-j' O 
-apprends O 
-à O 
-m’ B-PER
-enor- O 
-|
-| O 
-gueillir O 
-. O 
-Non O 
-, O 
-Ali B-PER
-- I-PER
-Baba I-PER
-n’ I-PER
-a O 
-point O 
-éprouvé O 
-, O 
-en O 
-péné- O 
-|
-
-| O 
-trant O 
-dans O 
-la O 
-caverne O 
-des O 
-quarante O 
-voleurs O 
-, O 
-des O 
-tres- O 
-|
-| O 
-saillements O 
-plus O 
-profonds O 
-que O 
-ceux O 
-qui O 
-m' O 
-agitent O 
-en O 
-|
-
-| O 
-ouvrant O 
-le O 
-livre O 
-sacré O 
-! O 
-Non O 
-, O 
-Eve B-PER
-n' O 
-a O 
-pas O 
-cueilli O 
-le O 
-|
-| O 
-fruit O 
-défendu O 
-, O 
-au O 
-jardin B-LOC
-d' I-LOC
-Eden I-LOC
-, O 
-avec O 
-une O 
-émotion O 
-plus O 
-|
-| O 
-grande O 
-| | O 
-le O 
-Tentateur B-MISC
-ne O 
-luiavait O 
-parlé O 
-qu’ O 
-une O 
-seule O 
-|
-| O 
-fois O 
-de O 
-la O 
-saveur O 
-de O 
-la O 
-pomme O 
-— O 
-etil B-PER
-y O 
-a O 
-si O 
-longtemps O 
-, O 
-|
-| O 
-moi O 
-, O 
-que O 
-j' O 
-entends O 
-chanter O 
-la O 
-gloire O 
-du O 
-Code B-MISC
-, O 
-du O 
-|
-| O 
-Code B-MISC
-qui I-MISC
-est I-MISC
-formel I-MISC
-! I-MISC
-|
-
-| O 
-Je B-MISC
-lis I-MISC
-. O 
-Je O 
-lis O 
-avec O 
-acharnement O 
-, O 
-avec O 
-fièvre O 
-. O 
-Je O 
-lis O 
-Le B-MISC
-|
-| I-MISC
-Contrat I-MISC
-de I-MISC
-louage I-MISC
-, O 
-le O 
-Régime B-ORG
-dotal I-ORG
-, O 
-beaucoup O 
-d’ O 
-autres O 
-|
-| O 
-choses O 
-comme O 
-ça O 
-. O 
-Etje O 
-ne O 
-sens O 
-pas O 
-monter O 
-en O 
-moi O 
-le O 
-|
-| O 
-feu O 
-de O 
-l' O 
-enthousiasme O 
-, O 
-et O 
-je O 
-ne O 
-suis O 
-point O 
-envahi O 
-par O 
-|
-| O 
-cette O 
-exaltation O 
-frénétique O 
-que O 
-j' O 
-attendais O 
-aux O 
-pre- O 
-|
-| O 
-mières O 
-lignes O 
-. O 
-Mais O 
-ça O 
-va O 
-venir O 
-, O 
-je O 
-le O 
-sais O 
-, O 
-pourvu O 
-|
-| O 
-que O 
-je O 
-ne O 
-me O 
-décourage O 
-pas O 
-, O 
-que O 
-je O 
-persévère O 
-, O 
-que O 
-|
-| O 
-j' O 
-aille O 
-jusqu’ B-PER
-au O 
-bout O 
-. O 
-Du O 
-couraget O 
-« O 
-Le O 
-mur O 
-mi- O 
-|
-| O 
-toyen O 
-... O 
-» O 
-|||| O 
-|
-
-| O 
-— O 
-Qu' O 
-est O 
--ce O 
-que O 
-tu O 
-fais O 
-là O 
-? O 
-|
-
-| O 
-Mon B-MISC
-grand-père I-MISC
-est O 
-devant O 
-moi O 
-. O 
-Il O 
-est O 
-entré O 
-sans O 
-|
-| O 
-que O 
-j' O 
-aie O 
-pu O 
-m’ B-PER
-enapercevoir O 
-, O 
-tellement O 
-j' O 
-étais O 
-absorbé O 
-. O 
-|
-
-| O 
-— O 
-Ïl B-PER
-ÿ O 
-a O 
-deux O 
-heures O 
-que O 
-je O 
-te O 
-cherche O 
-. O 
-Qu' O 
-est O 
--ce O 
-|
-
-| O 
-que O 
-tu O 
-fais O 
-? O 
-Tu O 
-lis O 
-? O 
-Qu' O 
-est O 
--ce O 
-que O 
-tu O 
-lis O 
-? O 
-|
-
-| O 
-— O 
-Je B-MISC
-lis I-MISC
-le I-MISC
-Code I-MISC
-! I-MISC
-|||| O 
-|
-| O 
-À O 
-quoi O 
-bon O 
-nier O 
-? O 
-Le O 
-livre O 
-est O 
-là O 
-, O 
-grand O 
-ouvert O 
-sur O 
-|
-
-| O 
-4 O 
-° O 
-|
-
-| O 
-10 O 
-, O 
-LE B-MISC
-VOLEUR I-MISC
-|
-
-| I-MISC
-la I-MISC
-table I-MISC
-, O 
-témoin O 
-muet O 
-, O 
-mais O 
-irrécusable O 
-, O 
-de O 
-ma O 
-cu- O 
-|
-| O 
-riosité O 
-perverse O 
-. O 
-Mon B-MISC
-grand-père I-MISC
-sourit I-MISC
-. O 
-|
-
-| O 
-— O 
-Tu O 
-lis O 
-le O 
-Code B-MISC
-! I-MISC
-Ca O 
-t’ O 
-amuse O 
-, O 
-de O 
-lire O 
-le O 
-Code B-MISC
-? I-MISC
-Ça B-MISC
-|
-| O 
-t' O 
-intéresse O 
-? O 
-|||| O 
-|
-
-| O 
-Je B-MISC
-fais I-MISC
-un I-MISC
-geste I-MISC
-vague I-MISC
-. O 
-Ca B-LOC
-ne O 
-m' O 
-amuse O 
-pas O 
-, O 
-certai- O 
-|
-| O 
-nement O 
-: O 
-mais O 
-ça O 
-m' O 
-intéresserait O 
-sans O 
-aucun O 
-doute O 
-, O 
-si O 
-|
-| O 
-l’ B-LOC
-on O 
-me O 
-laissait O 
-continuer O 
-. O 
-Telle O 
-est O 
-, O 
-du O 
-moins O 
-, O 
-mon O 
-|
-| O 
-opinion O 
-. O 
-Opinion O 
-sans O 
-valeur O 
-, O 
-mon O 
-grand-père O 
-me O 
-le O 
-|
-| O 
-démontre O 
-immédiatement O 
-. O 
-|
-
-| O 
-— O 
-Pour O 
-lire O 
-le O 
-Code B-MISC
-, O 
-mon O 
-ami O 
-, O 
-il O 
-ne O 
-suffit O 
-pas O 
-de O 
-|
-| O 
-savoir O 
-lire O 
-| | O 
-il O 
-faut O 
-savoir O 
-lire O 
-le O 
-Code B-MISC
-. O 
-Ce O 
-qu' O 
-il O 
-faut O 
-|
-| O 
-lire O 
-, O 
-dans O 
-ce O 
-livre O 
--là O 
-, O 
-ce O 
-n’ B-PER
-est O 
-pas O 
-le O 
-noir O 
-, O 
-l’ B-MISC
-imprimé I-MISC
-| | O 
-|
-| O 
-c' O 
-est O 
-le O 
-blanc O 
-, O 
-c’ B-MISC
-est O 
-ca B-LOC
-... O 
-|
-
-| O 
-Et O 
-il O 
-pose O 
-son O 
-doigt O 
-sur O 
-la O 
-marge O 
-. O 
-|
-
-| O 
-Très O 
-vexé O 
-, O 
-je O 
-ferme O 
-brusquement O 
-le O 
-volume O 
-. O 
-Mon O 
-|
-| O 
-grand-père O 
-sourit O 
-encore O 
-. O 
-|
-
-| O 
-— O 
-Il O 
-faut O 
-avoir O 
-des O 
-égards O 
-pour O 
-ce O 
-livre O 
-, O 
-mon O 
-en- O 
-|
-| O 
-fant O 
-. O 
-Il O 
-est O 
-respectable O 
-. O 
-Dans O 
-cinquante O 
-ans O 
-, O 
-c’ B-MISC
-est O 
-tout O 
-|
-| O 
-ce O 
-quirestera O 
-de O 
-la O 
-Société B-ORG
-. O 
-|
-
-| O 
-Bon O 
-, O 
-bon O 
-. O 
-Nous O 
-verrons O 
-ca B-MISC
-. O 
-|
-
-| O 
-J' O 
-ai O 
-un O 
-autre O 
-souvenir O 
-, O 
-encore O 
-. O 
-|||| O 
-|
-
-| O 
-M. B-PER
-Dubourg I-PER
-est O 
-un O 
-ami O 
-de O 
-la O 
-famille O 
-. O 
-C’ B-MISC
-est O 
-un O 
-|
-| O 
-homme O 
-de O 
-cinquante O 
-ans O 
-, O 
-au O 
-moins O 
-, O 
-employé O 
-supé- O 
-|
-| O 
-rieur O 
-d' O 
-un O 
-ministère O 
-où O 
-sa O 
-réputation O 
-de O 
-droiture O 
-lui O 
-|
-| O 
-assure O 
-une O 
-situation O 
-unique O 
-. O 
-Réputation O 
-méritée O 
-| | O 
-|
-| O 
-mon O 
-grand-père O 
-, O 
-souvent O 
-un O 
-peu O 
-sarcastique O 
-, O 
-en O 
-con- O 
-|
-| O 
-vient O 
-sans O 
-difficulté O 
-: O 
-Dubourg B-LOC
-, O 
-c’ B-MISC
-est O 
-l' O 
-honnêteté O 
-en O 
-|
-| O 
-personne O 
-. O 
-Il O 
-est O 
-notre O 
-voisin O 
-, O 
-l' O 
-été O 
-| | O 
-sa O 
-femme O 
-est O 
-une O 
-|
-| O 
-grande O 
-amie O 
-de O 
-ma O 
-mère O 
-et O 
-c’ B-MISC
-est O 
-avec O 
-son O 
-fils O 
-, O 
-Albert B-PER
-, O 
-|
-| O 
-que O 
-je O 
-joue O 
-le O 
-plus O 
-volontiers O 
-. O 
-J’ O 
-ai O 
-l' O 
-habitude O 
-d’ O 
-aller O 
-le O 
-|
-| O 
-chercher O 
-l' O 
-après-midi O 
-| | O 
-et O 
-je O 
-suis O 
-fort O 
-étonné O 
-que O 
-, O 
-de- O 
-|
-| O 
-puis O 
-plusieurs O 
-jours O 
-, O 
-on O 
-me O 
-défende O 
-de O 
-sortir O 
-, O 
-Que B-MISC
-se I-MISC
-|
-| I-MISC
-passe I-MISC
-- I-MISC
-t-1l I-MISC
-? O 
-» O 
-|
-
-| O 
-Jai B-PER
-surpris O 
-des O 
-bouts O 
-de O 
-conversation O 
-, O 
-j' O 
-ai O 
-fait O 
-par- O 
-|
-| O 
-ler O 
-les O 
-domestiques O 
-. O 
-Il O 
-paraît O 
-que O 
-M. O 
-Dubourg B-LOC
-s’ O 
-est O 
-|
-| O 
-mal O 
-conduit O 
-... O 
-des O 
-détournements O 
-considérables O 
-. O 
-une O 
-|
-| O 
-cocotte O 
-... O 
-la O 
-ruine O 
-et O 
-le O 
-déshonneur O 
-— O 
-sinon O 
-plus O 
-. O 
-|
-
-| O 
-Mon O 
-père O 
-se O 
-doute O 
-que O 
-je O 
-suis O 
-au O 
-courant O 
-des O 
-|
-
-| O 
-SA B-ORG
-em O 
-|
-
-| O 
-TETE B-MISC
-er O 
-ete O 
-, O 
-|
-
-| O 
-D B-MISC
-om I-MISC
-me O 
-, O 
+|;O;
+TABLE;O;
+DES;B;MISC
+CHAPITRES;O;
+|
+
+|;O;
+—;O;
+Evènements;O;
+complètement;O;
+inattendus;O;
+,;O;
+o;O;
+|
+|;O;
+—;O;
+Où;B;LOC
+l’;I;LOC
+on;O;
+voit;O;
+qu';O;
+il;O;
+est;O;
+.;O;
+souvent;O;
+difficile;O;
+de;O;
+|
+|;O;
+tenir;O;
+sa;O;
+parole;O;
+.;O;
+.;O;
+|
+|;O;
+—;O;
+On;O;
+n';O;
+échappe;O;
+pas;O;
+à;O;
+son;O;
+destin;O;
+|
+|;O;
+—;O;
+«;O;
+Bonjour;B;MISC
+,;O;
+mon;O;
+neveu;O;
+.;O;
+»;O;
+.;O;
+:;O;
+.;O;
+|
+|;O;
+—;O;
+Barbe;B;PER
+-;I;PER
+Bleu;I;PER
+et;O;
+le;O;
+domino;O;
+noir;O;
+.;O;
+|
+|;O;
+—;O;
+On;O;
+dira;O;
+pourquoi;O;
+.;O;
+nos;O;
+ee;O;
+|
+|;O;
+—;O;
+Le;O;
+Christ;B;PER
+a;O;
+dit;O;
+:;O;
+«;O;
+Pitié;B;LOC
+pour;O;
+qui;O;
+suc-;O;
+|
+|;O;
+combe;O;
+!;O;
+...;O;
+»;O;
+,;O;
+.;O;
+.;O;
+|
+|;O;
+—;O;
+Geneviève;B;PER
+de;I;PER
+Brabant;I;PER
+|
+|;O;
+—;O;
+Le;O;
+repentir;O;
+fait;O;
+oublier;O;
+l';O;
+erreur;O;
+:;O;
+|
+|;O;
+—;O;
+Dans;O;
+lequel;O;
+on;O;
+apprend;O;
+que;O;
+l';O;
+argent;O;
+ne;O;
+fait;O;
+|
+|;O;
+pas;O;
+le;O;
+bonheur;O;
+.;O;
+.;O;
+.;O;
++;O;
+|
+|;O;
+—;O;
+Si;O;
+les;O;
+femmes;O;
+savaient;O;
+s’;B;PER
+y;O;
+prendre;O;
+|
+|;O;
+—;O;
+Conclusion;B;PER
+provisoire;O;
+—;O;
+comme;O;
+toutes;O;
+les;O;
+|
+|;O;
+conclusions;O;
++;O;
+.;O;
+.;O;
+.;O;
++;B;LOC
+.;O;
+..;O;
+.;O;
+.;O;
+|
+
+|;O;
+292;O;
+|
+
+|;O;
+308;O;
+|
+|;O;
+324;O;
+|
+|;O;
+338;O;
+|
+|;O;
+363;O;
+|
+|;O;
+375;O;
+|
+|;O;
+384;O;
+|
+|;O;
+39È;B;MISC
+|
+|;O;
+404;O;
+|
+
+|;O;
+417;O;
+|
+|;O;
+424;O;
+|
+
+|;O;
+428;O;
+|
+
+|;O;
+‘;O;
+-;O;
+4;O;
+|
+|;O;
+D;O;
+ANT;O;
+RAT;B;MISC
+2;I;MISC
+habranmmarare;O;
+ve;O;
+mn;O;
+dès;O;
+cum;O;
+uma;B;ORG
 |
 
  
 
-| O 
-LE B-MISC
-VOLEUR I-MISC
-II I-MISC
+|;O;
+LT;B;ORG
 |
 
-| O 
-choses O 
-, O 
-car O 
-il O 
-prend O 
-le O 
-parti O 
-de O 
-ne O 
-plus O 
-se O 
-gèner O 
-devant O 
-|
-| O 
-moi O 
-. O 
-|||| O 
+ 
+
+|;O;
+AURORE;B;ORG
 |
 
-| O 
-— O 
-Dubourg B-LOC
-peut O 
-se O 
-flatter O 
-d’ O 
-avoir O 
-de O 
-[ O 
-a O 
-chance O 
-, O 
-|
-| O 
-dit O 
--il O 
-à O 
-ma O 
-mère O 
-, O 
-à O 
-déjeuner O 
-| | O 
-il O 
-ne O 
-sera O 
-pas O 
-pour- O 
-|
-| O 
-suivi O 
-| | O 
-il O 
-a O 
-remboursé O 
-, O 
-et O 
-onse O 
-contente O 
-de O 
-ça O 
-. O 
-Moi O 
-, O 
-je O 
-|
-| O 
-ne O 
-comprends O 
-pas O 
-ces O 
-indulgences O 
--là O 
-| | O 
-c' O 
-est O 
-tout O 
-à O 
-|
-| O 
-fait O 
-démoralisant O 
-| | O 
-le O 
-crime O 
-ne O 
-doit O 
-jamais O 
-, O 
-sous O 
-au- O 
-|
-| O 
-cun O 
-prétexte O 
-, O 
-échapper O 
-au O 
-châtiment O 
-. O 
+|;O;
+.;O;
+Mes;B;PER
+parents;O;
+ne;O;
+peuvent;O;
+plus;O;
+faire;O;
+autrement;O;
+.;O;
 |
 
-| O 
-— O 
-Jamais B-PER
-, O 
-dit O 
-ma O 
-mère O 
-. O 
-Mais O 
-on O 
-aura O 
-eu O 
-égard O 
-à O 
+|;O;
+Tout;O;
+le;O;
+monde;O;
+le;O;
+leur;O;
+dit;O;
+.;O;
+On;O;
+les;O;
+y;O;
+pousse;O;
+de;O;
+tous;O;
 |
-| O 
-son O 
-âge O 
-. O 
+|;O;
+les;O;
+côtés;O;
+.;O;
+Mme;B;PER
+Dubourg;I;PER
+a;O;
+laissé;O;
+entendre;O;
+à;O;
+ma;O;
+mère;O;
 |
-
-| O 
-— O 
-Belle B-MISC
-excuse I-MISC
-! I-MISC
-Raison B-PER
-de O 
-plus O 
-pour O 
-n' O 
-avoir O 
-pas O 
+|;O;
+qu';O;
+il;O;
+était;O;
+grand;O;
+temps;O;
+|;|;O;
+et;O;
+ma;O;
+tante;O;
+Augustine;B;PER
+,;O;
+en;O;
 |
-| O 
-de O 
-pitié O 
-. O 
-Une O 
-cocotte O 
-! O 
-Une O 
-danseuse O 
-! O 
-... O 
-Une O 
-liaison O 
-|
-| O 
-qui O 
-durait O 
-depuis O 
-des O 
-mois O 
-— O 
-depuis O 
-des O 
-années O 
-, O 
-peut- O 
-|
-| O 
-être O 
-... O 
-Connais B-LOC
-- I-LOC
-tu O 
-rien O 
-de O 
-plus O 
-immoral O 
-? O 
-Et O 
-mon- O 
-|
-| O 
-sieur O 
-fouille O 
-à O 
-pleines O 
-mains O 
-dans O 
-les O 
-caisses O 
-publiques O 
-|
-| O 
-pour O 
-entretenir O 
-ça O 
-|||| O 
-... O 
-Comme O 
-sous O 
-l' O 
-Empire B-LOC
-! I-LOC
-Comme O 
-|
-| O 
-sous O 
-Louis B-PER
-XV I-PER
-! O 
-... O 
-Et O 
-, O 
-quand O 
-on O 
-le O 
-prend O 
-sur O 
-le O 
-fait O 
-, O 
+|;O;
+termes;O;
+voilés;O;
+,;O;
+a;O;
+mis;O;
+mon;O;
+père;O;
+au;O;
+pied;O;
+du;O;
+mur;B;MISC
+.;O;
+||||;O;
 |
 
-| O 
-on O 
-lui O 
-pardonne O 
-, O 
-sous O 
-prétexte O 
-qu' O 
-il O 
-a O 
-cinquante- O 
+|;O;
+—;O;
+Comment;O;
+!;O;
+des;O;
+gens;O;
+.;O;
+à;O;
+leur;O;
+aise;O;
+,;O;
+dans;O;
+une;O;
+si-;O;
+|
+|;O;
+tuation;O;
+commerciale;O;
+superbe;O;
+,;O;
+avec;O;
+une;O;
+santé;O;
+floris-;O;
+|
+|;O;
+sante;O;
+,;O;
+vivre;O;
+seuls;O;
+?;O;
+Ne;O;
+pas;O;
+avoir;O;
+d’;O;
+enfant;O;
+?;O;
+De;O;
+gueux;O;
+,;O;
+|
+|;O;
+de;O;
+gens;O;
+qui;O;
+vivent;O;
+comme;O;
+loiseau;O;
+sur;O;
+la;O;
+branche;O;
+,;O;
+|
+|;O;
+sans;O;
+lendemains;O;
+assurés;O;
+,;O;
+on;O;
+comprend;O;
+ça;O;
+.;O;
+Mais;O;
+,;O;
+sa-;O;
+|
+|;O;
+pristi;O;
+!;O;
+...;O;
+Et;O;
+la;O;
+fortune;O;
+amassée;O;
+,;O;
+où;O;
+ira;O;
+-t;O;
+-elle;O;
+?;O;
+Et;O;
+les;O;
+|
+|;O;
+bôns;O;
+exemples;O;
+à;O;
+léguer;O;
+,;O;
+le;O;
+fruit;O;
+de;O;
+l’;B;LOC
+expérience;O;
+à;O;
+dé-;O;
+|
+|;O;
+poser;O;
+en;O;
+mains;O;
+sûres;O;
+?;O;
+..;O;
+Voyons;B;PER
+,;O;
+voyons;O;
+,;O;
+il;O;
+vous;O;
+|
+|;O;
+faut;O;
+un;O;
+enfant;O;
+—;O;
+au;O;
+moins;O;
+un;O;
+.;O;
+—;O;
+Réfléchissez;B;LOC
+-;I;LOC
+y.;I;LOC
 |
 
-| O 
-cinq O 
-ans O 
-de O 
-vie O 
-irréprochable O 
-et O 
-que O 
-ses O 
-cheveux O 
-sont O 
-|
-| O 
-blancs O 
-! O 
+|;I;LOC
+Le;O;
+médecin;O;
+s’;B;PER
+en;O;
+mêle;O;
+:;O;
+:;O;
 |
 
-| O 
-— O 
-Ce O 
-n’ B-PER
-est O 
-guère O 
-encourageant O 
-pour O 
-les O 
-honnêtes O 
+|;O;
+—;O;
+Mais;O;
+,;O;
+oui;O;
+|;|;O;
+vous;O;
+êtes;O;
+encore;O;
+assez;O;
+jeune;O;
+|;|;O;
+pour;O;
 |
-| O 
-gens O 
-, O 
-dit O 
-ma O 
-mère O 
-. O 
-On O 
-éprouve O 
-un O 
-tel O 
-soulagement O 
-à O 
+|;O;
+tant;O;
+,;O;
+il;O;
+serait;O;
+peut-être;O;
+imprudent;O;
+d';O;
+attendre;O;
+davan-;O;
 |
-| O 
-lire O 
-, O 
-dans O 
-les O 
-journaux O 
-, O 
-les O 
-condamnations O 
-des O 
-fripons O 
-. O 
-… O 
-|
-| O 
-Enfin O 
-, O 
-jugement O 
-ou O 
-non O 
-, O 
-on O 
-est O 
-toujours O 
-libre O 
-de O 
-fer- O 
-|
-| O 
-mer O 
-sa O 
-porte O 
-à O 
-des O 
-gens O 
-pareils O 
-, O 
-heureusement O 
-... O 
+|;O;
+tage;O;
+.;O;
+||||;O;
 |
 
-| O 
-— O 
-C' O 
-est O 
-ce O 
-qu’ O 
-on O 
-fait O 
-partout O 
-pour O 
-Duboursg B-PER
-, O 
-sois O 
-|
-| O 
-tranquille O 
-. O 
-J’ O 
-ai O 
-donné O 
-des O 
-ordres O 
-, O 
-ici O 
-. O 
-Et O 
-quant O 
-à O 
-toi O 
-, O 
-|
-| O 
-Georges B-MISC
-, O 
-si O 
-par O 
-hasard O 
-tu O 
-rencontres O 
-Albert B-PER
-, O 
-je O 
-te O 
-dé- O 
-|
-| O 
-fends O 
-de O 
-lui O 
-parler O 
-. O 
-Je O 
-te O 
-le O 
-défends O 
-| | O 
-tu O 
-m’ B-PER
-en- O 
-|
-| O 
-tends O 
-? O 
+|;O;
+Le;O;
+curé;O;
+aussi;O;
+:;O;
 |
 
-| O 
-Je O 
-n' O 
-ai O 
-pas O 
-rencontré O 
-Albert B-PER
-. O 
-Mais O 
-le O 
-surlendemain O 
-|
-| O 
-matin O 
-, O 
-comme O 
-je O 
-suis O 
-assis O 
-, O 
-au O 
-fond O 
-du O 
-jardin O 
-, O 
-à O 
-côté O 
-|
-| O 
-de O 
-mon O 
-père O 
-qui O 
-lit O 
-son O 
-journal O 
-, O 
-je O 
-vois O 
-arriver O 
-|
-| O 
-M. B-PER
-Dubourg I-PER
-. O 
-La O 
-domestique O 
-, O 
-par O 
-bêtise O 
-ou O 
-par O 
-pitié O 
-, O 
-|
-| O 
-lui O 
-aura O 
-permis O 
-d’ O 
-entrer O 
-. O 
-|||| O 
+|;O;
+—;O;
+—;O;
+Un;B;MISC
+des;I;MISC
+premiers;I;MISC
+préceptes;I;MISC
+donnés;O;
+à;O;
+homme;O;
+.;O;
 |
 
-| O 
-— O 
-La O 
-sotte O 
-fille O 
-! O 
-dit O 
-mon O 
-père O 
-. O 
-Elle O 
-: O 
-aura O 
-ses O 
-huit O 
+|;O;
+_;O;
+Que;O;
+voulez;O;
+-vous;O;
+répondre;O;
+à;O;
+ça;O;
+?;O;
 |
-| O 
-jours O 
-avant O 
-midi O 
-. O 
-|||| O 
-|
-
-| O 
-Mais O 
-M. B-PER
-Dubourg I-PER
-est O 
-à O 
-dix O 
-pas O 
-. O 
-Je O 
-sens O 
-que O 
-je O 
-vais O 
-|
-
-| O 
-être O 
-bien O 
-gênant O 
-pour O 
-lui O 
-, O 
-qu’ B-PER
-il O 
-ne O 
-pourra O 
-pas O 
-dire O 
-, O 
+|;O;
+—;O;
+Oui;O;
+,;O;
+oui;O;
+,;O;
+il;O;
+vous;O;
+faut;O;
+un;O;
+enfant;O;
+.;O;
 |
 
-| O 
-RE O 
-RE O 
-Ph O 
+|;O;
+2;O;
+||||;O;
+||||;O;
+LE;O;
+VOLEUR;B;MISC
 |
 
-| O 
-12 O 
-LE O 
-VOLEUR B-ORG
+|;I;MISC
+Eh;I;MISC
+!;O;
+bien;O;
+,;O;
+puisque;O;
+tout;O;
+le;O;
+monde;O;
+le;O;
+veut;O;
+,;O;
+c’;B;MISC
+est;O;
+|
+|;O;
+bon;O;
+:;O;
+ils;O;
+en;O;
+auront;O;
+un;O;
+.;O;
+||||;O;
+||||;O;
+|
+|;O;
+Ils;O;
+Pont;O;
+.;O;
+|
+|;O;
+Je;O;
+me;O;
+présente;O;
+—;O;
+très;O;
+bien;O;
+(;O;
+j’;B;LOC
+en;O;
+ai;O;
+conservé;O;
+l’;O;
+ha-;B;PER
+|
+|;O;
+bitude;O;
+);O;
+—;O;
+un;O;
+matin;O;
+d’;O;
+avril;O;
+,;O;
+sur;O;
+le;O;
+coup;O;
+de;O;
+dix;O;
+heures;O;
+|
+|;O;
+un;O;
+quart;O;
+.;O;
 |
 
-| O 
-devant O 
-moi O 
-, O 
-tout O 
-ce O 
-qu’ O 
-il O 
-a O 
-à O 
-dire O 
-, O 
-et O 
-je O 
-me O 
-lève O 
-pour O 
+|;O;
+—;O;
+Je;B;MISC
+m';I;MISC
+en;I;MISC
+souviendrai;I;MISC
+toute;I;MISC
+ma;I;MISC
+vie;I;MISC
+,;O;
+disait;O;
+plus;O;
 |
-| O 
-m' O 
-en O 
-aller O 
-. O 
-Mon O 
-père O 
-me O 
-retient O 
-par O 
-le O 
-bras O 
-. O 
+|;O;
+tard;O;
+Aglaé;B;PER
+,;O;
+la;O;
+cuisinière;O;
+|;|;O;
+il;O;
+faisait;O;
+un;O;
+temps;O;
+magni-;O;
 |
 
-| O 
-— O 
-Reste O 
-là O 
-! O 
+|;O;
+fique;O;
+et;O;
+le;O;
+baromètre;O;
+marquait;O;
+:;O;
+variable;O;
+.;O;
 |
 
-| O 
-M. B-PER
-Dubourg I-PER
-parle O 
-depuis O 
-cinq O 
-minutes O 
-| | O 
-des O 
-phrases O 
-|
-| O 
-embarrassées O 
-, O 
-coupées O 
-, O 
-heurtées O 
-, O 
-honteuses O 
-d’ B-PER
-elles- O 
-|
-| O 
-mêmes O 
-. O 
-Et O 
-, O 
-chaque O 
-fois O 
-qu’ O 
-il O 
-s' O 
-arrête O 
-, O 
-mon O 
-père O 
-es- O 
-|
-| O 
-quisse O 
-la O 
-moitié O 
-d’ O 
-un O 
-geste O 
-, O 
-mais O 
-il O 
-ne O 
-répond O 
-rien O 
-. O 
-|
-| O 
-Rien O 
-| | O 
-pas O 
-un O 
-mot O 
-. O 
+|;O;
+Quel;O;
+présage;O;
+!;O;
 |
 
-| O 
-: O 
-M. O 
-Dubourg B-LOC
-continue O 
-. O 
-Il O 
-dit O 
-que O 
-des O 
-sympathies O 
+|;O;
+Et;O;
+l;O;
+-;O;
+dessus;O;
+,;O;
+si;O;
+vous;O;
+voulez;O;
+bien;O;
+,;O;
+nous;O;
+allons;O;
+passer;O;
+|
+|;O;
+plusieurs;O;
+années;O;
+.;O;
 |
 
-| O 
-lui O 
-seraient O 
-si O 
-précieuses O 
-... O 
-des O 
-sympathies O 
-même O 
+|;O;
+Qu';O;
+est;O;
+-ce;O;
+que;O;
+vous;O;
+diriez;O;
+,;O;
+à;O;
+présent;O;
+,;O;
+si;O;
+jappa-;O;
+|
+|;O;
+raissais;O;
+à;O;
+vous;O;
+en;O;
+costume;O;
+de;O;
+collégien;O;
+?;O;
+Vous;O;
+diriez;O;
+|
+|;O;
+que;O;
+ma;O;
+tunique;O;
+est;O;
+trop;O;
+longue;O;
+,;O;
+que;O;
+mon;O;
+pantalon;O;
+|
+|;O;
+est;O;
+trop;O;
+court;O;
+,;O;
+que;O;
+mon;O;
+képi;O;
+me;O;
+va;O;
+mal;O;
+,;O;
+que;O;
+mes;O;
+|
+|;O;
+doigts;O;
+sont;O;
+tachés;O;
+d’;B;MISC
+encre;O;
+et;O;
+que;O;
+jai;O;
+l';O;
+air;O;
+d’;O;
+un;O;
+serin;O;
+.;O;
 |
 
-| O 
-cachées O 
-. O 
-qu’ O 
-on O 
-désavouerait O 
-devant O 
-le O 
-monde O 
-... B-MISC
+|;O;
+Peut;O;
+-;O;
+être;O;
+bien;O;
+.;O;
+Mais;O;
+ce;O;
+que;O;
+vous;O;
+ne;O;
+diriez;O;
+pas;O;
+,;O;
+|
+|;O;
+parce;O;
+que;O;
+c’;B;MISC
+est;O;
+difficile;O;
+à;O;
+deviner;O;
+,;O;
+même;O;
+pour;O;
+les;O;
+|
+|;O;
+grandes;O;
+personnes;O;
+,;O;
+c’;B;MISC
+est;O;
+que;O;
+je;O;
+suis;O;
+un;O;
+élève;O;
+mo-;O;
+|
+|;O;
+dèle;O;
+|;|;O;
+je;O;
+fais;O;
+l';O;
+honneur;O;
+de;O;
+ma;O;
+classe;O;
+et;O;
+la;O;
+joie;O;
+de;O;
+ma;O;
+|
+|;O;
+famille;O;
+.;O;
+On;O;
+vient;O;
+de;O;
+loin;O;
+,;O;
+tous;O;
+les;O;
+ans;O;
+,;O;
+pour;O;
+me;O;
+voir;O;
+|
+|;O;
+couronner;O;
+de;O;
+papier;O;
+vert;O;
+,;O;
+et;O;
+même;O;
+de;O;
+papier;O;
+doré;O;
+|;|;O;
+|
+|;O;
+le;O;
+ban;O;
+et;O;
+l’;B;LOC
+arrière-ban;O;
+des;O;
+parents;O;
+sont;O;
+convoqués;O;
+|
+|;O;
+pour;O;
+la;O;
+circonstance;O;
+.;O;
+Solennité;B;MISC
+majestueuse;I;MISC
+!;O;
+Céré-;O;
+|
+|;O;
+monie;O;
+imposante;O;
+!;O;
+La;O;
+robe;O;
+d’;O;
+un;O;
+professeur;O;
+enfante;O;
+|
+|;O;
+un;O;
+discours;O;
+latin;O;
+et;O;
+les;O;
+broderies;O;
+d’;O;
+un;O;
+fonctionnaire;O;
+|
+|;O;
+étincellent;O;
+sur;O;
+un;O;
+discours;O;
+français;O;
+.;O;
+Les;O;
+pères;O;
+applau-;O;
+|
+|;O;
+dissent;O;
+majestueusement;O;
+.;O;
+||||;O;
 |
 
-| I-MISC
-Silence I-MISC
-. O 
+|;O;
+—;O;
+C';B;MISC
+est';I;MISC
+à;O;
+moi;O;
+,;O;
+cet;O;
+enfant;O;
+-là;O;
+.;O;
+Vous;O;
+le;O;
+voyez;O;
+,;O;
+heïn;O;
+?;O;
 |
-| O 
-… O 
-Il O 
-dit O 
-qu' O 
-il O 
-a O 
-eu O 
-un O 
-moment O 
-d’ B-MISC
-égarement O 
-... O 
-mais O 
-|
-
-| O 
-que O 
-le O 
-chiffre O 
-qu’ B-MISC
-on I-MISC
-a I-MISC
-cité I-MISC
-était O 
-exagéré O 
-, O 
-qu’ B-PER
-il O 
-n’ B-PER
-avait O 
-|
-| O 
-jamais O 
-été O 
-aussi O 
-loin O 
-. O 
-qu’ O 
-il O 
-ne O 
-s' O 
-explique O 
-pas O 
-... O 
-|
-| O 
-qu’ B-LOC
-il O 
-a O 
-refait O 
-tous O 
-ses O 
-comptes O 
-depuis O 
-vingt O 
-ans O 
-... O 
+|;O;
+Eh;B;MISC
+!;I;MISC
+bien;O;
+,;O;
+c’;B;MISC
+est;O;
+à;O;
+moi;O;
+!;O;
 |
 
-| O 
-Silence B-PER
-. O 
-|||| O 
-|
-| O 
-… O 
-Il O 
-dit O 
-qu’ B-PER
-il O 
-a O 
-été O 
-un O 
-grand O 
-misérable O 
-de O 
-céder O 
-à O 
-des O 
+|;O;
+Les;B;LOC
+mères;O;
+ont;O;
+la;O;
+larme;O;
+à;O;
+l';O;
+œil;O;
+.;O;
 |
 
-| O 
-tentations O 
-. O 
-qu’ O 
-il O 
-comprend O 
-très O 
-bien O 
-qu’ B-LOC
-on O 
-ne O 
-l’ B-LOC
-excuse O 
+|;O;
+—;O;
+Cher;B;LOC
+petit;O;
+!;O;
+Comme;O;
+il;O;
+a;O;
+dû;O;
+travailler;O;
+!;O;
+Ah;B;MISC
+!;I;MISC
+|
+|;I;MISC
+c’;B;MISC
+est;O;
+bien;O;
+beau;O;
+,;O;
+l';O;
+instruction;O;
+...;O;
+|
+|;O;
+=;O;
+Les;O;
+parents;O;
+de;O;
+province;O;
+s’;O;
+agitent;O;
+.;O;
+Des;O;
+chapeaux;O;
+|
+|;O;
+barbares;O;
+,;O;
+échappés;O;
+pour;O;
+‘;O;
+un;O;
+jour;O;
+de;O;
+leur;O;
+prison;O;
+|
+|;O;
+d’;B;PER
+acajou;I;PER
+,;O;
+font;O;
+des;O;
+grâces;O;
+avec;O;
+leurs;O;
+plumes;O;
+.;O;
+Des;O;
+re-;O;
+|
+|;O;
+dingotes;O;
+1830;O;
+s’;B;PER
+empèsent;O;
+de;O;
+gloire;O;
+.;O;
+Des;O;
+parapluies;O;
 |
 
-| O 
-pas O 
-à O 
-présent O 
-... O 
-mais O 
-qu’ B-PER
-il O 
-avait O 
-espéré O 
-qu’ O 
-on O 
-consen- O 
+|;O;
+7;O;
+.;O;
+Sy;O;
+);O;
 |
 
-| O 
-tirait O 
-avant O 
-de O 
-le O 
-condamner O 
-définitivement O 
-... O 
-que O 
-, O 
-|
-| O 
-s’ B-PER
-il O 
-nese O 
-sentait O 
-pas O 
-complètement O 
-abandonné O 
-, O 
-le O 
-re- O 
+|;O;
+LE;O;
+ETS;B;MISC
+res;I;MISC
+mm;O;
 |
 
-| O 
-pentir O 
-lui O 
-donnerait O 
-des O 
-forces O 
-. O 
+|;O;
+ADSL;O;
+UOE;B;LOC
+PME;O;
 |
 
-| O 
-Silence O 
-. O 
+|;O;
++;O;
 |
 
-| O 
-Il O 
-dit O 
-qu' O 
-il O 
-va O 
-partir O 
-très O 
-loin O 
-avec O 
-sa O 
-famille O 
-... O 
-que O 
-, O 
+|;O;
+RE;O;
+ne;O;
+tn;O;
+Le;B;MISC
 |
-| O 
-s’ B-PER
-il O 
-- O 
-était O 
-seul O 
-, O 
-il O 
-saurait O 
-bien O 
-quoi O 
-faire O 
-, O 
-et O 
-que O 
-ce O 
-serait O 
-|
-| O 
-peut-être O 
-le O 
-mieux O 
-... O 
-|||| O 
+|;I;MISC
+frs;I;MISC
+LE;O;
+ets;O;
+ini;O;
 |
 
-| O 
-Silence B-LOC
-. O 
-|||| O 
+|;O;
+Tr;B;MISC
 |
 
-| O 
-— O 
-— O 
-Eh B-MISC
-! I-MISC
-bien O 
-, O 
-a O 
-- O 
-t-1l O 
-murmuré O 
-, O 
-je O 
-ne O 
-veux O 
-point O 
+|;I;MISC
+ETES;O;
+PER;O;
+PRE;O;
+TE;O;
+TS;O;
+PT;B;MISC
+nt;I;MISC
+px;O;
+ï;O;
 |
-| O 
-vous O 
-importuner O 
-plus O 
-longtemps O 
-, O 
-M. B-PER
-Randal I-PER
-| | O 
-je O 
-vais O 
-|
-| O 
-vous O 
-quitter O 
-... O 
-Âu O 
-revoir O 
-... O 
-|||| O 
+|;O;
+FRA;O;
+RARE;O;
+EE;O;
+AS;O;
+CT;O;
 |
 
-| O 
-Æt B-PER
-il O 
-a O 
-tendu O 
-une O 
-main O 
-qui O 
-tremblait O 
-. O 
-Mon O 
-père O 
-a O 
+|;O;
+EC;O;
 |
-| O 
-hésité O 
-| | O 
-puis O 
-, O 
-il O 
-a O 
-mis O 
-l’ B-LOC
-aumône O 
-de O 
-deux O 
-doigts O 
-dans O 
-|
-| O 
-cette O 
-main O 
--là O 
-. O 
+|;O;
+Fe;B;LOC
+UN;O;
 |
 
-| O 
-— O 
-Adieu B-PER
-, O 
-Monsieur B-PER
-. O 
+|;O;
+Dee;B;MISC
+eu;I;MISC
+ee;I;MISC
 |
-
-| O 
-Alors O 
-, O 
-M. O 
-Dubourg B-LOC
-est O 
-parti O 
-. O 
-Il O 
-s’ B-LOC
-en O 
-est O 
-allé O 
-à O 
+|;I;MISC
+mir;I;MISC
 |
-| O 
-grandes O 
-enjambées O 
-, O 
-le O 
-dos O 
-voûté O 
-comme O 
-pour O 
-cacher O 
-|
-| O 
-sa O 
-figure O 
-, O 
-sa O 
-figure O 
-ridée O 
-, O 
-tirée O 
-, O 
-aux O 
-yeux O 
-rouges O 
-, O 
-qui O 
-|
-| O 
-a O 
-vieilli O 
-de O 
-dix O 
-ans O 
-. O 
-Le O 
-chien O 
-l’ B-ORG
-a O 
-suivi O 
-, O 
-le O 
-museau O 
-au O 
-|
-
-| O 
-: O 
-ne O 
-_ O 
+|;I;MISC
+roi;I;MISC
 |
 
-| O 
-( O 
-l' O 
-œil O 
-dans O 
-le O 
-triangle O 
-, O 
-vous O 
-savez O 
-) O 
-| | O 
-c’ B-MISC
-est O 
-pourquoi O 
-je O 
+ 
+
+|;O;
+CCR;B;ORG
 |
 
-| O 
-LE O 
-VOLEUR O 
-|||| O 
-13 O 
+|;I;ORG
+LE;O;
+VOLEUR;O;
+or;O;
+.;O;
+3;O;
+|
+|;O;
+centenaires;O;
+allongent;O;
+fièrement;O;
+leurs;O;
+grands;O;
+becs;O;
+.;O;
+On;O;
+|
+|;O;
+voit;O;
+tressaillir;O;
+des;O;
+châles;O;
+-;O;
+tapis;O;
+.;O;
 |
 
-| O 
-ras O 
-du O 
-sol O 
-, O 
-lui O 
-flairant O 
-les O 
-talons O 
-d’ O 
-un O 
-air O 
-bien O 
-dégoûté O 
-, O 
+|;O;
+Et;O;
+je;O;
+sors;O;
+de;O;
+là;O;
+acclamé;O;
+,;O;
+triomphant;O;
+,;O;
+avec;O;
+le;O;
+fil;O;
+de;O;
 |
-| O 
-serrant O 
-funèbrement O 
-sa O 
-queue O 
-entre O 
-ses O 
+|;O;
+fer;O;
+des;O;
+couronnes;O;
+qui;O;
+me;O;
+déchire;O;
+le;O;
+front;O;
+et;O;
+m’;B;PER
+égra-;O;
+|
+|;O;
+tigne;O;
+les;O;
+oreilles;O;
+,;O;
+avec;O;
+des;O;
+livres;O;
+plein;O;
+les;O;
+bras;O;
+—;O;
+|
+|;O;
+des;O;
+livres;O;
+verts;O;
+,;O;
+jaunes;O;
+,;O;
+rouges;O;
+,;O;
+bleus;O;
+et;O;
+dorés;O;
+sur;O;
+|
+|;O;
+tranche;O;
+,;O;
+à;O;
+faire;O;
+hurler;O;
+un;O;
+Peau;B;MISC
+-;I;MISC
+Rouge;I;MISC
+et;O;
+à;O;
+me;O;
+donner;O;
+|
+|;O;
+des;O;
+excitations;O;
+terribles;O;
+à;O;
+la;O;
+sauvagerie;O;
+,;O;
+si;O;
+j';O;
+étais;O;
+|
+|;O;
+moins;O;
+raisonnable;O;
+.;O;
+|
+
+|;O;
+Mais;O;
+je;O;
+suis;O;
+raisonnable;O;
+.;O;
+Et;O;
+c’;B;MISC
+est;O;
+justement;O;
+pour-;O;
+|
+|;O;
+quoi;O;
+ça;O;
+m';O;
+est;O;
+bien;O;
+égal;O;
+,;O;
+d’;B;MISC
+avoir;O;
+une;O;
+tunique;O;
+trop;O;
+|
+|;O;
+longue.et;O;
+l’;B;ORG
+air;I;ORG
+bête;I;ORG
+.;O;
+Si;O;
+je;O;
+suis;O;
+un;O;
+serin;O;
+,;O;
+c’;B;MISC
+est;O;
+un;O;
+de;O;
+|
+|;O;
+ces;O;
+serins;O;
+auxquels;O;
+on;O;
+crève;O;
+les;O;
+yeux;O;
+pour;O;
+leur;O;
+ap-;O;
+|
+|;O;
+prendre;O;
+à;O;
+mieux;O;
+chanter;O;
+.;O;
+Si;B;MISC
+mes;O;
+vêtements;O;
+sont;O;
+ri-;O;
+|
+|;O;
+dicules;O;
+,;O;
+est;O;
+-ce;O;
+ma;O;
+faute;O;
+si;O;
+l’;B;ORG
+on;O;
+me;O;
+harnache;O;
+aujour-;O;
+|
+|;O;
+d’;B;PER
+hui;O;
+en;O;
+garde-national;O;
+,;O;
+comme;O;
+on;O;
+m’;B;PER
+habillera;O;
+en;O;
+|
+|;O;
+lézard;O;
+à;O;
+cornes;O;
+quand;O;
+je;O;
+serai;O;
+académicien;O;
+?;O;
+|
+
+|;O;
+Car;O;
+j';O;
+irai;O;
+loin;O;
+.;O;
+On;O;
+me;O;
+le;O;
+prédit;O;
+tous;O;
+les;O;
+jours;O;
+.;O;
+Sic;B;PER
+|
+|;O;
+itur;O;
+ad;O;
+astra;O;
+.;O;
+|
+
+|;O;
+J’;B;PER
+aile;I;PER
+temps;I;PER
+,;O;
+d’;O;
+ailleurs;O;
+.;O;
+Je;O;
+n';O;
+ai;O;
+encore;O;
+que;O;
+quinze;O;
+|
+|;O;
+ans;O;
+.;O;
+||||;O;
+|
+
+|;O;
+—;O;
+Un;O;
+bel;O;
+âge;O;
+!;O;
+dit;O;
+mon;O;
+oncle;O;
+.;O;
+On;O;
+est;O;
+déjà;O;
+|
+|;O;
+presque;O;
+un;O;
+jeune;O;
+homme;O;
+et;O;
+l’;B;ORG
+on;O;
+a;O;
+encors;O;
+toute;O;
+la;O;
+|
+|;O;
+candeur;O;
+de;O;
+l’;B;LOC
+enfance;O;
+.;O;
+||||;O;
+||||;O;
+|
+
+|;O;
+Candeur;B;LOC
+!;O;
+...;O;
+Mon;O;
+enfance;O;
+?;O;
+Jene;B;PER
+me;O;
+rappelle;O;
+déjà;O;
+|
+
+|;O;
+plus;O;
+.;O;
+Mes;O;
+souvenirs;O;
+voguent;O;
+confusément;O;
+,;O;
+fouettés;O;
+de;O;
+|
+
+|;O;
+la;O;
+brise;O;
+des;O;
+claques;O;
+et;O;
+mouillés;O;
+de;O;
+la;O;
+moiteur;O;
+des;O;
+em-;O;
+|
+
+|;O;
+brassades;O;
+,;O;
+sur;O;
+des;O;
+lacs;O;
+d’;O;
+huile;O;
+de;O;
+foie;O;
+de;O;
+morue;O;
+.;O;
+|
+|;O;
+Comment;O;
+me;O;
+rappellerais;O;
+-je;O;
+quelque;O;
+chose;O;
+?;O;
+J';O;
+ai;O;
+été;O;
+|
+
+|;O;
+un;O;
+petit;O;
+prodige;O;
+.;O;
+Je;O;
+crois;O;
+.;O;
+que;O;
+je;O;
+savais;O;
+lire;O;
+avant;O;
+de;O;
+|
+
+|;O;
+pouvoir;O;
+marcher;O;
+.;O;
+J';O;
+ai;O;
+appris;O;
+par;O;
+cœur;O;
+beaucoup;O;
+deli-;O;
+|
+
+|;O;
+vres;O;
+|;|;O;
+jai;O;
+noirci;O;
+des;O;
+fourgonsde;O;
+papier;O;
+blanc;O;
+|;|;O;
+j’;B;LOC
+ai;O;
+écouté;O;
+|
+|;O;
+parler;O;
+les;O;
+grandes;O;
+personnes;O;
+.;O;
+J';O;
+ai;O;
+été;O;
+bien;O;
+élevé;O;
+.;O;
+|
+|;O;
+Des;O;
+souvenirs;O;
+?;O;
+En;O;
+vérité;O;
+,;O;
+même;O;
+aujourd’hui;O;
+,;O;
+|
+|;O;
+c';O;
+est;O;
+avec;O;
+peine;O;
+que;O;
+j';O;
+arrive;O;
+à;O;
+faire;O;
+évoluer;O;
+des;O;
+per-;O;
+|
+|;O;
+sonnages;O;
+devant;O;
+le;O;
+tableau;O;
+noir;O;
+qui;O;
+a;O;
+servi;O;
+de;O;
+fond;O;
+à;O;
+|
+|;O;
+la;O;
+tristesse;O;
+de;O;
+mes;O;
+premières;O;
+années;O;
+.;O;
+Oui;O;
+,;O;
+même;O;
+en;O;
+|
+|;O;
+faisant;O;
+voyager;O;
+ma;O;
+mémoire;O;
+dans;O;
+tous;O;
+les;O;
+coins;O;
+de;O;
+|
+|;O;
+notre;O;
+maison;O;
+de;O;
+Paris;B;LOC
+|;|;O;
+dans;O;
+les;O;
+allées;O;
+ratissées;O;
+de;O;
+|
+
+|;O;
+1;O;
+°;O;
+DT;B;ORG
+|
+
+|;O;
+4;O;
+.;O;
+LE;O;
+VOLEUR;O;
+|
+
+|;O;
+notre;O;
+jardin;O;
+de;O;
+la;O;
+campagne;O;
+—;O;
+un;O;
+jardin;O;
+où;O;
+je;O;
+ne;O;
+|
+|;O;
+peux;O;
+me;O;
+promener;O;
+qu';O;
+avec;O;
+précaution;O;
+,;O;
+où;O;
+des;O;
+allées;O;
+|
+
+|;O;
+me;O;
+sont;O;
+défendues;O;
+parce;O;
+que;O;
+j';O;
+effleurerais;O;
+des;O;
+|
+|;O;
+branches;O;
+et;O;
+que;O;
+j’;B;LOC
+arracherais;O;
+des;O;
+fleurs;O;
+,;O;
+où;O;
+les;O;
+rosiers;O;
+|
+|;O;
+ont;O;
+des;O;
+étiquettes;O;
+,;O;
+les;O;
+géraniums;O;
+des;O;
+scapulaires;O;
+et;O;
+|
+|;O;
+les;O;
+giroflées;O;
+un;O;
+état;O;
+-;O;
+civil;O;
+à;O;
+la;O;
+planchette;O;
+|;|;O;
+—;O;
+dans;O;
+|
+|;O;
+l’;B;ORG
+herbe;I;ORG
+et;O;
+sous;O;
+les;O;
+arbres;O;
+de;O;
+la;O;
+propriété;O;
+de;O;
+mon;O;
+|
+|;O;
+grand’père;O;
+qui;O;
+pourtant;O;
+ne;O;
+demanderait;O;
+pas;O;
+mieux;O;
+,;O;
+|
+|;O;
+lui;O;
+,;O;
+que;O;
+de;O;
+me;O;
+laisser;O;
+vacciner;O;
+les;O;
+hêtres;O;
+et;O;
+décapiter;O;
+|
+|;O;
+les;O;
+boutons;O;
+d’;O;
+or;O;
+...;O;
+|
+
+|;O;
+Des;O;
+souvenirs;O;
+?;O;
+Si;O;
+vous;O;
+voulez;O;
+.;O;
+|
+
+|;O;
+Mon;O;
+père;O;
+?;O;
+J';O;
+ai;O;
+deux;O;
+souvenirs;O;
+de;O;
+lui;O;
+.;O;
+|
+
+|;O;
+Un;B;MISC
+dimanche;I;MISC
+,;I;MISC
+ii;I;MISC
+m';O;
+a;O;
+emmené;O;
+à;O;
+une;O;
+fête;O;
+de;O;
+ban-;O;
+|
+|;O;
+lieue;O;
+.;O;
+Comme;O;
+j';O;
+avais;O;
+fait;O;
+manœuvrer;O;
+sans;O;
+succès;O;
+les;O;
+|
+|;O;
+différents;O;
+tourniquets;O;
+chargés;O;
+de;O;
+pavés;O;
+de;O;
+Reims;B;LOC
+,;O;
+de;O;
+|
+|;O;
+porcelaines;O;
+utiles;O;
+et;O;
+de;O;
+lapins;O;
+mélancoliques;O;
+,;O;
+il;O;
+s’;B;PER
+est;O;
+|
+|;O;
+mis;O;
+en;O;
+colère;O;
+.;O;
+||||;O;
+|
+
+|;O;
+—;O;
+Tu;O;
+vas;O;
+voir;O;
+,;O;
+a;O;
+-t;O;
+-il;O;
+dit;O;
+,;O;
+que;O;
+Phanor;B;PER
+est;O;
+plus;O;
+|
+|;O;
+adroit;O;
+que;O;
+toi;O;
+.;O;
+|
+
+|;O;
+Ïl;O;
+a;O;
+fait;O;
+dresser;O;
+le;O;
+chien;O;
+contre;O;
+la;O;
+machine;O;
+et;O;
+la;O;
+lui;O;
+|
+|;O;
+a;O;
+fait;O;
+mettre;O;
+en;O;
+mouvement;O;
+d’;O;
+un;O;
+coup;O;
+de;O;
+patte;O;
+auto-;O;
+|
+|;O;
+ritaire;O;
+.;O;
+Phanor;B;PER
+a;O;
+gagné;O;
+le;O;
+gros;O;
+lot;O;
+,;O;
+un;O;
+grand;O;
+morceau;O;
+|
+|;O;
+de;O;
+pain;O;
+d';O;
+épice;O;
+.;O;
+|
+
+|;O;
+—;O;
+Puisqu';O;
+il;O;
+l4;O;
+gagné;O;
+,;O;
+a;O;
+prononcé;O;
+mon;O;
+père;O;
+,;O;
+qu’;B;PER
+il;O;
+|
+
+|;O;
+le;O;
+mange;O;
+!;O;
+||||;O;
+|
+|;O;
+Il;O;
+a;O;
+déposé;O;
+le;O;
+pain;O;
+d';O;
+épice;O;
+sur;O;
+l’;B;ORG
+herbe;I;ORG
+et;O;
+le;O;
+chien;O;
+|
+|;O;
+s’;B;PER
+est;O;
+mis;O;
+à;O;
+l';O;
+entamer;O;
+,;O;
+avec;O;
+plaisir;O;
+certainement;O;
+,;O;
+mais;O;
+|
+|;O;
+sans;O;
+enthousiasme;O;
+.;O;
+Des;O;
+homines;O;
+vêtus;O;
+en;O;
+ouvriers;O;
+,;O;
+|
+|;O;
+derrière;O;
+nous;O;
+,;O;
+ont;O;
+murmuré;O;
+.;O;
+|
+
+|;O;
+—;O;
+C';O;
+est;O;
+honteux;O;
+,;O;
+ont;O;
+-ils;O;
+dit;O;
+,;O;
+de;O;
+jeter;O;
+ce;O;
+pain;O;
+|
+
+|;O;
+d';O;
+épice;O;
+à;O;
+un;O;
+chien;O;
+lorsque;O;
+tant;O;
+d';O;
+enfants;O;
+seraient;O;
+si;O;
+|
+
+|;O;
+heureux;O;
+de;O;
+lavoir;O;
+.;O;
+|
+
+|;O;
+Mon;O;
+père;O;
+n';O;
+a;O;
+pas;O;
+bronché;O;
+.;O;
+Mais;O;
+,;O;
+quand;O;
+nous;O;
+avons;O;
+|
+|;O;
+été;O;
+partis;O;
+,;O;
+je;O;
+l’;B;LOC
+ai;O;
+entendu;O;
+qui;O;
+disait;O;
+à;O;
+ma;O;
+mèr;O;
+|
+
+|;O;
+—;O;
+Ce;O;
+sont;O;
+des;O;
+souteneurs;O;
+,;O;
+tu;O;
+sais;O;
+.;O;
+||||;O;
+|
+
+|;O;
+J';O;
+ai;O;
+demandé;O;
+ce;O;
+que;O;
+c';O;
+était;O;
+que;O;
+les;O;
+souteneurs;O;
+.;O;
+On;O;
+|
+
+|;O;
+ne;O;
+m';O;
+a;O;
+pas;O;
+répondu;O;
+.;O;
+Alors;O;
+,;O;
+j';O;
+ai;O;
+pensé;O;
+que;O;
+les;O;
+souteneurs;O;
+|
+|;O;
+étaient;O;
+des;O;
+gens;O;
+qui;O;
+aimaient;O;
+beaucoup;O;
+les;O;
+enfants;O;
+.;O;
+|
+
+|;O;
+à;O;
+0;O;
+—;O;
+ns;O;
+|
+|;O;
+2;O;
+rs;O;
+25;O;
+|
+
+|;O;
+ere;O;
+|
+
+|;O;
+—;O;
+—;O;
+|
+
+|;O;
+Le;B;MISC
+TR;I;MISC
+|
+
+|;I;MISC
+CA;I;MISC
+ET;O;
+.;O;
+|
+
+|;O;
+ES;B;LOC
+.;O;
+.;O;
+|
+
+|;O;
+EE;B;ORG
+.;O;
+L;O;
+|
+
+|;O;
+a;O;
+md;O;
+-;O;
+|
+|;O;
++;O;
+|
+
+|;O;
+Fa;O;
+|
+|;O;
+LT;B;ORG
+.;O;
+|
+|;O;
+LE;O;
+|
+
+|;O;
+Ke;B;MISC
+|
+
+ 
+
+|;I;MISC
+LE;I;MISC
+VOLEUR;I;MISC
+S.;I;MISC
+|
+
+|;I;MISC
+Plus;I;MISC
+tard;I;MISC
+,;O;
+mon;O;
+père;O;
+m';O;
+a;O;
+procuré;O;
+une;O;
+joie;O;
+plus;O;
+|
+|;O;
+grave;O;
+.;O;
+Il;O;
+m’;B;PER
+a;O;
+fait;O;
+voir;O;
+Gambetta;B;PER
+.;O;
+C';O;
+était;O;
+au;O;
+Palais;B;LOC
+de;I;LOC
+|
+|;I;LOC
+Versailles;I;LOC
+,;O;
+où;O;
+se;O;
+tenait;O;
+alors;O;
+l’;B;ORG
+Assemblée;I;ORG
+Nationale;I;ORG
+.;O;
+|
+|;O;
+La;O;
+séance;O;
+était;O;
+ouverte;O;
+quand;O;
+nous;O;
+sommes;O;
+entrés;O;
+.;O;
+|
+|;O;
+Un;B;MISC
+monsieur;I;MISC
+chauve;I;MISC
+,;O;
+fortifié;O;
+d’;B;PER
+un;O;
+gilet;O;
+blanc;O;
+,;O;
+était;O;
+à;O;
+|
+|;O;
+la;O;
+tribune;O;
+.;O;
+Il;O;
+disait;O;
+que;O;
+le;O;
+maïs;O;
+est;O;
+très;O;
+mauvais;O;
+pour;O;
+|
+|;O;
+les;O;
+chevaux;O;
+.;O;
+Jai;O;
+cru;O;
+que;O;
+c';O;
+était;O;
+Gambetta;B;PER
+.;O;
+|
+
+|;O;
+Mon;O;
+père;O;
+s’;B;PER
+est;O;
+mis;O;
+en;O;
+colère;O;
+.;O;
+Comment;O;
+!;O;
+je;O;
+ne;O;
+re-;O;
+|
+|;O;
+connais;O;
+pas;O;
+Gambetta;B;PER
+!;O;
+Il;O;
+est;O;
+assez;O;
+facile;O;
+à;O;
+distinguer;O;
+|
+|;O;
+des;O;
+autres;O;
+,;O;
+pourtant;O;
+.;O;
+Ne;O;
+m'’a;O;
+-t;O;
+-on;O;
+pas;O;
+dit;O;
+mille;O;
+fois;O;
+|
+|;O;
+qu';O;
+il;O;
+s';O;
+était;O;
+crevé;O;
+un;O;
+œil;O;
+parce;O;
+que;O;
+ses;O;
+parents;O;
+ne;O;
+vou-;O;
+|
+|;O;
+laient;O;
+pas;O;
+le;O;
+retirer;O;
+d';O;
+un;O;
+collège;O;
+de;O;
+Jésuites;B;ORG
+?;O;
+|
+
+|;O;
+Si;O;
+,;O;
+on;O;
+me;O;
+l’;B;LOC
+a;O;
+dit;O;
+mille;O;
+fois;O;
+.;O;
+Je;O;
+sais;O;
+ainsi;O;
+qu';O;
+un;O;
+fils;O;
+|
+
+|;O;
+a;O;
+le;O;
+droit;O;
+de;O;
+désobéir;O;
+à;O;
+ses;O;
+parents;O;
+quand;O;
+ils;O;
+le;O;
+met-;O;
+|
+|;O;
+tent;O;
+chez;O;
+les;O;
+Jésuites;B;ORG
+,;O;
+mais;O;
+qu';O;
+il;O;
+doit;O;
+leur;O;
+obéir;O;
+aveu-;O;
+|
+|;O;
+glement;O;
+lorsqu';O;
+ils;O;
+lenferment;O;
+ailleurs;O;
+.;O;
+|
+|;O;
+Ah;B;MISC
+!;I;MISC
+tu;O;
+es;O;
+vraiment;O;
+bien;O;
+nigaud;O;
+,;O;
+mon;O;
+pauvre;O;
+|
+|;O;
+enfant;O;
+!;O;
+À;O;
+quoi;O;
+ça;O;
+sert;O;
+-il;O;
+,;O;
+alors;O;
+,;O;
+d’;B;MISC
+avoir;O;
+mis;O;
+dans;O;
+ta;O;
+|
+|;O;
+chambre;O;
+le;O;
+vortrait;O;
+du;O;
+grand;O;
+patriote;O;
+?;O;
+Je;O;
+parie;O;
+que;O;
+|
+|;O;
+tu;O;
+ne;O;
+le;O;
+regardes;O;
+seulement;O;
+pas;O;
+,;O;
+avant;O;
+de;O;
+te;O;
+coucher;O;
+.;O;
+|
+|;O;
+En;O;
+tous;O;
+cas;O;
+,;O;
+tu;O;
+n’;B;PER
+es;O;
+guère;O;
+physionsmiste;O;
+|;|;O;
+combien;O;
+|
+|;O;
+a;O;
+-;O;
+t-1l;O;
+d’;O;
+yeux;O;
+,;O;
+le;O;
+député;O;
+qui;O;
+parle;O;
+à;O;
+la;O;
+tribune;O;
+?;O;
+Un;O;
+,;O;
+|
+|;O;
+ou;O;
+deux;O;
+?;O;
+||||;O;
+|
+
+|;O;
+Je;O;
+ne;O;
+sais;O;
+pas;O;
+,;O;
+je;O;
+ne;O;
+sais;O;
+pas;O;
+.;O;
+Je;O;
+crois;O;
+bien;O;
+qu’;O;
+il;O;
+en;O;
+|
+|;O;
+a;O;
+trois;O;
+.;O;
+[;O;
+la;O;
+des;O;
+yeux;O;
+partout;O;
+.;O;
+Il;O;
+en;O;
+est;O;
+plein;O;
+.;O;
+Je;O;
+le;O;
+|
+|;O;
+vois;O;
+bien;O;
+,;O;
+à;O;
+présent;O;
+|;|;O;
+mais;O;
+,;O;
+tout;O;
+à;O;
+l’;B;LOC
+heure;O;
+,;O;
+je;O;
+ne;O;
+pou-;O;
+|
+|;O;
+vais;O;
+rien;O;
+voir;O;
+|;|;O;
+j';O;
+étais;O;
+ébloui;O;
+.;O;
+Ah;B;MISC
+!;I;MISC
+j';O;
+ai;O;
+été;O;
+tellement;O;
+|
+|;O;
+ému;O;
+,;O;
+en;O;
+pénétrant;O;
+dans;O;
+l’;B;MISC
+auguste;I;MISC
+enceinte;O;
+,;O;
+dans;O;
+le;O;
+|
+|;O;
+sanctuaire;O;
+des;O;
+lois;O;
+!;O;
+J’;O;
+en;O;
+suis;O;
+encore;O;
+tout;O;
+agité;O;
+.;O;
+Et;O;
+|
+|;O;
+puis;O;
+,;O;
+je;O;
+croyais;O;
+que;O;
+Gambetta;B;PER
+ne;O;
+quittait;O;
+pas;O;
+la;O;
+tri-;O;
+|
+|;O;
+bane;O;
+,;O;
+que;O;
+c';O;
+était;O;
+lui;O;
+qui;O;
+parlait;O;
+tout;O;
+le;O;
+temps;O;
+—;O;
+que;O;
+|
+|;O;
+les;O;
+autres;O;
+n’;B;MISC
+étaient;O;
+là;O;
+que;O;
+pour;O;
+l’;B;ORG
+écouter;O;
+.;O;
+|
+
+|;O;
+Mon;O;
+père;O;
+donne;O;
+des;O;
+explications;O;
+aux;O;
+voisins;O;
+qui;O;
+|
+|;O;
+ébauchent;O;
+des;O;
+gestes;O;
+indulgents;O;
+,;O;
+après;O;
+avoir;O;
+souri;O;
+de;O;
+|
+|;O;
+pitié;O;
+.;O;
+|
+
+|;O;
+—;O;
+Je;O;
+ne;O;
+comprends;O;
+vraiment;O;
+pas;O;
+comment;O;
+il;O;
+a;O;
+pu;O;
+|
+
+ 
+
+|;O;
+confondre;O;
+ainsi;O;
+...;O;
+[;O;
+l;O;
+a;O;
+toujours;O;
+le;O;
+premier;O;
+prix;B;MISC
+|
+
+|;I;MISC
+d';I;MISC
+Histoire;I;MISC
+et;O;
+il;O;
+reconnaîtrait;O;
+M.;B;PER
+Thiers;I;PER
+à;O;
+une;O;
+demi-;O;
+.;O;
+|
+|;O;
+lieue;O;
+…;O;
+|
+
+|;O;
+6;O;
+LE;O;
+VOLEUR;B;MISC
+|
+
+|;I;MISC
+Puis;I;MISC
+,;O;
+il;O;
+se;O;
+tourne;O;
+vers;O;
+moi;O;
+.;O;
+|
+
+|;O;
+—;O;
+Le;O;
+voilà;O;
+,;O;
+Gambetta;B;MISC
+!;I;MISC
+Tiens;B;LOC
+,;O;
+là;O;
+,;O;
+là;O;
+!;O;
+|
+
+|;O;
+Oui;O;
+,;O;
+c’;B;MISC
+est;O;
+lui;O;
+,;O;
+c’;B;MISC
+est;O;
+bien;O;
+lui;O;
+.;O;
+Je;O;
+reconnais;O;
+son;O;
+œil;O;
+|
+|;O;
+—;O;
+la;O;
+place;O;
+de;O;
+son;O;
+œil;O;
+.;O;
+—;O;
+Il;O;
+est;O;
+là;O;
+,;O;
+au;O;
+premier;O;
+banc;O;
+|
+|;O;
+—;O;
+le;O;
+banc;O;
+de;O;
+la;O;
+commission;O;
+,;O;
+dit;O;
+un;O;
+voisin;O;
+qui;O;
+s’;B;PER
+y;O;
+|
+|;O;
+connaît;O;
+—;O;
+étendu;O;
+de;O;
+tout;O;
+son;O;
+long;O;
+,;O;
+ou;O;
+presque;O;
+,;O;
+les;O;
+|
+|;O;
+mains;O;
+dans;O;
+les;O;
+poches;O;
+et;O;
+la;O;
+cravate;O;
+de;O;
+travers;O;
+.;O;
+Et;O;
+,;O;
+de;O;
+|
+|;O;
+toute;O;
+l';O;
+après-midi;O;
+,;O;
+il;O;
+ne;O;
+desserre;O;
+point;O;
+les;O;
+dents;O;
+,;O;
+pas;O;
+|
+|;O;
+une;O;
+seule;O;
+fois;O;
+.;O;
+Il;O;
+se;O;
+contente;O;
+de;O;
+renifler;O;
+.;O;
+Une;O;
+séance;O;
+|
+|;O;
+fort;O;
+intéressante;O;
+,;O;
+cependant;O;
+,;O;
+où;O;
+l’;B;LOC
+on;O;
+discute;O;
+la;O;
+qualité;O;
+|
+|;O;
+des;O;
+fourrages;O;
+—;O;
+paille;O;
+,;O;
+foin;O;
+,;O;
+luzerne;O;
+,;O;
+avoine;O;
+,;O;
+son;O;
+et;O;
+|
+|;O;
+recoupette;O;
+.;O;
+|
+
+|;O;
+—;O;
+(;O;
+C';O;
+est;O;
+bien;O;
+dommage;O;
+que;O;
+Gambetta;B;PER
+n';O;
+ait;O;
+pas;O;
+|
+|;O;
+parlé;O;
+,;O;
+dis;O;
+-je;O;
+à;O;
+mon;O;
+père;O;
+,;O;
+comme;O;
+nous;O;
+sortons;O;
+.;O;
+|
+
+|;O;
+—;O;
+La;O;
+parole;O;
+est;O;
+d';O;
+argent;O;
+et;O;
+le;O;
+silence;O;
+est;O;
+d’;O;
+or;O;
+,;O;
+me;O;
+|
+|;O;
+répond;O;
+-il;O;
+d’;O;
+une;O;
+voix;O;
+qui;O;
+me;O;
+fait;O;
+comprendre;O;
+qu’;O;
+il;O;
+|
+|;O;
+m';O;
+en;O;
+veut;O;
+de;O;
+ma;O;
+bévue;O;
+de;O;
+tout;O;
+à;O;
+l';O;
+heure;O;
+.;O;
+Mais;O;
+je;O;
+ne;O;
+|
+|;O;
+t';O;
+avais;O;
+pas;O;
+promis;O;
+de;O;
+te;O;
+faire;O;
+entendre;O;
+Gambetta;B;PER
+|;|;O;
+ça;O;
+|
+|;O;
+ne;O;
+dépend;O;
+point;O;
+de;O;
+moi;O;
+.;O;
+Je;O;
+t';O;
+avais;O;
+promis;O;
+de;O;
+te;O;
+le;O;
+|
+|;O;
+faire;O;
+voir;O;
+.;O;
+Tu;O;
+l’;B;LOC
+as;O;
+vu;O;
+.;O;
+Tu;O;
+n’;B;PER
+espérais;O;
+pas;O;
+quelque;O;
+chose;O;
+|
+|;O;
+d’;B;PER
+extraordinaire;O;
+,;O;
+je;O;
+pense;O;
+?;O;
+|
+
+|;O;
+Moi;B;MISC
+?;I;MISC
+Pas;O;
+du;O;
+tout;O;
+.;O;
+Je;O;
+ne;O;
+m';O;
+attendais;O;
+pas;O;
+,;O;
+bien;O;
+sûr;O;
+,;O;
+|
+|;O;
+à;O;
+voir;O;
+le;O;
+tribun;O;
+rincer;O;
+son;O;
+œil;O;
+de;O;
+plomb;O;
+dans;O;
+le;O;
+verre;O;
+|
+|;O;
+d';O;
+eau;O;
+sucrée;O;
+,;O;
+ou;O;
+le;O;
+lancer;O;
+au;O;
+plafond;O;
+pour;O;
+le;O;
+rattraper;O;
+|
+|;O;
+dans;O;
+la;O;
+cuiller;O;
+.;O;
+Je;O;
+sais;O;
+qu’;B;MISC
+il;O;
+est;O;
+trop;O;
+bien;O;
+élevé;O;
+pour;O;
+ça;O;
+.;O;
+|
+
+|;O;
+—;O;
+Que;O;
+son;O;
+exemple;O;
+te;O;
+serve;O;
+de;O;
+leçon;O;
+,;O;
+reprend;O;
+|
+|;O;
+mon;O;
+père;O;
+.;O;
+Avec;O;
+de;O;
+l';O;
+économie;O;
+et;O;
+en;O;
+faisant;O;
+son;O;
+droit;O;
+,;O;
+|
+|;O;
+on;O;
+peut;O;
+aujourd'hui;O;
+arriver;O;
+à;O;
+tout;O;
+.;O;
+Il;O;
+dépend;O;
+de;O;
+toi;O;
+|
+|;O;
+de;O;
+monter;O;
+aussi;O;
+haut;O;
+que;O;
+lui;O;
+.;O;
+|
+
+|;O;
+Je;O;
+crois;O;
+que;O;
+j';O;
+aurais;O;
+peur;O;
+,;O;
+en;O;
+ballon;O;
+.;O;
+Du;O;
+reste;O;
+,;O;
+bien;O;
+|
+|;O;
+que;O;
+je;O;
+ne;O;
+l';O;
+avoue;O;
+qu’;B;MISC
+à;I;MISC
+moi;I;MISC
+-;I;MISC
+même;I;MISC
+,;O;
+j';O;
+ai;O;
+été;O;
+très;O;
+désillu-;O;
+|
+|;O;
+sionné;O;
+.;O;
+Le;O;
+Gambetta;B;LOC
+que;O;
+j';O;
+ai;O;
+vu;O;
+n’;B;PER
+est;O;
+point;O;
+celui;O;
+que;O;
+|
+|;O;
+j;O;
+espérais;O;
+voir;O;
+.;O;
+Non;O;
+,;O;
+pas;O;
+du;O;
+tout;O;
+.;O;
+Je;O;
+ne;O;
+me;O;
+rappelle;O;
+|
+|;O;
+déjà;O;
+plus;O;
+sa;O;
+figure;O;
+:;O;
+et;O;
+si;O;
+sa;O;
+face;O;
+—;O;
+de;O;
+profil;O;
+—;O;
+ne;O;
+|
+|;O;
+protégeait;O;
+pas;O;
+mon;O;
+sommeil;O;
+,;O;
+pendant;O;
+les;O;
+vacances;O;
+,;O;
+|
+|;O;
+_;O;
+j';O;
+ignorerais;O;
+demain;O;
+comment;O;
+1l;O;
+a;O;
+le;O;
+nez;O;
+fait;O;
+.;O;
+Est;O;
+-ce;O;
+|
+|;O;
+que;O;
+je;O;
+ne;O;
+suis;O;
+pas;O;
+physionomiste;O;
+,;O;
+comme;O;
+l’;B;ORG
+assure;O;
+|
+|;O;
+mon;O;
+père;O;
+?;O;
+|
+
+|;O;
+Si;O;
+,;O;
+je;O;
+lesuis;O;
+|;|;O;
+au;O;
+moins;O;
+quelquefois;O;
+.;O;
+Et;O;
+le;O;
+monsieur;O;
+|
+
+|;O;
+4e;O;
+,;O;
+|
+
+|;O;
+TERRE;B;ORG
+|
+|;O;
+LORS;B;ORG
+FE;B;LOC
+|
+|;O;
+.;O;
+";O;
+7;O;
+,;O;
+VV;B;ORG
+,;O;
+4;O;
+|
+
+|;O;
+=;O;
+rte;O;
++;O;
+|
+|;O;
+,;O;
+|
+
+|;O;
+LE;B;MISC
+EL;I;MISC
+|
+
+|;O;
+_;O;
+|
+
+|;O;
+LE;O;
+VOLEUR;B;ORG
+:;O;
+7;O;
+|
+
+|;O;
+chauve;O;
+,;O;
+en;O;
+gilet;O;
+blanc;O;
+,;O;
+qui;O;
+parlait;O;
+quand;O;
+nous;O;
+sommes;O;
+|
+
+|;O;
+entrés;O;
+,;O;
+je;O;
+vous;O;
+jure;O;
+que;O;
+je;O;
+ne;O;
+J';B;MISC
+ai;I;MISC
+point;I;MISC
+oublié;I;MISC
+.;O;
+Ses;O;
+|
+|;O;
+traits;O;
+se;O;
+sont;O;
+gravés;O;
+en;O;
+moi;O;
+sans;O;
+que;O;
+le;O;
+temps;O;
+ait;O;
+ja-;O;
+|
+|;O;
+mais;O;
+pu;O;
+les;O;
+effacer;O;
+.;O;
+Quand;O;
+je;O;
+veux;O;
+,;O;
+dans;O;
+les;O;
+circons-;O;
+|
+|;O;
+tances;O;
+graves;O;
+,;O;
+me;O;
+représenter;O;
+un;O;
+homme;O;
+d';O;
+Etat;B;LOC
+,;O;
+c’;B;MISC
+est;O;
+|
+|;O;
+son;O;
+visage;O;
+que;O;
+j’;B;LOC
+évoque;O;
+,;O;
+c’;B;MISC
+est;O;
+son;O;
+linge;O;
+et;O;
+son;O;
+attitude;O;
+|
+|;O;
+que;O;
+vient;O;
+m';O;
+offrir;O;
+ma;O;
+mémoire;O;
+.;O;
+Oui;O;
+,;O;
+malgré;O;
+mon;O;
+|
+|;O;
+père;O;
+,;O;
+dont;O;
+les;O;
+admirations;O;
+étaient;O;
+certainement;O;
+justi-;O;
+|
+|;O;
+fiées;O;
+,;O;
+ce;O;
+n’;B;PER
+est;O;
+pas;O;
+Gambetta;B;PER
+,;O;
+ni;O;
+même;O;
+M.;O;
+Thiers;B;PER
+,;O;
+qui;O;
+|
+|;O;
+symbolisent;O;
+pour;O;
+moi;O;
+le;O;
+gouvernement;O;
+nécessaire;O;
+|
+|;O;
+d’;O;
+un;O;
+peuple;O;
+libre;O;
+,;O;
+mais;O;
+policé;O;
+.;O;
+C’;B;PER
+estce;I;PER
+monsieur;I;PER
+,;O;
+dont;O;
+|
+|;O;
+j';O;
+ignore;O;
+le;O;
+nom;O;
+,;O;
+dont;O;
+les;O;
+cheveux;O;
+avaient;O;
+quitté;O;
+la;O;
+|
+|;O;
+France;B;LOC
+dans;O;
+le;O;
+fiacre;O;
+à;O;
+Louis-Philippe;B;PER
+,;O;
+dont;O;
+la;O;
+blan-;O;
+|
+|;O;
+chisseuse;O;
+avait;O;
+:;O;
+un;O;
+si;O;
+joli;O;
+coup;O;
+de;O;
+fer;O;
+,;O;
+et;O;
+qui;O;
+con-;O;
+|
+|;O;
+damnait;O;
+le;O;
+maïs;O;
+,;O;
+formellement;O;
+et;O;
+sans;O;
+appel;O;
+,;O;
+au;O;
+nom;O;
+|
+|;O;
+de;O;
+la;O;
+cavalerie;O;
+tout;O;
+entière;O;
+.;O;
+|
+
+|;O;
+J';O;
+ai;O;
+trois;O;
+souvenirs;O;
+de;O;
+ma;O;
+mère;O;
+.;O;
+|
+|;O;
+Un;O;
+jour;O;
+,;O;
+comme;O;
+j';O;
+étais;O;
+tout;O;
+petit;O;
+,;O;
+elle;O;
+me;O;
+tenait;O;
+sur;O;
+|
+|;O;
+ses;O;
+genoux;O;
+quand;O;
+on;O;
+est;O;
+venu;O;
+lui;O;
+annoncer;O;
+qu’;O;
+une;O;
+|
+
+|;O;
+traite;O;
+souscrite;O;
+par;O;
+un;O;
+client;O;
+était;O;
+demeurée;O;
+impayée;O;
+.;O;
+|
+
+|;O;
+Elle;O;
+m';O;
+a;O;
+posé;O;
+à;O;
+terre;O;
+si;O;
+rudement;O;
+que;O;
+je;O;
+suis;O;
+tombéet;O;
+|
+
+|;O;
+que;O;
+j';O;
+ai;O;
+eu;O;
+le;O;
+poignet;O;
+foulé;O;
+.;O;
+|
+
+|;O;
+Une;O;
+fois;O;
+,;O;
+elle;O;
+m';O;
+a;O;
+récompensé;O;
+parce;O;
+que;O;
+j';O;
+avais;O;
+ré-;O;
+|
+
+|;O;
+_;O;
+pondu;O;
+à;O;
+un;O;
+vieux;O;
+mendiant;O;
+qui;O;
+venait;O;
+demander;O;
+|
+
+|;O;
+l’;B;LOC
+aumône;O;
+à;O;
+la;O;
+grille;O;
+:;O;
+«;O;
+Allez;O;
+donc;O;
+travailler;O;
+,;O;
+fainéant;O;
+|;|;O;
+|
+|;O;
+vous;O;
+ferez;O;
+mieux;O;
+.;O;
+»;O;
+|
+
+|;O;
+—;O;
+C’;B;LOC
+est;O;
+très;O;
+bien;O;
+,;O;
+mon;O;
+enfant;O;
+,;O;
+m’;B;PER
+a;O;
+-t;O;
+-elle;O;
+dit;O;
+.;O;
+Le;O;
+|
+|;O;
+travail;O;
+est;O;
+le;O;
+seul;O;
+remède;O;
+à;O;
+la;O;
+misère;O;
+et;O;
+empêche;O;
+bien;O;
+|
+
+|;O;
+des;O;
+mauvaises;O;
+actions;O;
+|;|;O;
+quand;O;
+on;O;
+travaille;O;
+,;O;
+on;O;
+ne;O;
+|
+
+|;O;
+pense;O;
+pas;O;
+à;O;
+faire;O;
+du;O;
+mal;O;
+à;O;
+autrui;O;
+.;O;
+|
+
+|;O;
+Et;O;
+elle;O;
+m’;B;PER
+a;O;
+donné;O;
+une;O;
+petite;O;
+carabine;O;
+avec;O;
+laquelle;O;
+|
+|;O;
+on;O;
+peut;O;
+aisément;O;
+tuer;O;
+des;O;
+oiseaux;O;
+.;O;
+|
+
+|;O;
+Une;O;
+autre;O;
+fois;O;
+,;O;
+elle;O;
+m';O;
+a;O;
+puni;O;
+parce;O;
+que;O;
+«;O;
+je;O;
+demande;O;
+|
+|;O;
+toujours;O;
+où;O;
+mènent;O;
+leschemins;O;
+qu’;B;LOC
+on;O;
+traverse;O;
+,;O;
+quand;O;
+|
+|;O;
+on;O;
+va;O;
+se;O;
+promener;O;
+.;O;
+»;O;
+Ma;B;PER
+mère;I;PER
+avait;O;
+raison;O;
+,;O;
+je;O;
+l’;B;LOC
+ai;O;
+vu;O;
+|
+|;O;
+depuis;O;
+.;O;
+C’;B;MISC
+est;O;
+tout;O;
+à;O;
+fait;O;
+ridicule;O;
+,;O;
+de;O;
+demander;O;
+où;O;
+|
+|;O;
+mènent;O;
+les;O;
+chemins;O;
+.;O;
+Ils;O;
+vous;O;
+conduisent;O;
+toujours;O;
+où;O;
+|
+|;O;
+vous;O;
+devez;O;
+aller;O;
+.;O;
+||||;O;
+|
+
+|;O;
+8;O;
+LE;O;
+VOLEUR;B;MISC
+|
+
+|;I;MISC
+‘;I;MISC
+Mon;I;MISC
+grand-père;I;MISC
+...;I;MISC
+C’;B;MISC
+est;O;
+un;O;
+ancien;O;
+avoué;O;
+,;O;
+à;O;
+[;O;
+a;O;
+|
+|;O;
+bouche;O;
+sans;O;
+lèvres;O;
+,;O;
+aux;O;
+yeux;O;
+narquois;O;
+,;O;
+qui;O;
+dit;O;
+tou-;O;
+|
+|;O;
+jours;O;
+que;O;
+le;O;
+Code;B;MISC
+est;I;MISC
+formel;I;MISC
+.;O;
+||||;O;
+|
+
+|;O;
+=;O;
+Le;B;MISC
+Code;I;MISC
+est;I;MISC
+formel;I;MISC
+.;O;
+|
+|;O;
+Le;O;
+geste;O;
+est;O;
+facétieux;O;
+|;|;O;
+l’;O;
+intonation;O;
+est;O;
+cruelle;O;
+.;O;
+La;O;
+|
+|;O;
+main;O;
+s';O;
+ouvre;O;
+,;O;
+les;O;
+doigts;O;
+écartés;O;
+,;O;
+la;O;
+paume;O;
+dilatée;O;
+|
+|;O;
+comme;O;
+celle;O;
+d’;B;MISC
+un;O;
+charlatan;O;
+qui;O;
+vient;O;
+d’;B;PER
+escamoter;O;
+la;O;
+|
+|;O;
+muscade;O;
+.;O;
+La;O;
+voix;O;
+siffle;O;
+,;O;
+tranche;O;
+,;O;
+dissèque;O;
+ia;O;
+phrase;O;
+,;O;
+|
+|;O;
+désarticule;O;
+les;O;
+mots;O;
+,;O;
+incise;O;
+les;O;
+voyelles;O;
+,;O;
+fait;O;
+des;O;
+liga-;O;
+|
+|;O;
+turés;O;
+aux;O;
+consonnes;O;
+.;O;
+|
+|;O;
+";O;
+,;O;
+.;O;
+—;O;
+Le;B;MISC
+Code;I;MISC
+est;I;MISC
+formel;I;MISC
+!;I;MISC
+|
+|;O;
+‘;O;
+”;O;
+Pécoute;B;LOC
+ça;O;
+,;O;
+plein;O;
+d’;O;
+une;O;
+sombre;O;
+admiration;O;
+pour;O;
+|
+|;O;
+l’;B;ORG
+Autorité;I;ORG
+souveraine;I;ORG
+et;O;
+mystérieuse;O;
+du;O;
+Code;B;MISC
+,;O;
+un;O;
+peu;O;
+|
+|;O;
+térrifié;O;
+aussi;O;
+-—;O;
+et;O;
+en;O;
+mangeant;O;
+mes;O;
+ongles;O;
+.;O;
+—;O;
+C';O;
+est;O;
+|
+|;O;
+une;O;
+habitude;O;
+que;O;
+rien;O;
+n’;B;PER
+a;O;
+pu;O;
+me;O;
+faire;O;
+perdre;O;
+,;O;
+ni;O;
+les;O;
+|
+|;O;
+choses;O;
+amères;O;
+dont;O;
+on;O;
+me;O;
+barbouille;O;
+les;O;
+doigts;O;
+,;O;
+quand;O;
+|
+|;O;
+je;O;
+dors;O;
+,;O;
+et;O;
+qui;O;
+me;O;
+font;O;
+faire;O;
+des;O;
+grimaces;O;
+au;O;
+réveil;O;
+,;O;
+|
+|;O;
+ni;O;
+les;O;
+exhortations;O;
+,;O;
+ni;O;
+les;O;
+réprimandes;O;
+|;|;O;
+mais;O;
+mon;O;
+|
+|;O;
+grand-père;O;
+,;O;
+en;O;
+un;O;
+clin;O;
+d’;O;
+œil;O;
+,;O;
+m';O;
+en;O;
+a;O;
+radicalement;O;
+|
+|;O;
+corrigé;O;
+.;O;
+|
+ |;O;
+—;O;
+Jine;B;PER
+faut;O;
+pas;O;
+mangertes;O;
+ongles;O;
+,;O;
+m;O;
+a;O;
+-;O;
+t;O;
+-;O;
+ildit;O;
+.;O;
+Il;O;
+ne;O;
+|
+|;O;
+faut;O;
+pas;O;
+manger;O;
+tes;O;
+ongles;O;
+parce;O;
+qu';O;
+ils;O;
+sont;O;
+à;O;
+toi;O;
+.;O;
+Si;O;
+tu;O;
+|
+|;O;
+aimes;O;
+les;O;
+ongles;O;
+,;O;
+mange;O;
+ceux;O;
+des;O;
+autres;O;
+,;O;
+si;O;
+tu;O;
+veux;O;
+|
+
+|;O;
+et;O;
+si;O;
+tu;O;
+peux;O;
+|;|;O;
+mais;O;
+les;O;
+tiens;O;
+sont;O;
+ta;O;
+propriété;O;
+,;O;
+et;O;
+ton;O;
+|
+
+|;O;
+devoir;O;
+est;O;
+de;O;
+conserver;O;
+ta;O;
+propriété;O;
+.;O;
+|
+
+|;O;
+©;O;
+J';O;
+ai;O;
+écouté;O;
+mon;O;
+grand-père;O;
+et;O;
+j';O;
+ai;O;
+perdu;O;
+ma;O;
+mau-;O;
+|
+|;O;
+vaise;O;
+habitude;O;
+.;O;
+Peut;O;
+-;O;
+être;O;
+que;O;
+le;O;
+Code;B;MISC
+est;O;
+formel;O;
+,;O;
+pour;O;
+|
+|;O;
+les;O;
+ongles;O;
+.;O;
+||||;O;
+|
+
+|;O;
+J';O;
+ai;O;
+voulu;O;
+m’;B;PER
+en;O;
+assurer;O;
+,;O;
+un;O;
+jour;O;
+,;O;
+quand;O;
+j';O;
+ai;O;
+été;O;
+plus;O;
+|
+
+|;O;
+grand;O;
+|;|;O;
+voir;O;
+aussi;O;
+ce;O;
+que;O;
+c’;B;MISC
+est;O;
+que;O;
+ce;O;
+livre;O;
+qui;O;
+résume;O;
+:;O;
+|
+
+|;O;
+la;O;
+sagesse;O;
+des;O;
+âges;O;
+et;O;
+condense;O;
+l’;B;ORG
+expérience;O;
+de;O;
+l’;B;LOC
+huma-;O;
+|
+|;O;
+nité;O;
+,;O;
+qui;O;
+décide;O;
+du;O;
+jas;O;
+et;O;
+du;O;
+nefas;O;
+,;O;
+qui;O;
+promulgue;O;
+des;O;
+|
+|;O;
+interdictions;O;
+et;O;
+sugoère;O;
+des;O;
+conseils;O;
+,;O;
+qui;O;
+fait;O;
+la;O;
+tran-;O;
+|
+|;O;
+quillité;O;
+des;O;
+bons;O;
+et;O;
+la;O;
+terreur;O;
+des;O;
+méchants;O;
+.;O;
+|
+
+|;O;
+On;O;
+m';O;
+avait;O;
+envoyé;O;
+,;O;
+pendant;O;
+les;O;
+vacances;O;
+,;O;
+passer;O;
+|
+|;O;
+quelques;O;
+jours;O;
+chez;O;
+mon;O;
+grand-père;O;
+.;O;
+Une;O;
+après-midi;O;
+,;O;
+|
+|;O;
+j';O;
+ai;O;
+pu;O;
+m';O;
+introduire;O;
+sans;O;
+bruit;O;
+dans;O;
+la;O;
+bibliothèque;O;
+,;O;
+|
+|;O;
+saisir;O;
+un;O;
+Code;B;MISC
+,;O;
+le;O;
+cacher;O;
+sous;O;
+ma;O;
+blouse;O;
+et;O;
+me;O;
+réfu-;O;
+|
+
+|;O;
+AA;B;LOC
+IT;I;LOC
+es;O;
+ne;O;
+ee;O;
+|
+
+|;O;
+RE;O;
+r;O;
+ ;O;
+—;O;
+—;O;
+|
+
+|;O;
+“;O;
+‘;O;
+|
+|;O;
+AO;B;ORG
+as;O;
+|
+|;O;
+:;O;
+7;O;
+|
+
+|;O;
+LE;O;
+VOLEUR;B;MISC
+9;I;MISC
+|
+
+|;O;
+gier;O;
+,;O;
+sans;O;
+être;O;
+vu;O;
+,;O;
+derrière;O;
+le;O;
+feuillage;O;
+d’;O;
+une;O;
+tonnelle;O;
+,;O;
+|
+|;O;
+tout;O;
+au;O;
+fond;O;
+du;O;
+jardin;O;
+.;O;
+|
+
+|;O;
+Avec;O;
+quel;O;
+battement;O;
+de;O;
+cœur;O;
+j';O;
+ai;O;
+posé;O;
+le;O;
+volume;O;
+|
+|;O;
+sur;O;
+la;O;
+table;O;
+rustique;O;
+du;O;
+berceau;O;
+!;O;
+Avec;O;
+quelles;O;
+transes;O;
+|
+|;O;
+d’;O;
+être;O;
+surpris;O;
+avant;O;
+d’;B;MISC
+avoir;O;
+pu;O;
+boire;O;
+à;O;
+ma;O;
+soif;O;
+à;O;
+la;O;
+|
+|;O;
+source;O;
+de;O;
+justiceet;O;
+de;O;
+vérité;O;
+,;O;
+avec;O;
+quels;O;
+espoirs;O;
+inex-;O;
+|
+|;O;
+primables;O;
+et;O;
+quels;O;
+pressentiments;O;
+indicibles;O;
+!;O;
+Le;O;
+voile;O;
+|
+|;O;
+qui;O;
+me;O;
+cache;O;
+la;O;
+vie;O;
+va;O;
+se;O;
+déchirer;O;
+tout;O;
+d’;O;
+un;O;
+coup;O;
+,;O;
+je;O;
+|
+|;O;
+le;O;
+sens;O;
+|;|;O;
+je;O;
+vais;O;
+savoir;O;
+le;O;
+pourquoi;O;
+et;O;
+le;O;
+comment;O;
+de;O;
+|
+|;O;
+l’;B;LOC
+existence;O;
+de;O;
+tous;O;
+les;O;
+êtres;O;
+,;O;
+connaître;O;
+les;O;
+liens;O;
+qui;O;
+|
+|;O;
+les;O;
+attachent;O;
+les;O;
+uns;O;
+aux;O;
+autres;O;
+,;O;
+les;O;
+causes;O;
+profondes;O;
+|
+|;O;
+de;O;
+l';O;
+harmonie;O;
+qui;O;
+préside;O;
+aux;O;
+rapports;O;
+des;O;
+hommes;O;
+,;O;
+|
+|;O;
+pénétrer;O;
+les;O;
+bienfaisants;O;
+eflets;O;
+de;O;
+ce;O;
+progrès;O;
+que;O;
+rien;O;
+|
+|;O;
+n';O;
+arrête;O;
+,;O;
+de;O;
+cette;O;
+civilisation;O;
+dont;O;
+j';O;
+apprends;O;
+à;O;
+m’;B;PER
+enor-;O;
+|
+|;O;
+gueillir;O;
+.;O;
+Non;O;
+,;O;
+Ali;B;PER
+-;I;PER
+Baba;I;PER
+n’;I;PER
+a;O;
+point;O;
+éprouvé;O;
+,;O;
+en;O;
+péné-;O;
+|
+
+|;O;
+trant;O;
+dans;O;
+la;O;
+caverne;O;
+des;O;
+quarante;O;
+voleurs;O;
+,;O;
+des;O;
+tres-;O;
+|
+|;O;
+saillements;O;
+plus;O;
+profonds;O;
+que;O;
+ceux;O;
+qui;O;
+m';O;
+agitent;O;
+en;O;
+|
+
+|;O;
+ouvrant;O;
+le;O;
+livre;O;
+sacré;O;
+!;O;
+Non;O;
+,;O;
+Eve;B;PER
+n';O;
+a;O;
+pas;O;
+cueilli;O;
+le;O;
+|
+|;O;
+fruit;O;
+défendu;O;
+,;O;
+au;O;
+jardin;B;LOC
+d';I;LOC
+Eden;I;LOC
+,;O;
+avec;O;
+une;O;
+émotion;O;
+plus;O;
+|
+|;O;
+grande;O;
+|;|;O;
+le;O;
+Tentateur;B;MISC
+ne;O;
+luiavait;O;
+parlé;O;
+qu’;O;
+une;O;
+seule;O;
+|
+|;O;
+fois;O;
+de;O;
+la;O;
+saveur;O;
+de;O;
+la;O;
+pomme;O;
+—;O;
+etil;B;PER
+y;O;
+a;O;
+si;O;
+longtemps;O;
+,;O;
+|
+|;O;
+moi;O;
+,;O;
+que;O;
+j';O;
+entends;O;
+chanter;O;
+la;O;
+gloire;O;
+du;O;
+Code;B;MISC
+,;O;
+du;O;
+|
+|;O;
+Code;B;MISC
+qui;I;MISC
+est;I;MISC
+formel;I;MISC
+!;I;MISC
+|
+
+|;O;
+Je;B;MISC
+lis;I;MISC
+.;O;
+Je;O;
+lis;O;
+avec;O;
+acharnement;O;
+,;O;
+avec;O;
+fièvre;O;
+.;O;
+Je;O;
+lis;O;
+Le;B;MISC
+|
+|;I;MISC
+Contrat;I;MISC
+de;I;MISC
+louage;I;MISC
+,;O;
+le;O;
+Régime;B;ORG
+dotal;I;ORG
+,;O;
+beaucoup;O;
+d’;O;
+autres;O;
+|
+|;O;
+choses;O;
+comme;O;
+ça;O;
+.;O;
+Etje;O;
+ne;O;
+sens;O;
+pas;O;
+monter;O;
+en;O;
+moi;O;
+le;O;
+|
+|;O;
+feu;O;
+de;O;
+l';O;
+enthousiasme;O;
+,;O;
+et;O;
+je;O;
+ne;O;
+suis;O;
+point;O;
+envahi;O;
+par;O;
+|
+|;O;
+cette;O;
+exaltation;O;
+frénétique;O;
+que;O;
+j';O;
+attendais;O;
+aux;O;
+pre-;O;
+|
+|;O;
+mières;O;
+lignes;O;
+.;O;
+Mais;O;
+ça;O;
+va;O;
+venir;O;
+,;O;
+je;O;
+le;O;
+sais;O;
+,;O;
+pourvu;O;
+|
+|;O;
+que;O;
+je;O;
+ne;O;
+me;O;
+décourage;O;
+pas;O;
+,;O;
+que;O;
+je;O;
+persévère;O;
+,;O;
+que;O;
+|
+|;O;
+j';O;
+aille;O;
+jusqu’;B;PER
+au;O;
+bout;O;
+.;O;
+Du;O;
+couraget;O;
+«;O;
+Le;O;
+mur;O;
+mi-;O;
+|
+|;O;
+toyen;O;
+...;O;
+»;O;
+||||;O;
+|
+
+|;O;
+—;O;
+Qu';O;
+est;O;
+-ce;O;
+que;O;
+tu;O;
+fais;O;
+là;O;
+?;O;
+|
+
+|;O;
+Mon;B;MISC
+grand-père;I;MISC
+est;O;
+devant;O;
+moi;O;
+.;O;
+Il;O;
+est;O;
+entré;O;
+sans;O;
+|
+|;O;
+que;O;
+j';O;
+aie;O;
+pu;O;
+m’;B;PER
+enapercevoir;O;
+,;O;
+tellement;O;
+j';O;
+étais;O;
+absorbé;O;
+.;O;
+|
+
+|;O;
+—;O;
+Ïl;B;PER
+ÿ;O;
+a;O;
+deux;O;
+heures;O;
+que;O;
+je;O;
+te;O;
+cherche;O;
+.;O;
+Qu';O;
+est;O;
+-ce;O;
+|
+
+|;O;
+que;O;
+tu;O;
+fais;O;
+?;O;
+Tu;O;
+lis;O;
+?;O;
+Qu';O;
+est;O;
+-ce;O;
+que;O;
+tu;O;
+lis;O;
+?;O;
+|
+
+|;O;
+—;O;
+Je;B;MISC
+lis;I;MISC
+le;I;MISC
+Code;I;MISC
+!;I;MISC
+||||;O;
+|
+|;O;
+À;O;
+quoi;O;
+bon;O;
+nier;O;
+?;O;
+Le;O;
+livre;O;
+est;O;
+là;O;
+,;O;
+grand;O;
+ouvert;O;
+sur;O;
+|
+
+|;O;
+4;O;
+°;O;
+|
+
+|;O;
+10;O;
+,;O;
+LE;B;MISC
+VOLEUR;I;MISC
+|
+
+|;I;MISC
+la;I;MISC
+table;I;MISC
+,;O;
+témoin;O;
+muet;O;
+,;O;
+mais;O;
+irrécusable;O;
+,;O;
+de;O;
+ma;O;
+cu-;O;
+|
+|;O;
+riosité;O;
+perverse;O;
+.;O;
+Mon;B;MISC
+grand-père;I;MISC
+sourit;I;MISC
+.;O;
+|
+
+|;O;
+—;O;
+Tu;O;
+lis;O;
+le;O;
+Code;B;MISC
+!;I;MISC
+Ca;O;
+t’;O;
+amuse;O;
+,;O;
+de;O;
+lire;O;
+le;O;
+Code;B;MISC
+?;I;MISC
+Ça;B;MISC
+|
+|;O;
+t';O;
+intéresse;O;
+?;O;
+||||;O;
+|
+
+|;O;
+Je;B;MISC
+fais;I;MISC
+un;I;MISC
+geste;I;MISC
+vague;I;MISC
+.;O;
+Ca;B;LOC
+ne;O;
+m';O;
+amuse;O;
+pas;O;
+,;O;
+certai-;O;
+|
+|;O;
+nement;O;
+:;O;
+mais;O;
+ça;O;
+m';O;
+intéresserait;O;
+sans;O;
+aucun;O;
+doute;O;
+,;O;
+si;O;
+|
+|;O;
+l’;B;LOC
+on;O;
+me;O;
+laissait;O;
+continuer;O;
+.;O;
+Telle;O;
+est;O;
+,;O;
+du;O;
+moins;O;
+,;O;
+mon;O;
+|
+|;O;
+opinion;O;
+.;O;
+Opinion;O;
+sans;O;
+valeur;O;
+,;O;
+mon;O;
+grand-père;O;
+me;O;
+le;O;
+|
+|;O;
+démontre;O;
+immédiatement;O;
+.;O;
+|
+
+|;O;
+—;O;
+Pour;O;
+lire;O;
+le;O;
+Code;B;MISC
+,;O;
+mon;O;
+ami;O;
+,;O;
+il;O;
+ne;O;
+suffit;O;
+pas;O;
+de;O;
+|
+|;O;
+savoir;O;
+lire;O;
+|;|;O;
+il;O;
+faut;O;
+savoir;O;
+lire;O;
+le;O;
+Code;B;MISC
+.;O;
+Ce;O;
+qu';O;
+il;O;
+faut;O;
+|
+|;O;
+lire;O;
+,;O;
+dans;O;
+ce;O;
+livre;O;
+-là;O;
+,;O;
+ce;O;
+n’;B;PER
+est;O;
+pas;O;
+le;O;
+noir;O;
+,;O;
+l’;B;MISC
+imprimé;I;MISC
+|;|;O;
+|
+|;O;
+c';O;
+est;O;
+le;O;
+blanc;O;
+,;O;
+c’;B;MISC
+est;O;
+ca;B;LOC
+...;O;
+|
+
+|;O;
+Et;O;
+il;O;
+pose;O;
+son;O;
+doigt;O;
+sur;O;
+la;O;
+marge;O;
+.;O;
+|
+
+|;O;
+Très;O;
+vexé;O;
+,;O;
+je;O;
+ferme;O;
+brusquement;O;
+le;O;
+volume;O;
+.;O;
+Mon;O;
+|
+|;O;
+grand-père;O;
+sourit;O;
+encore;O;
+.;O;
+|
+
+|;O;
+—;O;
+Il;O;
+faut;O;
+avoir;O;
+des;O;
+égards;O;
+pour;O;
+ce;O;
+livre;O;
+,;O;
+mon;O;
+en-;O;
+|
+|;O;
+fant;O;
+.;O;
+Il;O;
+est;O;
+respectable;O;
+.;O;
+Dans;O;
+cinquante;O;
+ans;O;
+,;O;
+c’;B;MISC
+est;O;
+tout;O;
+|
+|;O;
+ce;O;
+quirestera;O;
+de;O;
+la;O;
+Société;B;ORG
+.;O;
+|
+
+|;O;
+Bon;O;
+,;O;
+bon;O;
+.;O;
+Nous;O;
+verrons;O;
+ca;B;MISC
+.;O;
+|
+
+|;O;
+J';O;
+ai;O;
+un;O;
+autre;O;
+souvenir;O;
+,;O;
+encore;O;
+.;O;
+||||;O;
+|
+
+|;O;
+M.;B;PER
+Dubourg;I;PER
+est;O;
+un;O;
+ami;O;
+de;O;
+la;O;
+famille;O;
+.;O;
+C’;B;MISC
+est;O;
+un;O;
+|
+|;O;
+homme;O;
+de;O;
+cinquante;O;
+ans;O;
+,;O;
+au;O;
+moins;O;
+,;O;
+employé;O;
+supé-;O;
+|
+|;O;
+rieur;O;
+d';O;
+un;O;
+ministère;O;
+où;O;
+sa;O;
+réputation;O;
+de;O;
+droiture;O;
+lui;O;
+|
+|;O;
+assure;O;
+une;O;
+situation;O;
+unique;O;
+.;O;
+Réputation;O;
+méritée;O;
+|;|;O;
+|
+|;O;
+mon;O;
+grand-père;O;
+,;O;
+souvent;O;
+un;O;
+peu;O;
+sarcastique;O;
+,;O;
+en;O;
+con-;O;
+|
+|;O;
+vient;O;
+sans;O;
+difficulté;O;
+:;O;
+Dubourg;B;LOC
+,;O;
+c’;B;MISC
+est;O;
+l';O;
+honnêteté;O;
+en;O;
+|
+|;O;
+personne;O;
+.;O;
+Il;O;
+est;O;
+notre;O;
+voisin;O;
+,;O;
+l';O;
+été;O;
+|;|;O;
+sa;O;
+femme;O;
+est;O;
+une;O;
+|
+|;O;
+grande;O;
+amie;O;
+de;O;
+ma;O;
+mère;O;
+et;O;
+c’;B;MISC
+est;O;
+avec;O;
+son;O;
+fils;O;
+,;O;
+Albert;B;PER
+,;O;
+|
+|;O;
+que;O;
+je;O;
+joue;O;
+le;O;
+plus;O;
+volontiers;O;
+.;O;
+J’;O;
+ai;O;
+l';O;
+habitude;O;
+d’;O;
+aller;O;
+le;O;
+|
+|;O;
+chercher;O;
+l';O;
+après-midi;O;
+|;|;O;
+et;O;
+je;O;
+suis;O;
+fort;O;
+étonné;O;
+que;O;
+,;O;
+de-;O;
+|
+|;O;
+puis;O;
+plusieurs;O;
+jours;O;
+,;O;
+on;O;
+me;O;
+défende;O;
+de;O;
+sortir;O;
+,;O;
+Que;B;MISC
+se;I;MISC
+|
+|;I;MISC
+passe;I;MISC
+-;I;MISC
+t-1l;I;MISC
+?;O;
+»;O;
+|
+
+|;O;
+Jai;B;PER
+surpris;O;
+des;O;
+bouts;O;
+de;O;
+conversation;O;
+,;O;
+j';O;
+ai;O;
+fait;O;
+par-;O;
+|
+|;O;
+ler;O;
+les;O;
+domestiques;O;
+.;O;
+Il;O;
+paraît;O;
+que;O;
+M.;O;
+Dubourg;B;LOC
+s’;O;
+est;O;
+|
+|;O;
+mal;O;
+conduit;O;
+...;O;
+des;O;
+détournements;O;
+considérables;O;
+.;O;
+une;O;
+|
+|;O;
+cocotte;O;
+...;O;
+la;O;
+ruine;O;
+et;O;
+le;O;
+déshonneur;O;
+—;O;
+sinon;O;
+plus;O;
+.;O;
+|
+
+|;O;
+Mon;O;
+père;O;
+se;O;
+doute;O;
+que;O;
+je;O;
+suis;O;
+au;O;
+courant;O;
+des;O;
+|
+
+|;O;
+SA;B;ORG
+em;O;
+|
+
+|;O;
+TETE;B;MISC
+er;O;
+ete;O;
+,;O;
+|
+
+|;O;
+D;B;MISC
+om;I;MISC
+me;O;
+,;O;
+|
+
+ 
+
+|;O;
+LE;B;MISC
+VOLEUR;I;MISC
+II;I;MISC
+|
+
+|;O;
+choses;O;
+,;O;
+car;O;
+il;O;
+prend;O;
+le;O;
+parti;O;
+de;O;
+ne;O;
+plus;O;
+se;O;
+gèner;O;
+devant;O;
+|
+|;O;
+moi;O;
+.;O;
+||||;O;
+|
+
+|;O;
+—;O;
+Dubourg;B;LOC
+peut;O;
+se;O;
+flatter;O;
+d’;O;
+avoir;O;
+de;O;
+[;O;
+a;O;
+chance;O;
+,;O;
+|
+|;O;
+dit;O;
+-il;O;
+à;O;
+ma;O;
+mère;O;
+,;O;
+à;O;
+déjeuner;O;
+|;|;O;
+il;O;
+ne;O;
+sera;O;
+pas;O;
+pour-;O;
+|
+|;O;
+suivi;O;
+|;|;O;
+il;O;
+a;O;
+remboursé;O;
+,;O;
+et;O;
+onse;O;
+contente;O;
+de;O;
+ça;O;
+.;O;
+Moi;O;
+,;O;
+je;O;
+|
+|;O;
+ne;O;
+comprends;O;
+pas;O;
+ces;O;
+indulgences;O;
+-là;O;
+|;|;O;
+c';O;
+est;O;
+tout;O;
+à;O;
+|
+|;O;
+fait;O;
+démoralisant;O;
+|;|;O;
+le;O;
+crime;O;
+ne;O;
+doit;O;
+jamais;O;
+,;O;
+sous;O;
+au-;O;
+|
+|;O;
+cun;O;
+prétexte;O;
+,;O;
+échapper;O;
+au;O;
+châtiment;O;
+.;O;
+|
+
+|;O;
+—;O;
+Jamais;B;PER
+,;O;
+dit;O;
+ma;O;
+mère;O;
+.;O;
+Mais;O;
+on;O;
+aura;O;
+eu;O;
+égard;O;
+à;O;
+|
+|;O;
+son;O;
+âge;O;
+.;O;
+|
+
+|;O;
+—;O;
+Belle;B;MISC
+excuse;I;MISC
+!;I;MISC
+Raison;B;PER
+de;O;
+plus;O;
+pour;O;
+n';O;
+avoir;O;
+pas;O;
+|
+|;O;
+de;O;
+pitié;O;
+.;O;
+Une;O;
+cocotte;O;
+!;O;
+Une;O;
+danseuse;O;
+!;O;
+...;O;
+Une;O;
+liaison;O;
+|
+|;O;
+qui;O;
+durait;O;
+depuis;O;
+des;O;
+mois;O;
+—;O;
+depuis;O;
+des;O;
+années;O;
+,;O;
+peut-;O;
+|
+|;O;
+être;O;
+...;O;
+Connais;B;LOC
+-;I;LOC
+tu;O;
+rien;O;
+de;O;
+plus;O;
+immoral;O;
+?;O;
+Et;O;
+mon-;O;
+|
+|;O;
+sieur;O;
+fouille;O;
+à;O;
+pleines;O;
+mains;O;
+dans;O;
+les;O;
+caisses;O;
+publiques;O;
+|
+|;O;
+pour;O;
+entretenir;O;
+ça;O;
+||||;O;
+...;O;
+Comme;O;
+sous;O;
+l';O;
+Empire;B;LOC
+!;I;LOC
+Comme;O;
+|
+|;O;
+sous;O;
+Louis;B;PER
+XV;I;PER
+!;O;
+...;O;
+Et;O;
+,;O;
+quand;O;
+on;O;
+le;O;
+prend;O;
+sur;O;
+le;O;
+fait;O;
+,;O;
+|
+
+|;O;
+on;O;
+lui;O;
+pardonne;O;
+,;O;
+sous;O;
+prétexte;O;
+qu';O;
+il;O;
+a;O;
+cinquante-;O;
+|
+
+|;O;
+cinq;O;
+ans;O;
+de;O;
+vie;O;
+irréprochable;O;
+et;O;
+que;O;
+ses;O;
+cheveux;O;
+sont;O;
+|
+|;O;
+blancs;O;
+!;O;
+|
+
+|;O;
+—;O;
+Ce;O;
+n’;B;PER
+est;O;
+guère;O;
+encourageant;O;
+pour;O;
+les;O;
+honnêtes;O;
+|
+|;O;
+gens;O;
+,;O;
+dit;O;
+ma;O;
+mère;O;
+.;O;
+On;O;
+éprouve;O;
+un;O;
+tel;O;
+soulagement;O;
+à;O;
+|
+|;O;
+lire;O;
+,;O;
+dans;O;
+les;O;
+journaux;O;
+,;O;
+les;O;
+condamnations;O;
+des;O;
+fripons;O;
+.;O;
+…;O;
+|
+|;O;
+Enfin;O;
+,;O;
+jugement;O;
+ou;O;
+non;O;
+,;O;
+on;O;
+est;O;
+toujours;O;
+libre;O;
+de;O;
+fer-;O;
+|
+|;O;
+mer;O;
+sa;O;
+porte;O;
+à;O;
+des;O;
+gens;O;
+pareils;O;
+,;O;
+heureusement;O;
+...;O;
+|
+
+|;O;
+—;O;
+C';O;
+est;O;
+ce;O;
+qu’;O;
+on;O;
+fait;O;
+partout;O;
+pour;O;
+Duboursg;B;PER
+,;O;
+sois;O;
+|
+|;O;
+tranquille;O;
+.;O;
+J’;O;
+ai;O;
+donné;O;
+des;O;
+ordres;O;
+,;O;
+ici;O;
+.;O;
+Et;O;
+quant;O;
+à;O;
+toi;O;
+,;O;
+|
+|;O;
+Georges;B;MISC
+,;O;
+si;O;
+par;O;
+hasard;O;
+tu;O;
+rencontres;O;
+Albert;B;PER
+,;O;
+je;O;
+te;O;
+dé-;O;
+|
+|;O;
+fends;O;
+de;O;
+lui;O;
+parler;O;
+.;O;
+Je;O;
+te;O;
+le;O;
+défends;O;
+|;|;O;
+tu;O;
+m’;B;PER
+en-;O;
+|
+|;O;
+tends;O;
+?;O;
+|
+
+|;O;
+Je;O;
+n';O;
+ai;O;
+pas;O;
+rencontré;O;
+Albert;B;PER
+.;O;
+Mais;O;
+le;O;
+surlendemain;O;
+|
+|;O;
+matin;O;
+,;O;
+comme;O;
+je;O;
+suis;O;
+assis;O;
+,;O;
+au;O;
+fond;O;
+du;O;
+jardin;O;
+,;O;
+à;O;
+côté;O;
+|
+|;O;
+de;O;
+mon;O;
+père;O;
+qui;O;
+lit;O;
+son;O;
+journal;O;
+,;O;
+je;O;
+vois;O;
+arriver;O;
+|
+|;O;
+M.;B;PER
+Dubourg;I;PER
+.;O;
+La;O;
+domestique;O;
+,;O;
+par;O;
+bêtise;O;
+ou;O;
+par;O;
+pitié;O;
+,;O;
+|
+|;O;
+lui;O;
+aura;O;
+permis;O;
+d’;O;
+entrer;O;
+.;O;
+||||;O;
+|
+
+|;O;
+—;O;
+La;O;
+sotte;O;
+fille;O;
+!;O;
+dit;O;
+mon;O;
+père;O;
+.;O;
+Elle;O;
+:;O;
+aura;O;
+ses;O;
+huit;O;
+|
+|;O;
+jours;O;
+avant;O;
+midi;O;
+.;O;
+||||;O;
+|
+
+|;O;
+Mais;O;
+M.;B;PER
+Dubourg;I;PER
+est;O;
+à;O;
+dix;O;
+pas;O;
+.;O;
+Je;O;
+sens;O;
+que;O;
+je;O;
+vais;O;
+|
+
+|;O;
+être;O;
+bien;O;
+gênant;O;
+pour;O;
+lui;O;
+,;O;
+qu’;B;PER
+il;O;
+ne;O;
+pourra;O;
+pas;O;
+dire;O;
+,;O;
+|
+
+|;O;
+RE;O;
+RE;O;
+Ph;O;
+|
+
+|;O;
+12;O;
+LE;O;
+VOLEUR;B;ORG
+|
+
+|;O;
+devant;O;
+moi;O;
+,;O;
+tout;O;
+ce;O;
+qu’;O;
+il;O;
+a;O;
+à;O;
+dire;O;
+,;O;
+et;O;
+je;O;
+me;O;
+lève;O;
+pour;O;
+|
+|;O;
+m';O;
+en;O;
+aller;O;
+.;O;
+Mon;O;
+père;O;
+me;O;
+retient;O;
+par;O;
+le;O;
+bras;O;
+.;O;
+|
+
+|;O;
+—;O;
+Reste;O;
+là;O;
+!;O;
+|
+
+|;O;
+M.;B;PER
+Dubourg;I;PER
+parle;O;
+depuis;O;
+cinq;O;
+minutes;O;
+|;|;O;
+des;O;
+phrases;O;
+|
+|;O;
+embarrassées;O;
+,;O;
+coupées;O;
+,;O;
+heurtées;O;
+,;O;
+honteuses;O;
+d’;B;PER
+elles-;O;
+|
+|;O;
+mêmes;O;
+.;O;
+Et;O;
+,;O;
+chaque;O;
+fois;O;
+qu’;O;
+il;O;
+s';O;
+arrête;O;
+,;O;
+mon;O;
+père;O;
+es-;O;
+|
+|;O;
+quisse;O;
+la;O;
+moitié;O;
+d’;O;
+un;O;
+geste;O;
+,;O;
+mais;O;
+il;O;
+ne;O;
+répond;O;
+rien;O;
+.;O;
+|
+|;O;
+Rien;O;
+|;|;O;
+pas;O;
+un;O;
+mot;O;
+.;O;
+|
+
+|;O;
+:;O;
+M.;O;
+Dubourg;B;LOC
+continue;O;
+.;O;
+Il;O;
+dit;O;
+que;O;
+des;O;
+sympathies;O;
+|
+
+|;O;
+lui;O;
+seraient;O;
+si;O;
+précieuses;O;
+...;O;
+des;O;
+sympathies;O;
+même;O;
+|
+
+|;O;
+cachées;O;
+.;O;
+qu’;O;
+on;O;
+désavouerait;O;
+devant;O;
+le;O;
+monde;O;
+...;B;MISC
+|
+
+|;I;MISC
+Silence;I;MISC
+.;O;
+|
+|;O;
+…;O;
+Il;O;
+dit;O;
+qu';O;
+il;O;
+a;O;
+eu;O;
+un;O;
+moment;O;
+d’;B;MISC
+égarement;O;
+...;O;
+mais;O;
+|
+
+|;O;
+que;O;
+le;O;
+chiffre;O;
+qu’;B;MISC
+on;I;MISC
+a;I;MISC
+cité;I;MISC
+était;O;
+exagéré;O;
+,;O;
+qu’;B;PER
+il;O;
+n’;B;PER
+avait;O;
+|
+|;O;
+jamais;O;
+été;O;
+aussi;O;
+loin;O;
+.;O;
+qu’;O;
+il;O;
+ne;O;
+s';O;
+explique;O;
+pas;O;
+...;O;
+|
+|;O;
+qu’;B;LOC
+il;O;
+a;O;
+refait;O;
+tous;O;
+ses;O;
+comptes;O;
+depuis;O;
+vingt;O;
+ans;O;
+...;O;
+|
+
+|;O;
+Silence;B;PER
+.;O;
+||||;O;
+|
+|;O;
+…;O;
+Il;O;
+dit;O;
+qu’;B;PER
+il;O;
+a;O;
+été;O;
+un;O;
+grand;O;
+misérable;O;
+de;O;
+céder;O;
+à;O;
+des;O;
+|
+
+|;O;
+tentations;O;
+.;O;
+qu’;O;
+il;O;
+comprend;O;
+très;O;
+bien;O;
+qu’;B;LOC
+on;O;
+ne;O;
+l’;B;LOC
+excuse;O;
+|
+
+|;O;
+pas;O;
+à;O;
+présent;O;
+...;O;
+mais;O;
+qu’;B;PER
+il;O;
+avait;O;
+espéré;O;
+qu’;O;
+on;O;
+consen-;O;
+|
+
+|;O;
+tirait;O;
+avant;O;
+de;O;
+le;O;
+condamner;O;
+définitivement;O;
+...;O;
+que;O;
+,;O;
+|
+|;O;
+s’;B;PER
+il;O;
+nese;O;
+sentait;O;
+pas;O;
+complètement;O;
+abandonné;O;
+,;O;
+le;O;
+re-;O;
+|
+
+|;O;
+pentir;O;
+lui;O;
+donnerait;O;
+des;O;
+forces;O;
+.;O;
+|
+
+|;O;
+Silence;O;
+.;O;
+|
+
+|;O;
+Il;O;
+dit;O;
+qu';O;
+il;O;
+va;O;
+partir;O;
+très;O;
+loin;O;
+avec;O;
+sa;O;
+famille;O;
+...;O;
+que;O;
+,;O;
+|
+|;O;
+s’;B;PER
+il;O;
+-;O;
+était;O;
+seul;O;
+,;O;
+il;O;
+saurait;O;
+bien;O;
+quoi;O;
+faire;O;
+,;O;
+et;O;
+que;O;
+ce;O;
+serait;O;
+|
+|;O;
+peut-être;O;
+le;O;
+mieux;O;
+...;O;
+||||;O;
+|
+
+|;O;
+Silence;B;LOC
+.;O;
+||||;O;
+|
+
+|;O;
+—;O;
+—;O;
+Eh;B;MISC
+!;I;MISC
+bien;O;
+,;O;
+a;O;
+-;O;
+t-1l;O;
+murmuré;O;
+,;O;
+je;O;
+ne;O;
+veux;O;
+point;O;
+|
+|;O;
+vous;O;
+importuner;O;
+plus;O;
+longtemps;O;
+,;O;
+M.;B;PER
+Randal;I;PER
+|;|;O;
+je;O;
+vais;O;
+|
+|;O;
+vous;O;
+quitter;O;
+...;O;
+Âu;O;
+revoir;O;
+...;O;
+||||;O;
+|
+
+|;O;
+Æt;B;PER
+il;O;
+a;O;
+tendu;O;
+une;O;
+main;O;
+qui;O;
+tremblait;O;
+.;O;
+Mon;O;
+père;O;
+a;O;
+|
+|;O;
+hésité;O;
+|;|;O;
+puis;O;
+,;O;
+il;O;
+a;O;
+mis;O;
+l’;B;LOC
+aumône;O;
+de;O;
+deux;O;
+doigts;O;
+dans;O;
+|
+|;O;
+cette;O;
+main;O;
+-là;O;
+.;O;
+|
+
+|;O;
+—;O;
+Adieu;B;PER
+,;O;
+Monsieur;B;PER
+.;O;
+|
+
+|;O;
+Alors;O;
+,;O;
+M.;O;
+Dubourg;B;LOC
+est;O;
+parti;O;
+.;O;
+Il;O;
+s’;B;LOC
+en;O;
+est;O;
+allé;O;
+à;O;
+|
+|;O;
+grandes;O;
+enjambées;O;
+,;O;
+le;O;
+dos;O;
+voûté;O;
+comme;O;
+pour;O;
+cacher;O;
+|
+|;O;
+sa;O;
+figure;O;
+,;O;
+sa;O;
+figure;O;
+ridée;O;
+,;O;
+tirée;O;
+,;O;
+aux;O;
+yeux;O;
+rouges;O;
+,;O;
+qui;O;
+|
+|;O;
+a;O;
+vieilli;O;
+de;O;
+dix;O;
+ans;O;
+.;O;
+Le;O;
+chien;O;
+l’;B;ORG
+a;O;
+suivi;O;
+,;O;
+le;O;
+museau;O;
+au;O;
+|
+
+|;O;
+:;O;
+ne;O;
+_;O;
+|
+
+|;O;
+(;O;
+l';O;
+œil;O;
+dans;O;
+le;O;
+triangle;O;
+,;O;
+vous;O;
+savez;O;
+);O;
+|;|;O;
+c’;B;MISC
+est;O;
+pourquoi;O;
+je;O;
+|
+
+|;O;
+LE;O;
+VOLEUR;O;
+||||;O;
+13;O;
+|
+
+|;O;
+ras;O;
+du;O;
+sol;O;
+,;O;
+lui;O;
+flairant;O;
+les;O;
+talons;O;
+d’;O;
+un;O;
+air;O;
+bien;O;
+dégoûté;O;
+,;O;
+|
+|;O;
+serrant;O;
+funèbrement;O;
+sa;O;
+queue;O;
+entre;O;
+ses;O;
