@@ -1,0 +1,5602 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Gallica  L'âme de Pierre",
+    "jalons": [
+      3,
+      27
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Georges Ohnet",
+    "jalons": [
+      33,
+      46
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Bayard  Source",
+    "jalons": [
+      69,
+      83
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Bibliothèque nationale de France",
+    "jalons": [
+      101,
+      133
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Gallica  Ohnet",
+    "jalons": [
+      138,
+      152
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Georges",
+    "jalons": [
+      154,
+      161
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Auteur du texte",
+    "jalons": [
+      175,
+      190
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "L'âme de Pierre",
+    "jalons": [
+      192,
+      207
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Georges Ohnet",
+    "jalons": [
+      213,
+      226
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Bayard",
+    "jalons": [
+      249,
+      255
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Le cadre de La loi",
+    "jalons": [
+      474,
+      492
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la mention de",
+    "jalons": [
+      129,
+      233
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      336,
+      342
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "le la revente de contenus sous forme de produits élaborés ou de",
+    "jalons": [
+      0,
+      63
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Les contenus de Gallica sont la propriété de La BnF au sens de",
+    "jalons": [
+      419,
+      481
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "éral de la",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "LA  GEORGES OHNET",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Li  DORFF",
+    "jalons": [
+      19,
+      28
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "ÉDITEU  Bal    DU MÊME",
+    "jalons": [
+      30,
+      52
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "ROMANS  LES BATAILLES DE LA VIE  Serge Panine",
+    "jalons": [
+      61,
+      106
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Le Maître de Forges",
+    "jalons": [
+      190,
+      209
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "La Comtesse Sarah",
+    "jalons": [
+      239,
+      256
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Lise Fleuron",
+    "jalons": [
+      287,
+      299
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "La Grande Marnière",
+    "jalons": [
+      337,
+      355
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Les Dames de Oroix-Mort",
+    "jalons": [
+      385,
+      408
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Volonté",
+    "jalons": [
+      431,
+      438
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Docteur Rameau",
+    "jalons": [
+      482,
+      496
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "Dernier Amour",
+    "jalons": [
+      14,
+      27
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Régina Sarpi",
+    "jalons": [
+      122,
+      134
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Marthe",
+    "jalons": [
+      173,
+      179
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Serge Panine",
+    "jalons": [
+      224,
+      236
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Le Maître de Forges",
+    "jalons": [
+      275,
+      294
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Le Grande Marnière",
+    "jalons": [
+      430,
+      448
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Suède et In Norwège",
+    "jalons": [
+      407,
+      426
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "papier de Chine",
+    "jalons": [
+      27,
+      42
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "L'AME DE PIERRE  Le docteur Davidoff",
+    "jalons": [
+      146,
+      182
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "salon de l'Hôtel de Paris",
+    "jalons": [
+      90,
+      115
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Monte-Carlo",
+    "jalons": [
+      136,
+      147
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      301,
+      315
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "ami Jacques de Vignes",
+    "jalons": [
+      321,
+      342
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "et vers le dacteur Davidoff",
+    "jalons": [
+      343,
+      370
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Jacques de Vignes",
+    "jalons": [
+      73,
+      90
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Wladimir Alexievich",
+    "jalons": [
+      152,
+      171
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Maria Fedorowna",
+    "jalons": [
+      180,
+      195
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Saint-Pé",
+    "jalons": [
+      351,
+      359
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Tongouse",
+    "jalons": [
+      492,
+      500
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Wladimir Alexievich",
+    "jalons": [
+      217,
+      236
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "la vie de celle",
+    "jalons": [
+      12,
+      27
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Épouvanté",
+    "jalons": [
+      502,
+      511
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      20,
+      35
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Grois",
+    "jalons": [
+      273,
+      278
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Crois",
+    "jalons": [
+      313,
+      318
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      495,
+      509
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "Jacques de Vignes",
+    "jalons": [
+      269,
+      286
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "Patrizzi",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_55": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      15,
+      29
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Janvier",
+    "jalons": [
+      51,
+      58
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "Pierre Lau",
+    "jalons": [
+      291,
+      301
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "Bois-Joli",
+    "jalons": [
+      445,
+      454
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Donner",
+    "jalons": [
+      456,
+      462
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "ami Jacques de Vignes ici",
+    "jalons": [
+      80,
+      105
+    ]
+  },
+  "entite_61": {
+    "label": "MISC",
+    "text": "Ledit Jacques de",
+    "jalons": [
+      420,
+      436
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Davidoff",
+    "jalons": [
+      485,
+      493
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      229,
+      243
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      134,
+      141
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Clémence Villa",
+    "jalons": [
+      263,
+      277
+    ]
+  },
+  "entite_66": {
+    "label": "MISC",
+    "text": "J'ai des envies de la massa",
+    "jalons": [
+      206,
+      233
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Jacques de Vignes",
+    "jalons": [
+      220,
+      237
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Villefranche",
+    "jalons": [
+      285,
+      297
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "Jacques de Vignesen",
+    "jalons": [
+      95,
+      114
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "Patrizri",
+    "jalons": [
+      397,
+      405
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "Davidoff",
+    "jalons": [
+      476,
+      484
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      488,
+      502
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      373,
+      387
+    ]
+  },
+  "entite_74": {
+    "label": "MISC",
+    "text": "Arrivé de plai",
+    "jalons": [
+      498,
+      512
+    ]
+  },
+  "entite_75": {
+    "label": "MISC",
+    "text": "Monaco et Vintimille que la",
+    "jalons": [
+      35,
+      62
+    ]
+  },
+  "entite_76": {
+    "label": "MISC",
+    "text": "Pierre Laurier et Davidoff se remirent en marche",
+    "jalons": [
+      53,
+      101
+    ]
+  },
+  "entite_77": {
+    "label": "LOC",
+    "text": "Villefranche",
+    "jalons": [
+      99,
+      111
+    ]
+  },
+  "entite_78": {
+    "label": "LOC",
+    "text": "Alexandrie",
+    "jalons": [
+      159,
+      169
+    ]
+  },
+  "entite_79": {
+    "label": "LOC",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      381,
+      396
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "Adieudonc",
+    "jalons": [
+      252,
+      261
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      323,
+      337
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "Clé",
+    "jalons": [
+      492,
+      495
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "Villa",
+    "jalons": [
+      504,
+      509
+    ]
+  },
+  "entite_84": {
+    "label": "PER",
+    "text": "Pierre s’approcha",
+    "jalons": [
+      90,
+      107
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "rreur de Patrizzi",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      22,
+      30
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      429,
+      435
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      437,
+      445
+    ]
+  },
+  "entite_89": {
+    "label": "PER",
+    "text": "Mais la",
+    "jalons": [
+      499,
+      506
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "Sélim Nuño",
+    "jalons": [
+      77,
+      87
+    ]
+  },
+  "entite_91": {
+    "label": "PER",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      11,
+      26
+    ]
+  },
+  "entite_92": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      338,
+      344
+    ]
+  },
+  "entite_93": {
+    "label": "MISC",
+    "text": "Cest de Jacques de Vignes que tu viens de",
+    "jalons": [
+      456,
+      497
+    ]
+  },
+  "entite_94": {
+    "label": "MISC",
+    "text": "est de lui",
+    "jalons": [
+      1,
+      11
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      305,
+      313
+    ]
+  },
+  "entite_96": {
+    "label": "PER",
+    "text": "Pierre",
+    "jalons": [
+      502,
+      508
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "Ehbien",
+    "jalons": [
+      75,
+      81
+    ]
+  },
+  "entite_98": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      102,
+      109
+    ]
+  },
+  "entite_99": {
+    "label": "MISC",
+    "text": "édait poursoutenirleluxe de Clémence",
+    "jalons": [
+      0,
+      36
+    ]
+  },
+  "entite_100": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      508,
+      510
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "auprès de la villa",
+    "jalons": [
+      447,
+      465
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "la tranquille clarté de la lune",
+    "jalons": [
+      460,
+      491
+    ]
+  },
+  "entite_103": {
+    "label": "PER",
+    "text": "Jacques de Vignes",
+    "jalons": [
+      222,
+      239
+    ]
+  },
+  "entite_104": {
+    "label": "PER",
+    "text": "Sije devenais lui",
+    "jalons": [
+      43,
+      60
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Soudain",
+    "jalons": [
+      420,
+      427
+    ]
+  },
+  "entite_106": {
+    "label": "PER",
+    "text": "Pierre",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_107": {
+    "label": "LOC",
+    "text": "IL  Au bord de la mer",
+    "jalons": [
+      95,
+      116
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "Monaco",
+    "jalons": [
+      157,
+      163
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "Nice",
+    "jalons": [
+      166,
+      170
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Villefranche",
+    "jalons": [
+      216,
+      228
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "Monaco",
+    "jalons": [
+      301,
+      307
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      407,
+      414
+    ]
+  },
+  "entite_113": {
+    "label": "LOC",
+    "text": "Mue de Vignes",
+    "jalons": [
+      338,
+      351
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      411,
+      418
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      36,
+      50
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      278,
+      293
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      45,
+      59
+    ]
+  },
+  "entite_118": {
+    "label": "PER",
+    "text": "ilya du singe",
+    "jalons": [
+      1,
+      14
+    ]
+  },
+  "entite_119": {
+    "label": "LOC",
+    "text": "Laurier",
+    "jalons": [
+      282,
+      289
+    ]
+  },
+  "entite_120": {
+    "label": "PER",
+    "text": "Mie de Vigne",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Juliette",
+    "jalons": [
+      359,
+      367
+    ]
+  },
+  "entite_122": {
+    "label": "MISC",
+    "text": "auser avec Mme de Vignes et Jacques",
+    "jalons": [
+      0,
+      35
+    ]
+  },
+  "entite_123": {
+    "label": "PER",
+    "text": "Jacques seul",
+    "jalons": [
+      30,
+      42
+    ]
+  },
+  "entite_124": {
+    "label": "LOC",
+    "text": "Juliette",
+    "jalons": [
+      460,
+      468
+    ]
+  },
+  "entite_125": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      450,
+      457
+    ]
+  },
+  "entite_126": {
+    "label": "PER",
+    "text": "Pierre embrassait Juliette",
+    "jalons": [
+      126,
+      152
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "Juliette",
+    "jalons": [
+      57,
+      65
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "Toute la soirée",
+    "jalons": [
+      9,
+      24
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      183,
+      189
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Juliette",
+    "jalons": [
+      91,
+      99
+    ]
+  },
+  "entite_131": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      141,
+      155
+    ]
+  },
+  "entite_132": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      206,
+      211
+    ]
+  },
+  "entite_133": {
+    "label": "PER",
+    "text": "Jacques se mit",
+    "jalons": [
+      14,
+      28
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "Mite Machin",
+    "jalons": [
+      238,
+      249
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "Cela m'intéresse",
+    "jalons": [
+      255,
+      271
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "Mlis Clémence Villa",
+    "jalons": [
+      309,
+      328
+    ]
+  },
+  "entite_137": {
+    "label": "MISC",
+    "text": "La belle Ilialie",
+    "jalons": [
+      62,
+      78
+    ]
+  },
+  "entite_138": {
+    "label": "ORG",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      126,
+      141
+    ]
+  },
+  "entite_139": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      329,
+      335
+    ]
+  },
+  "entite_140": {
+    "label": "LOC",
+    "text": "Va",
+    "jalons": [
+      500,
+      502
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      495,
+      510
+    ]
+  },
+  "entite_142": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      12,
+      19
+    ]
+  },
+  "entite_143": {
+    "label": "LOC",
+    "text": "Laurier",
+    "jalons": [
+      81,
+      88
+    ]
+  },
+  "entite_144": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      472,
+      479
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Clémence Villa",
+    "jalons": [
+      382,
+      396
+    ]
+  },
+  "entite_146": {
+    "label": "PER",
+    "text": "Pierre Lau",
+    "jalons": [
+      483,
+      493
+    ]
+  },
+  "entite_147": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      412,
+      426
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "Louis XVI",
+    "jalons": [
+      322,
+      331
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      481,
+      496
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "Trou",
+    "jalons": [
+      203,
+      207
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "Dieppe",
+    "jalons": [
+      218,
+      224
+    ]
+  },
+  "entite_152": {
+    "label": "LOC",
+    "text": "Jamais",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "Mu de Vignes",
+    "jalons": [
+      397,
+      409
+    ]
+  },
+  "entite_154": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      412,
+      417
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      492,
+      507
+    ]
+  },
+  "entite_156": {
+    "label": "ORG",
+    "text": "Sans cesse",
+    "jalons": [
+      501,
+      511
+    ]
+  },
+  "entite_157": {
+    "label": "MISC",
+    "text": "L'arrivée de Pierre Laurier",
+    "jalons": [
+      357,
+      384
+    ]
+  },
+  "entite_158": {
+    "label": "MISC",
+    "text": "Le docteur Davidoff",
+    "jalons": [
+      115,
+      134
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Les effets des eaux de la Salette et de Lourdes",
+    "jalons": [
+      377,
+      424
+    ]
+  },
+  "entite_160": {
+    "label": "LOC",
+    "text": "Croyez",
+    "jalons": [
+      255,
+      261
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      53,
+      61
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      424,
+      438
+    ]
+  },
+  "entite_163": {
+    "label": "LOC",
+    "text": "Quelquefois",
+    "jalons": [
+      484,
+      495
+    ]
+  },
+  "entite_164": {
+    "label": "MISC",
+    "text": "Mne de Vignes et de Juliette",
+    "jalons": [
+      0,
+      28
+    ]
+  },
+  "entite_165": {
+    "label": "MISC",
+    "text": "levait pas les yeux vers elle",
+    "jalons": [
+      0,
+      29
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      420,
+      425
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Monte-Carlo",
+    "jalons": [
+      8,
+      19
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "Juliette",
+    "jalons": [
+      468,
+      476
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      415,
+      430
+    ]
+  },
+  "entite_170": {
+    "label": "PER",
+    "text": "Jacques sortit",
+    "jalons": [
+      436,
+      450
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "de la",
+    "jalons": [
+      451,
+      456
+    ]
+  },
+  "entite_172": {
+    "label": "MISC",
+    "text": "dans le panier de la jeune fille",
+    "jalons": [
+      1,
+      33
+    ]
+  },
+  "entite_173": {
+    "label": "ORG",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      488,
+      503
+    ]
+  },
+  "entite_174": {
+    "label": "LOC",
+    "text": "Oui",
+    "jalons": [
+      508,
+      511
+    ]
+  },
+  "entite_175": {
+    "label": "LOC",
+    "text": "Villefranche",
+    "jalons": [
+      365,
+      377
+    ]
+  },
+  "entite_176": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "Pierre",
+    "jalons": [
+      217,
+      223
+    ]
+  },
+  "entite_178": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      225,
+      233
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "Jacques se leva",
+    "jalons": [
+      436,
+      451
+    ]
+  },
+  "entite_180": {
+    "label": "MISC",
+    "text": "Certes! répondit le Russe",
+    "jalons": [
+      129,
+      154
+    ]
+  },
+  "entite_181": {
+    "label": "PER",
+    "text": "Pierre Laurier s'évoqua",
+    "jalons": [
+      325,
+      348
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "La voix de",
+    "jalons": [
+      427,
+      437
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "Puis Jacques",
+    "jalons": [
+      188,
+      200
+    ]
+  },
+  "entite_184": {
+    "label": "PER",
+    "text": "Jacques l’interrompit",
+    "jalons": [
+      157,
+      178
+    ]
+  },
+  "entite_185": {
+    "label": "LOC",
+    "text": "la falaise dans la",
+    "jalons": [
+      1,
+      19
+    ]
+  },
+  "entite_186": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      480,
+      487
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "n'avait lu que le nom",
+    "jalons": [
+      35,
+      56
+    ]
+  },
+  "entite_188": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      73,
+      80
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Vintimille",
+    "jalons": [
+      268,
+      278
+    ]
+  },
+  "entite_190": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      458,
+      465
+    ]
+  },
+  "entite_191": {
+    "label": "PER",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      468,
+      483
+    ]
+  },
+  "entite_192": {
+    "label": "PER",
+    "text": "Jacques FO",
+    "jalons": [
+      214,
+      224
+    ]
+  },
+  "entite_193": {
+    "label": "LOC",
+    "text": "Mae de",
+    "jalons": [
+      108,
+      114
+    ]
+  },
+  "entite_194": {
+    "label": "PER",
+    "text": "Mme de Vignes",
+    "jalons": [
+      481,
+      494
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Jacques baissa la",
+    "jalons": [
+      18,
+      35
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      351,
+      366
+    ]
+  },
+  "entite_197": {
+    "label": "PER",
+    "text": "Pierre Laurier disparu",
+    "jalons": [
+      390,
+      412
+    ]
+  },
+  "entite_198": {
+    "label": "MISC",
+    "text": "déjà ranimé par le sang de Pierre et les larmes de Juliette",
+    "jalons": [
+      362,
+      421
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      31,
+      37
+    ]
+  },
+  "entite_200": {
+    "label": "PER",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      1,
+      16
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      310,
+      325
+    ]
+  },
+  "entite_202": {
+    "label": "PER",
+    "text": "Pierre",
+    "jalons": [
+      1,
+      7
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      206,
+      221
+    ]
+  },
+  "entite_204": {
+    "label": "PER",
+    "text": "LE  Pierre",
+    "jalons": [
+      223,
+      233
+    ]
+  },
+  "entite_205": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      501,
+      507
+    ]
+  },
+  "entite_206": {
+    "label": "MISC",
+    "text": "Livourne et de Gènes",
+    "jalons": [
+      173,
+      193
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "Contrebandiers",
+    "jalons": [
+      198,
+      212
+    ]
+  },
+  "entite_208": {
+    "label": "MISC",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      5,
+      20
+    ]
+  },
+  "entite_209": {
+    "label": "LOC",
+    "text": "Là-bas",
+    "jalons": [
+      131,
+      137
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "Teaez",
+    "jalons": [
+      217,
+      222
+    ]
+  },
+  "entite_211": {
+    "label": "ORG",
+    "text": "L'AME DE PIE",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_212": {
+    "label": "PER",
+    "text": "ANE DE PIERRE",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_213": {
+    "label": "PER",
+    "text": "Pierre  Laurier",
+    "jalons": [
+      408,
+      423
+    ]
+  },
+  "entite_214": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      383,
+      389
+    ]
+  },
+  "entite_215": {
+    "label": "PER",
+    "text": "de Livourne",
+    "jalons": [
+      410,
+      421
+    ]
+  },
+  "entite_216": {
+    "label": "LOC",
+    "text": "Cette ligne de",
+    "jalons": [
+      423,
+      437
+    ]
+  },
+  "entite_217": {
+    "label": "LOC",
+    "text": "Mai",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "avec Agostino",
+    "jalons": [
+      20,
+      33
+    ]
+  },
+  "entite_219": {
+    "label": "PER",
+    "text": "Agostino",
+    "jalons": [
+      498,
+      506
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      314,
+      329
+    ]
+  },
+  "entite_221": {
+    "label": "LOC",
+    "text": "Piérre.",
+    "jalons": [
+      432,
+      439
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "Mais si tu veux donner",
+    "jalons": [
+      9,
+      31
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Laurent",
+    "jalons": [
+      61,
+      68
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      466,
+      472
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "joli",
+    "jalons": [
+      1,
+      5
+    ]
+  },
+  "entite_226": {
+    "label": "LOC",
+    "text": "Bastia",
+    "jalons": [
+      18,
+      24
+    ]
+  },
+  "entite_227": {
+    "label": "LOC",
+    "text": "Bastia",
+    "jalons": [
+      37,
+      43
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      205,
+      211
+    ]
+  },
+  "entite_229": {
+    "label": "PER",
+    "text": "CG  L'ANE DE PISRRE",
+    "jalons": [
+      44,
+      63
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "Civita",
+    "jalons": [
+      240,
+      246
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "Vecchia",
+    "jalons": [
+      248,
+      255
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      259,
+      265
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "Pierre appela Agostino",
+    "jalons": [
+      443,
+      465
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "La Corse",
+    "jalons": [
+      33,
+      41
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "Bonifacio",
+    "jalons": [
+      148,
+      157
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Sans la brume de mer",
+    "jalons": [
+      304,
+      324
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      469,
+      475
+    ]
+  },
+  "entite_238": {
+    "label": "LOC",
+    "text": "Sans",
+    "jalons": [
+      3,
+      7
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "Asseyez-vous",
+    "jalons": [
+      366,
+      378
+    ]
+  },
+  "entite_240": {
+    "label": "PER",
+    "text": "Alors Picrre",
+    "jalons": [
+      475,
+      487
+    ]
+  },
+  "entite_241": {
+    "label": "MISC",
+    "text": "obelet de fer-blanc et le levant à la hau",
+    "jalons": [
+      0,
+      41
+    ]
+  },
+  "entite_242": {
+    "label": "LOC",
+    "text": "Bastia",
+    "jalons": [
+      402,
+      408
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      153,
+      168
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "Saint-Nicolas",
+    "jalons": [
+      236,
+      249
+    ]
+  },
+  "entite_245": {
+    "label": "LOC",
+    "text": "le boulevard de la Tra",
+    "jalons": [
+      270,
+      292
+    ]
+  },
+  "entite_246": {
+    "label": "LOC",
+    "text": "Encad",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "Toutcela",
+    "jalons": [
+      252,
+      260
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      414,
+      420
+    ]
+  },
+  "entite_249": {
+    "label": "MISC",
+    "text": "talon de laine",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_250": {
+    "label": "LOC",
+    "text": "L'AME DE PIER",
+    "jalons": [
+      499,
+      512
+    ]
+  },
+  "entite_251": {
+    "label": "PER",
+    "text": "Agostino",
+    "jalons": [
+      498,
+      506
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "Anton’",
+    "jalons": [
+      216,
+      222
+    ]
+  },
+  "entite_253": {
+    "label": "PER",
+    "text": "Pierre",
+    "jalons": [
+      14,
+      20
+    ]
+  },
+  "entite_254": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      264,
+      270
+    ]
+  },
+  "entite_255": {
+    "label": "LOC",
+    "text": "Agoslino",
+    "jalons": [
+      322,
+      330
+    ]
+  },
+  "entite_256": {
+    "label": "PER",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      76,
+      91
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "rues de la ville",
+    "jalons": [
+      208,
+      224
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "Le mouvement de la",
+    "jalons": [
+      346,
+      364
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "Bonaparte",
+    "jalons": [
+      494,
+      503
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "avec Agostino",
+    "jalons": [
+      35,
+      48
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "peinte du Saint",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "partir de l'octroi de la ville",
+    "jalons": [
+      399,
+      429
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "le bord de la mer",
+    "jalons": [
+      374,
+      391
+    ]
+  },
+  "entite_264": {
+    "label": "MISC",
+    "text": "Elles ont de qyoi vivre",
+    "jalons": [
+      0,
+      23
+    ]
+  },
+  "entite_265": {
+    "label": "MISC",
+    "text": "la rude Corse",
+    "jalons": [
+      1,
+      14
+    ]
+  },
+  "entite_266": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      76,
+      90
+    ]
+  },
+  "entite_267": {
+    "label": "LOC",
+    "text": "Clémence Villa",
+    "jalons": [
+      74,
+      88
+    ]
+  },
+  "entite_268": {
+    "label": "LOC",
+    "text": "Mt de Vignes",
+    "jalons": [
+      123,
+      135
+    ]
+  },
+  "entite_269": {
+    "label": "PER",
+    "text": "Alors Pierre",
+    "jalons": [
+      3,
+      15
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Biguglia",
+    "jalons": [
+      394,
+      402
+    ]
+  },
+  "entite_271": {
+    "label": "MISC",
+    "text": "Déjà Pierre était",
+    "jalons": [
+      85,
+      102
+    ]
+  },
+  "entite_272": {
+    "label": "LOC",
+    "text": "Le maire de Torrevecchia",
+    "jalons": [
+      231,
+      255
+    ]
+  },
+  "entite_273": {
+    "label": "LOC",
+    "text": "de la chapelle de la Vierge",
+    "jalons": [
+      195,
+      222
+    ]
+  },
+  "entite_274": {
+    "label": "LOC",
+    "text": "Marietta",
+    "jalons": [
+      501,
+      509
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Bastia",
+    "jalons": [
+      318,
+      324
+    ]
+  },
+  "entite_276": {
+    "label": "LOC",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      492,
+      507
+    ]
+  },
+  "entite_277": {
+    "label": "PER",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      481,
+      496
+    ]
+  },
+  "entite_278": {
+    "label": "LOC",
+    "text": "Bastia",
+    "jalons": [
+      8,
+      14
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      355,
+      361
+    ]
+  },
+  "entite_280": {
+    "label": "PER",
+    "text": "Pierre était",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_281": {
+    "label": "LOC",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      152,
+      167
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Calvi",
+    "jalons": [
+      289,
+      294
+    ]
+  },
+  "entite_283": {
+    "label": "LOC",
+    "text": "Bastia",
+    "jalons": [
+      318,
+      324
+    ]
+  },
+  "entite_284": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      393,
+      399
+    ]
+  },
+  "entite_285": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      490,
+      496
+    ]
+  },
+  "entite_286": {
+    "label": "LOC",
+    "text": "Marietta",
+    "jalons": [
+      209,
+      217
+    ]
+  },
+  "entite_287": {
+    "label": "LOC",
+    "text": "Davi",
+    "jalons": [
+      360,
+      364
+    ]
+  },
+  "entite_288": {
+    "label": "PER",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      128,
+      143
+    ]
+  },
+  "entite_289": {
+    "label": "PER",
+    "text": "Pierre passa la main",
+    "jalons": [
+      146,
+      166
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "Ajaccio",
+    "jalons": [
+      233,
+      240
+    ]
+  },
+  "entite_291": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      267,
+      273
+    ]
+  },
+  "entite_292": {
+    "label": "LOC",
+    "text": "Davi",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "Pierre la plia",
+    "jalons": [
+      36,
+      50
+    ]
+  },
+  "entite_294": {
+    "label": "LOC",
+    "text": "Bastia",
+    "jalons": [
+      127,
+      133
+    ]
+  },
+  "entite_295": {
+    "label": "PER",
+    "text": "de Jacques",
+    "jalons": [
+      501,
+      511
+    ]
+  },
+  "entite_296": {
+    "label": "MISC",
+    "text": "L'éclat de ln jeunesse et la joie de la santé",
+    "jalons": [
+      38,
+      83
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "Beaulieu",
+    "jalons": [
+      246,
+      254
+    ]
+  },
+  "entite_298": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      372,
+      379
+    ]
+  },
+  "entite_299": {
+    "label": "LOC",
+    "text": "Soudain",
+    "jalons": [
+      477,
+      484
+    ]
+  },
+  "entite_300": {
+    "label": "LOC",
+    "text": "Juliette",
+    "jalons": [
+      499,
+      507
+    ]
+  },
+  "entite_301": {
+    "label": "LOC",
+    "text": "L'avenir",
+    "jalons": [
+      487,
+      495
+    ]
+  },
+  "entite_302": {
+    "label": "MISC",
+    "text": "che du carnaval et le théâtre de Nice",
+    "jalons": [
+      0,
+      37
+    ]
+  },
+  "entite_303": {
+    "label": "LOC",
+    "text": "Masséna au centre de laquelle",
+    "jalons": [
+      114,
+      143
+    ]
+  },
+  "entite_304": {
+    "label": "LOC",
+    "text": "Monaco",
+    "jalons": [
+      254,
+      260
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      417,
+      432
+    ]
+  },
+  "entite_306": {
+    "label": "PER",
+    "text": "Jacques de Vignes",
+    "jalons": [
+      343,
+      360
+    ]
+  },
+  "entite_307": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_308": {
+    "label": "PER",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      251,
+      266
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "Patrizzi",
+    "jalons": [
+      466,
+      474
+    ]
+  },
+  "entite_310": {
+    "label": "LOC",
+    "text": "Laurier",
+    "jalons": [
+      233,
+      240
+    ]
+  },
+  "entite_311": {
+    "label": "PER",
+    "text": "Laurier était",
+    "jalons": [
+      20,
+      33
+    ]
+  },
+  "entite_312": {
+    "label": "PER",
+    "text": "DE PIERRE",
+    "jalons": [
+      48,
+      57
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Le",
+    "jalons": [
+      506,
+      508
+    ]
+  },
+  "entite_314": {
+    "label": "LOC",
+    "text": "Patrizzi",
+    "jalons": [
+      49,
+      57
+    ]
+  },
+  "entite_315": {
+    "label": "LOC",
+    "text": "Clémence Villa",
+    "jalons": [
+      175,
+      189
+    ]
+  },
+  "entite_316": {
+    "label": "LOC",
+    "text": "Laurier",
+    "jalons": [
+      259,
+      266
+    ]
+  },
+  "entite_317": {
+    "label": "PER",
+    "text": "ami Davidoff",
+    "jalons": [
+      52,
+      64
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "L’AME DE PIERRE",
+    "jalons": [
+      198,
+      213
+    ]
+  },
+  "entite_319": {
+    "label": "MISC",
+    "text": "Dans le salon",
+    "jalons": [
+      162,
+      175
+    ]
+  },
+  "entite_320": {
+    "label": "MISC",
+    "text": "çant vers le devant de la loge",
+    "jalons": [
+      0,
+      30
+    ]
+  },
+  "entite_321": {
+    "label": "LOC",
+    "text": "le divan de la",
+    "jalons": [
+      31,
+      45
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      313,
+      318
+    ]
+  },
+  "entite_323": {
+    "label": "PER",
+    "text": "peu Jacques",
+    "jalons": [
+      21,
+      32
+    ]
+  },
+  "entite_324": {
+    "label": "LOC",
+    "text": "Voulez",
+    "jalons": [
+      391,
+      397
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      131,
+      135
+    ]
+  },
+  "entite_326": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      326,
+      333
+    ]
+  },
+  "entite_327": {
+    "label": "LOC",
+    "text": "Clémence Villa",
+    "jalons": [
+      416,
+      430
+    ]
+  },
+  "entite_328": {
+    "label": "LOC",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      277,
+      292
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      384,
+      390
+    ]
+  },
+  "entite_330": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      173,
+      181
+    ]
+  },
+  "entite_331": {
+    "label": "PER",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      268,
+      283
+    ]
+  },
+  "entite_332": {
+    "label": "PER",
+    "text": "L’ANE DE PIERRE",
+    "jalons": [
+      93,
+      108
+    ]
+  },
+  "entite_333": {
+    "label": "PER",
+    "text": "Jacques resta",
+    "jalons": [
+      371,
+      384
+    ]
+  },
+  "entite_334": {
+    "label": "MISC",
+    "text": "Dans les loges",
+    "jalons": [
+      8,
+      22
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "de la terre sur laquelle",
+    "jalons": [
+      482,
+      506
+    ]
+  },
+  "entite_336": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      17,
+      24
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "L'avez",
+    "jalons": [
+      359,
+      365
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "Elégiaque",
+    "jalons": [
+      454,
+      463
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "Patrizzi",
+    "jalons": [
+      491,
+      499
+    ]
+  },
+  "entite_340": {
+    "label": "LOC",
+    "text": "Beaulieu",
+    "jalons": [
+      225,
+      233
+    ]
+  },
+  "entite_341": {
+    "label": "LOC",
+    "text": "Eze",
+    "jalons": [
+      71,
+      74
+    ]
+  },
+  "entite_342": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      284,
+      290
+    ]
+  },
+  "entite_343": {
+    "label": "PER",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      70,
+      85
+    ]
+  },
+  "entite_344": {
+    "label": "PER",
+    "text": "Jacques descendit",
+    "jalons": [
+      480,
+      497
+    ]
+  },
+  "entite_345": {
+    "label": "LOC",
+    "text": "Sa",
+    "jalons": [
+      499,
+      501
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "N'abuse",
+    "jalons": [
+      336,
+      343
+    ]
+  },
+  "entite_347": {
+    "label": "PER",
+    "text": "Jacques savait",
+    "jalons": [
+      485,
+      499
+    ]
+  },
+  "entite_348": {
+    "label": "LOC",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      399,
+      414
+    ]
+  },
+  "entite_349": {
+    "label": "LOC",
+    "text": "D'ailleurs",
+    "jalons": [
+      419,
+      429
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "la mort de",
+    "jalons": [
+      383,
+      393
+    ]
+  },
+  "entite_351": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      394,
+      408
+    ]
+  },
+  "entite_352": {
+    "label": "PER",
+    "text": "Si Mue de Vignes",
+    "jalons": [
+      411,
+      427
+    ]
+  },
+  "entite_353": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      442,
+      449
+    ]
+  },
+  "entite_354": {
+    "label": "PER",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      202,
+      217
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "Mae de Vignes",
+    "jalons": [
+      483,
+      496
+    ]
+  },
+  "entite_356": {
+    "label": "PER",
+    "text": "Pierre Lau",
+    "jalons": [
+      41,
+      51
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Soyeztranquille",
+    "jalons": [
+      1,
+      16
+    ]
+  },
+  "entite_358": {
+    "label": "PER",
+    "text": "Me de Vignes",
+    "jalons": [
+      55,
+      67
+    ]
+  },
+  "entite_359": {
+    "label": "PER",
+    "text": "Jacques la mort  L'ANE DE PIERRE.",
+    "jalons": [
+      162,
+      195
+    ]
+  },
+  "entite_360": {
+    "label": "PER",
+    "text": "de Pierre Laurier",
+    "jalons": [
+      200,
+      217
+    ]
+  },
+  "entite_361": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      60,
+      65
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "parler de Laurier",
+    "jalons": [
+      446,
+      463
+    ]
+  },
+  "entite_363": {
+    "label": "PER",
+    "text": "Saisi",
+    "jalons": [
+      11,
+      16
+    ]
+  },
+  "entite_364": {
+    "label": "MISC",
+    "text": "Jouis de",
+    "jalons": [
+      503,
+      511
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "la vie",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      502,
+      506
+    ]
+  },
+  "entite_367": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      123,
+      128
+    ]
+  },
+  "entite_368": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      206,
+      211
+    ]
+  },
+  "entite_369": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      303,
+      310
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      480,
+      495
+    ]
+  },
+  "entite_371": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      452,
+      459
+    ]
+  },
+  "entite_372": {
+    "label": "LOC",
+    "text": "Laurier",
+    "jalons": [
+      412,
+      419
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "Laurier",
+    "jalons": [
+      416,
+      423
+    ]
+  },
+  "entite_374": {
+    "label": "PER",
+    "text": "Jacques les connaissait",
+    "jalons": [
+      425,
+      448
+    ]
+  },
+  "entite_375": {
+    "label": "MISC",
+    "text": "la femme que Pierre a aimée? Car c’est bien de là que",
+    "jalons": [
+      29,
+      82
+    ]
+  },
+  "entite_376": {
+    "label": "LOC",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      254,
+      269
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Tu",
+    "jalons": [
+      272,
+      274
+    ]
+  },
+  "entite_378": {
+    "label": "LOC",
+    "text": "Laurier",
+    "jalons": [
+      446,
+      453
+    ]
+  },
+  "entite_379": {
+    "label": "PER",
+    "text": "sur Jacques",
+    "jalons": [
+      11,
+      22
+    ]
+  },
+  "entite_380": {
+    "label": "MISC",
+    "text": "Le charme de cette fille",
+    "jalons": [
+      24,
+      48
+    ]
+  },
+  "entite_381": {
+    "label": "MISC",
+    "text": "suel jetait la jeune femme et le beau garçon dans les",
+    "jalons": [
+      1,
+      54
+    ]
+  },
+  "entite_382": {
+    "label": "LOC",
+    "text": "de la route de Menton",
+    "jalons": [
+      310,
+      331
+    ]
+  },
+  "entite_383": {
+    "label": "MISC",
+    "text": "Jacquess'arrachait",
+    "jalons": [
+      443,
+      461
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "Beaulieu",
+    "jalons": [
+      10,
+      18
+    ]
+  },
+  "entite_385": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      430,
+      437
+    ]
+  },
+  "entite_386": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      469,
+      483
+    ]
+  },
+  "entite_387": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      120,
+      128
+    ]
+  },
+  "entite_388": {
+    "label": "MISC",
+    "text": "l'amour dans la moelle des",
+    "jalons": [
+      10,
+      36
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "US",
+    "jalons": [
+      81,
+      83
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      56,
+      61
+    ]
+  },
+  "entite_391": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      55,
+      60
+    ]
+  },
+  "entite_392": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      270,
+      278
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "Là-bas",
+    "jalons": [
+      397,
+      403
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "Monte-Carlo",
+    "jalons": [
+      407,
+      418
+    ]
+  },
+  "entite_395": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      463,
+      468
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "la bataille de la",
+    "jalons": [
+      328,
+      345
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "Dans la petite villa de Monte-Carlo",
+    "jalons": [
+      452,
+      487
+    ]
+  },
+  "entite_398": {
+    "label": "MISC",
+    "text": "Dans le somptueux hôtel de",
+    "jalons": [
+      56,
+      82
+    ]
+  },
+  "entite_399": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      83,
+      88
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "parlait de la vie ancienne de Clémence",
+    "jalons": [
+      95,
+      133
+    ]
+  },
+  "entite_401": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      217,
+      231
+    ]
+  },
+  "entite_402": {
+    "label": "MISC",
+    "text": "la volonté de Clémence",
+    "jalons": [
+      22,
+      44
+    ]
+  },
+  "entite_403": {
+    "label": "LOC",
+    "text": "Monte-Carlo",
+    "jalons": [
+      318,
+      329
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      427,
+      432
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      476,
+      484
+    ]
+  },
+  "entite_406": {
+    "label": "PER",
+    "text": "Jacques très",
+    "jalons": [
+      358,
+      370
+    ]
+  },
+  "entite_407": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      250,
+      258
+    ]
+  },
+  "entite_408": {
+    "label": "LOC",
+    "text": "Jac",
+    "jalons": [
+      260,
+      263
+    ]
+  },
+  "entite_409": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      319,
+      327
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      62,
+      67
+    ]
+  },
+  "entite_411": {
+    "label": "LOC",
+    "text": "rôle de Jupiter auprès de la Danaé de l'avenue Hoche",
+    "jalons": [
+      330,
+      382
+    ]
+  },
+  "entite_412": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      318,
+      323
+    ]
+  },
+  "entite_413": {
+    "label": "PER",
+    "text": "Jacques lui rési",
+    "jalons": [
+      496,
+      512
+    ]
+  },
+  "entite_414": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      483,
+      490
+    ]
+  },
+  "entite_415": {
+    "label": "PER",
+    "text": "Jacques sa",
+    "jalons": [
+      468,
+      478
+    ]
+  },
+  "entite_416": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      40,
+      45
+    ]
+  },
+  "entite_417": {
+    "label": "PER",
+    "text": "afin de donner",
+    "jalons": [
+      11,
+      25
+    ]
+  },
+  "entite_418": {
+    "label": "LOC",
+    "text": "Mais la",
+    "jalons": [
+      53,
+      60
+    ]
+  },
+  "entite_419": {
+    "label": "LOC",
+    "text": "Deauville",
+    "jalons": [
+      83,
+      92
+    ]
+  },
+  "entite_420": {
+    "label": "PER",
+    "text": "lim Nuño",
+    "jalons": [
+      98,
+      106
+    ]
+  },
+  "entite_421": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      189,
+      196
+    ]
+  },
+  "entite_422": {
+    "label": "LOC",
+    "text": "Aller",
+    "jalons": [
+      346,
+      351
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Deauville",
+    "jalons": [
+      384,
+      393
+    ]
+  },
+  "entite_424": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      441,
+      449
+    ]
+  },
+  "entite_425": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      496,
+      503
+    ]
+  },
+  "entite_426": {
+    "label": "ORG",
+    "text": "Elle",
+    "jalons": [
+      507,
+      511
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "de Jacques",
+    "jalons": [
+      489,
+      499
+    ]
+  },
+  "entite_428": {
+    "label": "LOC",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      125,
+      140
+    ]
+  },
+  "entite_429": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      406,
+      411
+    ]
+  },
+  "entite_430": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      185,
+      192
+    ]
+  },
+  "entite_431": {
+    "label": "LOC",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      455,
+      470
+    ]
+  },
+  "entite_432": {
+    "label": "LOC",
+    "text": "Trouville",
+    "jalons": [
+      473,
+      482
+    ]
+  },
+  "entite_433": {
+    "label": "ORG",
+    "text": "Le manège",
+    "jalons": [
+      484,
+      493
+    ]
+  },
+  "entite_434": {
+    "label": "LOC",
+    "text": "Fécamp",
+    "jalons": [
+      214,
+      220
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "Cherbourg",
+    "jalons": [
+      246,
+      255
+    ]
+  },
+  "entite_436": {
+    "label": "ORG",
+    "text": "Le soir",
+    "jalons": [
+      257,
+      264
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "Casino de Trouville",
+    "jalons": [
+      307,
+      326
+    ]
+  },
+  "entite_438": {
+    "label": "PER",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      39,
+      54
+    ]
+  },
+  "entite_439": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      89,
+      96
+    ]
+  },
+  "entite_440": {
+    "label": "PER",
+    "text": "Jacques reconnut le docteur Davidoff",
+    "jalons": [
+      52,
+      88
+    ]
+  },
+  "entite_441": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      458,
+      465
+    ]
+  },
+  "entite_442": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      203,
+      208
+    ]
+  },
+  "entite_443": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      430,
+      437
+    ]
+  },
+  "entite_444": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      226,
+      233
+    ]
+  },
+  "entite_445": {
+    "label": "MISC",
+    "text": "les feux du Havre luisaient dans l'obscurité",
+    "jalons": [
+      0,
+      44
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "Trouville",
+    "jalons": [
+      480,
+      489
+    ]
+  },
+  "entite_447": {
+    "label": "PER",
+    "text": "Jacques fronça",
+    "jalons": [
+      12,
+      26
+    ]
+  },
+  "entite_448": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      469,
+      475
+    ]
+  },
+  "entite_449": {
+    "label": "LOC",
+    "text": "Monte-Carlo",
+    "jalons": [
+      38,
+      49
+    ]
+  },
+  "entite_450": {
+    "label": "PER",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      9,
+      24
+    ]
+  },
+  "entite_451": {
+    "label": "LOC",
+    "text": "bord de la mer",
+    "jalons": [
+      51,
+      65
+    ]
+  },
+  "entite_452": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      256,
+      270
+    ]
+  },
+  "entite_453": {
+    "label": "PER",
+    "text": "Pierre Laurier n'avait",
+    "jalons": [
+      276,
+      298
+    ]
+  },
+  "entite_454": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      402,
+      409
+    ]
+  },
+  "entite_455": {
+    "label": "MISC",
+    "text": "éler l’infamie de celle",
+    "jalons": [
+      0,
+      23
+    ]
+  },
+  "entite_456": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      178,
+      192
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      298,
+      306
+    ]
+  },
+  "entite_458": {
+    "label": "MISC",
+    "text": "vous n’avez pas subi l'épreuve de la trahison",
+    "jalons": [
+      0,
+      45
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      113,
+      121
+    ]
+  },
+  "entite_460": {
+    "label": "LOC",
+    "text": "L'avez",
+    "jalons": [
+      123,
+      129
+    ]
+  },
+  "entite_461": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      380,
+      387
+    ]
+  },
+  "entite_462": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      457,
+      463
+    ]
+  },
+  "entite_463": {
+    "label": "LOC",
+    "text": "Voulez",
+    "jalons": [
+      324,
+      330
+    ]
+  },
+  "entite_464": {
+    "label": "LOC",
+    "text": "Le",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_465": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      498,
+      512
+    ]
+  },
+  "entite_466": {
+    "label": "LOC",
+    "text": "La vie de Lau",
+    "jalons": [
+      382,
+      395
+    ]
+  },
+  "entite_467": {
+    "label": "PER",
+    "text": "de la maladie",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_468": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      406,
+      412
+    ]
+  },
+  "entite_469": {
+    "label": "LOC",
+    "text": "Juliette",
+    "jalons": [
+      457,
+      465
+    ]
+  },
+  "entite_470": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      190,
+      195
+    ]
+  },
+  "entite_471": {
+    "label": "MISC",
+    "text": "Allons les voir",
+    "jalons": [
+      197,
+      212
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      259,
+      267
+    ]
+  },
+  "entite_473": {
+    "label": "MISC",
+    "text": "Devant la grille",
+    "jalons": [
+      24,
+      40
+    ]
+  },
+  "entite_474": {
+    "label": "LOC",
+    "text": "Dans la",
+    "jalons": [
+      200,
+      207
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      91,
+      98
+    ]
+  },
+  "entite_476": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      153,
+      159
+    ]
+  },
+  "entite_477": {
+    "label": "LOC",
+    "text": "la direction de Deauville",
+    "jalons": [
+      449,
+      474
+    ]
+  },
+  "entite_478": {
+    "label": "LOC",
+    "text": "Cherbourg",
+    "jalons": [
+      239,
+      248
+    ]
+  },
+  "entite_479": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      379,
+      384
+    ]
+  },
+  "entite_480": {
+    "label": "LOC",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      485,
+      500
+    ]
+  },
+  "entite_481": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      351,
+      356
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "la maison de Clémence",
+    "jalons": [
+      240,
+      261
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "Deau",
+    "jalons": [
+      282,
+      286
+    ]
+  },
+  "entite_484": {
+    "label": "LOC",
+    "text": "Mai",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_485": {
+    "label": "MISC",
+    "text": "Dans la cour",
+    "jalons": [
+      382,
+      394
+    ]
+  },
+  "entite_486": {
+    "label": "PER",
+    "text": "Jacques de Vignes",
+    "jalons": [
+      218,
+      235
+    ]
+  },
+  "entite_487": {
+    "label": "PER",
+    "text": "M. de Vignes",
+    "jalons": [
+      260,
+      272
+    ]
+  },
+  "entite_488": {
+    "label": "MISC",
+    "text": "Madame est dans la serre",
+    "jalons": [
+      351,
+      375
+    ]
+  },
+  "entite_489": {
+    "label": "PER",
+    "text": "DE PIERRE",
+    "jalons": [
+      299,
+      308
+    ]
+  },
+  "entite_490": {
+    "label": "LOC",
+    "text": "Mülade de lu",
+    "jalons": [
+      171,
+      183
+    ]
+  },
+  "entite_491": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      230,
+      238
+    ]
+  },
+  "entite_492": {
+    "label": "MISC",
+    "text": "Allez, el failes-lui de la",
+    "jalons": [
+      93,
+      119
+    ]
+  },
+  "entite_493": {
+    "label": "LOC",
+    "text": "L’AME DE PIERRE",
+    "jalons": [
+      132,
+      147
+    ]
+  },
+  "entite_494": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      433,
+      441
+    ]
+  },
+  "entite_495": {
+    "label": "ORG",
+    "text": "LR  L'AME DE PIERRE",
+    "jalons": [
+      492,
+      511
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "Résistez-lui",
+    "jalons": [
+      217,
+      229
+    ]
+  },
+  "entite_497": {
+    "label": "LOC",
+    "text": "Écoutez-moi",
+    "jalons": [
+      231,
+      242
+    ]
+  },
+  "entite_498": {
+    "label": "MISC",
+    "text": "Prenez un chapeau",
+    "jalons": [
+      322,
+      339
+    ]
+  },
+  "entite_499": {
+    "label": "PER",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      13,
+      28
+    ]
+  },
+  "entite_500": {
+    "label": "PER",
+    "text": "Elle m'a",
+    "jalons": [
+      5,
+      13
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      349,
+      364
+    ]
+  },
+  "entite_502": {
+    "label": "PER",
+    "text": "Li  moi",
+    "jalons": [
+      366,
+      373
+    ]
+  },
+  "entite_503": {
+    "label": "MISC",
+    "text": "pas aisé de me faire de la",
+    "jalons": [
+      1,
+      27
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "Laurier",
+    "jalons": [
+      316,
+      323
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      404,
+      409
+    ]
+  },
+  "entite_506": {
+    "label": "PER",
+    "text": "Clémence",
+    "jalons": [
+      433,
+      441
+    ]
+  },
+  "entite_507": {
+    "label": "ORG",
+    "text": "Elle le vit",
+    "jalons": [
+      493,
+      504
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      318,
+      323
+    ]
+  },
+  "entite_509": {
+    "label": "PER",
+    "text": "Clémence",
+    "jalons": [
+      1,
+      9
+    ]
+  },
+  "entite_510": {
+    "label": "PER",
+    "text": "Rassurez",
+    "jalons": [
+      53,
+      61
+    ]
+  },
+  "entite_511": {
+    "label": "LOC",
+    "text": "Davidoff",
+    "jalons": [
+      220,
+      228
+    ]
+  },
+  "entite_512": {
+    "label": "PER",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      38,
+      53
+    ]
+  },
+  "entite_513": {
+    "label": "PER",
+    "text": "Piorre Laurier",
+    "jalons": [
+      62,
+      76
+    ]
+  },
+  "entite_514": {
+    "label": "PER",
+    "text": "M. le curé de Torrevec",
+    "jalons": [
+      91,
+      113
+    ]
+  },
+  "entite_515": {
+    "label": "LOC",
+    "text": "Chio",
+    "jalons": [
+      117,
+      121
+    ]
+  },
+  "entite_516": {
+    "label": "LOC",
+    "text": "Corse",
+    "jalons": [
+      123,
+      128
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "Revenez",
+    "jalons": [
+      138,
+      145
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      148,
+      153
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "Grand-Hôtel",
+    "jalons": [
+      280,
+      291
+    ]
+  },
+  "entite_520": {
+    "label": "LOC",
+    "text": "Davinorr",
+    "jalons": [
+      296,
+      304
+    ]
+  },
+  "entite_521": {
+    "label": "LOC",
+    "text": "Puris",
+    "jalons": [
+      485,
+      490
+    ]
+  },
+  "entite_522": {
+    "label": "LOC",
+    "text": "VI  La dépêche",
+    "jalons": [
+      497,
+      511
+    ]
+  },
+  "entite_523": {
+    "label": "MISC",
+    "text": "Pierre Laurier le jour même de la",
+    "jalons": [
+      25,
+      58
+    ]
+  },
+  "entite_524": {
+    "label": "LOC",
+    "text": "sortait de l'églis",
+    "jalons": [
+      494,
+      512
+    ]
+  },
+  "entite_525": {
+    "label": "PER",
+    "text": "de San-Pellegrino",
+    "jalons": [
+      2,
+      19
+    ]
+  },
+  "entite_526": {
+    "label": "PER",
+    "text": "Pierre donnant",
+    "jalons": [
+      372,
+      386
+    ]
+  },
+  "entite_527": {
+    "label": "LOC",
+    "text": "Marietta",
+    "jalons": [
+      406,
+      414
+    ]
+  },
+  "entite_528": {
+    "label": "LOC",
+    "text": "l’enclos de la ferme",
+    "jalons": [
+      83,
+      103
+    ]
+  },
+  "entite_529": {
+    "label": "LOC",
+    "text": "San-Pellegrino",
+    "jalons": [
+      367,
+      381
+    ]
+  },
+  "entite_530": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      68,
+      73
+    ]
+  },
+  "entite_531": {
+    "label": "PER",
+    "text": "fa servante de M. le curé",
+    "jalons": [
+      25,
+      50
+    ]
+  },
+  "entite_532": {
+    "label": "PER",
+    "text": "Jacopo",
+    "jalons": [
+      5,
+      11
+    ]
+  },
+  "entite_533": {
+    "label": "PER",
+    "text": "dit Agostino",
+    "jalons": [
+      13,
+      25
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      317,
+      323
+    ]
+  },
+  "entite_535": {
+    "label": "PER",
+    "text": "Pierre emmena le jeune",
+    "jalons": [
+      10,
+      32
+    ]
+  },
+  "entite_536": {
+    "label": "LOC",
+    "text": "Torrevecchio",
+    "jalons": [
+      261,
+      273
+    ]
+  },
+  "entite_537": {
+    "label": "PER",
+    "text": "Pierre calma",
+    "jalons": [
+      58,
+      70
+    ]
+  },
+  "entite_538": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      164,
+      169
+    ]
+  },
+  "entite_539": {
+    "label": "LOC",
+    "text": "Bastia",
+    "jalons": [
+      206,
+      212
+    ]
+  },
+  "entite_540": {
+    "label": "MISC",
+    "text": "La Compagnie Morelli a un",
+    "jalons": [
+      258,
+      283
+    ]
+  },
+  "entite_541": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      321,
+      330
+    ]
+  },
+  "entite_542": {
+    "label": "LOC",
+    "text": "Bastia",
+    "jalons": [
+      449,
+      455
+    ]
+  },
+  "entite_543": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      458,
+      467
+    ]
+  },
+  "entite_544": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      25,
+      30
+    ]
+  },
+  "entite_545": {
+    "label": "LOC",
+    "text": "Bastia",
+    "jalons": [
+      489,
+      495
+    ]
+  },
+  "entite_546": {
+    "label": "LOC",
+    "text": "Corse",
+    "jalons": [
+      85,
+      90
+    ]
+  },
+  "entite_547": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      436,
+      450
+    ]
+  },
+  "entite_548": {
+    "label": "ORG",
+    "text": "L'image de Juliette",
+    "jalons": [
+      458,
+      477
+    ]
+  },
+  "entite_549": {
+    "label": "LOC",
+    "text": "Laurier",
+    "jalons": [
+      57,
+      64
+    ]
+  },
+  "entite_550": {
+    "label": "LOC",
+    "text": "Giraglia",
+    "jalons": [
+      419,
+      427
+    ]
+  },
+  "entite_551": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      110,
+      116
+    ]
+  },
+  "entite_552": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      436,
+      443
+    ]
+  },
+  "entite_553": {
+    "label": "PER",
+    "text": "Était-ce donc Juliette",
+    "jalons": [
+      13,
+      35
+    ]
+  },
+  "entite_554": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      84,
+      90
+    ]
+  },
+  "entite_555": {
+    "label": "LOC",
+    "text": "Gènes",
+    "jalons": [
+      401,
+      406
+    ]
+  },
+  "entite_556": {
+    "label": "LOC",
+    "text": "Monaco",
+    "jalons": [
+      408,
+      414
+    ]
+  },
+  "entite_557": {
+    "label": "LOC",
+    "text": "Toulon",
+    "jalons": [
+      416,
+      422
+    ]
+  },
+  "entite_558": {
+    "label": "PER",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      1,
+      16
+    ]
+  },
+  "entite_559": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      176,
+      185
+    ]
+  },
+  "entite_560": {
+    "label": "LOC",
+    "text": "Débarqué",
+    "jalons": [
+      158,
+      166
+    ]
+  },
+  "entite_561": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      169,
+      178
+    ]
+  },
+  "entite_562": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      200,
+      205
+    ]
+  },
+  "entite_563": {
+    "label": "ORG",
+    "text": "Enfin les portes de la gare étanto",
+    "jalons": [
+      478,
+      512
+    ]
+  },
+  "entite_564": {
+    "label": "LOC",
+    "text": "C’étaitla France",
+    "jalons": [
+      464,
+      480
+    ]
+  },
+  "entite_565": {
+    "label": "LOC",
+    "text": "Provence",
+    "jalons": [
+      43,
+      51
+    ]
+  },
+  "entite_566": {
+    "label": "LOC",
+    "text": "L'AMNE DE PIERRE",
+    "jalons": [
+      97,
+      113
+    ]
+  },
+  "entite_567": {
+    "label": "LOC",
+    "text": "L'horizon",
+    "jalons": [
+      116,
+      125
+    ]
+  },
+  "entite_568": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      446,
+      451
+    ]
+  },
+  "entite_569": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      263,
+      269
+    ]
+  },
+  "entite_570": {
+    "label": "LOC",
+    "text": "Calmez-vous",
+    "jalons": [
+      80,
+      91
+    ]
+  },
+  "entite_571": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      99,
+      104
+    ]
+  },
+  "entite_572": {
+    "label": "LOC",
+    "text": "Le mouvement de Paris",
+    "jalons": [
+      155,
+      176
+    ]
+  },
+  "entite_573": {
+    "label": "MISC",
+    "text": "appartement de Davidoff",
+    "jalons": [
+      1,
+      24
+    ]
+  },
+  "entite_574": {
+    "label": "MISC",
+    "text": "Un salon séparait la chambre de Laurier de celle du Russe",
+    "jalons": [
+      26,
+      83
+    ]
+  },
+  "entite_575": {
+    "label": "MISC",
+    "text": "Jacques la force de ne pas mourir",
+    "jalons": [
+      101,
+      134
+    ]
+  },
+  "entite_576": {
+    "label": "LOC",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      137,
+      152
+    ]
+  },
+  "entite_577": {
+    "label": "MISC",
+    "text": "d'enlever à Juliette le courage de vivre",
+    "jalons": [
+      164,
+      204
+    ]
+  },
+  "entite_578": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      206,
+      210
+    ]
+  },
+  "entite_579": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      174,
+      178
+    ]
+  },
+  "entite_580": {
+    "label": "LOC",
+    "text": "Russe",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_581": {
+    "label": "PER",
+    "text": "Jacques que de la pitié",
+    "jalons": [
+      47,
+      70
+    ]
+  },
+  "entite_582": {
+    "label": "MISC",
+    "text": "Davidoff prit la main de Pierre",
+    "jalons": [
+      239,
+      270
+    ]
+  },
+  "entite_583": {
+    "label": "LOC",
+    "text": "Davidoff",
+    "jalons": [
+      147,
+      155
+    ]
+  },
+  "entite_584": {
+    "label": "MISC",
+    "text": "Le Pierre Laurier que vous",
+    "jalons": [
+      157,
+      183
+    ]
+  },
+  "entite_585": {
+    "label": "LOC",
+    "text": "Mie de Vig",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_586": {
+    "label": "MISC",
+    "text": "Le front de Pierre s’éclaira",
+    "jalons": [
+      6,
+      34
+    ]
+  },
+  "entite_587": {
+    "label": "LOC",
+    "text": "Surle",
+    "jalons": [
+      112,
+      117
+    ]
+  },
+  "entite_588": {
+    "label": "LOC",
+    "text": "Mne de Vignes",
+    "jalons": [
+      334,
+      347
+    ]
+  },
+  "entite_589": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      18,
+      32
+    ]
+  },
+  "entite_590": {
+    "label": "MISC",
+    "text": "la pensée de M'e de Vignes",
+    "jalons": [
+      139,
+      165
+    ]
+  },
+  "entite_591": {
+    "label": "LOC",
+    "text": "Juliette",
+    "jalons": [
+      451,
+      459
+    ]
+  },
+  "entite_592": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      182,
+      188
+    ]
+  },
+  "entite_593": {
+    "label": "LOC",
+    "text": "Beaulieu",
+    "jalons": [
+      461,
+      469
+    ]
+  },
+  "entite_594": {
+    "label": "PER",
+    "text": "Elle n'av",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_595": {
+    "label": "LOC",
+    "text": "église",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_596": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      235,
+      241
+    ]
+  },
+  "entite_597": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      483,
+      488
+    ]
+  },
+  "entite_598": {
+    "label": "PER",
+    "text": "Davidoff",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_599": {
+    "label": "PER",
+    "text": "Mie de Vignes",
+    "jalons": [
+      120,
+      133
+    ]
+  },
+  "entite_600": {
+    "label": "MISC",
+    "text": "Mie de Vignes l’église de Torrevecchio",
+    "jalons": [
+      200,
+      238
+    ]
+  },
+  "entite_601": {
+    "label": "LOC",
+    "text": "Juliette",
+    "jalons": [
+      456,
+      464
+    ]
+  },
+  "entite_602": {
+    "label": "PER",
+    "text": "Rie",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_603": {
+    "label": "PER",
+    "text": "Laurier s'élunç",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_604": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      43,
+      49
+    ]
+  },
+  "entite_605": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      80,
+      84
+    ]
+  },
+  "entite_606": {
+    "label": "PER",
+    "text": "Pierre poussa",
+    "jalons": [
+      460,
+      473
+    ]
+  },
+  "entite_607": {
+    "label": "MISC",
+    "text": "Pierre et la jeune fille",
+    "jalons": [
+      456,
+      480
+    ]
+  },
+  "entite_608": {
+    "label": "MISC",
+    "text": "C'était Juliette qui parlait",
+    "jalons": [
+      20,
+      48
+    ]
+  },
+  "entite_609": {
+    "label": "MISC",
+    "text": "Mite de Vignes",
+    "jalons": [
+      390,
+      404
+    ]
+  },
+  "entite_610": {
+    "label": "PER",
+    "text": "Alors Juliette",
+    "jalons": [
+      80,
+      94
+    ]
+  },
+  "entite_611": {
+    "label": "LOC",
+    "text": "Laurier",
+    "jalons": [
+      494,
+      501
+    ]
+  },
+  "entite_612": {
+    "label": "LOC",
+    "text": "Juliette",
+    "jalons": [
+      99,
+      107
+    ]
+  },
+  "entite_613": {
+    "label": "MISC",
+    "text": "de Torrevecchio de revenir les voir",
+    "jalons": [
+      367,
+      402
+    ]
+  },
+  "entite_614": {
+    "label": "LOC",
+    "text": "Trouville",
+    "jalons": [
+      336,
+      345
+    ]
+  },
+  "entite_615": {
+    "label": "MISC",
+    "text": "Elle serra la main de Davidof",
+    "jalons": [
+      80,
+      109
+    ]
+  },
+  "entite_616": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      127,
+      133
+    ]
+  },
+  "entite_617": {
+    "label": "LOC",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      137,
+      152
+    ]
+  },
+  "entite_618": {
+    "label": "LOC",
+    "text": "Patrizzi",
+    "jalons": [
+      164,
+      172
+    ]
+  },
+  "entite_619": {
+    "label": "LOC",
+    "text": "Duverney",
+    "jalons": [
+      175,
+      183
+    ]
+  },
+  "entite_620": {
+    "label": "LOC",
+    "text": "Trésorier",
+    "jalons": [
+      301,
+      310
+    ]
+  },
+  "entite_621": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      378,
+      383
+    ]
+  },
+  "entite_622": {
+    "label": "LOC",
+    "text": "Berneville",
+    "jalons": [
+      385,
+      395
+    ]
+  },
+  "entite_623": {
+    "label": "PER",
+    "text": "de Faucigny",
+    "jalons": [
+      1,
+      12
+    ]
+  },
+  "entite_624": {
+    "label": "LOC",
+    "text": "Burat",
+    "jalons": [
+      177,
+      182
+    ]
+  },
+  "entite_625": {
+    "label": "PER",
+    "text": "Sélim Nuño",
+    "jalons": [
+      322,
+      332
+    ]
+  },
+  "entite_626": {
+    "label": "PER",
+    "text": "drée de Taillebourg",
+    "jalons": [
+      0,
+      19
+    ]
+  },
+  "entite_627": {
+    "label": "PER",
+    "text": "Mariette de Fontenoy",
+    "jalons": [
+      21,
+      41
+    ]
+  },
+  "entite_628": {
+    "label": "PER",
+    "text": "Laure d’Évreux",
+    "jalons": [
+      43,
+      57
+    ]
+  },
+  "entite_629": {
+    "label": "PER",
+    "text": "Sophie Viroflay",
+    "jalons": [
+      69,
+      84
+    ]
+  },
+  "entite_630": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      167,
+      173
+    ]
+  },
+  "entite_631": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      394,
+      402
+    ]
+  },
+  "entite_632": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      449,
+      457
+    ]
+  },
+  "entite_633": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      493,
+      500
+    ]
+  },
+  "entite_634": {
+    "label": "LOC",
+    "text": "Patrizzi",
+    "jalons": [
+      41,
+      49
+    ]
+  },
+  "entite_635": {
+    "label": "LOC",
+    "text": "Mandragore",
+    "jalons": [
+      478,
+      488
+    ]
+  },
+  "entite_636": {
+    "label": "LOC",
+    "text": "la jument de Sélim",
+    "jalons": [
+      490,
+      508
+    ]
+  },
+  "entite_637": {
+    "label": "LOC",
+    "text": "Berne",
+    "jalons": [
+      242,
+      247
+    ]
+  },
+  "entite_638": {
+    "label": "LOC",
+    "text": "Caen",
+    "jalons": [
+      272,
+      276
+    ]
+  },
+  "entite_639": {
+    "label": "PER",
+    "text": "Nuño",
+    "jalons": [
+      475,
+      479
+    ]
+  },
+  "entite_640": {
+    "label": "PER",
+    "text": "Andrée de Taillebourg",
+    "jalons": [
+      485,
+      506
+    ]
+  },
+  "entite_641": {
+    "label": "LOC",
+    "text": "Mandragore",
+    "jalons": [
+      59,
+      69
+    ]
+  },
+  "entite_642": {
+    "label": "PER",
+    "text": "Sophie Viroflay",
+    "jalons": [
+      275,
+      290
+    ]
+  },
+  "entite_643": {
+    "label": "LOC",
+    "text": "L'AME DE PIERRE",
+    "jalons": [
+      368,
+      383
+    ]
+  },
+  "entite_644": {
+    "label": "PER",
+    "text": "Mariette de Fon",
+    "jalons": [
+      426,
+      441
+    ]
+  },
+  "entite_645": {
+    "label": "LOC",
+    "text": "Burat",
+    "jalons": [
+      494,
+      499
+    ]
+  },
+  "entite_646": {
+    "label": "LOC",
+    "text": "Mariette",
+    "jalons": [
+      474,
+      482
+    ]
+  },
+  "entite_647": {
+    "label": "LOC",
+    "text": "Les portes de la",
+    "jalons": [
+      384,
+      400
+    ]
+  },
+  "entite_648": {
+    "label": "PER",
+    "text": "Clémence prit le bras de Faucigny",
+    "jalons": [
+      48,
+      81
+    ]
+  },
+  "entite_649": {
+    "label": "PER",
+    "text": "Jacques offrit le sien",
+    "jalons": [
+      83,
+      105
+    ]
+  },
+  "entite_650": {
+    "label": "MISC",
+    "text": "Sophie Viroflay et, en cortège",
+    "jalons": [
+      108,
+      138
+    ]
+  },
+  "entite_651": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      371,
+      379
+    ]
+  },
+  "entite_652": {
+    "label": "LOC",
+    "text": "Faucigny",
+    "jalons": [
+      483,
+      491
+    ]
+  },
+  "entite_653": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      233,
+      240
+    ]
+  },
+  "entite_654": {
+    "label": "PER",
+    "text": "Andrée de Taillebourg",
+    "jalons": [
+      70,
+      91
+    ]
+  },
+  "entite_655": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      104,
+      109
+    ]
+  },
+  "entite_656": {
+    "label": "LOC",
+    "text": "Trésorier",
+    "jalons": [
+      444,
+      453
+    ]
+  },
+  "entite_657": {
+    "label": "LOC",
+    "text": "Patrizzi",
+    "jalons": [
+      316,
+      324
+    ]
+  },
+  "entite_658": {
+    "label": "LOC",
+    "text": "Ahlah",
+    "jalons": [
+      429,
+      434
+    ]
+  },
+  "entite_659": {
+    "label": "PER",
+    "text": "Picrre Laurier",
+    "jalons": [
+      156,
+      170
+    ]
+  },
+  "entite_660": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      119,
+      127
+    ]
+  },
+  "entite_661": {
+    "label": "PER",
+    "text": "Laure d'Évreux",
+    "jalons": [
+      354,
+      368
+    ]
+  },
+  "entite_662": {
+    "label": "LOC",
+    "text": "Laurier",
+    "jalons": [
+      121,
+      128
+    ]
+  },
+  "entite_663": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      492,
+      499
+    ]
+  },
+  "entite_664": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      476,
+      483
+    ]
+  },
+  "entite_665": {
+    "label": "LOC",
+    "text": "Laurier",
+    "jalons": [
+      395,
+      402
+    ]
+  },
+  "entite_666": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      344,
+      350
+    ]
+  },
+  "entite_667": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      331,
+      345
+    ]
+  },
+  "entite_668": {
+    "label": "LOC",
+    "text": "Faucigny",
+    "jalons": [
+      295,
+      303
+    ]
+  },
+  "entite_669": {
+    "label": "MISC",
+    "text": "pleine de vin de Champagne et dit",
+    "jalons": [
+      47,
+      80
+    ]
+  },
+  "entite_670": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      198,
+      212
+    ]
+  },
+  "entite_671": {
+    "label": "PER",
+    "text": "Pierre Laurier",
+    "jalons": [
+      441,
+      455
+    ]
+  },
+  "entite_672": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      283,
+      289
+    ]
+  },
+  "entite_673": {
+    "label": "LOC",
+    "text": "Laurier",
+    "jalons": [
+      440,
+      447
+    ]
+  },
+  "entite_674": {
+    "label": "LOC",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      492,
+      507
+    ]
+  },
+  "entite_675": {
+    "label": "LOC",
+    "text": "Ce",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_676": {
+    "label": "PER",
+    "text": "Davidoff",
+    "jalons": [
+      16,
+      24
+    ]
+  },
+  "entite_677": {
+    "label": "PER",
+    "text": "Emmener M. de Vignes",
+    "jalons": [
+      29,
+      49
+    ]
+  },
+  "entite_678": {
+    "label": "PER",
+    "text": "le Russe",
+    "jalons": [
+      55,
+      63
+    ]
+  },
+  "entite_679": {
+    "label": "LOC",
+    "text": "Pierre Laurier des",
+    "jalons": [
+      376,
+      394
+    ]
+  },
+  "entite_680": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      450,
+      458
+    ]
+  },
+  "entite_681": {
+    "label": "PER",
+    "text": "Laurier montra Jacques",
+    "jalons": [
+      2,
+      24
+    ]
+  },
+  "entite_682": {
+    "label": "MISC",
+    "text": "Davidoff et Pierre enlevèrent Jacques toujours évanoui",
+    "jalons": [
+      263,
+      317
+    ]
+  },
+  "entite_683": {
+    "label": "LOC",
+    "text": "L'ANE DE PIERRE",
+    "jalons": [
+      424,
+      439
+    ]
+  },
+  "entite_684": {
+    "label": "LOC",
+    "text": "Fontenoy",
+    "jalons": [
+      128,
+      136
+    ]
+  },
+  "entite_685": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      264,
+      272
+    ]
+  },
+  "entite_686": {
+    "label": "PER",
+    "text": "de Pierre  Laurier",
+    "jalons": [
+      27,
+      45
+    ]
+  },
+  "entite_687": {
+    "label": "PER",
+    "text": "Pierre et Juliette",
+    "jalons": [
+      318,
+      336
+    ]
+  },
+  "entite_688": {
+    "label": "PER",
+    "text": "Guéri de sa",
+    "jalons": [
+      118,
+      129
+    ]
+  },
+  "entite_689": {
+    "label": "LOC",
+    "text": "Maigre",
+    "jalons": [
+      494,
+      500
+    ]
+  },
+  "entite_690": {
+    "label": "LOC",
+    "text": "Juliette",
+    "jalons": [
+      106,
+      114
+    ]
+  },
+  "entite_691": {
+    "label": "LOC",
+    "text": "la terrasse de Beaulieu",
+    "jalons": [
+      116,
+      139
+    ]
+  },
+  "entite_692": {
+    "label": "MISC",
+    "text": "j'ai dans le cœur",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_693": {
+    "label": "LOC",
+    "text": "vivre de la vie de Pierre",
+    "jalons": [
+      439,
+      464
+    ]
+  },
+  "entite_694": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      334,
+      338
+    ]
+  },
+  "entite_695": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      365,
+      372
+    ]
+  },
+  "entite_696": {
+    "label": "PER",
+    "text": "Jacques parut se ranimer",
+    "jalons": [
+      482,
+      506
+    ]
+  },
+  "entite_697": {
+    "label": "MISC",
+    "text": "JACQUES DE VIGNES",
+    "jalons": [
+      320,
+      337
+    ]
+  },
+  "entite_698": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      382,
+      387
+    ]
+  },
+  "entite_699": {
+    "label": "PER",
+    "text": "G. Chamerot",
+    "jalons": [
+      396,
+      407
+    ]
+  }
+}
