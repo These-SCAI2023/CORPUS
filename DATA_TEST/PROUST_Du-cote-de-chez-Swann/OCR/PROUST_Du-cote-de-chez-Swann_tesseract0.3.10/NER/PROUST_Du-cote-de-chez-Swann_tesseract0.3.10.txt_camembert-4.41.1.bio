@@ -773,7 +773,7 @@ Swann I-PER
 Paris B-LOC
 M. B-PER
 Swann I-PER
-; B-PER
+  B-PER
 Janvier I-PER
 : B-PER
 Swann I-PER
@@ -2198,7 +2198,7 @@ Françoise B-PER
 Vous B-PER
 savez I-PER
 maintenant B-DATE
-; B-DATE
+  B-DATE
 un I-DATE
 jour I-DATE
 Mme B-PER
@@ -2868,7 +2868,7 @@ RS I-LOC
 Ti I-LOC
 ue I-LOC
 TETE I-LOC
-Fa; I-LOC
+Fa  I-LOC
 EE I-LOC
 rte I-LOC
 BUT I-LOC

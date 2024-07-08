@@ -1200,10 +1200,10 @@ Timoléon B-PER
 Kervaëns B-LOC
 quatre B-DATE
 mois I-DATE
-; B-DATE
+  B-DATE
 dix-huit I-DATE
 mois I-DATE
-; B-DATE
+  B-DATE
 dix-huit I-DATE
 mois I-DATE
 Timoléon B-PER
@@ -1723,7 +1723,7 @@ madame B-PER
 de I-PER
 Kervaëns I-PER
 Nélida B-PER
-;Guermann B-PER
+ Guermann B-PER
 Nélida B-PER
 un B-DATE
 jour I-DATE

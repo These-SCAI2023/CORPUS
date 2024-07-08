@@ -1220,7 +1220,7 @@ Hussonnet B-PER
 un B-DATE
 l'année B-DATE
 dernière I-DATE
-; B-DATE
+  B-DATE
 maintenant I-DATE
 Hussonnet B-PER
 Dussardier B-PER
@@ -2104,7 +2104,7 @@ Frédéric B-PER
 Deslauriers B-PER
 un B-DATE
 jour I-DATE
-; B-DATE
+  B-DATE
 un I-DATE
 jour I-DATE
 Frédéric B-PER
@@ -7538,7 +7538,7 @@ Vatnaz B-PER
 Frédéric B-PER
 deux B-DATE
 semaines I-DATE
-; B-DATE
+  B-DATE
 un I-DATE
 jour I-DATE
 Vatnaz B-PER

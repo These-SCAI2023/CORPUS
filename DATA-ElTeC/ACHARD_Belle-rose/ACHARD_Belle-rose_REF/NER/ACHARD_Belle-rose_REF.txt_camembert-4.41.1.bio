@@ -2410,7 +2410,7 @@ de I-PER
 Châteaufort I-PER
 Camille B-PER
 hier B-DATE
-; I-DATE
+  I-DATE
 hier I-DATE
 Camille B-PER
 Camille B-PER
@@ -2566,7 +2566,7 @@ M. B-PER
 de I-PER
 Villebrais I-PER
 demain B-DATE
-; I-DATE
+  I-DATE
 demain I-DATE
 M. B-PER
 d'Assonville I-PER
@@ -9627,7 +9627,7 @@ La B-PER
 Déroute I-PER
 La B-PER
 Déroute I-PER
-; B-DATE
+  B-DATE
 deux I-DATE
 minutes I-DATE
 après I-DATE

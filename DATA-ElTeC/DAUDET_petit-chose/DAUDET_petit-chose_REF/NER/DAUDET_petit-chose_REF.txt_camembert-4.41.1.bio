@@ -426,7 +426,7 @@ Midi B-LOC
 Jacques B-PER
 Jacques B-PER
 Jacques B-PER
-; B-DATE
+  B-DATE
 maintenant I-DATE
 Mme B-PER
 Eyssette I-PER
@@ -1124,7 +1124,7 @@ Chose B-MISC
 Daniel B-PER
 huit B-DATE
 jours... I-DATE
-; I-DATE
+  I-DATE
 maintenant I-DATE
 Eyssette B-PER
 a B-DATE
@@ -1644,7 +1644,7 @@ Roger B-PER
 Dans B-DATE
 cinq I-DATE
 minutes I-DATE
-; B-DATE
+  B-DATE
 une I-DATE
 heure I-DATE
 après I-DATE

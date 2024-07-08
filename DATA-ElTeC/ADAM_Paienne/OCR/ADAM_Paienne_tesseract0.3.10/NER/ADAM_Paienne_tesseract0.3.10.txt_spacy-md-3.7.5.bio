@@ -1,1054 +1,1054 @@
 | 
 
-|;O;
-1e;O;
-Gallica;B;MISC
+| O 
+1e O 
+Gallica B-MISC
 |
 
-|;I;MISC
-Palenne;I;MISC
-/;O;
-par;O;
-Juliette;B;PER
-Lamber;I;PER
+| I-MISC
+Palenne I-MISC
+/ O 
+par O 
+Juliette B-PER
+Lamber I-PER
 |
-|;O;
-(;O;
-M;O;
-me;O;
-Adam;B;PER
-);O;
+| O 
+( O 
+M O 
+me O 
+Adam B-PER
+) O 
 |
 
-|;O;
-Source;B;MISC
-gallica.bnf.fr;I;MISC
-/;I;MISC
-Bibliothèque;B;LOC
-nationale;I;LOC
-de;I;LOC
-France;I;LOC
+| O 
+Source B-MISC
+gallica.bnf.fr I-MISC
+/ I-MISC
+Bibliothèque B-LOC
+nationale I-LOC
+de I-LOC
+France I-LOC
 |
 
-|;I;LOC
-11;I;LOC
-Gallica;I;LOC
+| I-LOC
+11 I-LOC
+Gallica I-LOC
 |
 
  
 
-|;I;LOC
-Adam;I;LOC
-,;O;
-Juliette;B;PER
-(;O;
-1836;O;
--;O;
-1936;O;
-);O;
-.;O;
-Auteur;O;
-du;O;
-texte;O;
-.;O;
-Paienne;B;MISC
-/;O;
-par;O;
+| I-LOC
+Adam I-LOC
+, O 
+Juliette B-PER
+( O 
+1836 O 
+- O 
+1936 O 
+) O 
+. O 
+Auteur O 
+du O 
+texte O 
+. O 
+Paienne B-MISC
+/ O 
+par O 
 |
-|;O;
-Juliette;B;PER
-Lamber;I;PER
-(;O;
-Mme;B;PER
-Adam;I;PER
-);O;
-.;O;
-1883;O;
-.;O;
-|
-
-|;O;
-1/;O;
-Les;O;
-contenus;O;
-accessibles;O;
-sur;O;
-le;O;
-site;O;
-Gallica;B;MISC
-sont;O;
-pour;O;
-la;O;
-plupart;O;
-|
-|;O;
-des;O;
-reproductions;O;
-numériques;O;
-d';O;
-oeuvres;O;
-tombées;O;
-dans;O;
-le;O;
-|
-|;O;
-domaine;O;
-public;O;
-provenant;O;
-des;O;
-collections;O;
-de;O;
-la;O;
-BnF.;B;MISC
-Leur;I;MISC
-|
-|;I;MISC
-réutilisation;I;MISC
-s';O;
-inscrit;O;
-dans;O;
-le;O;
-cadre;O;
-de;O;
-la;O;
-loi;O;
-n°;O;
-78;O;
--;O;
-753;O;
-du;O;
-17;O;
-juillet;O;
-|
-|;O;
-1978;O;
-:;O;
+| O 
+Juliette B-PER
+Lamber I-PER
+( O 
+Mme B-PER
+Adam I-PER
+) O 
+. O 
+1883 O 
+. O 
 |
 
-|;O;
--;O;
-La;O;
-réutilisation;O;
-non;O;
-commerciale;O;
-de;O;
-ces;O;
-contenus;O;
-ou;O;
-dans;O;
-le;O;
+| O 
+1/ O 
+Les O 
+contenus O 
+accessibles O 
+sur O 
+le O 
+site O 
+Gallica B-MISC
+sont O 
+pour O 
+la O 
+plupart O 
 |
-|;O;
-cadre;O;
-d’;O;
-une;O;
-publication;O;
-académique;O;
-ou;O;
-scientifique;O;
-est;O;
-libre;O;
-et;O;
+| O 
+des O 
+reproductions O 
+numériques O 
+d' O 
+oeuvres O 
+tombées O 
+dans O 
+le O 
 |
-|;O;
-gratuite;O;
-dans;O;
-le;O;
-respect;O;
-de;O;
-la;O;
-législation;O;
-en;O;
-vigueur;O;
-et;O;
-notamment;O;
+| O 
+domaine O 
+public O 
+provenant O 
+des O 
+collections O 
+de O 
+la O 
+BnF. B-MISC
+Leur I-MISC
 |
-|;O;
-du;O;
-maintien;O;
-de;O;
-la;O;
-mention;O;
-de;O;
-source;O;
-des;O;
-contenus;O;
-telle;O;
-que;O;
+| I-MISC
+réutilisation I-MISC
+s' O 
+inscrit O 
+dans O 
+le O 
+cadre O 
+de O 
+la O 
+loi O 
+n° O 
+78 O 
+- O 
+753 O 
+du O 
+17 O 
+juillet O 
 |
-|;O;
-précisée;O;
-ci;O;
--;O;
-après;O;
-:;O;
-«;O;
-Source;O;
-gallica.bnf.fr;O;
-/;O;
-Bibliothèque;B;ORG
-nationale;I;ORG
-|
-|;I;ORG
-de;I;ORG
-France;I;ORG
-»;O;
-ou;O;
-«;O;
-Source;O;
-gallica.bnf.fr;O;
-/;O;
-BnF;B;ORG
-»;O;
-.;O;
+| O 
+1978 O 
+: O 
 |
 
-|;O;
--;O;
-La;O;
-réutilisation;O;
-commerciale;O;
-de;O;
-ces;O;
-contenus;O;
-est;O;
-payante;O;
-et;O;
-fait;O;
+| O 
+- O 
+La O 
+réutilisation O 
+non O 
+commerciale O 
+de O 
+ces O 
+contenus O 
+ou O 
+dans O 
+le O 
 |
-|;O;
-l';O;
-objet;O;
-d';O;
-une;O;
-licence;O;
-.;O;
-Est;O;
-entendue;O;
-par;O;
-réutilisation;O;
-commerciale;O;
-la;O;
+| O 
+cadre O 
+d’ O 
+une O 
+publication O 
+académique O 
+ou O 
+scientifique O 
+est O 
+libre O 
+et O 
 |
-|;O;
-revente;O;
-de;O;
-contenus;O;
-sous;O;
-forme;O;
-de;O;
-produits;O;
-élaborés;O;
-ou;O;
-de;O;
+| O 
+gratuite O 
+dans O 
+le O 
+respect O 
+de O 
+la O 
+législation O 
+en O 
+vigueur O 
+et O 
+notamment O 
 |
-|;O;
-fourniture;O;
-de;O;
-service;O;
-ou;O;
-toute;O;
-autre;O;
-réutilisation;O;
-des;O;
-contenus;O;
+| O 
+du O 
+maintien O 
+de O 
+la O 
+mention O 
+de O 
+source O 
+des O 
+contenus O 
+telle O 
+que O 
 |
-|;O;
-générant;O;
-directement;O;
-des;O;
-revenus;O;
-:;O;
-publication;O;
-vendue;O;
-(;O;
-à;O;
+| O 
+précisée O 
+ci O 
+- O 
+après O 
+: O 
+« O 
+Source O 
+gallica.bnf.fr O 
+/ O 
+Bibliothèque B-ORG
+nationale I-ORG
 |
-|;O;
-l';O;
-exception;O;
-des;O;
-ouvrages;O;
-académiques;O;
-ou;O;
-scientifiques;O;
-);O;
-,;O;
-une;O;
-|
-|;O;
-exposition;O;
-,;O;
-une;O;
-production;O;
-audiovisuelle;O;
-,;O;
-un;O;
-service;O;
-ou;O;
-un;O;
-produit;O;
-|
-|;O;
-payant;O;
-,;O;
-un;O;
-support;O;
-à;O;
-vocation;O;
-promotionnelle;O;
-etc.;O;
+| I-ORG
+de I-ORG
+France I-ORG
+» O 
+ou O 
+« O 
+Source O 
+gallica.bnf.fr O 
+/ O 
+BnF B-ORG
+» O 
+. O 
 |
 
-|;O;
-CLIQUER;O;
-ICI;O;
-POUR;O;
-ACCÉDER;O;
-AUX;B;MISC
-TARIFS;I;MISC
-ET;I;MISC
-À;O;
-LA;O;
-LICENCE;O;
+| O 
+- O 
+La O 
+réutilisation O 
+commerciale O 
+de O 
+ces O 
+contenus O 
+est O 
+payante O 
+et O 
+fait O 
+|
+| O 
+l' O 
+objet O 
+d' O 
+une O 
+licence O 
+. O 
+Est O 
+entendue O 
+par O 
+réutilisation O 
+commerciale O 
+la O 
+|
+| O 
+revente O 
+de O 
+contenus O 
+sous O 
+forme O 
+de O 
+produits O 
+élaborés O 
+ou O 
+de O 
+|
+| O 
+fourniture O 
+de O 
+service O 
+ou O 
+toute O 
+autre O 
+réutilisation O 
+des O 
+contenus O 
+|
+| O 
+générant O 
+directement O 
+des O 
+revenus O 
+: O 
+publication O 
+vendue O 
+( O 
+à O 
+|
+| O 
+l' O 
+exception O 
+des O 
+ouvrages O 
+académiques O 
+ou O 
+scientifiques O 
+) O 
+, O 
+une O 
+|
+| O 
+exposition O 
+, O 
+une O 
+production O 
+audiovisuelle O 
+, O 
+un O 
+service O 
+ou O 
+un O 
+produit O 
+|
+| O 
+payant O 
+, O 
+un O 
+support O 
+à O 
+vocation O 
+promotionnelle O 
+etc. O 
 |
 
-|;O;
-2;O;
-];O;
-Les;O;
-contenus;O;
-de;O;
-Gallica;B;MISC
-sont;O;
-la;O;
-propriété;O;
-de;O;
-la;O;
-BnF;B;ORG
-au;O;
-sens;O;
-de;O;
-|
-|;O;
-l';O;
-article;O;
-L.2112;B;MISC
--;I;MISC
-1;I;MISC
-du;O;
-code;O;
-général;O;
-de;O;
-la;O;
-propriété;O;
-des;O;
-personnes;O;
-|
-|;O;
-publiques;O;
-.;O;
+| O 
+CLIQUER O 
+ICI O 
+POUR O 
+ACCÉDER O 
+AUX B-MISC
+TARIFS I-MISC
+ET I-MISC
+À O 
+LA O 
+LICENCE O 
 |
 
-|;O;
-3/;O;
-Quelques;O;
-contenus;O;
-sont;O;
-soumis;O;
-à;O;
-un;O;
-régime;O;
-de;O;
-réutilisation;O;
+| O 
+2 O 
+] O 
+Les O 
+contenus O 
+de O 
+Gallica B-MISC
+sont O 
+la O 
+propriété O 
+de O 
+la O 
+BnF B-ORG
+au O 
+sens O 
+de O 
 |
-|;O;
-particulier;O;
-.;O;
-Il;O;
-s';O;
-agit;O;
-:;O;
+| O 
+l' O 
+article O 
+L.2112 B-MISC
+- I-MISC
+1 I-MISC
+du O 
+code O 
+général O 
+de O 
+la O 
+propriété O 
+des O 
+personnes O 
 |
-
-|;O;
--;O;
-des;O;
-reproductions;O;
-de;O;
-documents;O;
-protégés;O;
-par;O;
-un;O;
-droit;O;
-d';O;
-auteur;O;
-|
-|;O;
-appartenant;O;
-à;O;
-un;O;
-tiers;O;
-.;O;
-Ces;O;
-documents;O;
-ne;O;
-peuvent;O;
-être;O;
-réutilisés;O;
-,;O;
-|
-|;O;
-sauf;O;
-dans;O;
-le;O;
-cadre;O;
-de;O;
-la;O;
-copie;O;
-privée;O;
-,;O;
-sans;O;
-l';O;
-autorisation;O;
-préalable;O;
-|
-|;O;
-du;O;
-titulaire;O;
-des;O;
-droits;O;
-.;O;
+| O 
+publiques O 
+. O 
 |
 
-|;O;
--;O;
-des;O;
-reproductions;O;
-de;O;
-documents;O;
-conservés;O;
-dans;O;
-les;O;
+| O 
+3/ O 
+Quelques O 
+contenus O 
+sont O 
+soumis O 
+à O 
+un O 
+régime O 
+de O 
+réutilisation O 
 |
-|;O;
-bibliothèques;O;
-ou;O;
-autres;O;
-institutions;O;
-partenaires;O;
-.;O;
-Ceux;O;
--;O;
-ci;O;
-sont;O;
-|
-|;O;
-signalés;O;
-par;O;
-la;O;
-mention;O;
-Source;B;ORG
-gallica.BnF.fr;I;ORG
-/;O;
-Bibliothèque;B;LOC
-|
-|;O;
-municipale;O;
-de;O;
-…;O;
-(;O;
-ou;O;
-autre;O;
-partenaire;O;
-);O;
-.;O;
-L';O;
-utilisateur;O;
-est;O;
-invité;O;
-à;O;
-|
-|;O;
-s';O;
-informer;O;
-auprès;O;
-de;O;
-ces;O;
-bibliothèques;O;
-de;O;
-leurs;O;
-conditions;O;
-de;O;
-|
-|;O;
-réutilisation;O;
-.;O;
+| O 
+particulier O 
+. O 
+Il O 
+s' O 
+agit O 
+: O 
 |
 
-|;O;
-4;O;
-];O;
-Gallica;B;MISC
-constitue;O;
-une;O;
-base;O;
-de;O;
-données;O;
-,;O;
-dont;O;
-la;O;
-BnF;B;ORG
-est;O;
-le;O;
+| O 
+- O 
+des O 
+reproductions O 
+de O 
+documents O 
+protégés O 
+par O 
+un O 
+droit O 
+d' O 
+auteur O 
 |
-|;O;
-producteur;O;
-,;O;
-protégée;O;
-au;O;
-sens;O;
-des;O;
-articles;O;
-L341;B;MISC
--;I;MISC
-1;I;MISC
-et;O;
-suivants;O;
-du;O;
+| O 
+appartenant O 
+à O 
+un O 
+tiers O 
+. O 
+Ces O 
+documents O 
+ne O 
+peuvent O 
+être O 
+réutilisés O 
+, O 
 |
-|;O;
-code;O;
-de;O;
-la;O;
-propriété;O;
-intellectuelle;O;
-.;O;
+| O 
+sauf O 
+dans O 
+le O 
+cadre O 
+de O 
+la O 
+copie O 
+privée O 
+, O 
+sans O 
+l' O 
+autorisation O 
+préalable O 
 |
-
-|;O;
-5/;O;
-Les;O;
-présentes;O;
-conditions;O;
-d';O;
-utilisation;O;
-des;O;
-contenus;O;
-de;O;
-Gallica;B;MISC
-|
-|;O;
-sont;O;
-régies;O;
-par;O;
-la;O;
-loi;O;
-française;O;
-.;O;
-En;O;
-cas;O;
-de;O;
-réutilisation;O;
-prévue;O;
-dans;O;
-|
-|;O;
-un;O;
-autre;O;
-pays;O;
-,;O;
-il;O;
-appartient;O;
-à;O;
-chaque;O;
-utilisateur;O;
-de;O;
-vérifier;O;
-la;O;
-|
-|;O;
-conformité;O;
-de;O;
-son;O;
-projet;O;
-avec;O;
-le;O;
-droit;O;
-de;O;
-ce;O;
-pays;O;
-.;O;
+| O 
+du O 
+titulaire O 
+des O 
+droits O 
+. O 
 |
 
-|;O;
-6/;O;
-L';O;
-utilisateur;O;
-s';O;
-engage;O;
-à;O;
-respecter;O;
-les;O;
-présentes;O;
-conditions;O;
+| O 
+- O 
+des O 
+reproductions O 
+de O 
+documents O 
+conservés O 
+dans O 
+les O 
 |
-|;O;
-d';O;
-utilisation;O;
-ainsi;O;
-que;O;
-la;O;
-législation;O;
-en;O;
-vigueur;O;
-,;O;
-notamment;O;
-en;O;
+| O 
+bibliothèques O 
+ou O 
+autres O 
+institutions O 
+partenaires O 
+. O 
+Ceux O 
+- O 
+ci O 
+sont O 
 |
-|;O;
-matière;O;
-de;O;
-propriété;O;
-intellectuelle;O;
-.;O;
-En;O;
-cas;O;
-de;O;
-non;O;
-respect;O;
-de;O;
-ces;O;
+| O 
+signalés O 
+par O 
+la O 
+mention O 
+Source B-ORG
+gallica.BnF.fr I-ORG
+/ O 
+Bibliothèque B-LOC
 |
-|;O;
-dispositions;O;
-,;O;
-il;O;
-est;O;
-notamment;O;
-passible;O;
-d';O;
-une;O;
-amende;O;
-prévue;O;
-par;O;
+| O 
+municipale O 
+de O 
+… O 
+( O 
+ou O 
+autre O 
+partenaire O 
+) O 
+. O 
+L' O 
+utilisateur O 
+est O 
+invité O 
+à O 
 |
-|;O;
-la;O;
-loi;O;
-du;O;
-17;O;
-juillet;O;
-1978;O;
-.;O;
+| O 
+s' O 
+informer O 
+auprès O 
+de O 
+ces O 
+bibliothèques O 
+de O 
+leurs O 
+conditions O 
+de O 
+|
+| O 
+réutilisation O 
+. O 
 |
 
-|;O;
-7;O;
-];O;
-Pour;O;
-obtenir;O;
-un;O;
-document;O;
-de;O;
-Gallica;B;MISC
-en;O;
-haute;O;
-définition;O;
-,;O;
+| O 
+4 O 
+] O 
+Gallica B-MISC
+constitue O 
+une O 
+base O 
+de O 
+données O 
+, O 
+dont O 
+la O 
+BnF B-ORG
+est O 
+le O 
 |
-|;O;
-contacter;O;
+| O 
+producteur O 
+, O 
+protégée O 
+au O 
+sens O 
+des O 
+articles O 
+L341 B-MISC
+- I-MISC
+1 I-MISC
+et O 
+suivants O 
+du O 
 |
-|;O;
-utilisation.commerciale@;O;
-bnf.fr;O;
-.;O;
+| O 
+code O 
+de O 
+la O 
+propriété O 
+intellectuelle O 
+. O 
+|
+
+| O 
+5/ O 
+Les O 
+présentes O 
+conditions O 
+d' O 
+utilisation O 
+des O 
+contenus O 
+de O 
+Gallica B-MISC
+|
+| O 
+sont O 
+régies O 
+par O 
+la O 
+loi O 
+française O 
+. O 
+En O 
+cas O 
+de O 
+réutilisation O 
+prévue O 
+dans O 
+|
+| O 
+un O 
+autre O 
+pays O 
+, O 
+il O 
+appartient O 
+à O 
+chaque O 
+utilisateur O 
+de O 
+vérifier O 
+la O 
+|
+| O 
+conformité O 
+de O 
+son O 
+projet O 
+avec O 
+le O 
+droit O 
+de O 
+ce O 
+pays O 
+. O 
+|
+
+| O 
+6/ O 
+L' O 
+utilisateur O 
+s' O 
+engage O 
+à O 
+respecter O 
+les O 
+présentes O 
+conditions O 
+|
+| O 
+d' O 
+utilisation O 
+ainsi O 
+que O 
+la O 
+législation O 
+en O 
+vigueur O 
+, O 
+notamment O 
+en O 
+|
+| O 
+matière O 
+de O 
+propriété O 
+intellectuelle O 
+. O 
+En O 
+cas O 
+de O 
+non O 
+respect O 
+de O 
+ces O 
+|
+| O 
+dispositions O 
+, O 
+il O 
+est O 
+notamment O 
+passible O 
+d' O 
+une O 
+amende O 
+prévue O 
+par O 
+|
+| O 
+la O 
+loi O 
+du O 
+17 O 
+juillet O 
+1978 O 
+. O 
+|
+
+| O 
+7 O 
+] O 
+Pour O 
+obtenir O 
+un O 
+document O 
+de O 
+Gallica B-MISC
+en O 
+haute O 
+définition O 
+, O 
+|
+| O 
+contacter O 
+|
+| O 
+utilisation.commerciale@ O 
+bnf.fr O 
+. O 
 |
 
-|;O;
-PAIENNE;B;MISC
+| O 
+PAIENNE B-MISC
 |
 
-|;I;MISC
-DU;I;MISC
-MÊME;I;MISC
-AUTEUR;I;MISC
+| I-MISC
+DU I-MISC
+MÊME I-MISC
+AUTEUR I-MISC
 |
 
-|;I;MISC
-Dans;I;MISC
-les;I;MISC
-Alpes;B;LOC
-.;O;
-.;O;
-......;O;
-sus;O;
-.;O;
+| I-MISC
+Dans I-MISC
+les I-MISC
+Alpes B-LOC
+. O 
+. O 
+...... O 
+sus O 
+. O 
 |
-|;O;
-L';O;
-Éducation;B;ORG
-de;I;ORG
-Laure;I;ORG
-.............;O;
+| O 
+L' O 
+Éducation B-ORG
+de I-ORG
+Laure I-ORG
+............. O 
 |
-|;O;
-‘;O;
-Idées;B;MISC
-anti-proudhoniennes;I;MISC
-.;O;
-.;O;
-........;O;
+| O 
+‘ O 
+Idées B-MISC
+anti-proudhoniennes I-MISC
+. O 
+. O 
+........ O 
 |
-|;O;
-Jean;B;PER
-et;O;
-Pascal;B;PER
-.;O;
-...;O;
-........;O;
-ou;O;
+| O 
+Jean B-PER
+et O 
+Pascal B-PER
+. O 
+... O 
+........ O 
+ou O 
 |
-|;O;
-Laide;B;PER
-.......................;O;
+| O 
+Laide B-PER
+....................... O 
 |
-|;O;
-Le;B;MISC
-Mandarin;I;MISC
-..................;I;MISC
+| O 
+Le B-MISC
+Mandarin I-MISC
+.................. I-MISC
 |
-|;I;MISC
-Mon;I;MISC
-Village;I;MISC
-.;O;
-................;O;
-…;O;
-.;O;
+| I-MISC
+Mon I-MISC
+Village I-MISC
+. O 
+................ O 
+… O 
+. O 
 |
-|;O;
-Récits;B;MISC
-d’;I;MISC
-une;I;MISC
-paysanne;I;MISC
-.;O;
-.;O;
-..........;O;
-«;O;
+| O 
+Récits B-MISC
+d’ I-MISC
+une I-MISC
+paysanne I-MISC
+. O 
+. O 
+.......... O 
+« O 
 |
-|;O;
-Récits;B;MISC
-du;I;MISC
-golfe;I;MISC
-Juan;I;MISC
-.;O;
-.............;O;
+| O 
+Récits B-MISC
+du I-MISC
+golfe I-MISC
+Juan I-MISC
+. O 
+............. O 
 |
-|;O;
-Sa.ne;B;PER
-et;O;
-Sauve;B;PER
-..;O;
-...............;O;
-|
-
-|;O;
-Le;B;MISC
-Siège;I;MISC
-de;I;MISC
-Paris;I;MISC
-(;O;
-Journal;B;MISC
-d’;I;MISC
-une;I;MISC
-Parisienne;I;MISC
-);O;
-|
-|;O;
-Voyage;B;MISC
-autour;I;MISC
-d’;I;MISC
-un;I;MISC
-grand;I;MISC
-pin;I;MISC
-.;O;
-.......;O;
-|
-|;O;
-Les;B;MISC
-Poètes;I;MISC
-grecs;I;MISC
-contemporains;I;MISC
-ss;I;MISC
+| O 
+Sa.ne B-PER
+et O 
+Sauve B-PER
+.. O 
+............... O 
 |
 
-|;I;MISC
-La;B;MISC
-Chanson;I;MISC
-des;I;MISC
-nouveaux;I;MISC
-époux;I;MISC
-ss;I;MISC
-.;O;
+| O 
+Le B-MISC
+Siège I-MISC
+de I-MISC
+Paris I-MISC
+( O 
+Journal B-MISC
+d’ I-MISC
+une I-MISC
+Parisienne I-MISC
+) O 
+|
+| O 
+Voyage B-MISC
+autour I-MISC
+d’ I-MISC
+un I-MISC
+grand I-MISC
+pin I-MISC
+. O 
+....... O 
+|
+| O 
+Les B-MISC
+Poètes I-MISC
+grecs I-MISC
+contemporains I-MISC
+ss I-MISC
+|
+
+| I-MISC
+La B-MISC
+Chanson I-MISC
+des I-MISC
+nouveaux I-MISC
+époux I-MISC
+ss I-MISC
+. O 
 |
 
-|;O;
-PAIENNE;B;MISC
+| O 
+PAIENNE B-MISC
 |
 
-|;O;
-PAR;O;
+| O 
+PAR O 
 |
 
-|;O;
-JULIETTE;O;
-LAMBER;B;ORG
+| O 
+JULIETTE O 
+LAMBER B-ORG
 |
-|;O;
-(;O;
-MADAME;O;
-ADAM;O;
-);O;
+| O 
+( O 
+MADAME O 
+ADAM O 
+) O 
 |
 
  
 
-|;O;
-RC;B;MISC
-LEO;I;MISC
+| O 
+RC B-MISC
+LEO I-MISC
 |
 
-|;I;MISC
-es;I;MISC
-PRNU;I;MISC
-a;O;
-À;O;
-€;O;
-»;O;
-.;O;
-à;O;
+| I-MISC
+es I-MISC
+PRNU I-MISC
+a O 
+À O 
+€ O 
+» O 
+. O 
+à O 
 |
-|;O;
-FR;B;MISC
-RUE;I;MISC
-GAILLON;I;MISC
-4;I;MISC
-?;O;
+| O 
+FR B-MISC
+RUE I-MISC
+GAILLON I-MISC
+4 I-MISC
+? O 
 |
-|;O;
-DDR;B;MISC
-[;O;
-SAVE;O;
-LC;O;
-Le;O;
-a;O;
-|
-
-|;O;
-ASE;B;ORG
-Par;O;
-:;O;
-PA;B;LOC
+| O 
+DDR B-MISC
+[ O 
+SAVE O 
+LC O 
+Le O 
+a O 
 |
 
-|;O;
-se;O;
--;O;
-G;O;
->;O;
-|
-|;O;
-PAUL;B;LOC
-OLLENDHÆFPF;I;LOC
-,;O;
-ÉDITEUR;B;ORG
-|
-|;O;
-28;O;
-BIS;B;ORG
-,;O;
-RUE;B;MISC
-DE;I;MISC
-RICH;I;MISC
-RS;I;MISC
-|
-|;O;
-1883;O;
+| O 
+ASE B-ORG
+Par O 
+: O 
+PA B-LOC
 |
 
-|;O;
-Tous;O;
-droits;O;
-réservés;O;
-.;O;
+| O 
+se O 
+- O 
+G O 
+> O 
+|
+| O 
+PAUL B-LOC
+OLLENDHÆFPF I-LOC
+, O 
+ÉDITEUR B-ORG
+|
+| O 
+28 O 
+BIS B-ORG
+, O 
+RUE B-MISC
+DE I-MISC
+RICH I-MISC
+RS I-MISC
+|
+| O 
+1883 O 
+|
+
+| O 
+Tous O 
+droits O 
+réservés O 
+. O 
 |
 
-|;O;
-Il;O;
-a;O;
-été;O;
-tiré;O;
-à;O;
-part;O;
-,;O;
-numérotés;O;
-à;O;
-la;O;
-presse;O;
-:;O;
+| O 
+Il O 
+a O 
+été O 
+tiré O 
+à O 
+part O 
+, O 
+numérotés O 
+à O 
+la O 
+presse O 
+: O 
 |
 
-|;O;
-5;O;
-exemplaires;O;
-sur;O;
-papier;O;
-du;O;
-Japon;B;LOC
-(;O;
-1;O;
-à;O;
-5;O;
-);O;
-.;O;
+| O 
+5 O 
+exemplaires O 
+sur O 
+papier O 
+du O 
+Japon B-LOC
+( O 
+1 O 
+à O 
+5 O 
+) O 
+. O 
 |
-|;O;
-2;O;
-%;O;
-—;O;
-_;O;
-de;O;
-Hollande;B;LOC
-(;O;
-6;O;
-à;O;
-30;O;
-);O;
-.;O;
+| O 
+2 O 
+% O 
+— O 
+_ O 
+de O 
+Hollande B-LOC
+( O 
+6 O 
+à O 
+30 O 
+) O 
+. O 
 |
 
-|;O;
-A;O;
+| O 
+A O 
 |
 
-|;O;
-+;O;
+| O 
++ O 
 |
 
-|;O;
-:;O;
-M.;O;
-ALEXANDRE;O;
-DUMAS;O;
-FILS;O;
+| O 
+: O 
+M. O 
+ALEXANDRE O 
+DUMAS O 
+FILS O 
 |
 
-|;O;
-C';O;
-est;O;
-à;O;
-vous;O;
-seul;O;
-,;O;
-mon;O;
-cher;O;
+| O 
+C' O 
+est O 
+à O 
+vous O 
+seul O 
+, O 
+mon O 
+cher O 
 |
-|;O;
-ami;O;
-,;O;
-que;O;
-je;O;
-pouvais;O;
-dédier;O;
-cette;O;
+| O 
+ami O 
+, O 
+que O 
+je O 
+pouvais O 
+dédier O 
+cette O 
 |
-|;O;
-Païenne;B;LOC
-.;O;
-|
-
-|;O;
-Elle;O;
-vous;O;
-déplaira;O;
-parce;O;
-qu’;O;
-elle;O;
-|
-|;O;
-est;O;
-une;O;
-apothéose;O;
-de;O;
-l';O;
-amour;O;
-,;O;
-mais;O;
-|
-|;O;
-vous;O;
-y;O;
-trouverez;O;
-un;O;
-double;O;
-courant;O;
-|
-|;O;
-mystique;O;
-et;O;
-sensuel;O;
-qui;O;
-sera;O;
-pour;O;
-|
-|;O;
-vous;O;
-,;O;
-j';O;
-imagine;O;
-,;O;
-un;O;
-curieux;O;
-sujet;O;
+| O 
+Païenne B-LOC
+. O 
 |
 
-|;O;
-d';O;
-observation;O;
-.;O;
+| O 
+Elle O 
+vous O 
+déplaira O 
+parce O 
+qu’ O 
+elle O 
+|
+| O 
+est O 
+une O 
+apothéose O 
+de O 
+l' O 
+amour O 
+, O 
+mais O 
+|
+| O 
+vous O 
+y O 
+trouverez O 
+un O 
+double O 
+courant O 
+|
+| O 
+mystique O 
+et O 
+sensuel O 
+qui O 
+sera O 
+pour O 
+|
+| O 
+vous O 
+, O 
+j' O 
+imagine O 
+, O 
+un O 
+curieux O 
+sujet O 
+|
+
+| O 
+d' O 
+observation O 
+. O 
 |
 
-|;O;
-IT;O;
+| O 
+IT O 
 |
 
-|;O;
-Littérairement;O;
-,;O;
-le;O;
-livre;O;
-est;O;
-hardi;O;
-.;O;
+| O 
+Littérairement O 
+, O 
+le O 
+livre O 
+est O 
+hardi O 
+. O 
 |
-|;O;
-Dans;O;
-le;O;
-val;O;
-fermé;O;
-où;O;
-Pétrarque;B;PER
-im-;O;
+| O 
+Dans O 
+le O 
+val O 
+fermé O 
+où O 
+Pétrarque B-PER
+im- O 
 |
-|;O;
-mortalisa;O;
-l';O;
-amour;O;
-platonique;O;
-,;O;
-j';O;
-ose;O;
+| O 
+mortalisa O 
+l' O 
+amour O 
+platonique O 
+, O 
+j' O 
+ose O 
 |
-|;O;
-décrire;O;
+| O 
+décrire O 

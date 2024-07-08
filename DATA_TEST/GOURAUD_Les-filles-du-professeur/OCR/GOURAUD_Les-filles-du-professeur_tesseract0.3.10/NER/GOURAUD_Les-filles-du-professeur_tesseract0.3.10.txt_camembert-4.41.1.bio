@@ -738,7 +738,7 @@ Dore I-LOC
 demain B-DATE
 Geneviève B-PER
 Geneviève B-PER
-M; B-PER
+M  B-PER
 Liébert I-PER
 Marie B-PER
 Hélène B-PER
@@ -4754,7 +4754,7 @@ de B-PER
 la B-MISC
 Sapini I-MISC
 Auerbach B-PER
-; B-MISC
+  B-MISC
 Deux I-MISC
 Mères, I-MISC
 le I-MISC
@@ -5113,7 +5113,7 @@ Vienne, I-MISC
 Verguin I-MISC
 Eug. B-PER
 Muller I-PER
-; B-MISC
+  B-MISC
 Dé- I-MISC
 couvertes I-MISC
 au I-MISC
@@ -5159,7 +5159,7 @@ capitaine I-MISC
 Boyton I-MISC
 Et. B-PER
 Leroux I-PER
-; B-MISC
+  B-MISC
 l’ I-MISC
 Arc B-LOC
 , B-MISC

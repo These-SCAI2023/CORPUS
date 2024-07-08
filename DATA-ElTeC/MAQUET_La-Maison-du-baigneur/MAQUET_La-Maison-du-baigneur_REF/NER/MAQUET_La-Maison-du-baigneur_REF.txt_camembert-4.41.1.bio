@@ -2792,7 +2792,7 @@ Majesté I-PER
 M. B-PER
 de I-PER
 Biron I-PER
-; B-DATE
+  B-DATE
 un I-DATE
 jour I-DATE
 Paris B-LOC
@@ -3209,7 +3209,7 @@ huit I-DATE
 ans I-DATE
 à B-DATE
 dix-huit I-DATE
-; I-DATE
+  I-DATE
 dix I-DATE
 ans I-DATE
 dans B-DATE
@@ -3977,7 +3977,7 @@ madame B-PER
 des I-PER
 Noyers I-PER
 demain B-DATE
-; B-LOC
+  B-LOC
 Bordes I-LOC
 Melun B-LOC
 Bordes B-PER

@@ -2177,11 +2177,11 @@ Roger B-PER
 Dans B-DATE
 cinq I-DATE
 minutes I-DATE
-; B-DATE
+  B-DATE
 une I-DATE
 heure I-DATE
 après I-DATE
-; B-DATE
+  B-DATE
 une I-DATE
 heure I-DATE
 après I-DATE
@@ -2401,7 +2401,7 @@ petit B-PER
 Chose I-PER
 petit B-MISC
 Chose I-MISC
-BE; B-MISC
+BE  B-MISC
 Er I-MISC
 96 I-MISC
 LE I-MISC

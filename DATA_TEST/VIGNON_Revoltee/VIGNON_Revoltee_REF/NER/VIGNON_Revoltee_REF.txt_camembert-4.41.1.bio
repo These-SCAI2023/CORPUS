@@ -1616,7 +1616,7 @@ comte B-PER
 Le I-PER
 Dam I-PER
 d'Anjault I-PER
-; B-DATE
+  B-DATE
 aujourd'hui I-DATE
 une B-DATE
 heure I-DATE
@@ -5371,7 +5371,7 @@ Madame B-PER
 6 I-DATE
 heures I-DATE
 un B-DATE
-; B-DATE
+  B-DATE
 à I-DATE
 9 I-DATE
 heures I-DATE

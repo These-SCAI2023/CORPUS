@@ -1158,7 +1158,7 @@ PT I-LOC
 madame B-PER
 de I-PER
 Clérac I-PER
-À; B-PER
+À  B-PER
 M£ I-PER
 de I-PER
 Bréhan I-PER
@@ -1362,7 +1362,7 @@ ER I-LOC
 L B-LOC
 OVE B-MISC
 MY B-LOC
-; I-LOC
+  I-LOC
 2 I-LOC
 Li I-LOC
 W I-LOC
@@ -2774,7 +2774,7 @@ Le I-PER
 Dam I-PER
 d’Anjault I-PER
 RÉVOLTÉE B-MISC
-; B-DATE
+  B-DATE
 aujourd’hui I-DATE
 une B-DATE
 heure I-DATE
@@ -3968,7 +3968,7 @@ Re B-MISC
 Edmée B-PER
 Ages B-MISC
 Robert B-PER
-Sri; B-LOC
+Sri  B-LOC
 5eR I-LOC
 Robert B-PER
 qu'Edmée B-PER
@@ -8050,7 +8050,7 @@ Sais B-PER
 Dix B-DATE
 minutes I-DATE
 et I-DATE
-; B-DATE
+  B-DATE
 dix I-DATE
 minutesencore I-DATE
 Saiïs B-PER

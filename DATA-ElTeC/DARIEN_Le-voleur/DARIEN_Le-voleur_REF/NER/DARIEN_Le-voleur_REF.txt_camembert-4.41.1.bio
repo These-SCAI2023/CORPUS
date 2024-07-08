@@ -4424,7 +4424,7 @@ la B-LOC
 France I-LOC
 trois B-DATE
 mois I-DATE
-; I-DATE
+  I-DATE
 trois I-DATE
 mois I-DATE
 Un B-DATE
@@ -4568,7 +4568,7 @@ d B-DATE
 un B-DATE
 mois I-DATE
 février B-DATE
-; I-DATE
+  I-DATE
 cinq I-DATE
 mois I-DATE
 Suisse B-LOC
