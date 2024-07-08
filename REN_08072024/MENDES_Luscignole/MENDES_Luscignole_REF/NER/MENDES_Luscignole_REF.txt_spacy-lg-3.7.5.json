@@ -1,0 +1,4234 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Ouvrières des fabriques",
+    "jalons": [
+      1279,
+      1302
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Hautes",
+    "jalons": [
+      1304,
+      1310
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "hàves",
+    "jalons": [
+      1312,
+      1317
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "effrangée",
+    "jalons": [
+      1556,
+      1565
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "auguste",
+    "jalons": [
+      2831,
+      2838
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Satan",
+    "jalons": [
+      3184,
+      3189
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Etat",
+    "jalons": [
+      3544,
+      3548
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "grand Empereur",
+    "jalons": [
+      3806,
+      3820
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      4103,
+      4107
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "le Seigneur",
+    "jalons": [
+      4538,
+      4549
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "auguste",
+    "jalons": [
+      5579,
+      5586
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "l'Empereur",
+    "jalons": [
+      6895,
+      6905
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Marthe",
+    "jalons": [
+      7515,
+      7521
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      7560,
+      7570
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "II \nLuscignole",
+    "jalons": [
+      7662,
+      7676
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "l'Empereur roi des",
+    "jalons": [
+      7764,
+      7782
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Romains",
+    "jalons": [
+      7783,
+      7790
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      8066,
+      8078
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      8417,
+      8429
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "vagua",
+    "jalons": [
+      8489,
+      8494
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "rossignols",
+    "jalons": [
+      8922,
+      8932
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "schiedam",
+    "jalons": [
+      9144,
+      9152
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Bienheureux de pierre",
+    "jalons": [
+      9318,
+      9339
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Pie Jesu",
+    "jalons": [
+      9873,
+      9881
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Dies iræ",
+    "jalons": [
+      9889,
+      9897
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Carlovingienne basilique",
+    "jalons": [
+      10290,
+      10314
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "usa",
+    "jalons": [
+      10380,
+      10383
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Notre-Dame",
+    "jalons": [
+      10807,
+      10817
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "saint Synésius",
+    "jalons": [
+      10955,
+      10969
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Chérubins",
+    "jalons": [
+      11255,
+      11264
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Auguste",
+    "jalons": [
+      11551,
+      11558
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "Pfui  ",
+    "jalons": [
+      12287,
+      12293
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Jésus",
+    "jalons": [
+      12385,
+      12390
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Chérubins",
+    "jalons": [
+      12474,
+      12483
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Dragon",
+    "jalons": [
+      13085,
+      13091
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Ange",
+    "jalons": [
+      13107,
+      13111
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      13681,
+      13691
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "sainte Catulla",
+    "jalons": [
+      13919,
+      13933
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "saint Hersilien",
+    "jalons": [
+      13949,
+      13964
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      14020,
+      14030
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      15443,
+      15453
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "effarouchât",
+    "jalons": [
+      15482,
+      15493
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      15738,
+      15748
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "l'Empereur",
+    "jalons": [
+      15907,
+      15917
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      16156,
+      16166
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "Jésus",
+    "jalons": [
+      16204,
+      16209
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "esquille",
+    "jalons": [
+      16211,
+      16219
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Joseph",
+    "jalons": [
+      16280,
+      16286
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Notre-Dame la Vierge",
+    "jalons": [
+      16435,
+      16455
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      16573,
+      16583
+    ]
+  },
+  "entite_50": {
+    "label": "PER",
+    "text": "divine Mère",
+    "jalons": [
+      16846,
+      16857
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      17032,
+      17044
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "croppetons",
+    "jalons": [
+      17148,
+      17158
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "Vierge",
+    "jalons": [
+      17252,
+      17258
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      17309,
+      17319
+    ]
+  },
+  "entite_55": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      17511,
+      17523
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "III \nLa ville",
+    "jalons": [
+      17589,
+      17602
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "Alas Schlemp",
+    "jalons": [
+      17660,
+      17672
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      18239,
+      18251
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "M. le Procurateur",
+    "jalons": [
+      18967,
+      18984
+    ]
+  },
+  "entite_60": {
+    "label": "MISC",
+    "text": "Chambre Criminelle",
+    "jalons": [
+      18991,
+      19009
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "M. le Recteur",
+    "jalons": [
+      19256,
+      19269
+    ]
+  },
+  "entite_62": {
+    "label": "ORG",
+    "text": "Faculté de Théologie",
+    "jalons": [
+      19276,
+      19296
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Canairies",
+    "jalons": [
+      19482,
+      19491
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "M. le Professeur de Droit Romain",
+    "jalons": [
+      19496,
+      19528
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      19590,
+      19602
+    ]
+  },
+  "entite_66": {
+    "label": "MISC",
+    "text": "schiedam",
+    "jalons": [
+      20634,
+      20642
+    ]
+  },
+  "entite_67": {
+    "label": "MISC",
+    "text": "schiedam",
+    "jalons": [
+      20917,
+      20925
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      22523,
+      22535
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      23183,
+      23195
+    ]
+  },
+  "entite_70": {
+    "label": "PER",
+    "text": "IV \n",
+    "jalons": [
+      23586,
+      23590
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "rie",
+    "jalons": [
+      23881,
+      23884
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      25944,
+      25956
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      26970,
+      26982
+    ]
+  },
+  "entite_74": {
+    "label": "PER",
+    "text": "Béant",
+    "jalons": [
+      26998,
+      27003
+    ]
+  },
+  "entite_75": {
+    "label": "PER",
+    "text": "auguste",
+    "jalons": [
+      27145,
+      27152
+    ]
+  },
+  "entite_76": {
+    "label": "LOC",
+    "text": "niebelheim",
+    "jalons": [
+      27597,
+      27607
+    ]
+  },
+  "entite_77": {
+    "label": "MISC",
+    "text": "Siegfried  !",
+    "jalons": [
+      27646,
+      27658
+    ]
+  },
+  "entite_78": {
+    "label": "MISC",
+    "text": "schiedam",
+    "jalons": [
+      27725,
+      27733
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "V \n",
+    "jalons": [
+      28217,
+      28220
+    ]
+  },
+  "entite_80": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      28244,
+      28256
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      28525,
+      28535
+    ]
+  },
+  "entite_82": {
+    "label": "MISC",
+    "text": "Synésius de bronze",
+    "jalons": [
+      29241,
+      29259
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "Notre-Dame",
+    "jalons": [
+      29266,
+      29276
+    ]
+  },
+  "entite_84": {
+    "label": "PER",
+    "text": "lustrine",
+    "jalons": [
+      29674,
+      29682
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      29730,
+      29740
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      30353,
+      30365
+    ]
+  },
+  "entite_87": {
+    "label": "MISC",
+    "text": "Oh  !",
+    "jalons": [
+      30837,
+      30842
+    ]
+  },
+  "entite_88": {
+    "label": "MISC",
+    "text": "Futile",
+    "jalons": [
+      31098,
+      31104
+    ]
+  },
+  "entite_89": {
+    "label": "PER",
+    "text": "Attendri",
+    "jalons": [
+      33069,
+      33077
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      33126,
+      33138
+    ]
+  },
+  "entite_91": {
+    "label": "PER",
+    "text": "fùt",
+    "jalons": [
+      34884,
+      34887
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      36329,
+      36341
+    ]
+  },
+  "entite_93": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      36752,
+      36756
+    ]
+  },
+  "entite_94": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      36837,
+      36849
+    ]
+  },
+  "entite_95": {
+    "label": "PER",
+    "text": "VI \n",
+    "jalons": [
+      37007,
+      37011
+    ]
+  },
+  "entite_96": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      37094,
+      37106
+    ]
+  },
+  "entite_97": {
+    "label": "PER",
+    "text": "Tiens",
+    "jalons": [
+      37178,
+      37183
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "rossignols",
+    "jalons": [
+      37300,
+      37310
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "Vieux",
+    "jalons": [
+      37765,
+      37770
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "Dante",
+    "jalons": [
+      37881,
+      37886
+    ]
+  },
+  "entite_101": {
+    "label": "PER",
+    "text": "Tasse",
+    "jalons": [
+      37902,
+      37907
+    ]
+  },
+  "entite_102": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      38220,
+      38232
+    ]
+  },
+  "entite_103": {
+    "label": "MISC",
+    "text": "schiedam",
+    "jalons": [
+      38343,
+      38351
+    ]
+  },
+  "entite_104": {
+    "label": "PER",
+    "text": "grand Empereur",
+    "jalons": [
+      38465,
+      38479
+    ]
+  },
+  "entite_105": {
+    "label": "PER",
+    "text": "l'Empereur",
+    "jalons": [
+      38883,
+      38893
+    ]
+  },
+  "entite_106": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      39414,
+      39424
+    ]
+  },
+  "entite_107": {
+    "label": "MISC",
+    "text": "FIN DU LIVRE PREMIER",
+    "jalons": [
+      39427,
+      39447
+    ]
+  },
+  "entite_108": {
+    "label": "MISC",
+    "text": "DEUXIEME \nI \nMaintenant",
+    "jalons": [
+      39456,
+      39479
+    ]
+  },
+  "entite_109": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      39513,
+      39523
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Alas Schlemp",
+    "jalons": [
+      39527,
+      39539
+    ]
+  },
+  "entite_111": {
+    "label": "PER",
+    "text": "àme",
+    "jalons": [
+      40057,
+      40060
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      40152,
+      40164
+    ]
+  },
+  "entite_113": {
+    "label": "ORG",
+    "text": "enfin—",
+    "jalons": [
+      40267,
+      40273
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "l'Empereur",
+    "jalons": [
+      40453,
+      40463
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      40837,
+      40847
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      41372,
+      41373
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      41494,
+      41506
+    ]
+  },
+  "entite_118": {
+    "label": "PER",
+    "text": "Belphégor",
+    "jalons": [
+      41665,
+      41674
+    ]
+  },
+  "entite_119": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      41766,
+      41770
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "Amsterdam",
+    "jalons": [
+      42038,
+      42047
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Rotterdam",
+    "jalons": [
+      42052,
+      42061
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "La Haye",
+    "jalons": [
+      42069,
+      42076
+    ]
+  },
+  "entite_123": {
+    "label": "MISC",
+    "text": "Alas",
+    "jalons": [
+      42166,
+      42170
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "rossignols",
+    "jalons": [
+      42259,
+      42269
+    ]
+  },
+  "entite_125": {
+    "label": "MISC",
+    "text": "Enfer",
+    "jalons": [
+      42463,
+      42468
+    ]
+  },
+  "entite_126": {
+    "label": "ORG",
+    "text": "Ouvrières des fabriques",
+    "jalons": [
+      42712,
+      42735
+    ]
+  },
+  "entite_127": {
+    "label": "PER",
+    "text": "Satan",
+    "jalons": [
+      43086,
+      43091
+    ]
+  },
+  "entite_128": {
+    "label": "LOC",
+    "text": "Alas Schlemp",
+    "jalons": [
+      43379,
+      43391
+    ]
+  },
+  "entite_129": {
+    "label": "MISC",
+    "text": "gnome",
+    "jalons": [
+      43614,
+      43619
+    ]
+  },
+  "entite_130": {
+    "label": "PER",
+    "text": "rossignols",
+    "jalons": [
+      43630,
+      43640
+    ]
+  },
+  "entite_131": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      44145,
+      44155
+    ]
+  },
+  "entite_132": {
+    "label": "MISC",
+    "text": "Eh  !",
+    "jalons": [
+      44358,
+      44363
+    ]
+  },
+  "entite_133": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      44383,
+      44393
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "D'Alas Schlemp",
+    "jalons": [
+      44433,
+      44447
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "Nul",
+    "jalons": [
+      44528,
+      44531
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "roussi",
+    "jalons": [
+      44681,
+      44687
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      44899,
+      44911
+    ]
+  },
+  "entite_138": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      45357,
+      45367
+    ]
+  },
+  "entite_139": {
+    "label": "LOC",
+    "text": "Alas Schlemp",
+    "jalons": [
+      45490,
+      45502
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "Auguste",
+    "jalons": [
+      45883,
+      45890
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "àme",
+    "jalons": [
+      46401,
+      46404
+    ]
+  },
+  "entite_142": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      46430,
+      46440
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      46792,
+      46804
+    ]
+  },
+  "entite_144": {
+    "label": "PER",
+    "text": "l'Empereur",
+    "jalons": [
+      47007,
+      47017
+    ]
+  },
+  "entite_145": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      47199,
+      47211
+    ]
+  },
+  "entite_146": {
+    "label": "PER",
+    "text": "II",
+    "jalons": [
+      47572,
+      47574
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      48135,
+      48145
+    ]
+  },
+  "entite_148": {
+    "label": "MISC",
+    "text": "tète",
+    "jalons": [
+      48802,
+      48806
+    ]
+  },
+  "entite_149": {
+    "label": "PER",
+    "text": "Belzébuth",
+    "jalons": [
+      48952,
+      48961
+    ]
+  },
+  "entite_150": {
+    "label": "PER",
+    "text": "Lucifer",
+    "jalons": [
+      48969,
+      48976
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "Alas Schlemp",
+    "jalons": [
+      49054,
+      49066
+    ]
+  },
+  "entite_152": {
+    "label": "PER",
+    "text": "àme",
+    "jalons": [
+      49221,
+      49224
+    ]
+  },
+  "entite_153": {
+    "label": "MISC",
+    "text": "Alas",
+    "jalons": [
+      49318,
+      49322
+    ]
+  },
+  "entite_154": {
+    "label": "MISC",
+    "text": "schiedam",
+    "jalons": [
+      49340,
+      49348
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      49591,
+      49592
+    ]
+  },
+  "entite_156": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      50604,
+      50616
+    ]
+  },
+  "entite_157": {
+    "label": "ORG",
+    "text": "Ouvrières",
+    "jalons": [
+      50963,
+      50972
+    ]
+  },
+  "entite_158": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      51367,
+      51379
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      51545,
+      51555
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      52304,
+      52314
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      52459,
+      52460
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      52917,
+      52927
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "Schlemp",
+    "jalons": [
+      53034,
+      53041
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      53353,
+      53365
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      53634,
+      53644
+    ]
+  },
+  "entite_166": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      53712,
+      53724
+    ]
+  },
+  "entite_167": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      54434,
+      54444
+    ]
+  },
+  "entite_168": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      54688,
+      54698
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      55203,
+      55215
+    ]
+  },
+  "entite_170": {
+    "label": "LOC",
+    "text": "Espérance",
+    "jalons": [
+      55329,
+      55338
+    ]
+  },
+  "entite_171": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      55553,
+      55563
+    ]
+  },
+  "entite_172": {
+    "label": "ORG",
+    "text": "porte-Comment",
+    "jalons": [
+      55626,
+      55639
+    ]
+  },
+  "entite_173": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      55984,
+      55994
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      56264,
+      56276
+    ]
+  },
+  "entite_175": {
+    "label": "MISC",
+    "text": "Ah  !",
+    "jalons": [
+      56390,
+      56395
+    ]
+  },
+  "entite_176": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      56400,
+      56404
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      56536,
+      56548
+    ]
+  },
+  "entite_178": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      56989,
+      56999
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      57190,
+      57202
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "Alas Schlemp",
+    "jalons": [
+      57669,
+      57681
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      57711,
+      57712
+    ]
+  },
+  "entite_182": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      57809,
+      57819
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "Alas",
+    "jalons": [
+      57908,
+      57912
+    ]
+  },
+  "entite_184": {
+    "label": "MISC",
+    "text": "Oh  !",
+    "jalons": [
+      58047,
+      58052
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      58904,
+      58914
+    ]
+  },
+  "entite_186": {
+    "label": "LOC",
+    "text": "Enserré",
+    "jalons": [
+      59230,
+      59237
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      59644,
+      59654
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      59969,
+      59981
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Alas Schlemp",
+    "jalons": [
+      60075,
+      60087
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      60198,
+      60199
+    ]
+  },
+  "entite_191": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      60650,
+      60660
+    ]
+  },
+  "entite_192": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      61340,
+      61350
+    ]
+  },
+  "entite_193": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      61523,
+      61535
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "Naguère",
+    "jalons": [
+      61841,
+      61848
+    ]
+  },
+  "entite_195": {
+    "label": "ORG",
+    "text": "Ouvrières des fabriques",
+    "jalons": [
+      62018,
+      62041
+    ]
+  },
+  "entite_196": {
+    "label": "MISC",
+    "text": "Ouvriers",
+    "jalons": [
+      62050,
+      62058
+    ]
+  },
+  "entite_197": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      62141,
+      62145
+    ]
+  },
+  "entite_198": {
+    "label": "MISC",
+    "text": "Chérubins",
+    "jalons": [
+      62460,
+      62469
+    ]
+  },
+  "entite_199": {
+    "label": "PER",
+    "text": "Sainte Vierge",
+    "jalons": [
+      62505,
+      62518
+    ]
+  },
+  "entite_200": {
+    "label": "PER",
+    "text": "Notre-Dame",
+    "jalons": [
+      62695,
+      62705
+    ]
+  },
+  "entite_201": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      63083,
+      63095
+    ]
+  },
+  "entite_202": {
+    "label": "PER",
+    "text": "l'Empereur",
+    "jalons": [
+      63612,
+      63622
+    ]
+  },
+  "entite_203": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      64174,
+      64186
+    ]
+  },
+  "entite_204": {
+    "label": "PER",
+    "text": "III",
+    "jalons": [
+      64549,
+      64552
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "madame Marie",
+    "jalons": [
+      65031,
+      65043
+    ]
+  },
+  "entite_206": {
+    "label": "PER",
+    "text": "l'Empereur",
+    "jalons": [
+      65118,
+      65128
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "Alas Schlemp",
+    "jalons": [
+      65335,
+      65347
+    ]
+  },
+  "entite_208": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      66250,
+      66254
+    ]
+  },
+  "entite_209": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      66377,
+      66387
+    ]
+  },
+  "entite_210": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      66574,
+      66586
+    ]
+  },
+  "entite_211": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      67187,
+      67197
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "Alas Schlemp",
+    "jalons": [
+      67395,
+      67407
+    ]
+  },
+  "entite_213": {
+    "label": "PER",
+    "text": "hotte du Diable",
+    "jalons": [
+      67911,
+      67926
+    ]
+  },
+  "entite_214": {
+    "label": "LOC",
+    "text": "Alas Schlemp",
+    "jalons": [
+      68224,
+      68236
+    ]
+  },
+  "entite_215": {
+    "label": "MISC",
+    "text": "Brisée d'angoisse",
+    "jalons": [
+      69311,
+      69328
+    ]
+  },
+  "entite_216": {
+    "label": "LOC",
+    "text": "Eveillée",
+    "jalons": [
+      69494,
+      69502
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      69727,
+      69737
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      70186,
+      70196
+    ]
+  },
+  "entite_219": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      70294,
+      70306
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "Obéron",
+    "jalons": [
+      70947,
+      70953
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      71638,
+      71648
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "Clown",
+    "jalons": [
+      71810,
+      71815
+    ]
+  },
+  "entite_223": {
+    "label": "PER",
+    "text": "Polyphème",
+    "jalons": [
+      71890,
+      71899
+    ]
+  },
+  "entite_224": {
+    "label": "MISC",
+    "text": "Polyphème",
+    "jalons": [
+      71984,
+      71993
+    ]
+  },
+  "entite_225": {
+    "label": "PER",
+    "text": "rougeaud",
+    "jalons": [
+      72899,
+      72907
+    ]
+  },
+  "entite_226": {
+    "label": "PER",
+    "text": "Polyphème",
+    "jalons": [
+      73146,
+      73155
+    ]
+  },
+  "entite_227": {
+    "label": "LOC",
+    "text": "califourchon",
+    "jalons": [
+      73297,
+      73309
+    ]
+  },
+  "entite_228": {
+    "label": "MISC",
+    "text": "Fichue nuit  !",
+    "jalons": [
+      73415,
+      73429
+    ]
+  },
+  "entite_229": {
+    "label": "PER",
+    "text": "Cunégonde",
+    "jalons": [
+      73474,
+      73483
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "Cunégonde",
+    "jalons": [
+      73568,
+      73577
+    ]
+  },
+  "entite_231": {
+    "label": "PER",
+    "text": "Japhet",
+    "jalons": [
+      73675,
+      73681
+    ]
+  },
+  "entite_232": {
+    "label": "PER",
+    "text": "Japhet",
+    "jalons": [
+      73723,
+      73729
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "Polyphème",
+    "jalons": [
+      74461,
+      74470
+    ]
+  },
+  "entite_234": {
+    "label": "MISC",
+    "text": "les violettes",
+    "jalons": [
+      75191,
+      75204
+    ]
+  },
+  "entite_235": {
+    "label": "PER",
+    "text": "Polyphème",
+    "jalons": [
+      75260,
+      75269
+    ]
+  },
+  "entite_236": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      75409,
+      75419
+    ]
+  },
+  "entite_237": {
+    "label": "MISC",
+    "text": "Tiens",
+    "jalons": [
+      76211,
+      76216
+    ]
+  },
+  "entite_238": {
+    "label": "LOC",
+    "text": "Nain",
+    "jalons": [
+      76320,
+      76324
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "Venir",
+    "jalons": [
+      76591,
+      76596
+    ]
+  },
+  "entite_240": {
+    "label": "PER",
+    "text": "devantage",
+    "jalons": [
+      76737,
+      76746
+    ]
+  },
+  "entite_241": {
+    "label": "PER",
+    "text": "Japhet",
+    "jalons": [
+      76754,
+      76760
+    ]
+  },
+  "entite_242": {
+    "label": "PER",
+    "text": "rougeaud",
+    "jalons": [
+      76771,
+      76779
+    ]
+  },
+  "entite_243": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      76957,
+      76959
+    ]
+  },
+  "entite_244": {
+    "label": "PER",
+    "text": "Japhet",
+    "jalons": [
+      77937,
+      77943
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Cunégonde",
+    "jalons": [
+      77967,
+      77976
+    ]
+  },
+  "entite_246": {
+    "label": "MISC",
+    "text": "Où ça ?",
+    "jalons": [
+      78100,
+      78107
+    ]
+  },
+  "entite_247": {
+    "label": "MISC",
+    "text": "le Paradis terrestre",
+    "jalons": [
+      78116,
+      78136
+    ]
+  },
+  "entite_248": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      78479,
+      78481
+    ]
+  },
+  "entite_249": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      78543,
+      78553
+    ]
+  },
+  "entite_250": {
+    "label": "MISC",
+    "text": "Et tu veux t'",
+    "jalons": [
+      78659,
+      78672
+    ]
+  },
+  "entite_251": {
+    "label": "PER",
+    "text": "Voyons",
+    "jalons": [
+      78704,
+      78710
+    ]
+  },
+  "entite_252": {
+    "label": "MISC",
+    "text": "Oh  !",
+    "jalons": [
+      79027,
+      79032
+    ]
+  },
+  "entite_253": {
+    "label": "MISC",
+    "text": "Eh  !",
+    "jalons": [
+      79046,
+      79051
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      79139,
+      79149
+    ]
+  },
+  "entite_255": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      79564,
+      79574
+    ]
+  },
+  "entite_256": {
+    "label": "PER",
+    "text": "Japhet",
+    "jalons": [
+      80109,
+      80115
+    ]
+  },
+  "entite_257": {
+    "label": "PER",
+    "text": "Sapristi",
+    "jalons": [
+      80121,
+      80129
+    ]
+  },
+  "entite_258": {
+    "label": "MISC",
+    "text": "Eh bien ?",
+    "jalons": [
+      80136,
+      80145
+    ]
+  },
+  "entite_259": {
+    "label": "PER",
+    "text": "Japhet",
+    "jalons": [
+      80237,
+      80243
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "Cunégonde",
+    "jalons": [
+      80854,
+      80863
+    ]
+  },
+  "entite_261": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      80912,
+      80922
+    ]
+  },
+  "entite_262": {
+    "label": "PER",
+    "text": "Polyphème",
+    "jalons": [
+      81140,
+      81149
+    ]
+  },
+  "entite_263": {
+    "label": "MISC",
+    "text": "IV \n",
+    "jalons": [
+      81278,
+      81282
+    ]
+  },
+  "entite_264": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      81468,
+      81478
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "Éparse",
+    "jalons": [
+      81481,
+      81487
+    ]
+  },
+  "entite_266": {
+    "label": "PER",
+    "text": "Bacchus",
+    "jalons": [
+      81584,
+      81591
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "Minerve",
+    "jalons": [
+      81616,
+      81623
+    ]
+  },
+  "entite_268": {
+    "label": "MISC",
+    "text": "l'Ivresse",
+    "jalons": [
+      81633,
+      81642
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "Sagese",
+    "jalons": [
+      81677,
+      81683
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Hôtel de la Poste",
+    "jalons": [
+      82651,
+      82668
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Bacchus",
+    "jalons": [
+      83753,
+      83760
+    ]
+  },
+  "entite_272": {
+    "label": "PER",
+    "text": "Minerve",
+    "jalons": [
+      83784,
+      83791
+    ]
+  },
+  "entite_273": {
+    "label": "PER",
+    "text": "languissamment",
+    "jalons": [
+      83880,
+      83894
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "Lorely",
+    "jalons": [
+      84017,
+      84023
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Foire",
+    "jalons": [
+      84063,
+      84068
+    ]
+  },
+  "entite_276": {
+    "label": "MISC",
+    "text": "de Leipzig",
+    "jalons": [
+      84147,
+      84157
+    ]
+  },
+  "entite_277": {
+    "label": "LOC",
+    "text": "Dresde",
+    "jalons": [
+      84171,
+      84177
+    ]
+  },
+  "entite_278": {
+    "label": "LOC",
+    "text": "Nijni-Nowgorod",
+    "jalons": [
+      84191,
+      84205
+    ]
+  },
+  "entite_279": {
+    "label": "PER",
+    "text": "Sirinagor",
+    "jalons": [
+      84219,
+      84228
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Neuilly",
+    "jalons": [
+      84242,
+      84249
+    ]
+  },
+  "entite_281": {
+    "label": "PER",
+    "text": "Bidel",
+    "jalons": [
+      84374,
+      84379
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Sahara",
+    "jalons": [
+      84461,
+      84467
+    ]
+  },
+  "entite_283": {
+    "label": "PER",
+    "text": "Pezon",
+    "jalons": [
+      84474,
+      84479
+    ]
+  },
+  "entite_284": {
+    "label": "LOC",
+    "text": "Inde",
+    "jalons": [
+      85383,
+      85387
+    ]
+  },
+  "entite_285": {
+    "label": "LOC",
+    "text": "Congo",
+    "jalons": [
+      85419,
+      85424
+    ]
+  },
+  "entite_286": {
+    "label": "LOC",
+    "text": "Egypte",
+    "jalons": [
+      85450,
+      85456
+    ]
+  },
+  "entite_287": {
+    "label": "LOC",
+    "text": "Florides",
+    "jalons": [
+      85484,
+      85492
+    ]
+  },
+  "entite_288": {
+    "label": "PER",
+    "text": "Rama",
+    "jalons": [
+      86552,
+      86556
+    ]
+  },
+  "entite_289": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      87427,
+      87437
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "almées",
+    "jalons": [
+      89048,
+      89054
+    ]
+  },
+  "entite_291": {
+    "label": "PER",
+    "text": "Japhet",
+    "jalons": [
+      89936,
+      89942
+    ]
+  },
+  "entite_292": {
+    "label": "LOC",
+    "text": "orang-outang",
+    "jalons": [
+      90225,
+      90237
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      90415,
+      90425
+    ]
+  },
+  "entite_294": {
+    "label": "LOC",
+    "text": "Amérique",
+    "jalons": [
+      90537,
+      90545
+    ]
+  },
+  "entite_295": {
+    "label": "LOC",
+    "text": "Espagne",
+    "jalons": [
+      90551,
+      90558
+    ]
+  },
+  "entite_296": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      91299,
+      91309
+    ]
+  },
+  "entite_297": {
+    "label": "PER",
+    "text": "l'Empereur",
+    "jalons": [
+      91690,
+      91700
+    ]
+  },
+  "entite_298": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      91907,
+      91917
+    ]
+  },
+  "entite_299": {
+    "label": "PER",
+    "text": "Peuh",
+    "jalons": [
+      92049,
+      92053
+    ]
+  },
+  "entite_300": {
+    "label": "MISC",
+    "text": "Sept mille  !",
+    "jalons": [
+      92060,
+      92073
+    ]
+  },
+  "entite_301": {
+    "label": "MISC",
+    "text": "Bah  ! \n— Huit mille  !",
+    "jalons": [
+      92077,
+      92100
+    ]
+  },
+  "entite_302": {
+    "label": "MISC",
+    "text": "Fi  !",
+    "jalons": [
+      92104,
+      92109
+    ]
+  },
+  "entite_303": {
+    "label": "PER",
+    "text": "Garder Luscignole",
+    "jalons": [
+      92152,
+      92169
+    ]
+  },
+  "entite_304": {
+    "label": "PER",
+    "text": "Japhet",
+    "jalons": [
+      92379,
+      92385
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "somme",
+    "jalons": [
+      92713,
+      92718
+    ]
+  },
+  "entite_306": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      92754,
+      92764
+    ]
+  },
+  "entite_307": {
+    "label": "LOC",
+    "text": "Alas Schlemp",
+    "jalons": [
+      93767,
+      93779
+    ]
+  },
+  "entite_308": {
+    "label": "ORG",
+    "text": "Lussignole rossignolante",
+    "jalons": [
+      94478,
+      94502
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "Oiseau-Lyre",
+    "jalons": [
+      94820,
+      94831
+    ]
+  },
+  "entite_310": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      95136,
+      95146
+    ]
+  },
+  "entite_311": {
+    "label": "MISC",
+    "text": "d'Orient",
+    "jalons": [
+      95319,
+      95327
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "Vienne",
+    "jalons": [
+      95722,
+      95728
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Pétersbourg",
+    "jalons": [
+      95737,
+      95748
+    ]
+  },
+  "entite_314": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      95927,
+      95937
+    ]
+  },
+  "entite_315": {
+    "label": "PER",
+    "text": "baladine",
+    "jalons": [
+      96124,
+      96132
+    ]
+  },
+  "entite_316": {
+    "label": "MISC",
+    "text": "les oiseaux",
+    "jalons": [
+      96155,
+      96166
+    ]
+  },
+  "entite_317": {
+    "label": "PER",
+    "text": "rossignol",
+    "jalons": [
+      96229,
+      96238
+    ]
+  },
+  "entite_318": {
+    "label": "MISC",
+    "text": "pépier",
+    "jalons": [
+      96766,
+      96772
+    ]
+  },
+  "entite_319": {
+    "label": "PER",
+    "text": "bredouilleuse des fauvettes",
+    "jalons": [
+      97503,
+      97530
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "tète noire",
+    "jalons": [
+      97533,
+      97543
+    ]
+  },
+  "entite_321": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      98032,
+      98042
+    ]
+  },
+  "entite_322": {
+    "label": "PER",
+    "text": "àme",
+    "jalons": [
+      98424,
+      98427
+    ]
+  },
+  "entite_323": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      98581,
+      98591
+    ]
+  },
+  "entite_324": {
+    "label": "LOC",
+    "text": "Allemagne",
+    "jalons": [
+      98955,
+      98964
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "Palais",
+    "jalons": [
+      98991,
+      98997
+    ]
+  },
+  "entite_326": {
+    "label": "MISC",
+    "text": "Exposition universelle",
+    "jalons": [
+      99028,
+      99050
+    ]
+  },
+  "entite_327": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      99081,
+      99091
+    ]
+  },
+  "entite_328": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      99151,
+      99156
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Munich",
+    "jalons": [
+      99162,
+      99168
+    ]
+  },
+  "entite_330": {
+    "label": "PER",
+    "text": "Mallinger",
+    "jalons": [
+      99377,
+      99386
+    ]
+  },
+  "entite_331": {
+    "label": "PER",
+    "text": "Niemann",
+    "jalons": [
+      99388,
+      99395
+    ]
+  },
+  "entite_332": {
+    "label": "PER",
+    "text": "Madame Krauss",
+    "jalons": [
+      99400,
+      99413
+    ]
+  },
+  "entite_333": {
+    "label": "PER",
+    "text": "Schnorr",
+    "jalons": [
+      99418,
+      99425
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "Tristan",
+    "jalons": [
+      99452,
+      99459
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      99579,
+      99589
+    ]
+  },
+  "entite_336": {
+    "label": "MISC",
+    "text": "Siegfried",
+    "jalons": [
+      99677,
+      99686
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "Brunehild",
+    "jalons": [
+      99723,
+      99732
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      99841,
+      99851
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "Nuremberg",
+    "jalons": [
+      100042,
+      100051
+    ]
+  },
+  "entite_340": {
+    "label": "LOC",
+    "text": "Weimar",
+    "jalons": [
+      100129,
+      100135
+    ]
+  },
+  "entite_341": {
+    "label": "MISC",
+    "text": "Altesse",
+    "jalons": [
+      100210,
+      100217
+    ]
+  },
+  "entite_342": {
+    "label": "PER",
+    "text": "princesse de Galles",
+    "jalons": [
+      100466,
+      100485
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Angleterre",
+    "jalons": [
+      100500,
+      100510
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      100522,
+      100532
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "Auguste",
+    "jalons": [
+      101535,
+      101542
+    ]
+  },
+  "entite_346": {
+    "label": "PER",
+    "text": "sainte Vierge",
+    "jalons": [
+      101656,
+      101669
+    ]
+  },
+  "entite_347": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      101945,
+      101957
+    ]
+  },
+  "entite_348": {
+    "label": "PER",
+    "text": "rossignols",
+    "jalons": [
+      102093,
+      102103
+    ]
+  },
+  "entite_349": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      102477,
+      102489
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "Saint-Pétersbourg",
+    "jalons": [
+      103456,
+      103473
+    ]
+  },
+  "entite_351": {
+    "label": "PER",
+    "text": "prince Fédro-Schemyl",
+    "jalons": [
+      103499,
+      103519
+    ]
+  },
+  "entite_352": {
+    "label": "LOC",
+    "text": "Thuringe",
+    "jalons": [
+      103637,
+      103645
+    ]
+  },
+  "entite_353": {
+    "label": "PER",
+    "text": "V \nBien",
+    "jalons": [
+      103751,
+      103758
+    ]
+  },
+  "entite_354": {
+    "label": "LOC",
+    "text": "jardin de la Résidence",
+    "jalons": [
+      103956,
+      103978
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "Hans Hammer",
+    "jalons": [
+      104376,
+      104387
+    ]
+  },
+  "entite_356": {
+    "label": "PER",
+    "text": "Thésée",
+    "jalons": [
+      104892,
+      104898
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Athènes",
+    "jalons": [
+      104912,
+      104919
+    ]
+  },
+  "entite_358": {
+    "label": "PER",
+    "text": "Frédérick",
+    "jalons": [
+      105319,
+      105328
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "Thuringe",
+    "jalons": [
+      105363,
+      105371
+    ]
+  },
+  "entite_360": {
+    "label": "LOC",
+    "text": "Nonnenbourg",
+    "jalons": [
+      105606,
+      105617
+    ]
+  },
+  "entite_361": {
+    "label": "PER",
+    "text": "Lisi",
+    "jalons": [
+      105963,
+      105967
+    ]
+  },
+  "entite_362": {
+    "label": "PER",
+    "text": "Hans Hammer",
+    "jalons": [
+      106412,
+      106423
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "palais de Nonnenbourg",
+    "jalons": [
+      107255,
+      107276
+    ]
+  },
+  "entite_364": {
+    "label": "MISC",
+    "text": "Apollo Clytie",
+    "jalons": [
+      107419,
+      107432
+    ]
+  },
+  "entite_365": {
+    "label": "PER",
+    "text": "Frédérick",
+    "jalons": [
+      107684,
+      107693
+    ]
+  },
+  "entite_366": {
+    "label": "MISC",
+    "text": "Idéal",
+    "jalons": [
+      109764,
+      109769
+    ]
+  },
+  "entite_367": {
+    "label": "PER",
+    "text": "Frédérick la manda",
+    "jalons": [
+      109783,
+      109801
+    ]
+  },
+  "entite_368": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      109818,
+      109828
+    ]
+  },
+  "entite_369": {
+    "label": "MISC",
+    "text": "Mademoiselle",
+    "jalons": [
+      109894,
+      109906
+    ]
+  },
+  "entite_370": {
+    "label": "MISC",
+    "text": "Sa Majesté",
+    "jalons": [
+      110038,
+      110048
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      110146,
+      110156
+    ]
+  },
+  "entite_372": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      110605,
+      110615
+    ]
+  },
+  "entite_373": {
+    "label": "PER",
+    "text": "rossignols",
+    "jalons": [
+      111795,
+      111805
+    ]
+  },
+  "entite_374": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      112377,
+      112387
+    ]
+  },
+  "entite_375": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      112475,
+      112485
+    ]
+  },
+  "entite_376": {
+    "label": "PER",
+    "text": "rossignols",
+    "jalons": [
+      113479,
+      113489
+    ]
+  },
+  "entite_377": {
+    "label": "PER",
+    "text": "pamoison",
+    "jalons": [
+      114368,
+      114376
+    ]
+  },
+  "entite_378": {
+    "label": "MISC",
+    "text": "Oh  !",
+    "jalons": [
+      114463,
+      114468
+    ]
+  },
+  "entite_379": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      116787,
+      116797
+    ]
+  },
+  "entite_380": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      116972,
+      116980
+    ]
+  },
+  "entite_381": {
+    "label": "MISC",
+    "text": "Sire  !",
+    "jalons": [
+      117049,
+      117056
+    ]
+  },
+  "entite_382": {
+    "label": "PER",
+    "text": "fùt le roi",
+    "jalons": [
+      117191,
+      117201
+    ]
+  },
+  "entite_383": {
+    "label": "PER",
+    "text": "Sire",
+    "jalons": [
+      117332,
+      117336
+    ]
+  },
+  "entite_384": {
+    "label": "PER",
+    "text": "Frédérick",
+    "jalons": [
+      117402,
+      117411
+    ]
+  },
+  "entite_385": {
+    "label": "MISC",
+    "text": "Oh  !",
+    "jalons": [
+      117574,
+      117579
+    ]
+  },
+  "entite_386": {
+    "label": "MISC",
+    "text": "Nérons innocents",
+    "jalons": [
+      118019,
+      118035
+    ]
+  },
+  "entite_387": {
+    "label": "LOC",
+    "text": "Restez",
+    "jalons": [
+      118191,
+      118197
+    ]
+  },
+  "entite_388": {
+    "label": "MISC",
+    "text": "Mademoiselle",
+    "jalons": [
+      118230,
+      118242
+    ]
+  },
+  "entite_389": {
+    "label": "PER",
+    "text": "Frédérick",
+    "jalons": [
+      118518,
+      118527
+    ]
+  },
+  "entite_390": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      118547,
+      118557
+    ]
+  },
+  "entite_391": {
+    "label": "LOC",
+    "text": "Est",
+    "jalons": [
+      118864,
+      118867
+    ]
+  },
+  "entite_392": {
+    "label": "PER",
+    "text": "Hans Hammer",
+    "jalons": [
+      118950,
+      118961
+    ]
+  },
+  "entite_393": {
+    "label": "MISC",
+    "text": "Ah  !",
+    "jalons": [
+      119153,
+      119158
+    ]
+  },
+  "entite_394": {
+    "label": "MISC",
+    "text": "Mademoiselle",
+    "jalons": [
+      119972,
+      119984
+    ]
+  },
+  "entite_395": {
+    "label": "PER",
+    "text": "Sa Majesté",
+    "jalons": [
+      120057,
+      120067
+    ]
+  },
+  "entite_396": {
+    "label": "PER",
+    "text": "VI",
+    "jalons": [
+      120083,
+      120085
+    ]
+  },
+  "entite_397": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      120521,
+      120524
+    ]
+  },
+  "entite_398": {
+    "label": "PER",
+    "text": "Frédérick",
+    "jalons": [
+      120724,
+      120733
+    ]
+  },
+  "entite_399": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      121285,
+      121295
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Russes",
+    "jalons": [
+      121868,
+      121874
+    ]
+  },
+  "entite_401": {
+    "label": "LOC",
+    "text": "Panagias des Circassiennes",
+    "jalons": [
+      121909,
+      121935
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      122179,
+      122184
+    ]
+  },
+  "entite_403": {
+    "label": "ORG",
+    "text": "Porcherons",
+    "jalons": [
+      122239,
+      122249
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "Rapée",
+    "jalons": [
+      122270,
+      122275
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Colombes",
+    "jalons": [
+      122403,
+      122411
+    ]
+  },
+  "entite_406": {
+    "label": "MISC",
+    "text": "Serpents du Nil",
+    "jalons": [
+      122432,
+      122447
+    ]
+  },
+  "entite_407": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      122524,
+      122534
+    ]
+  },
+  "entite_408": {
+    "label": "PER",
+    "text": "Frédérick Ier",
+    "jalons": [
+      122741,
+      122754
+    ]
+  },
+  "entite_409": {
+    "label": "PER",
+    "text": "Frédérick II",
+    "jalons": [
+      122821,
+      122833
+    ]
+  },
+  "entite_410": {
+    "label": "MISC",
+    "text": "Sa Majesté",
+    "jalons": [
+      123397,
+      123407
+    ]
+  },
+  "entite_411": {
+    "label": "LOC",
+    "text": "Bohême",
+    "jalons": [
+      123955,
+      123961
+    ]
+  },
+  "entite_412": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      125567,
+      125577
+    ]
+  },
+  "entite_413": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      125884,
+      125894
+    ]
+  },
+  "entite_414": {
+    "label": "PER",
+    "text": "rossignols",
+    "jalons": [
+      127824,
+      127834
+    ]
+  },
+  "entite_415": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      127884,
+      127894
+    ]
+  },
+  "entite_416": {
+    "label": "MISC",
+    "text": "TROISIÈME \nI \nElle était en cage",
+    "jalons": [
+      128574,
+      128606
+    ]
+  },
+  "entite_417": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      129365,
+      129375
+    ]
+  },
+  "entite_418": {
+    "label": "PER",
+    "text": "Assise",
+    "jalons": [
+      130579,
+      130585
+    ]
+  },
+  "entite_419": {
+    "label": "MISC",
+    "text": "Sa Majesté",
+    "jalons": [
+      131362,
+      131372
+    ]
+  },
+  "entite_420": {
+    "label": "PER",
+    "text": "Frédérick",
+    "jalons": [
+      132079,
+      132088
+    ]
+  },
+  "entite_421": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      132494,
+      132504
+    ]
+  },
+  "entite_422": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      133137,
+      133147
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      133753,
+      133763
+    ]
+  },
+  "entite_424": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      134443,
+      134453
+    ]
+  },
+  "entite_425": {
+    "label": "PER",
+    "text": "sauteler",
+    "jalons": [
+      134466,
+      134474
+    ]
+  },
+  "entite_426": {
+    "label": "PER",
+    "text": "rameau",
+    "jalons": [
+      134488,
+      134494
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "rameau",
+    "jalons": [
+      134498,
+      134504
+    ]
+  },
+  "entite_428": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      135258,
+      135268
+    ]
+  },
+  "entite_429": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      136161,
+      136171
+    ]
+  },
+  "entite_430": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      137047,
+      137057
+    ]
+  },
+  "entite_431": {
+    "label": "PER",
+    "text": "rameau",
+    "jalons": [
+      137957,
+      137963
+    ]
+  },
+  "entite_432": {
+    "label": "PER",
+    "text": "rameau",
+    "jalons": [
+      137967,
+      137973
+    ]
+  },
+  "entite_433": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      138136,
+      138140
+    ]
+  },
+  "entite_434": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      138631,
+      138641
+    ]
+  },
+  "entite_435": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      138796,
+      138808
+    ]
+  },
+  "entite_436": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      139237,
+      139247
+    ]
+  },
+  "entite_437": {
+    "label": "PER",
+    "text": "éper",
+    "jalons": [
+      139479,
+      139483
+    ]
+  },
+  "entite_438": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      139663,
+      139673
+    ]
+  },
+  "entite_439": {
+    "label": "PER",
+    "text": "gnome Alas Schlemp",
+    "jalons": [
+      139712,
+      139730
+    ]
+  },
+  "entite_440": {
+    "label": "MISC",
+    "text": "Eh  !",
+    "jalons": [
+      139756,
+      139761
+    ]
+  },
+  "entite_441": {
+    "label": "PER",
+    "text": "épiât",
+    "jalons": [
+      139794,
+      139799
+    ]
+  },
+  "entite_442": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      140404,
+      140414
+    ]
+  },
+  "entite_443": {
+    "label": "LOC",
+    "text": "Alas Schlemp",
+    "jalons": [
+      140603,
+      140615
+    ]
+  },
+  "entite_444": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      141006,
+      141018
+    ]
+  },
+  "entite_445": {
+    "label": "MISC",
+    "text": "Viens  !",
+    "jalons": [
+      141108,
+      141116
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      141120,
+      141125
+    ]
+  },
+  "entite_447": {
+    "label": "MISC",
+    "text": "Viens  !",
+    "jalons": [
+      141140,
+      141148
+    ]
+  },
+  "entite_448": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      141530,
+      141540
+    ]
+  },
+  "entite_449": {
+    "label": "PER",
+    "text": "II \nDe l'autre côté de la frontière",
+    "jalons": [
+      141562,
+      141597
+    ]
+  },
+  "entite_450": {
+    "label": "LOC",
+    "text": "Brasserie",
+    "jalons": [
+      141740,
+      141749
+    ]
+  },
+  "entite_451": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      143058,
+      143070
+    ]
+  },
+  "entite_452": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      143080,
+      143090
+    ]
+  },
+  "entite_453": {
+    "label": "PER",
+    "text": "hommasse",
+    "jalons": [
+      143429,
+      143437
+    ]
+  },
+  "entite_454": {
+    "label": "LOC",
+    "text": "schiedam",
+    "jalons": [
+      143604,
+      143612
+    ]
+  },
+  "entite_455": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      143654,
+      143664
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      143670,
+      143676
+    ]
+  },
+  "entite_457": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      143695,
+      143705
+    ]
+  },
+  "entite_458": {
+    "label": "LOC",
+    "text": "Bois",
+    "jalons": [
+      143998,
+      144002
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "schiedam",
+    "jalons": [
+      144824,
+      144832
+    ]
+  },
+  "entite_460": {
+    "label": "MISC",
+    "text": "Ah  !",
+    "jalons": [
+      145180,
+      145185
+    ]
+  },
+  "entite_461": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      145279,
+      145289
+    ]
+  },
+  "entite_462": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      145294,
+      145296
+    ]
+  },
+  "entite_463": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      145771,
+      145773
+    ]
+  },
+  "entite_464": {
+    "label": "MISC",
+    "text": "Oh  !",
+    "jalons": [
+      146345,
+      146350
+    ]
+  },
+  "entite_465": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      146355,
+      146359
+    ]
+  },
+  "entite_466": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      146367,
+      146377
+    ]
+  },
+  "entite_467": {
+    "label": "PER",
+    "text": "bonne Vierge",
+    "jalons": [
+      146422,
+      146434
+    ]
+  },
+  "entite_468": {
+    "label": "PER",
+    "text": "rossignol",
+    "jalons": [
+      146592,
+      146601
+    ]
+  },
+  "entite_469": {
+    "label": "MISC",
+    "text": "Les oiseaux  !",
+    "jalons": [
+      147241,
+      147255
+    ]
+  },
+  "entite_470": {
+    "label": "MISC",
+    "text": "les oiseaux",
+    "jalons": [
+      147256,
+      147267
+    ]
+  },
+  "entite_471": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      147280,
+      147290
+    ]
+  },
+  "entite_472": {
+    "label": "MISC",
+    "text": "Ah  !",
+    "jalons": [
+      147525,
+      147530
+    ]
+  },
+  "entite_473": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      147557,
+      147569
+    ]
+  },
+  "entite_474": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      147947,
+      147957
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "schiedam",
+    "jalons": [
+      148276,
+      148284
+    ]
+  },
+  "entite_476": {
+    "label": "LOC",
+    "text": "schiedam",
+    "jalons": [
+      150119,
+      150127
+    ]
+  },
+  "entite_477": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      150602,
+      150612
+    ]
+  },
+  "entite_478": {
+    "label": "MISC",
+    "text": "schiedam",
+    "jalons": [
+      151105,
+      151113
+    ]
+  },
+  "entite_479": {
+    "label": "PER",
+    "text": "Hans Hammer",
+    "jalons": [
+      151193,
+      151204
+    ]
+  },
+  "entite_480": {
+    "label": "MISC",
+    "text": "Tonnerre du ciel",
+    "jalons": [
+      151217,
+      151233
+    ]
+  },
+  "entite_481": {
+    "label": "PER",
+    "text": "Schlemp",
+    "jalons": [
+      152303,
+      152310
+    ]
+  },
+  "entite_482": {
+    "label": "MISC",
+    "text": "gnome",
+    "jalons": [
+      152419,
+      152424
+    ]
+  },
+  "entite_483": {
+    "label": "ORG",
+    "text": "tassée\\",
+    "jalons": [
+      152487,
+      152494
+    ]
+  },
+  "entite_484": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      152570,
+      152576
+    ]
+  },
+  "entite_485": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      152596,
+      152608
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      152611,
+      152621
+    ]
+  },
+  "entite_487": {
+    "label": "PER",
+    "text": "III",
+    "jalons": [
+      152653,
+      152656
+    ]
+  },
+  "entite_488": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      153102,
+      153112
+    ]
+  },
+  "entite_489": {
+    "label": "PER",
+    "text": "loqueteuse",
+    "jalons": [
+      154280,
+      154290
+    ]
+  },
+  "entite_490": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      154366,
+      154378
+    ]
+  },
+  "entite_491": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      154622,
+      154632
+    ]
+  },
+  "entite_492": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      156198,
+      156208
+    ]
+  },
+  "entite_493": {
+    "label": "MISC",
+    "text": "IV \nC'était un beau soir d'été",
+    "jalons": [
+      156470,
+      156500
+    ]
+  },
+  "entite_494": {
+    "label": "MISC",
+    "text": "Oh  !",
+    "jalons": [
+      156675,
+      156680
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      157430,
+      157440
+    ]
+  },
+  "entite_496": {
+    "label": "MISC",
+    "text": "Écoute, je meurs de chagrin",
+    "jalons": [
+      157446,
+      157473
+    ]
+  },
+  "entite_497": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      158658,
+      158668
+    ]
+  },
+  "entite_498": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      158792,
+      158804
+    ]
+  },
+  "entite_499": {
+    "label": "MISC",
+    "text": "Oh  !",
+    "jalons": [
+      158934,
+      158939
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "caresserai",
+    "jalons": [
+      159211,
+      159221
+    ]
+  },
+  "entite_501": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      159281,
+      159291
+    ]
+  },
+  "entite_502": {
+    "label": "MISC",
+    "text": "Chanter pour toi ?",
+    "jalons": [
+      159392,
+      159410
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "V",
+    "jalons": [
+      159466,
+      159467
+    ]
+  },
+  "entite_504": {
+    "label": "PER",
+    "text": "rossignols",
+    "jalons": [
+      159862,
+      159872
+    ]
+  },
+  "entite_505": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      160375,
+      160387
+    ]
+  },
+  "entite_506": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      161380,
+      161392
+    ]
+  },
+  "entite_507": {
+    "label": "LOC",
+    "text": "schiedam",
+    "jalons": [
+      161448,
+      161456
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      161459,
+      161469
+    ]
+  },
+  "entite_509": {
+    "label": "PER",
+    "text": "hoquetants",
+    "jalons": [
+      161776,
+      161786
+    ]
+  },
+  "entite_510": {
+    "label": "LOC",
+    "text": "rencoignée",
+    "jalons": [
+      162107,
+      162117
+    ]
+  },
+  "entite_511": {
+    "label": "MISC",
+    "text": "Réveillée",
+    "jalons": [
+      163755,
+      163764
+    ]
+  },
+  "entite_512": {
+    "label": "MISC",
+    "text": "gnome",
+    "jalons": [
+      163851,
+      163856
+    ]
+  },
+  "entite_513": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      163999,
+      164009
+    ]
+  },
+  "entite_514": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      164339,
+      164351
+    ]
+  },
+  "entite_515": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      165497,
+      165509
+    ]
+  },
+  "entite_516": {
+    "label": "ORG",
+    "text": "VI \nMaintenant les voyageurs",
+    "jalons": [
+      165568,
+      165596
+    ]
+  },
+  "entite_517": {
+    "label": "PER",
+    "text": "l'Empereur",
+    "jalons": [
+      165650,
+      165660
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "l'Europe",
+    "jalons": [
+      165764,
+      165772
+    ]
+  },
+  "entite_519": {
+    "label": "MISC",
+    "text": "Boedeker",
+    "jalons": [
+      165807,
+      165815
+    ]
+  },
+  "entite_520": {
+    "label": "PER",
+    "text": "Satan",
+    "jalons": [
+      166019,
+      166024
+    ]
+  },
+  "entite_521": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      166672,
+      166684
+    ]
+  },
+  "entite_522": {
+    "label": "PER",
+    "text": "Luscignole",
+    "jalons": [
+      166688,
+      166698
+    ]
+  },
+  "entite_523": {
+    "label": "PER",
+    "text": "rossignols",
+    "jalons": [
+      166757,
+      166767
+    ]
+  },
+  "entite_524": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      167102,
+      167114
+    ]
+  },
+  "entite_525": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      167267,
+      167279
+    ]
+  },
+  "entite_526": {
+    "label": "PER",
+    "text": "Alas Schlemp",
+    "jalons": [
+      167595,
+      167607
+    ]
+  },
+  "entite_527": {
+    "label": "LOC",
+    "text": "Luscignole",
+    "jalons": [
+      167660,
+      167670
+    ]
+  },
+  "entite_528": {
+    "label": "PER",
+    "text": "rossignole",
+    "jalons": [
+      167782,
+      167792
+    ]
+  }
+}

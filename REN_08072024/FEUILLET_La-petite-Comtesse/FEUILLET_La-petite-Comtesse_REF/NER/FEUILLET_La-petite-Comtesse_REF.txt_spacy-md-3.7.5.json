@@ -1,0 +1,4642 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Georges L.",
+    "jalons": [
+      17,
+      27
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Paul B.",
+    "jalons": [
+      30,
+      37
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      41,
+      46
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "IL EST",
+    "jalons": [
+      72,
+      78
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "HEURES du soir",
+    "jalons": [
+      84,
+      98
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Allemagne",
+    "jalons": [
+      125,
+      134
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      214,
+      219
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Normandie",
+    "jalons": [
+      436,
+      445
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Ton",
+    "jalons": [
+      516,
+      519
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Colin",
+    "jalons": [
+      1184,
+      1189
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "abbaye du Rozel",
+    "jalons": [
+      1874,
+      1889
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "abbaye du Rozel",
+    "jalons": [
+      2351,
+      2366
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "V",
+    "jalons": [
+      2517,
+      2518
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "madame V",
+    "jalons": [
+      2942,
+      2950
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "abbaye a de beaux yeux",
+    "jalons": [
+      3608,
+      3630
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "abbaye du Rozel",
+    "jalons": [
+      4069,
+      4084
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Rozel",
+    "jalons": [
+      4097,
+      4102
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Cérès",
+    "jalons": [
+      6107,
+      6112
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "XIIe",
+    "jalons": [
+      9302,
+      9306
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      10363,
+      10371
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Normand",
+    "jalons": [
+      10766,
+      10773
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "le Malade",
+    "jalons": [
+      11289,
+      11298
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Dignuses",
+    "jalons": [
+      11304,
+      11312
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Aventures de Télémaque",
+    "jalons": [
+      11634,
+      11656
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Mentor",
+    "jalons": [
+      11699,
+      11705
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      11971,
+      11975
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      14913,
+      14917
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "Fredons",
+    "jalons": [
+      15109,
+      15116
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Panurge",
+    "jalons": [
+      15152,
+      15159
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "la Réforme",
+    "jalons": [
+      15423,
+      15433
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Rabelais",
+    "jalons": [
+      15546,
+      15554
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Robinson",
+    "jalons": [
+      16130,
+      16138
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Cologne",
+    "jalons": [
+      16875,
+      16882
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      17009,
+      17014
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Iliade",
+    "jalons": [
+      17892,
+      17898
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Énéide",
+    "jalons": [
+      17905,
+      17911
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "Allons",
+    "jalons": [
+      18059,
+      18065
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Post-Scriptum",
+    "jalons": [
+      18107,
+      18120
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Allemagne",
+    "jalons": [
+      19826,
+      19835
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "L'ANCIENNE FORÊT DE L'ABBAYE",
+    "jalons": [
+      19926,
+      19954
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "marquis de Malouet",
+    "jalons": [
+      20002,
+      20020
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Nemrod",
+    "jalons": [
+      20036,
+      20042
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "Voilà donc le monde",
+    "jalons": [
+      20397,
+      20416
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      20485,
+      20489
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Dieu !",
+    "jalons": [
+      21825,
+      21831
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      23287,
+      23291
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Messieurs",
+    "jalons": [
+      23803,
+      23812
+    ]
+  },
+  "entite_47": {
+    "label": "MISC",
+    "text": "Intéressé",
+    "jalons": [
+      23877,
+      23886
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Salvator",
+    "jalons": [
+      24487,
+      24495
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Watteau",
+    "jalons": [
+      24518,
+      24525
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "forêt du Mans",
+    "jalons": [
+      24684,
+      24697
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      29039,
+      29043
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "Français",
+    "jalons": [
+      29861,
+      29869
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "JE REÇOIS TA LETTRE",
+    "jalons": [
+      30954,
+      30973
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "Monomotapa",
+    "jalons": [
+      31010,
+      31020
+    ]
+  },
+  "entite_55": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      31194,
+      31198
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      31261,
+      31265
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "Dieu merci",
+    "jalons": [
+      31591,
+      31601
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "Bas-de-Cuir",
+    "jalons": [
+      32422,
+      32433
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "menthe",
+    "jalons": [
+      33468,
+      33474
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "feignis",
+    "jalons": [
+      36790,
+      36797
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      37354,
+      37362
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      37768,
+      37776
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      38710,
+      38715
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "marquis de Malouet",
+    "jalons": [
+      39402,
+      39420
+    ]
+  },
+  "entite_65": {
+    "label": "MISC",
+    "text": "Mon Dieu",
+    "jalons": [
+      40149,
+      40157
+    ]
+  },
+  "entite_66": {
+    "label": "MISC",
+    "text": "Allons !",
+    "jalons": [
+      40974,
+      40982
+    ]
+  },
+  "entite_67": {
+    "label": "MISC",
+    "text": "Heureux",
+    "jalons": [
+      41093,
+      41100
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      41102,
+      41106
+    ]
+  },
+  "entite_69": {
+    "label": "MISC",
+    "text": "Adam !",
+    "jalons": [
+      41445,
+      41451
+    ]
+  },
+  "entite_70": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      41922,
+      41935
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      42706,
+      42710
+    ]
+  },
+  "entite_72": {
+    "label": "MISC",
+    "text": "LE CHÂTEAU DE MALOUET",
+    "jalons": [
+      42766,
+      42787
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      43595,
+      43612
+    ]
+  },
+  "entite_74": {
+    "label": "PER",
+    "text": "Madame de Malouet",
+    "jalons": [
+      44317,
+      44334
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      45141,
+      45146
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      45400,
+      45413
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      45634,
+      45642
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "Jean Rostain",
+    "jalons": [
+      45937,
+      45949
+    ]
+  },
+  "entite_79": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      45991,
+      45996
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      46105,
+      46110
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "Rostain",
+    "jalons": [
+      46208,
+      46215
+    ]
+  },
+  "entite_82": {
+    "label": "PER",
+    "text": "Rostain",
+    "jalons": [
+      46450,
+      46457
+    ]
+  },
+  "entite_83": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      46496,
+      46500
+    ]
+  },
+  "entite_84": {
+    "label": "PER",
+    "text": "César",
+    "jalons": [
+      46650,
+      46655
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "César",
+    "jalons": [
+      46669,
+      46674
+    ]
+  },
+  "entite_86": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      46676,
+      46680
+    ]
+  },
+  "entite_87": {
+    "label": "MISC",
+    "text": "Touché !",
+    "jalons": [
+      46932,
+      46940
+    ]
+  },
+  "entite_88": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      47015,
+      47019
+    ]
+  },
+  "entite_89": {
+    "label": "PER",
+    "text": "Rostain",
+    "jalons": [
+      47132,
+      47139
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "Rostain",
+    "jalons": [
+      47162,
+      47169
+    ]
+  },
+  "entite_91": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      47609,
+      47617
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "Rostain",
+    "jalons": [
+      47653,
+      47660
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "iratumventrem",
+    "jalons": [
+      47829,
+      47842
+    ]
+  },
+  "entite_94": {
+    "label": "MISC",
+    "text": "Horace",
+    "jalons": [
+      47855,
+      47861
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "gulœparens",
+    "jalons": [
+      47906,
+      47916
+    ]
+  },
+  "entite_96": {
+    "label": "PER",
+    "text": "M. le marquis",
+    "jalons": [
+      48115,
+      48128
+    ]
+  },
+  "entite_97": {
+    "label": "PER",
+    "text": "M. le marquis",
+    "jalons": [
+      48273,
+      48286
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "Rostain",
+    "jalons": [
+      48459,
+      48466
+    ]
+  },
+  "entite_99": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      48702,
+      48715
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "M. Rostain",
+    "jalons": [
+      48824,
+      48834
+    ]
+  },
+  "entite_101": {
+    "label": "PER",
+    "text": "Ciel",
+    "jalons": [
+      48957,
+      48961
+    ]
+  },
+  "entite_102": {
+    "label": "PER",
+    "text": "Rostain",
+    "jalons": [
+      48973,
+      48980
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      49026,
+      49031
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      49047,
+      49052
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Babylone",
+    "jalons": [
+      49092,
+      49100
+    ]
+  },
+  "entite_106": {
+    "label": "PER",
+    "text": "Rostain",
+    "jalons": [
+      49237,
+      49244
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Voyons",
+    "jalons": [
+      49422,
+      49428
+    ]
+  },
+  "entite_108": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      49458,
+      49462
+    ]
+  },
+  "entite_109": {
+    "label": "PER",
+    "text": "Antoine",
+    "jalons": [
+      49626,
+      49633
+    ]
+  },
+  "entite_110": {
+    "label": "PER",
+    "text": "Rostain",
+    "jalons": [
+      49903,
+      49910
+    ]
+  },
+  "entite_111": {
+    "label": "MISC",
+    "text": "Mon Dieu !",
+    "jalons": [
+      49931,
+      49941
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "Jean Rostain",
+    "jalons": [
+      49976,
+      49988
+    ]
+  },
+  "entite_113": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      50303,
+      50308
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "Jacquemart",
+    "jalons": [
+      50398,
+      50408
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "Deux-Sèvres",
+    "jalons": [
+      50414,
+      50425
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "Rostain",
+    "jalons": [
+      50441,
+      50448
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "M. Jacquemart",
+    "jalons": [
+      50503,
+      50516
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Deux-Sèvres",
+    "jalons": [
+      50522,
+      50533
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      50741,
+      50754
+    ]
+  },
+  "entite_120": {
+    "label": "PER",
+    "text": "Rostain",
+    "jalons": [
+      50796,
+      50803
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "notre France",
+    "jalons": [
+      51751,
+      51763
+    ]
+  },
+  "entite_122": {
+    "label": "MISC",
+    "text": "Parlez",
+    "jalons": [
+      51793,
+      51799
+    ]
+  },
+  "entite_123": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      52095,
+      52099
+    ]
+  },
+  "entite_124": {
+    "label": "LOC",
+    "text": "de France",
+    "jalons": [
+      52364,
+      52373
+    ]
+  },
+  "entite_125": {
+    "label": "LOC",
+    "text": "Est-elle",
+    "jalons": [
+      52693,
+      52701
+    ]
+  },
+  "entite_126": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      53750,
+      53754
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      54612,
+      54618
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "Croyez",
+    "jalons": [
+      55094,
+      55100
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "l'Amérique",
+    "jalons": [
+      55367,
+      55377
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "États-Unis",
+    "jalons": [
+      55400,
+      55410
+    ]
+  },
+  "entite_131": {
+    "label": "LOC",
+    "text": "États",
+    "jalons": [
+      55438,
+      55443
+    ]
+  },
+  "entite_132": {
+    "label": "MISC",
+    "text": "Bah !",
+    "jalons": [
+      55629,
+      55634
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      56711,
+      56716
+    ]
+  },
+  "entite_134": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      56798,
+      56802
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "la France",
+    "jalons": [
+      56979,
+      56988
+    ]
+  },
+  "entite_136": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      57695,
+      57699
+    ]
+  },
+  "entite_137": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      57820,
+      57824
+    ]
+  },
+  "entite_138": {
+    "label": "PER",
+    "text": "Rostain",
+    "jalons": [
+      57888,
+      57895
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "Diane",
+    "jalons": [
+      58806,
+      58811
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      59097,
+      59110
+    ]
+  },
+  "entite_141": {
+    "label": "MISC",
+    "text": "Allons !",
+    "jalons": [
+      59272,
+      59280
+    ]
+  },
+  "entite_142": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      59583,
+      59596
+    ]
+  },
+  "entite_143": {
+    "label": "MISC",
+    "text": "Tenez !",
+    "jalons": [
+      59861,
+      59868
+    ]
+  },
+  "entite_144": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      60176,
+      60189
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "perse",
+    "jalons": [
+      60264,
+      60269
+    ]
+  },
+  "entite_146": {
+    "label": "MISC",
+    "text": "J'AI EU",
+    "jalons": [
+      60531,
+      60538
+    ]
+  },
+  "entite_147": {
+    "label": "PER",
+    "text": "Malouet",
+    "jalons": [
+      60735,
+      60742
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "Guillaume Malouet",
+    "jalons": [
+      60778,
+      60795
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "XIIe",
+    "jalons": [
+      60846,
+      60850
+    ]
+  },
+  "entite_150": {
+    "label": "PER",
+    "text": "Hugues",
+    "jalons": [
+      60898,
+      60904
+    ]
+  },
+  "entite_151": {
+    "label": "PER",
+    "text": "Foulques",
+    "jalons": [
+      60906,
+      60914
+    ]
+  },
+  "entite_152": {
+    "label": "PER",
+    "text": "Jean",
+    "jalons": [
+      60916,
+      60920
+    ]
+  },
+  "entite_153": {
+    "label": "PER",
+    "text": "Thomas",
+    "jalons": [
+      60924,
+      60930
+    ]
+  },
+  "entite_154": {
+    "label": "LOC",
+    "text": "Mont-Saint-Michel",
+    "jalons": [
+      61284,
+      61301
+    ]
+  },
+  "entite_155": {
+    "label": "MISC",
+    "text": "molendinum in eodem situ",
+    "jalons": [
+      61367,
+      61391
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "abbaye du Rozel",
+    "jalons": [
+      61591,
+      61606
+    ]
+  },
+  "entite_157": {
+    "label": "MISC",
+    "text": "XIII",
+    "jalons": [
+      61631,
+      61635
+    ]
+  },
+  "entite_158": {
+    "label": "PER",
+    "text": "saint Benoît",
+    "jalons": [
+      61709,
+      61721
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "province de Normandie",
+    "jalons": [
+      61751,
+      61772
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "abbé du Rozel",
+    "jalons": [
+      61847,
+      61860
+    ]
+  },
+  "entite_161": {
+    "label": "MISC",
+    "text": "Soyez libre !",
+    "jalons": [
+      63936,
+      63949
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      64022,
+      64035
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      64638,
+      64655
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "Jacquemart",
+    "jalons": [
+      64716,
+      64726
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Deux-Sèvres",
+    "jalons": [
+      64732,
+      64743
+    ]
+  },
+  "entite_166": {
+    "label": "PER",
+    "text": "messied",
+    "jalons": [
+      65326,
+      65333
+    ]
+  },
+  "entite_167": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      65706,
+      65719
+    ]
+  },
+  "entite_168": {
+    "label": "MISC",
+    "text": "Anglais",
+    "jalons": [
+      66018,
+      66025
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "lord A",
+    "jalons": [
+      66057,
+      66063
+    ]
+  },
+  "entite_170": {
+    "label": "PER",
+    "text": "Lawrence",
+    "jalons": [
+      66296,
+      66304
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Breuilly",
+    "jalons": [
+      66547,
+      66555
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "Breuilly",
+    "jalons": [
+      67264,
+      67272
+    ]
+  },
+  "entite_173": {
+    "label": "MISC",
+    "text": "Mon dieu !",
+    "jalons": [
+      67492,
+      67502
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      67521,
+      67535
+    ]
+  },
+  "entite_175": {
+    "label": "MISC",
+    "text": "Othello bas normand",
+    "jalons": [
+      67653,
+      67672
+    ]
+  },
+  "entite_176": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      67675,
+      67683
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "madame de Breuilly",
+    "jalons": [
+      67826,
+      67844
+    ]
+  },
+  "entite_178": {
+    "label": "PER",
+    "text": "madame de Breuilly",
+    "jalons": [
+      68037,
+      68055
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      68137,
+      68151
+    ]
+  },
+  "entite_180": {
+    "label": "PER",
+    "text": "Malouet",
+    "jalons": [
+      68388,
+      68395
+    ]
+  },
+  "entite_181": {
+    "label": "MISC",
+    "text": "Breuilly !",
+    "jalons": [
+      68587,
+      68597
+    ]
+  },
+  "entite_182": {
+    "label": "PER",
+    "text": "madame de Breuilly",
+    "jalons": [
+      69207,
+      69225
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "Mon Dieu !",
+    "jalons": [
+      69427,
+      69437
+    ]
+  },
+  "entite_184": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      69701,
+      69714
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "Orosmane",
+    "jalons": [
+      69785,
+      69793
+    ]
+  },
+  "entite_186": {
+    "label": "PER",
+    "text": "Georges Dandin",
+    "jalons": [
+      69819,
+      69833
+    ]
+  },
+  "entite_187": {
+    "label": "MISC",
+    "text": "Parisiennes",
+    "jalons": [
+      70390,
+      70401
+    ]
+  },
+  "entite_188": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      71061,
+      71066
+    ]
+  },
+  "entite_189": {
+    "label": "PER",
+    "text": "comtesse de Palme",
+    "jalons": [
+      71840,
+      71857
+    ]
+  },
+  "entite_190": {
+    "label": "PER",
+    "text": "Madame de",
+    "jalons": [
+      71999,
+      72008
+    ]
+  },
+  "entite_191": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      72074,
+      72079
+    ]
+  },
+  "entite_192": {
+    "label": "LOC",
+    "text": "Normandie",
+    "jalons": [
+      72122,
+      72131
+    ]
+  },
+  "entite_193": {
+    "label": "PER",
+    "text": "madame de",
+    "jalons": [
+      72148,
+      72157
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "Pontbrian",
+    "jalons": [
+      72158,
+      72167
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "madame de Pontbrian",
+    "jalons": [
+      72583,
+      72602
+    ]
+  },
+  "entite_196": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      73545,
+      73549
+    ]
+  },
+  "entite_197": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      73566,
+      73570
+    ]
+  },
+  "entite_198": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      73592,
+      73596
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      73771,
+      73776
+    ]
+  },
+  "entite_200": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      73948,
+      73963
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "château de Malouet",
+    "jalons": [
+      74160,
+      74178
+    ]
+  },
+  "entite_202": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      76261,
+      76276
+    ]
+  },
+  "entite_203": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      76967,
+      76982
+    ]
+  },
+  "entite_204": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      77723,
+      77738
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      77820,
+      77837
+    ]
+  },
+  "entite_206": {
+    "label": "MISC",
+    "text": "Évangile",
+    "jalons": [
+      78197,
+      78205
+    ]
+  },
+  "entite_207": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      78389,
+      78406
+    ]
+  },
+  "entite_208": {
+    "label": "MISC",
+    "text": "Croyez",
+    "jalons": [
+      78473,
+      78479
+    ]
+  },
+  "entite_209": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      78670,
+      78685
+    ]
+  },
+  "entite_210": {
+    "label": "PER",
+    "text": "Madame de Palme",
+    "jalons": [
+      78723,
+      78738
+    ]
+  },
+  "entite_211": {
+    "label": "PER",
+    "text": "Madame de Malouet",
+    "jalons": [
+      79044,
+      79061
+    ]
+  },
+  "entite_212": {
+    "label": "MISC",
+    "text": "Mon Dieu !",
+    "jalons": [
+      79737,
+      79747
+    ]
+  },
+  "entite_213": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      79752,
+      79769
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      79959,
+      79976
+    ]
+  },
+  "entite_215": {
+    "label": "MISC",
+    "text": "Bah !",
+    "jalons": [
+      80763,
+      80768
+    ]
+  },
+  "entite_216": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      80992,
+      80998
+    ]
+  },
+  "entite_217": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      81219,
+      81223
+    ]
+  },
+  "entite_218": {
+    "label": "MISC",
+    "text": "Dieu !",
+    "jalons": [
+      81228,
+      81234
+    ]
+  },
+  "entite_219": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      81243,
+      81260
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      81534,
+      81540
+    ]
+  },
+  "entite_221": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      81577,
+      81581
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      81621,
+      81638
+    ]
+  },
+  "entite_223": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      82057,
+      82074
+    ]
+  },
+  "entite_224": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      82574,
+      82591
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "Tempé",
+    "jalons": [
+      83397,
+      83402
+    ]
+  },
+  "entite_226": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      83422,
+      83426
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      83769,
+      83786
+    ]
+  },
+  "entite_228": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      83788,
+      83802
+    ]
+  },
+  "entite_229": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      84139,
+      84154
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      84532,
+      84536
+    ]
+  },
+  "entite_231": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      85345,
+      85349
+    ]
+  },
+  "entite_232": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      85550,
+      85554
+    ]
+  },
+  "entite_233": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      86457,
+      86461
+    ]
+  },
+  "entite_234": {
+    "label": "PER",
+    "text": "Chapitre",
+    "jalons": [
+      86647,
+      86655
+    ]
+  },
+  "entite_235": {
+    "label": "MISC",
+    "text": "PAUL",
+    "jalons": [
+      86676,
+      86680
+    ]
+  },
+  "entite_236": {
+    "label": "MISC",
+    "text": "IL SE PASSE",
+    "jalons": [
+      86682,
+      86693
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "envoie-le-moi",
+    "jalons": [
+      86762,
+      86775
+    ]
+  },
+  "entite_238": {
+    "label": "MISC",
+    "text": "Revue au coin du feu",
+    "jalons": [
+      87060,
+      87080
+    ]
+  },
+  "entite_239": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      87421,
+      87436
+    ]
+  },
+  "entite_240": {
+    "label": "ORG",
+    "text": "Irait",
+    "jalons": [
+      88027,
+      88032
+    ]
+  },
+  "entite_241": {
+    "label": "ORG",
+    "text": "Debout",
+    "jalons": [
+      88364,
+      88370
+    ]
+  },
+  "entite_242": {
+    "label": "MISC",
+    "text": "Revue à la main",
+    "jalons": [
+      88397,
+      88412
+    ]
+  },
+  "entite_243": {
+    "label": "PER",
+    "text": "Madame de Palme",
+    "jalons": [
+      89279,
+      89294
+    ]
+  },
+  "entite_244": {
+    "label": "ORG",
+    "text": "Revue",
+    "jalons": [
+      89801,
+      89806
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Merci",
+    "jalons": [
+      89821,
+      89826
+    ]
+  },
+  "entite_246": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      90583,
+      90598
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      90916,
+      90917
+    ]
+  },
+  "entite_248": {
+    "label": "PER",
+    "text": "Durmaître",
+    "jalons": [
+      90943,
+      90952
+    ]
+  },
+  "entite_249": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      91177,
+      91192
+    ]
+  },
+  "entite_250": {
+    "label": "PER",
+    "text": "Malabar",
+    "jalons": [
+      91378,
+      91385
+    ]
+  },
+  "entite_251": {
+    "label": "PER",
+    "text": "Madame Durmaître",
+    "jalons": [
+      91388,
+      91404
+    ]
+  },
+  "entite_252": {
+    "label": "PER",
+    "text": "Me",
+    "jalons": [
+      91556,
+      91558
+    ]
+  },
+  "entite_253": {
+    "label": "PER",
+    "text": "Madame de Palme",
+    "jalons": [
+      92467,
+      92482
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "madame Durmaître",
+    "jalons": [
+      92544,
+      92560
+    ]
+  },
+  "entite_255": {
+    "label": "LOC",
+    "text": "Brava",
+    "jalons": [
+      92800,
+      92805
+    ]
+  },
+  "entite_256": {
+    "label": "MISC",
+    "text": "Iphigénie",
+    "jalons": [
+      92887,
+      92896
+    ]
+  },
+  "entite_257": {
+    "label": "PER",
+    "text": "Hermione",
+    "jalons": [
+      92908,
+      92916
+    ]
+  },
+  "entite_258": {
+    "label": "MISC",
+    "text": "Pleurante",
+    "jalons": [
+      92919,
+      92928
+    ]
+  },
+  "entite_259": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      93038,
+      93042
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "M. de Lamartine",
+    "jalons": [
+      93059,
+      93074
+    ]
+  },
+  "entite_261": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      93120,
+      93124
+    ]
+  },
+  "entite_262": {
+    "label": "PER",
+    "text": "Durmaître",
+    "jalons": [
+      93183,
+      93192
+    ]
+  },
+  "entite_263": {
+    "label": "MISC",
+    "text": "Pleurante",
+    "jalons": [
+      93282,
+      93291
+    ]
+  },
+  "entite_264": {
+    "label": "PER",
+    "text": "Rachel",
+    "jalons": [
+      93335,
+      93341
+    ]
+  },
+  "entite_265": {
+    "label": "PER",
+    "text": "Lamartine",
+    "jalons": [
+      93368,
+      93377
+    ]
+  },
+  "entite_266": {
+    "label": "PER",
+    "text": "Boileau",
+    "jalons": [
+      93388,
+      93395
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "Lamartine",
+    "jalons": [
+      93592,
+      93601
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "Boileau",
+    "jalons": [
+      93608,
+      93615
+    ]
+  },
+  "entite_269": {
+    "label": "PER",
+    "text": "Bathilde",
+    "jalons": [
+      93627,
+      93635
+    ]
+  },
+  "entite_270": {
+    "label": "PER",
+    "text": "Durmaître",
+    "jalons": [
+      93677,
+      93686
+    ]
+  },
+  "entite_271": {
+    "label": "MISC",
+    "text": "Ah ",
+    "jalons": [
+      93749,
+      93752
+    ]
+  },
+  "entite_272": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      93761,
+      93776
+    ]
+  },
+  "entite_273": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      93889,
+      93895
+    ]
+  },
+  "entite_274": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      93945,
+      93949
+    ]
+  },
+  "entite_275": {
+    "label": "PER",
+    "text": "Madame Durmaître",
+    "jalons": [
+      93972,
+      93988
+    ]
+  },
+  "entite_276": {
+    "label": "MISC",
+    "text": "Nathalie",
+    "jalons": [
+      94464,
+      94472
+    ]
+  },
+  "entite_277": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      94486,
+      94501
+    ]
+  },
+  "entite_278": {
+    "label": "PER",
+    "text": "Bathilde",
+    "jalons": [
+      94590,
+      94598
+    ]
+  },
+  "entite_279": {
+    "label": "PER",
+    "text": "Madame Durmaître",
+    "jalons": [
+      94945,
+      94961
+    ]
+  },
+  "entite_280": {
+    "label": "ORG",
+    "text": "Revue",
+    "jalons": [
+      95011,
+      95016
+    ]
+  },
+  "entite_281": {
+    "label": "MISC",
+    "text": "Nathalie",
+    "jalons": [
+      95065,
+      95073
+    ]
+  },
+  "entite_282": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      95082,
+      95097
+    ]
+  },
+  "entite_283": {
+    "label": "LOC",
+    "text": "Nathalie",
+    "jalons": [
+      95180,
+      95188
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      95195,
+      95209
+    ]
+  },
+  "entite_285": {
+    "label": "PER",
+    "text": "Durmaître",
+    "jalons": [
+      95410,
+      95419
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      95716,
+      95731
+    ]
+  },
+  "entite_287": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      96145,
+      96149
+    ]
+  },
+  "entite_288": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      96169,
+      96173
+    ]
+  },
+  "entite_289": {
+    "label": "PER",
+    "text": "marquis de Malouet",
+    "jalons": [
+      96353,
+      96371
+    ]
+  },
+  "entite_290": {
+    "label": "PER",
+    "text": "madame Durmaître",
+    "jalons": [
+      96450,
+      96466
+    ]
+  },
+  "entite_291": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      97956,
+      97971
+    ]
+  },
+  "entite_292": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      98335,
+      98352
+    ]
+  },
+  "entite_293": {
+    "label": "LOC",
+    "text": "Malabar",
+    "jalons": [
+      98493,
+      98500
+    ]
+  },
+  "entite_294": {
+    "label": "PER",
+    "text": "Bathilde de Palme",
+    "jalons": [
+      98548,
+      98565
+    ]
+  },
+  "entite_295": {
+    "label": "PER",
+    "text": "Ulysse",
+    "jalons": [
+      98631,
+      98637
+    ]
+  },
+  "entite_296": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      99599,
+      99614
+    ]
+  },
+  "entite_297": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      100403,
+      100409
+    ]
+  },
+  "entite_298": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      100511,
+      100517
+    ]
+  },
+  "entite_299": {
+    "label": "PER",
+    "text": "madame Durmaître",
+    "jalons": [
+      101075,
+      101091
+    ]
+  },
+  "entite_300": {
+    "label": "LOC",
+    "text": "Neustriapia",
+    "jalons": [
+      101830,
+      101841
+    ]
+  },
+  "entite_301": {
+    "label": "MISC",
+    "text": "Entrez ! » du ton dont j'aurais pu dire : « Sortez ! »",
+    "jalons": [
+      102272,
+      102326
+    ]
+  },
+  "entite_302": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      102375,
+      102390
+    ]
+  },
+  "entite_303": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      102989,
+      102993
+    ]
+  },
+  "entite_304": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      103015,
+      103032
+    ]
+  },
+  "entite_305": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      103096,
+      103102
+    ]
+  },
+  "entite_306": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      103127,
+      103131
+    ]
+  },
+  "entite_307": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      103182,
+      103188
+    ]
+  },
+  "entite_308": {
+    "label": "PER",
+    "text": "Merci",
+    "jalons": [
+      103241,
+      103246
+    ]
+  },
+  "entite_309": {
+    "label": "PER",
+    "text": "Vraiment",
+    "jalons": [
+      103316,
+      103324
+    ]
+  },
+  "entite_310": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      103338,
+      103342
+    ]
+  },
+  "entite_311": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      103463,
+      103469
+    ]
+  },
+  "entite_312": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      103621,
+      103627
+    ]
+  },
+  "entite_313": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      103705,
+      103711
+    ]
+  },
+  "entite_314": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      103730,
+      103734
+    ]
+  },
+  "entite_315": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      104217,
+      104223
+    ]
+  },
+  "entite_316": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      104530,
+      104536
+    ]
+  },
+  "entite_317": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      104635,
+      104641
+    ]
+  },
+  "entite_318": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      104770,
+      104776
+    ]
+  },
+  "entite_319": {
+    "label": "PER",
+    "text": "Madame de",
+    "jalons": [
+      105109,
+      105118
+    ]
+  },
+  "entite_320": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      105730,
+      105745
+    ]
+  },
+  "entite_321": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      106121,
+      106138
+    ]
+  },
+  "entite_322": {
+    "label": "MISC",
+    "text": "Ah çà !",
+    "jalons": [
+      106170,
+      106177
+    ]
+  },
+  "entite_323": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      106289,
+      106304
+    ]
+  },
+  "entite_324": {
+    "label": "MISC",
+    "text": "Mon Dieu !",
+    "jalons": [
+      106683,
+      106693
+    ]
+  },
+  "entite_325": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      107002,
+      107008
+    ]
+  },
+  "entite_326": {
+    "label": "PER",
+    "text": "George",
+    "jalons": [
+      107125,
+      107131
+    ]
+  },
+  "entite_327": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      107224,
+      107239
+    ]
+  },
+  "entite_328": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      107256,
+      107262
+    ]
+  },
+  "entite_329": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      107457,
+      107472
+    ]
+  },
+  "entite_330": {
+    "label": "PER",
+    "text": "Madame !",
+    "jalons": [
+      107489,
+      107497
+    ]
+  },
+  "entite_331": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      107646,
+      107661
+    ]
+  },
+  "entite_332": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      107893,
+      107899
+    ]
+  },
+  "entite_333": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      108112,
+      108118
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      108246,
+      108261
+    ]
+  },
+  "entite_335": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      108403,
+      108407
+    ]
+  },
+  "entite_336": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      108578,
+      108584
+    ]
+  },
+  "entite_337": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      108651,
+      108666
+    ]
+  },
+  "entite_338": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      108808,
+      108814
+    ]
+  },
+  "entite_339": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      108884,
+      108901
+    ]
+  },
+  "entite_340": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      109048,
+      109063
+    ]
+  },
+  "entite_341": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      109247,
+      109253
+    ]
+  },
+  "entite_342": {
+    "label": "PER",
+    "text": "Madame de Palme",
+    "jalons": [
+      109611,
+      109626
+    ]
+  },
+  "entite_343": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      110749,
+      110766
+    ]
+  },
+  "entite_344": {
+    "label": "PER",
+    "text": "Madame de Palme",
+    "jalons": [
+      111358,
+      111373
+    ]
+  },
+  "entite_345": {
+    "label": "MISC",
+    "text": "Courons",
+    "jalons": [
+      111637,
+      111644
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "vallée des Ruines",
+    "jalons": [
+      111820,
+      111837
+    ]
+  },
+  "entite_347": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      112137,
+      112152
+    ]
+  },
+  "entite_348": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      112237,
+      112243
+    ]
+  },
+  "entite_349": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      112390,
+      112394
+    ]
+  },
+  "entite_350": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      112510,
+      112516
+    ]
+  },
+  "entite_351": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      112802,
+      112806
+    ]
+  },
+  "entite_352": {
+    "label": "PER",
+    "text": "madame !",
+    "jalons": [
+      112825,
+      112833
+    ]
+  },
+  "entite_353": {
+    "label": "MISC",
+    "text": "Expliquez",
+    "jalons": [
+      113501,
+      113510
+    ]
+  },
+  "entite_354": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      113522,
+      113528
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      114620,
+      114626
+    ]
+  },
+  "entite_356": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      114806,
+      114812
+    ]
+  },
+  "entite_357": {
+    "label": "PER",
+    "text": "Madame de",
+    "jalons": [
+      115281,
+      115290
+    ]
+  },
+  "entite_358": {
+    "label": "MISC",
+    "text": "Palme",
+    "jalons": [
+      115291,
+      115296
+    ]
+  },
+  "entite_359": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      115539,
+      115552
+    ]
+  },
+  "entite_360": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      116609,
+      116624
+    ]
+  },
+  "entite_361": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      117232,
+      117238
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Vénus de Milo",
+    "jalons": [
+      118092,
+      118105
+    ]
+  },
+  "entite_363": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      118969,
+      118984
+    ]
+  },
+  "entite_364": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      119023,
+      119027
+    ]
+  },
+  "entite_365": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      119046,
+      119048
+    ]
+  },
+  "entite_366": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      119090,
+      119096
+    ]
+  },
+  "entite_367": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      119836,
+      119853
+    ]
+  },
+  "entite_368": {
+    "label": "PER",
+    "text": "Religieusement",
+    "jalons": [
+      119952,
+      119966
+    ]
+  },
+  "entite_369": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      119968,
+      119974
+    ]
+  },
+  "entite_370": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      120020,
+      120026
+    ]
+  },
+  "entite_371": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      120172,
+      120187
+    ]
+  },
+  "entite_372": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      120487,
+      120491
+    ]
+  },
+  "entite_373": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      120970,
+      120985
+    ]
+  },
+  "entite_374": {
+    "label": "PER",
+    "text": "Me",
+    "jalons": [
+      121695,
+      121697
+    ]
+  },
+  "entite_375": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      121763,
+      121780
+    ]
+  },
+  "entite_376": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      121875,
+      121879
+    ]
+  },
+  "entite_377": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      122401,
+      122405
+    ]
+  },
+  "entite_378": {
+    "label": "LOC",
+    "text": "G",
+    "jalons": [
+      122554,
+      122555
+    ]
+  },
+  "entite_379": {
+    "label": "ORG",
+    "text": "Institut",
+    "jalons": [
+      122562,
+      122570
+    ]
+  },
+  "entite_380": {
+    "label": "ORG",
+    "text": "fat",
+    "jalons": [
+      122746,
+      122749
+    ]
+  },
+  "entite_381": {
+    "label": "MISC",
+    "text": "Bonsoir",
+    "jalons": [
+      122842,
+      122849
+    ]
+  },
+  "entite_382": {
+    "label": "MISC",
+    "text": "CHER",
+    "jalons": [
+      122879,
+      122883
+    ]
+  },
+  "entite_383": {
+    "label": "MISC",
+    "text": "PAUL",
+    "jalons": [
+      122884,
+      122888
+    ]
+  },
+  "entite_384": {
+    "label": "ORG",
+    "text": "JE PRENDS",
+    "jalons": [
+      122890,
+      122899
+    ]
+  },
+  "entite_385": {
+    "label": "MISC",
+    "text": "Mon Dieu",
+    "jalons": [
+      123739,
+      123747
+    ]
+  },
+  "entite_386": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      124116,
+      124131
+    ]
+  },
+  "entite_387": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      124867,
+      124882
+    ]
+  },
+  "entite_388": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      126066,
+      126072
+    ]
+  },
+  "entite_389": {
+    "label": "MISC",
+    "text": "Éblouissante",
+    "jalons": [
+      126263,
+      126275
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Malabar",
+    "jalons": [
+      126466,
+      126473
+    ]
+  },
+  "entite_391": {
+    "label": "LOC",
+    "text": "Précisément",
+    "jalons": [
+      126570,
+      126581
+    ]
+  },
+  "entite_392": {
+    "label": "LOC",
+    "text": "Partez",
+    "jalons": [
+      126586,
+      126592
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "Viendrez",
+    "jalons": [
+      126646,
+      126654
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      126670,
+      126675
+    ]
+  },
+  "entite_395": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      126763,
+      126767
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      126818,
+      126823
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "Partons",
+    "jalons": [
+      126971,
+      126978
+    ]
+  },
+  "entite_398": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      127085,
+      127100
+    ]
+  },
+  "entite_399": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      128220,
+      128235
+    ]
+  },
+  "entite_400": {
+    "label": "PER",
+    "text": "M.",
+    "jalons": [
+      129032,
+      129034
+    ]
+  },
+  "entite_401": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      129038,
+      129055
+    ]
+  },
+  "entite_402": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      129415,
+      129432
+    ]
+  },
+  "entite_403": {
+    "label": "MISC",
+    "text": "Mon Dieu !",
+    "jalons": [
+      129524,
+      129534
+    ]
+  },
+  "entite_404": {
+    "label": "MISC",
+    "text": "Mon Dieu",
+    "jalons": [
+      129633,
+      129641
+    ]
+  },
+  "entite_405": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      129789,
+      129795
+    ]
+  },
+  "entite_406": {
+    "label": "MISC",
+    "text": "Eh mon Dieu !",
+    "jalons": [
+      129865,
+      129878
+    ]
+  },
+  "entite_407": {
+    "label": "MISC",
+    "text": "Silence !",
+    "jalons": [
+      129917,
+      129926
+    ]
+  },
+  "entite_408": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      129954,
+      129969
+    ]
+  },
+  "entite_409": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      130499,
+      130514
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "Suis",
+    "jalons": [
+      130666,
+      130670
+    ]
+  },
+  "entite_411": {
+    "label": "LOC",
+    "text": "témoignai",
+    "jalons": [
+      130710,
+      130719
+    ]
+  },
+  "entite_412": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      131410,
+      131425
+    ]
+  },
+  "entite_413": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      131630,
+      131634
+    ]
+  },
+  "entite_414": {
+    "label": "MISC",
+    "text": "Expliquez",
+    "jalons": [
+      132283,
+      132292
+    ]
+  },
+  "entite_415": {
+    "label": "PER",
+    "text": "Veuillez",
+    "jalons": [
+      132515,
+      132523
+    ]
+  },
+  "entite_416": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      132548,
+      132554
+    ]
+  },
+  "entite_417": {
+    "label": "PER",
+    "text": "Voyons",
+    "jalons": [
+      132708,
+      132714
+    ]
+  },
+  "entite_418": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      132850,
+      132856
+    ]
+  },
+  "entite_419": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      133309,
+      133315
+    ]
+  },
+  "entite_420": {
+    "label": "PER",
+    "text": "Madame !",
+    "jalons": [
+      133495,
+      133503
+    ]
+  },
+  "entite_421": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      133774,
+      133778
+    ]
+  },
+  "entite_422": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      133792,
+      133796
+    ]
+  },
+  "entite_423": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      133798,
+      133802
+    ]
+  },
+  "entite_424": {
+    "label": "LOC",
+    "text": "Voudrez",
+    "jalons": [
+      134210,
+      134217
+    ]
+  },
+  "entite_425": {
+    "label": "MISC",
+    "text": "Ah ",
+    "jalons": [
+      134369,
+      134372
+    ]
+  },
+  "entite_426": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      134446,
+      134450
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      134654,
+      134669
+    ]
+  },
+  "entite_428": {
+    "label": "LOC",
+    "text": "sapins",
+    "jalons": [
+      135737,
+      135743
+    ]
+  },
+  "entite_429": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      136034,
+      136040
+    ]
+  },
+  "entite_430": {
+    "label": "LOC",
+    "text": "Retournez",
+    "jalons": [
+      136110,
+      136119
+    ]
+  },
+  "entite_431": {
+    "label": "MISC",
+    "text": "Oh mon Dieu !",
+    "jalons": [
+      136251,
+      136264
+    ]
+  },
+  "entite_432": {
+    "label": "MISC",
+    "text": "Dieu !",
+    "jalons": [
+      136429,
+      136435
+    ]
+  },
+  "entite_433": {
+    "label": "LOC",
+    "text": "soutins",
+    "jalons": [
+      137057,
+      137064
+    ]
+  },
+  "entite_434": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      137648,
+      137656
+    ]
+  },
+  "entite_435": {
+    "label": "PER",
+    "text": "Madame !",
+    "jalons": [
+      138090,
+      138098
+    ]
+  },
+  "entite_436": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      138117,
+      138121
+    ]
+  },
+  "entite_437": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      138126,
+      138130
+    ]
+  },
+  "entite_438": {
+    "label": "PER",
+    "text": "Chère",
+    "jalons": [
+      138560,
+      138565
+    ]
+  },
+  "entite_439": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      138566,
+      138572
+    ]
+  },
+  "entite_440": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      138721,
+      138725
+    ]
+  },
+  "entite_441": {
+    "label": "MISC",
+    "text": "Oh Dieu !",
+    "jalons": [
+      138887,
+      138896
+    ]
+  },
+  "entite_442": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      139665,
+      139669
+    ]
+  },
+  "entite_443": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      139738,
+      139744
+    ]
+  },
+  "entite_444": {
+    "label": "PER",
+    "text": "Adieu",
+    "jalons": [
+      140607,
+      140612
+    ]
+  },
+  "entite_445": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      140629,
+      140633
+    ]
+  },
+  "entite_446": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      140827,
+      140831
+    ]
+  },
+  "entite_447": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      140925,
+      140929
+    ]
+  },
+  "entite_448": {
+    "label": "PER",
+    "text": "Madame de",
+    "jalons": [
+      141144,
+      141153
+    ]
+  },
+  "entite_449": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      141362,
+      141379
+    ]
+  },
+  "entite_450": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      142111,
+      142117
+    ]
+  },
+  "entite_451": {
+    "label": "PER",
+    "text": "madame de Breuilly",
+    "jalons": [
+      142408,
+      142426
+    ]
+  },
+  "entite_452": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      142630,
+      142634
+    ]
+  },
+  "entite_453": {
+    "label": "PER",
+    "text": "Chapitre",
+    "jalons": [
+      142765,
+      142773
+    ]
+  },
+  "entite_454": {
+    "label": "PER",
+    "text": "Du Rozel",
+    "jalons": [
+      142792,
+      142800
+    ]
+  },
+  "entite_455": {
+    "label": "MISC",
+    "text": "ME VOICI",
+    "jalons": [
+      142803,
+      142811
+    ]
+  },
+  "entite_456": {
+    "label": "ORG",
+    "text": "RENTRÉ",
+    "jalons": [
+      142812,
+      142818
+    ]
+  },
+  "entite_457": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      142978,
+      142982
+    ]
+  },
+  "entite_458": {
+    "label": "MISC",
+    "text": "Dieu du ciel !",
+    "jalons": [
+      143160,
+      143174
+    ]
+  },
+  "entite_459": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      143291,
+      143308
+    ]
+  },
+  "entite_460": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      144384,
+      144399
+    ]
+  },
+  "entite_461": {
+    "label": "PER",
+    "text": "Madame de",
+    "jalons": [
+      146220,
+      146229
+    ]
+  },
+  "entite_462": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      147105,
+      147118
+    ]
+  },
+  "entite_463": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      147447,
+      147462
+    ]
+  },
+  "entite_464": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      148506,
+      148521
+    ]
+  },
+  "entite_465": {
+    "label": "PER",
+    "text": "M. de Mauterne",
+    "jalons": [
+      148532,
+      148546
+    ]
+  },
+  "entite_466": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      149099,
+      149114
+    ]
+  },
+  "entite_467": {
+    "label": "MISC",
+    "text": "Chose étrange !",
+    "jalons": [
+      150713,
+      150728
+    ]
+  },
+  "entite_468": {
+    "label": "PER",
+    "text": "M. de Mauterne",
+    "jalons": [
+      151146,
+      151160
+    ]
+  },
+  "entite_469": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      151556,
+      151560
+    ]
+  },
+  "entite_470": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      151561,
+      151565
+    ]
+  },
+  "entite_471": {
+    "label": "PER",
+    "text": "Madame de Palme",
+    "jalons": [
+      151588,
+      151603
+    ]
+  },
+  "entite_472": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      152283,
+      152298
+    ]
+  },
+  "entite_473": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      152441,
+      152458
+    ]
+  },
+  "entite_474": {
+    "label": "PER",
+    "text": "Malouet",
+    "jalons": [
+      153205,
+      153212
+    ]
+  },
+  "entite_475": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      153467,
+      153481
+    ]
+  },
+  "entite_476": {
+    "label": "PER",
+    "text": "Madame de Malouet",
+    "jalons": [
+      153575,
+      153592
+    ]
+  },
+  "entite_477": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      153782,
+      153787
+    ]
+  },
+  "entite_478": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      153963,
+      153967
+    ]
+  },
+  "entite_479": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      154002,
+      154008
+    ]
+  },
+  "entite_480": {
+    "label": "MISC",
+    "text": "Ah ! pauvre",
+    "jalons": [
+      154239,
+      154250
+    ]
+  },
+  "entite_481": {
+    "label": "MISC",
+    "text": "Ayez pitié",
+    "jalons": [
+      154263,
+      154273
+    ]
+  },
+  "entite_482": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      154282,
+      154288
+    ]
+  },
+  "entite_483": {
+    "label": "PER",
+    "text": "Adieu",
+    "jalons": [
+      154311,
+      154316
+    ]
+  },
+  "entite_484": {
+    "label": "MISC",
+    "text": "Dieu !",
+    "jalons": [
+      154802,
+      154808
+    ]
+  },
+  "entite_485": {
+    "label": "MISC",
+    "text": "Me",
+    "jalons": [
+      154810,
+      154812
+    ]
+  },
+  "entite_486": {
+    "label": "MISC",
+    "text": "Des larmes !",
+    "jalons": [
+      155261,
+      155273
+    ]
+  },
+  "entite_487": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      155375,
+      155379
+    ]
+  },
+  "entite_488": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      155415,
+      155419
+    ]
+  },
+  "entite_489": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      155513,
+      155517
+    ]
+  },
+  "entite_490": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      155555,
+      155559
+    ]
+  },
+  "entite_491": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      155581,
+      155585
+    ]
+  },
+  "entite_492": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      155611,
+      155615
+    ]
+  },
+  "entite_493": {
+    "label": "PER",
+    "text": "Viens",
+    "jalons": [
+      155729,
+      155734
+    ]
+  },
+  "entite_494": {
+    "label": "MISC",
+    "text": "Paul !",
+    "jalons": [
+      155736,
+      155742
+    ]
+  },
+  "entite_495": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      156907,
+      156911
+    ]
+  },
+  "entite_496": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      157201,
+      157205
+    ]
+  },
+  "entite_497": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      157217,
+      157221
+    ]
+  },
+  "entite_498": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      157968,
+      157983
+    ]
+  },
+  "entite_499": {
+    "label": "PER",
+    "text": "marquise de Malouet",
+    "jalons": [
+      158055,
+      158074
+    ]
+  },
+  "entite_500": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      158101,
+      158107
+    ]
+  },
+  "entite_501": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      158146,
+      158150
+    ]
+  },
+  "entite_502": {
+    "label": "PER",
+    "text": "Veuillez",
+    "jalons": [
+      158323,
+      158331
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "madame de Pontbrian",
+    "jalons": [
+      158339,
+      158358
+    ]
+  },
+  "entite_504": {
+    "label": "MISC",
+    "text": "Mon cœur",
+    "jalons": [
+      159371,
+      159379
+    ]
+  },
+  "entite_505": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      159390,
+      159394
+    ]
+  },
+  "entite_506": {
+    "label": "PER",
+    "text": "Madame de Malouet",
+    "jalons": [
+      160196,
+      160213
+    ]
+  },
+  "entite_507": {
+    "label": "PER",
+    "text": "Madame de Pontbrian",
+    "jalons": [
+      160493,
+      160512
+    ]
+  },
+  "entite_508": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      160697,
+      160714
+    ]
+  },
+  "entite_509": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      160748,
+      160761
+    ]
+  },
+  "entite_510": {
+    "label": "MISC",
+    "text": "Cinq heures du soir",
+    "jalons": [
+      161378,
+      161397
+    ]
+  },
+  "entite_511": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      161486,
+      161503
+    ]
+  },
+  "entite_512": {
+    "label": "PER",
+    "text": "Paul !",
+    "jalons": [
+      161901,
+      161907
+    ]
+  },
+  "entite_513": {
+    "label": "PER",
+    "text": "M. de Malouet",
+    "jalons": [
+      162019,
+      162032
+    ]
+  },
+  "entite_514": {
+    "label": "PER",
+    "text": "Montez",
+    "jalons": [
+      162049,
+      162055
+    ]
+  },
+  "entite_515": {
+    "label": "MISC",
+    "text": "Allons !",
+    "jalons": [
+      162071,
+      162079
+    ]
+  },
+  "entite_516": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      162148,
+      162165
+    ]
+  },
+  "entite_517": {
+    "label": "PER",
+    "text": "empreindre",
+    "jalons": [
+      162345,
+      162355
+    ]
+  },
+  "entite_518": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      162499,
+      162507
+    ]
+  },
+  "entite_519": {
+    "label": "PER",
+    "text": "George",
+    "jalons": [
+      162566,
+      162572
+    ]
+  },
+  "entite_520": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      162837,
+      162843
+    ]
+  },
+  "entite_521": {
+    "label": "MISC",
+    "text": "Mon enfant !",
+    "jalons": [
+      162915,
+      162927
+    ]
+  },
+  "entite_522": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      163080,
+      163084
+    ]
+  },
+  "entite_523": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      163147,
+      163151
+    ]
+  },
+  "entite_524": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      163396,
+      163400
+    ]
+  },
+  "entite_525": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      163573,
+      163577
+    ]
+  },
+  "entite_526": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      163759,
+      163763
+    ]
+  },
+  "entite_527": {
+    "label": "PER",
+    "text": "Adieu",
+    "jalons": [
+      163852,
+      163857
+    ]
+  },
+  "entite_528": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      163859,
+      163863
+    ]
+  },
+  "entite_529": {
+    "label": "PER",
+    "text": "Adieu",
+    "jalons": [
+      163960,
+      163965
+    ]
+  },
+  "entite_530": {
+    "label": "PER",
+    "text": "marquis de Malouet",
+    "jalons": [
+      163986,
+      164004
+    ]
+  },
+  "entite_531": {
+    "label": "PER",
+    "text": "M. Paul B",
+    "jalons": [
+      164007,
+      164016
+    ]
+  },
+  "entite_532": {
+    "label": "LOC",
+    "text": "Paris Château de Malouet",
+    "jalons": [
+      164020,
+      164044
+    ]
+  },
+  "entite_533": {
+    "label": "ORG",
+    "text": "MONSIEUR",
+    "jalons": [
+      164059,
+      164067
+    ]
+  },
+  "entite_534": {
+    "label": "MISC",
+    "text": "C'EST POUR MOI",
+    "jalons": [
+      164069,
+      164083
+    ]
+  },
+  "entite_535": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      164437,
+      164454
+    ]
+  },
+  "entite_536": {
+    "label": "PER",
+    "text": "madame de Palme",
+    "jalons": [
+      164961,
+      164976
+    ]
+  },
+  "entite_537": {
+    "label": "PER",
+    "text": "M. George",
+    "jalons": [
+      165048,
+      165057
+    ]
+  },
+  "entite_538": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      165427,
+      165432
+    ]
+  },
+  "entite_539": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      165764,
+      165781
+    ]
+  },
+  "entite_540": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      165813,
+      165827
+    ]
+  },
+  "entite_541": {
+    "label": "LOC",
+    "text": "Chemin",
+    "jalons": [
+      165916,
+      165922
+    ]
+  },
+  "entite_542": {
+    "label": "PER",
+    "text": "M. de Mauterne",
+    "jalons": [
+      166333,
+      166347
+    ]
+  },
+  "entite_543": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      166664,
+      166678
+    ]
+  },
+  "entite_544": {
+    "label": "PER",
+    "text": "M. George",
+    "jalons": [
+      166760,
+      166769
+    ]
+  },
+  "entite_545": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      166863,
+      166877
+    ]
+  },
+  "entite_546": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      166972,
+      166986
+    ]
+  },
+  "entite_547": {
+    "label": "PER",
+    "text": "M. de Mauterne",
+    "jalons": [
+      167129,
+      167143
+    ]
+  },
+  "entite_548": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      167208,
+      167222
+    ]
+  },
+  "entite_549": {
+    "label": "PER",
+    "text": "monsieur",
+    "jalons": [
+      167381,
+      167389
+    ]
+  },
+  "entite_550": {
+    "label": "PER",
+    "text": "M. George",
+    "jalons": [
+      167500,
+      167509
+    ]
+  },
+  "entite_551": {
+    "label": "LOC",
+    "text": "Breuilly",
+    "jalons": [
+      167565,
+      167573
+    ]
+  },
+  "entite_552": {
+    "label": "PER",
+    "text": "M. George",
+    "jalons": [
+      167787,
+      167796
+    ]
+  },
+  "entite_553": {
+    "label": "PER",
+    "text": "M. de Mauterne",
+    "jalons": [
+      167926,
+      167940
+    ]
+  },
+  "entite_554": {
+    "label": "PER",
+    "text": "M. George",
+    "jalons": [
+      168076,
+      168085
+    ]
+  },
+  "entite_555": {
+    "label": "PER",
+    "text": "M. de Mauterne",
+    "jalons": [
+      168161,
+      168175
+    ]
+  },
+  "entite_556": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      168211,
+      168225
+    ]
+  },
+  "entite_557": {
+    "label": "LOC",
+    "text": "Mauterne",
+    "jalons": [
+      168437,
+      168445
+    ]
+  },
+  "entite_558": {
+    "label": "PER",
+    "text": "MM. de Quiroy",
+    "jalons": [
+      168447,
+      168460
+    ]
+  },
+  "entite_559": {
+    "label": "PER",
+    "text": "Astley",
+    "jalons": [
+      168464,
+      168470
+    ]
+  },
+  "entite_560": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      168483,
+      168490
+    ]
+  },
+  "entite_561": {
+    "label": "PER",
+    "text": "M. George",
+    "jalons": [
+      168492,
+      168501
+    ]
+  },
+  "entite_562": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      168918,
+      168932
+    ]
+  },
+  "entite_563": {
+    "label": "PER",
+    "text": "M. George",
+    "jalons": [
+      168951,
+      168960
+    ]
+  },
+  "entite_564": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      169030,
+      169044
+    ]
+  },
+  "entite_565": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      169173,
+      169177
+    ]
+  },
+  "entite_566": {
+    "label": "PER",
+    "text": "M. George",
+    "jalons": [
+      169550,
+      169559
+    ]
+  },
+  "entite_567": {
+    "label": "PER",
+    "text": "madame de Malouet",
+    "jalons": [
+      169660,
+      169677
+    ]
+  },
+  "entite_568": {
+    "label": "MISC",
+    "text": "Voilà !",
+    "jalons": [
+      170117,
+      170124
+    ]
+  },
+  "entite_569": {
+    "label": "MISC",
+    "text": "Bonsoir, cher monsieur",
+    "jalons": [
+      170644,
+      170666
+    ]
+  },
+  "entite_570": {
+    "label": "PER",
+    "text": "M. George",
+    "jalons": [
+      170753,
+      170762
+    ]
+  },
+  "entite_571": {
+    "label": "PER",
+    "text": "M. de Breuilly",
+    "jalons": [
+      170764,
+      170778
+    ]
+  },
+  "entite_572": {
+    "label": "LOC",
+    "text": "Malouet",
+    "jalons": [
+      170836,
+      170843
+    ]
+  },
+  "entite_573": {
+    "label": "LOC",
+    "text": "Mauterne",
+    "jalons": [
+      170850,
+      170858
+    ]
+  },
+  "entite_574": {
+    "label": "PER",
+    "text": "MM. de Quiroy",
+    "jalons": [
+      170960,
+      170973
+    ]
+  },
+  "entite_575": {
+    "label": "PER",
+    "text": "Astley",
+    "jalons": [
+      170977,
+      170983
+    ]
+  },
+  "entite_576": {
+    "label": "PER",
+    "text": "M. George",
+    "jalons": [
+      171107,
+      171116
+    ]
+  },
+  "entite_577": {
+    "label": "PER",
+    "text": "Breuilly",
+    "jalons": [
+      171225,
+      171233
+    ]
+  },
+  "entite_578": {
+    "label": "PER",
+    "text": "M. George",
+    "jalons": [
+      171390,
+      171399
+    ]
+  },
+  "entite_579": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      171638,
+      171642
+    ]
+  }
+}
