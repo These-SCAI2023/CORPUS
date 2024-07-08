@@ -1,0 +1,5618 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Gallica  L'effrayante",
+    "jalons": [
+      6,
+      27
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Jules Lermina",
+    "jalons": [
+      39,
+      52
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "gallica.bnf.fr",
+    "jalons": [
+      61,
+      75
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Bibliothèque",
+    "jalons": [
+      78,
+      90
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      104,
+      110
+    ]
+  },
+  "entite_5": {
+    "label": "ORG",
+    "text": "Gallica     Lermina",
+    "jalons": [
+      116,
+      135
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Jules",
+    "jalons": [
+      137,
+      142
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Auteur du texte",
+    "jalons": [
+      156,
+      171
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Jules Lermina",
+    "jalons": [
+      197,
+      210
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      291,
+      297
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Les contenus de Gallica sont la propriété de la BnF au sens de",
+    "jalons": [
+      374,
+      436
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "PARIS",
+    "jalons": [
+      142,
+      147
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Kate Merodith",
+    "jalons": [
+      244,
+      257
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Charles FOLEY",
+    "jalons": [
+      268,
+      281
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "La Chambre",
+    "jalons": [
+      287,
+      297
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "La Ténébreuse Affaire de A Graen Park",
+    "jalons": [
+      428,
+      465
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "La Main et la Bugue",
+    "jalons": [
+      54,
+      73
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "HORNUNG Frank Rattray",
+    "jalons": [
+      235,
+      256
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Fergus",
+    "jalons": [
+      412,
+      418
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "L'Eénigme de",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_20": {
+    "label": "ORG",
+    "text": "la Maille Rouge",
+    "jalons": [
+      1,
+      16
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "MORRISON",
+    "jalons": [
+      23,
+      31
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Sous la griffe de Martin",
+    "jalons": [
+      39,
+      63
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Hetiti",
+    "jalons": [
+      65,
+      71
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Le Mgstère de la Tortue",
+    "jalons": [
+      85,
+      108
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      133,
+      135
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Corgplot",
+    "jalons": [
+      137,
+      145
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "L La Chasse à l'Homme",
+    "jalons": [
+      177,
+      198
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Le Rocher du Mort",
+    "jalons": [
+      235,
+      252
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Roberts RINEHART",
+    "jalons": [
+      265,
+      281
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "L'Escalter.",
+    "jalons": [
+      284,
+      295
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "H. de VERE",
+    "jalons": [
+      368,
+      378
+    ]
+  },
+  "entite_32": {
+    "label": "ORG",
+    "text": "EU",
+    "jalons": [
+      489,
+      491
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Envoi franco sous",
+    "jalons": [
+      495,
+      512
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "L. Motti",
+    "jalons": [
+      167,
+      175
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Impasse Ronsin",
+    "jalons": [
+      190,
+      204
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      206,
+      211
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "LAS",
+    "jalons": [
+      500,
+      503
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "PARIS",
+    "jalons": [
+      2,
+      7
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "J. TALLANDIER",
+    "jalons": [
+      32,
+      45
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Éprreur",
+    "jalons": [
+      47,
+      54
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "RUB DAREAU",
+    "jalons": [
+      59,
+      69
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Montmartre",
+    "jalons": [
+      389,
+      399
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "de la rue du Crois",
+    "jalons": [
+      2,
+      20
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "D'mandez le Nouvelliste",
+    "jalons": [
+      302,
+      325
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "essayérent de soulever l’homme afin de chercher le lien et le",
+    "jalons": [
+      0,
+      61
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Enfin",
+    "jalons": [
+      11,
+      16
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "M. Richaud",
+    "jalons": [
+      18,
+      28
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "M. Davaine",
+    "jalons": [
+      297,
+      307
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      114,
+      119
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "le Zadig de Voltaire jusqu'au Dupin d’Edger Poë et à l’incomparable Sberlock Holmes",
+    "jalons": [
+      80,
+      163
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "IL",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      364,
+      369
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "Le chef de la Sûreté",
+    "jalons": [
+      109,
+      129
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "M. Davaine",
+    "jalons": [
+      131,
+      141
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "de la  Sûreté",
+    "jalons": [
+      462,
+      475
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Lavaur",
+    "jalons": [
+      248,
+      254
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "du cabinet s’ouvrit et un inspecteur passa la tête",
+    "jalons": [
+      0,
+      50
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "M. Davaine prit le carré",
+    "jalons": [
+      462,
+      486
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Lavaur",
+    "jalons": [
+      143,
+      149
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "M. Lavaur",
+    "jalons": [
+      317,
+      326
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "Bobby",
+    "jalons": [
+      418,
+      423
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Directeur de Scotland Yard",
+    "jalons": [
+      208,
+      234
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      2,
+      9
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Greenwich",
+    "jalons": [
+      117,
+      126
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Lewis Bird",
+    "jalons": [
+      249,
+      259
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "empereur des Indes",
+    "jalons": [
+      387,
+      405
+    ]
+  },
+  "entite_67": {
+    "label": "LOC",
+    "text": "de la République",
+    "jalons": [
+      494,
+      510
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "M. Bobbvy",
+    "jalons": [
+      26,
+      35
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      29,
+      34
+    ]
+  },
+  "entite_70": {
+    "label": "PER",
+    "text": "M. Davaine lui",
+    "jalons": [
+      103,
+      117
+    ]
+  },
+  "entite_71": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      493,
+      498
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Davaine",
+    "jalons": [
+      6,
+      13
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Monsieur Bobby",
+    "jalons": [
+      15,
+      29
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Les Français",
+    "jalons": [
+      430,
+      442
+    ]
+  },
+  "entite_75": {
+    "label": "ORG",
+    "text": "le Nouvel",
+    "jalons": [
+      484,
+      493
+    ]
+  },
+  "entite_76": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      179,
+      184
+    ]
+  },
+  "entite_77": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      149,
+      154
+    ]
+  },
+  "entite_78": {
+    "label": "MISC",
+    "text": "Lo Nouvelliste",
+    "jalons": [
+      217,
+      231
+    ]
+  },
+  "entite_79": {
+    "label": "ORG",
+    "text": "Le Reporter",
+    "jalons": [
+      312,
+      323
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      375,
+      380
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      499,
+      504
+    ]
+  },
+  "entite_82": {
+    "label": "PER",
+    "text": "M. Mallet du Saule",
+    "jalons": [
+      180,
+      198
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "Bobby n'était",
+    "jalons": [
+      499,
+      512
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Dieppe",
+    "jalons": [
+      218,
+      224
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      329,
+      335
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "Coxwell ou de Coxburn",
+    "jalons": [
+      223,
+      244
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "Soudain",
+    "jalons": [
+      247,
+      254
+    ]
+  },
+  "entite_88": {
+    "label": "MISC",
+    "text": "le chef de la Sûreté à la",
+    "jalons": [
+      234,
+      259
+    ]
+  },
+  "entite_89": {
+    "label": "PER",
+    "text": "M. Davaine lui",
+    "jalons": [
+      68,
+      82
+    ]
+  },
+  "entite_90": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      194,
+      199
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "Aujour",
+    "jalons": [
+      236,
+      242
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "M. Bobby",
+    "jalons": [
+      502,
+      510
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "M. Britannique",
+    "jalons": [
+      261,
+      275
+    ]
+  },
+  "entite_94": {
+    "label": "PER",
+    "text": "John Coxward",
+    "jalons": [
+      489,
+      501
+    ]
+  },
+  "entite_95": {
+    "label": "PER",
+    "text": "M. Davaine",
+    "jalons": [
+      449,
+      459
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Aussi",
+    "jalons": [
+      30,
+      35
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "de l'imprimerie de la rue du Crois",
+    "jalons": [
+      429,
+      463
+    ]
+  },
+  "entite_98": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      310,
+      315
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "Shadow’s-Bar",
+    "jalons": [
+      449,
+      461
+    ]
+  },
+  "entite_100": {
+    "label": "LOC",
+    "text": "Bar de l'ombre",
+    "jalons": [
+      463,
+      477
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "Liverpool-Road",
+    "jalons": [
+      480,
+      494
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Islington",
+    "jalons": [
+      496,
+      505
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "de Londres",
+    "jalons": [
+      42,
+      52
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      260,
+      267
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      270,
+      275
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "C'était",
+    "jalons": [
+      7,
+      14
+    ]
+  },
+  "entite_107": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      26,
+      31
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "Liverpool-Road",
+    "jalons": [
+      47,
+      61
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "Shadow's-Bar",
+    "jalons": [
+      211,
+      223
+    ]
+  },
+  "entite_110": {
+    "label": "PER",
+    "text": "Pat O’Kearn",
+    "jalons": [
+      245,
+      256
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "Irlandais",
+    "jalons": [
+      258,
+      267
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "Coxward",
+    "jalons": [
+      105,
+      112
+    ]
+  },
+  "entite_113": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      197,
+      204
+    ]
+  },
+  "entite_114": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      295,
+      300
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "de la place de la Concorde",
+    "jalons": [
+      315,
+      341
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      135,
+      144
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      260,
+      267
+    ]
+  },
+  "entite_118": {
+    "label": "PER",
+    "text": "Edwin Battleworth",
+    "jalons": [
+      269,
+      286
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "Pat O'Kearn",
+    "jalons": [
+      33,
+      44
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "Irlandais",
+    "jalons": [
+      46,
+      55
+    ]
+  },
+  "entite_121": {
+    "label": "PER",
+    "text": "de la Sûreté",
+    "jalons": [
+      183,
+      195
+    ]
+  },
+  "entite_122": {
+    "label": "PER",
+    "text": "M. Davaine",
+    "jalons": [
+      197,
+      207
+    ]
+  },
+  "entite_123": {
+    "label": "LOC",
+    "text": "Sherlock-Holmes",
+    "jalons": [
+      303,
+      318
+    ]
+  },
+  "entite_124": {
+    "label": "LOC",
+    "text": "Victoria",
+    "jalons": [
+      419,
+      427
+    ]
+  },
+  "entite_125": {
+    "label": "LOC",
+    "text": "deux pas de l'Hôtel do Ville",
+    "jalons": [
+      431,
+      459
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      40,
+      45
+    ]
+  },
+  "entite_127": {
+    "label": "PER",
+    "text": "Bobby par-ci",
+    "jalons": [
+      47,
+      59
+    ]
+  },
+  "entite_128": {
+    "label": "LOC",
+    "text": "Charenton",
+    "jalons": [
+      225,
+      234
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Sur l’ordre de la Préfecture",
+    "jalons": [
+      247,
+      275
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Lépine",
+    "jalons": [
+      350,
+      356
+    ]
+  },
+  "entite_131": {
+    "label": "PER",
+    "text": "Bobby, citoyen anglais",
+    "jalons": [
+      2,
+      24
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "Madame Bobby",
+    "jalons": [
+      30,
+      42
+    ]
+  },
+  "entite_133": {
+    "label": "PER",
+    "text": "Marie Stuart",
+    "jalons": [
+      305,
+      317
+    ]
+  },
+  "entite_134": {
+    "label": "LOC",
+    "text": "Coxward",
+    "jalons": [
+      423,
+      430
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "M. Bobby l'a",
+    "jalons": [
+      52,
+      64
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "citoyen de la libre Angleterre",
+    "jalons": [
+      397,
+      427
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "Madame Bobby",
+    "jalons": [
+      204,
+      216
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Calais",
+    "jalons": [
+      70,
+      76
+    ]
+  },
+  "entite_139": {
+    "label": "MISC",
+    "text": "Madame Bobby à la gare du Nord",
+    "jalons": [
+      112,
+      142
+    ]
+  },
+  "entite_140": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      432,
+      437
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "BOBBY  Ceci",
+    "jalons": [
+      231,
+      242
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      254,
+      261
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "M. Bobby",
+    "jalons": [
+      264,
+      272
+    ]
+  },
+  "entite_144": {
+    "label": "MISC",
+    "text": "Ceci est le journal de sa vie",
+    "jalons": [
+      35,
+      64
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Moi",
+    "jalons": [
+      3,
+      6
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "la ville de Londres",
+    "jalons": [
+      33,
+      52
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      187,
+      193
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "Mais la Providence",
+    "jalons": [
+      258,
+      276
+    ]
+  },
+  "entite_149": {
+    "label": "MISC",
+    "text": "Dès le lendemain de",
+    "jalons": [
+      409,
+      428
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "Scotland",
+    "jalons": [
+      23,
+      31
+    ]
+  },
+  "entite_151": {
+    "label": "MISC",
+    "text": "Encouragé par la fermeté de Suzan — c'est-à-dire de Madame Bobby",
+    "jalons": [
+      265,
+      329
+    ]
+  },
+  "entite_152": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      501,
+      506
+    ]
+  },
+  "entite_153": {
+    "label": "MISC",
+    "text": "J'avais pris connaissance du journal où sa présence Gans la nuit",
+    "jalons": [
+      107,
+      171
+    ]
+  },
+  "entite_154": {
+    "label": "PER",
+    "text": "Bessie Bell",
+    "jalons": [
+      168,
+      179
+    ]
+  },
+  "entite_155": {
+    "label": "PER",
+    "text": "mme chez les Hindous",
+    "jalons": [
+      0,
+      20
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      232,
+      237
+    ]
+  },
+  "entite_157": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      361,
+      368
+    ]
+  },
+  "entite_158": {
+    "label": "ORG",
+    "text": "Cherche",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Corsica",
+    "jalons": [
+      268,
+      275
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "M. Bobby n'avait",
+    "jalons": [
+      154,
+      170
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "Nulle",
+    "jalons": [
+      478,
+      483
+    ]
+  },
+  "entite_162": {
+    "label": "MISC",
+    "text": "J'ai pris des",
+    "jalons": [
+      2,
+      15
+    ]
+  },
+  "entite_163": {
+    "label": "LOC",
+    "text": "Kilburn",
+    "jalons": [
+      88,
+      95
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "Highbury",
+    "jalons": [
+      394,
+      402
+    ]
+  },
+  "entite_165": {
+    "label": "MISC",
+    "text": "Athel Random et Mary Redmore",
+    "jalons": [
+      59,
+      87
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "Coxward",
+    "jalons": [
+      490,
+      497
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Pourtant",
+    "jalons": [
+      499,
+      507
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "Jedediah Redmore",
+    "jalons": [
+      298,
+      314
+    ]
+  },
+  "entite_169": {
+    "label": "LOC",
+    "text": "de Newington Park",
+    "jalons": [
+      393,
+      410
+    ]
+  },
+  "entite_170": {
+    "label": "ORG",
+    "text": "La mais",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Redmore",
+    "jalons": [
+      3,
+      10
+    ]
+  },
+  "entite_172": {
+    "label": "PER",
+    "text": "M. Redmore",
+    "jalons": [
+      459,
+      469
+    ]
+  },
+  "entite_173": {
+    "label": "PER",
+    "text": "Miss Mary",
+    "jalons": [
+      300,
+      309
+    ]
+  },
+  "entite_174": {
+    "label": "LOC",
+    "text": "Certes",
+    "jalons": [
+      479,
+      485
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "Bobby",
+    "jalons": [
+      492,
+      497
+    ]
+  },
+  "entite_176": {
+    "label": "LOC",
+    "text": "Redmore",
+    "jalons": [
+      274,
+      281
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "Jedediah Redmore",
+    "jalons": [
+      400,
+      416
+    ]
+  },
+  "entite_178": {
+    "label": "LOC",
+    "text": "Redmore",
+    "jalons": [
+      504,
+      511
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "Athel Random",
+    "jalons": [
+      362,
+      374
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "de Corsica",
+    "jalons": [
+      376,
+      386
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Highbury",
+    "jalons": [
+      395,
+      403
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      324,
+      329
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "M. Redmore",
+    "jalons": [
+      365,
+      375
+    ]
+  },
+  "entite_184": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      439,
+      444
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "lui de la façon",
+    "jalons": [
+      1,
+      16
+    ]
+  },
+  "entite_186": {
+    "label": "PER",
+    "text": "Mais Bobby",
+    "jalons": [
+      132,
+      142
+    ]
+  },
+  "entite_187": {
+    "label": "MISC",
+    "text": "Première victoire de Bobby",
+    "jalons": [
+      306,
+      332
+    ]
+  },
+  "entite_188": {
+    "label": "LOC",
+    "text": "Parlez",
+    "jalons": [
+      337,
+      343
+    ]
+  },
+  "entite_189": {
+    "label": "PER",
+    "text": "Athel s'est-il",
+    "jalons": [
+      23,
+      37
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "Athel",
+    "jalons": [
+      463,
+      468
+    ]
+  },
+  "entite_191": {
+    "label": "PER",
+    "text": "Athel quelque dérang",
+    "jalons": [
+      492,
+      512
+    ]
+  },
+  "entite_192": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      106,
+      113
+    ]
+  },
+  "entite_193": {
+    "label": "MISC",
+    "text": "New-York en deux",
+    "jalons": [
+      116,
+      132
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "Buffalo",
+    "jalons": [
+      340,
+      347
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Miss Mary",
+    "jalons": [
+      446,
+      455
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "M. Bobby retomba d'aplomb",
+    "jalons": [
+      475,
+      500
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      200,
+      207
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      210,
+      215
+    ]
+  },
+  "entite_199": {
+    "label": "PER",
+    "text": "Miss Mary Redmore",
+    "jalons": [
+      8,
+      25
+    ]
+  },
+  "entite_200": {
+    "label": "MISC",
+    "text": "Jeunes filles de Buffalo",
+    "jalons": [
+      55,
+      79
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Cockney de Londres",
+    "jalons": [
+      234,
+      252
+    ]
+  },
+  "entite_202": {
+    "label": "PER",
+    "text": "M. Bobby",
+    "jalons": [
+      97,
+      105
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Voyant",
+    "jalons": [
+      24,
+      30
+    ]
+  },
+  "entite_204": {
+    "label": "MISC",
+    "text": "J'ai bien reçu la lettre de Miss Mary",
+    "jalons": [
+      59,
+      96
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "Athel la",
+    "jalons": [
+      471,
+      479
+    ]
+  },
+  "entite_206": {
+    "label": "PER",
+    "text": "Arthur de Laber",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      144,
+      149
+    ]
+  },
+  "entite_208": {
+    "label": "LOC",
+    "text": "Nouvelliste de Paris",
+    "jalons": [
+      294,
+      314
+    ]
+  },
+  "entite_209": {
+    "label": "PER",
+    "text": "Miss Redmore",
+    "jalons": [
+      38,
+      50
+    ]
+  },
+  "entite_210": {
+    "label": "MISC",
+    "text": "Il était parti de Paris le matin",
+    "jalons": [
+      90,
+      122
+    ]
+  },
+  "entite_211": {
+    "label": "LOC",
+    "text": "Lais",
+    "jalons": [
+      476,
+      480
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      110,
+      116
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Athel",
+    "jalons": [
+      187,
+      192
+    ]
+  },
+  "entite_214": {
+    "label": "LOC",
+    "text": "Atbel",
+    "jalons": [
+      379,
+      384
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Highbury",
+    "jalons": [
+      396,
+      404
+    ]
+  },
+  "entite_216": {
+    "label": "LOC",
+    "text": "Lon",
+    "jalons": [
+      406,
+      409
+    ]
+  },
+  "entite_217": {
+    "label": "LOC",
+    "text": "Tel",
+    "jalons": [
+      419,
+      422
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "Miss Mary Redmore",
+    "jalons": [
+      106,
+      123
+    ]
+  },
+  "entite_219": {
+    "label": "MISC",
+    "text": "L'EFFRAYANTE AVENTURE        LE par la jeune fille dans la lettre dont Bobby lui",
+    "jalons": [
+      366,
+      446
+    ]
+  },
+  "entite_220": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      60,
+      65
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "Edwin Batlewortb",
+    "jalons": [
+      117,
+      133
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "de Coxward",
+    "jalons": [
+      181,
+      191
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      195,
+      202
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      461,
+      470
+    ]
+  },
+  "entite_225": {
+    "label": "PER",
+    "text": "Sir Athel en se levant",
+    "jalons": [
+      107,
+      129
+    ]
+  },
+  "entite_226": {
+    "label": "MISC",
+    "text": "mande à quel propos je le trouve sur le seuil de votre porte",
+    "jalons": [
+      0,
+      60
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "Athel y jeta les",
+    "jalons": [
+      7,
+      23
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "Laber",
+    "jalons": [
+      441,
+      446
+    ]
+  },
+  "entite_229": {
+    "label": "PER",
+    "text": "Sir Athel",
+    "jalons": [
+      190,
+      199
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "M. Bobby se rongeait",
+    "jalons": [
+      12,
+      32
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "Ouil",
+    "jalons": [
+      505,
+      509
+    ]
+  },
+  "entite_232": {
+    "label": "MISC",
+    "text": "Bobby out un petit geste de tête que",
+    "jalons": [
+      43,
+      79
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "John Coxward",
+    "jalons": [
+      428,
+      440
+    ]
+  },
+  "entite_234": {
+    "label": "MISC",
+    "text": "roîné ses savates dans les bas-fonds de Londres",
+    "jalons": [
+      0,
+      47
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      283,
+      288
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      295,
+      300
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      132,
+      137
+    ]
+  },
+  "entite_238": {
+    "label": "PER",
+    "text": "John Coxward",
+    "jalons": [
+      206,
+      218
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      149,
+      154
+    ]
+  },
+  "entite_240": {
+    "label": "PER",
+    "text": "M. Bri",
+    "jalons": [
+      425,
+      431
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      486,
+      491
+    ]
+  },
+  "entite_242": {
+    "label": "PER",
+    "text": "Athel passa",
+    "jalons": [
+      500,
+      511
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "Hein",
+    "jalons": [
+      297,
+      301
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      324,
+      329
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Bobby",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_246": {
+    "label": "PER",
+    "text": "Mary Redmord",
+    "jalons": [
+      461,
+      473
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      287,
+      292
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "Hélas",
+    "jalons": [
+      16,
+      21
+    ]
+  },
+  "entite_249": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      96,
+      101
+    ]
+  },
+  "entite_250": {
+    "label": "LOC",
+    "text": "Cessez de",
+    "jalons": [
+      122,
+      131
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      290,
+      295
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "Hélas",
+    "jalons": [
+      427,
+      432
+    ]
+  },
+  "entite_253": {
+    "label": "LOC",
+    "text": "Concorde",
+    "jalons": [
+      127,
+      135
+    ]
+  },
+  "entite_254": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      139,
+      144
+    ]
+  },
+  "entite_255": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      448,
+      455
+    ]
+  },
+  "entite_256": {
+    "label": "PER",
+    "text": "Athel n'ava",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_257": {
+    "label": "ORG",
+    "text": "uelle le solicitor de Londres",
+    "jalons": [
+      0,
+      29
+    ]
+  },
+  "entite_258": {
+    "label": "MISC",
+    "text": "Coxward de Londres et le mort de Paris",
+    "jalons": [
+      269,
+      307
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "Nouvelliste",
+    "jalons": [
+      437,
+      448
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      285,
+      290
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      348,
+      353
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      500,
+      507
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      326,
+      333
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      491,
+      498
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      501,
+      506
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      327,
+      336
+    ]
+  },
+  "entite_267": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      40,
+      47
+    ]
+  },
+  "entite_268": {
+    "label": "LOC",
+    "text": "Carrières-d'Amérique",
+    "jalons": [
+      419,
+      439
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      443,
+      448
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Voici",
+    "jalons": [
+      498,
+      503
+    ]
+  },
+  "entite_271": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      55,
+      60
+    ]
+  },
+  "entite_272": {
+    "label": "LOC",
+    "text": "de la place du Danube et de l'hôpital Hérold",
+    "jalons": [
+      122,
+      166
+    ]
+  },
+  "entite_273": {
+    "label": "ORG",
+    "text": "L'EFFRAYANTE AV",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "vint s'affaler dans les",
+    "jalons": [
+      0,
+      23
+    ]
+  },
+  "entite_275": {
+    "label": "PER",
+    "text": "Alors",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_276": {
+    "label": "LOC",
+    "text": "L'EF",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_277": {
+    "label": "LOC",
+    "text": "Laber",
+    "jalons": [
+      340,
+      345
+    ]
+  },
+  "entite_278": {
+    "label": "LOC",
+    "text": "Nogent-sur-Marne",
+    "jalons": [
+      71,
+      87
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "la Ville de Paris",
+    "jalons": [
+      91,
+      108
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      22,
+      27
+    ]
+  },
+  "entite_281": {
+    "label": "MISC",
+    "text": "Un sergent de ville",
+    "jalons": [
+      57,
+      76
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Déjà",
+    "jalons": [
+      168,
+      172
+    ]
+  },
+  "entite_283": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      315,
+      320
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "aine de sergents de ville",
+    "jalons": [
+      0,
+      25
+    ]
+  },
+  "entite_285": {
+    "label": "PER",
+    "text": "M. Lépine",
+    "jalons": [
+      27,
+      36
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "M. Loustulot",
+    "jalons": [
+      38,
+      50
+    ]
+  },
+  "entite_287": {
+    "label": "MISC",
+    "text": "Malgré les efforts des",
+    "jalons": [
+      3,
+      25
+    ]
+  },
+  "entite_288": {
+    "label": "LOC",
+    "text": "Lépine",
+    "jalons": [
+      66,
+      72
+    ]
+  },
+  "entite_289": {
+    "label": "PER",
+    "text": "M. Loustalot",
+    "jalons": [
+      240,
+      252
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      426,
+      431
+    ]
+  },
+  "entite_291": {
+    "label": "ORG",
+    "text": "Sciences et du Conservatoire des Arts et Métiers",
+    "jalons": [
+      453,
+      501
+    ]
+  },
+  "entite_292": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      460,
+      465
+    ]
+  },
+  "entite_293": {
+    "label": "LOC",
+    "text": "La grande ville",
+    "jalons": [
+      496,
+      511
+    ]
+  },
+  "entite_294": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      294,
+      299
+    ]
+  },
+  "entite_295": {
+    "label": "MISC",
+    "text": "Paris se portait vers les Buttes-Chaumont, la rue Manin et le boule",
+    "jalons": [
+      231,
+      298
+    ]
+  },
+  "entite_296": {
+    "label": "LOC",
+    "text": "Bois de Boulogne",
+    "jalons": [
+      438,
+      454
+    ]
+  },
+  "entite_297": {
+    "label": "MISC",
+    "text": "Lorell et Ci‘ de Londres",
+    "jalons": [
+      426,
+      450
+    ]
+  },
+  "entite_298": {
+    "label": "PER",
+    "text": "hel Random",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_299": {
+    "label": "LOC",
+    "text": "Corsica-street",
+    "jalons": [
+      12,
+      26
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "Sir Athel",
+    "jalons": [
+      178,
+      187
+    ]
+  },
+  "entite_301": {
+    "label": "MISC",
+    "text": "en présence de Bobby",
+    "jalons": [
+      189,
+      209
+    ]
+  },
+  "entite_302": {
+    "label": "PER",
+    "text": "Athel n’hésitait",
+    "jalons": [
+      291,
+      307
+    ]
+  },
+  "entite_303": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      186,
+      191
+    ]
+  },
+  "entite_304": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      193,
+      198
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "Boulogne",
+    "jalons": [
+      79,
+      87
+    ]
+  },
+  "entite_306": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      121,
+      126
+    ]
+  },
+  "entite_307": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      154,
+      163
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Berthelot",
+    "jalons": [
+      361,
+      370
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "Aussi",
+    "jalons": [
+      212,
+      217
+    ]
+  },
+  "entite_310": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      271,
+      276
+    ]
+  },
+  "entite_311": {
+    "label": "PER",
+    "text": "Athel",
+    "jalons": [
+      334,
+      339
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      460,
+      467
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      1,
+      6
+    ]
+  },
+  "entite_314": {
+    "label": "LOC",
+    "text": "Bobby de",
+    "jalons": [
+      118,
+      126
+    ]
+  },
+  "entite_315": {
+    "label": "PER",
+    "text": "Sir Athol",
+    "jalons": [
+      173,
+      182
+    ]
+  },
+  "entite_316": {
+    "label": "PER",
+    "text": "Miss Redmore.",
+    "jalons": [
+      201,
+      214
+    ]
+  },
+  "entite_317": {
+    "label": "LOC",
+    "text": "la maison de Corsica",
+    "jalons": [
+      448,
+      468
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "VI  LA",
+    "jalons": [
+      40,
+      46
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      89,
+      94
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Verloret",
+    "jalons": [
+      303,
+      311
+    ]
+  },
+  "entite_321": {
+    "label": "PER",
+    "text": "l'appareil de Ménit",
+    "jalons": [
+      493,
+      512
+    ]
+  },
+  "entite_322": {
+    "label": "MISC",
+    "text": "Launay et Bienvenu devant l'Académie des Sciences et que renouvela Ponaud en",
+    "jalons": [
+      80,
+      156
+    ]
+  },
+  "entite_323": {
+    "label": "PER",
+    "text": "M. Ver",
+    "jalons": [
+      29,
+      35
+    ]
+  },
+  "entite_324": {
+    "label": "ORG",
+    "text": "Le Temps",
+    "jalons": [
+      496,
+      504
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      223,
+      228
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Certes",
+    "jalons": [
+      404,
+      410
+    ]
+  },
+  "entite_327": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      217,
+      222
+    ]
+  },
+  "entite_328": {
+    "label": "ORG",
+    "text": "Le Reporter",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Montmartre",
+    "jalons": [
+      322,
+      332
+    ]
+  },
+  "entite_330": {
+    "label": "MISC",
+    "text": "Comme le Nouvelliste élait un pou en",
+    "jalons": [
+      335,
+      371
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "Drouot",
+    "jalons": [
+      501,
+      507
+    ]
+  },
+  "entite_332": {
+    "label": "LOC",
+    "text": "baissait",
+    "jalons": [
+      1,
+      9
+    ]
+  },
+  "entite_333": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      447,
+      452
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "de M. Bobby",
+    "jalons": [
+      500,
+      511
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      220,
+      225
+    ]
+  },
+  "entite_336": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      37,
+      42
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      122,
+      127
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      31,
+      35
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      78,
+      83
+    ]
+  },
+  "entite_340": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      207,
+      212
+    ]
+  },
+  "entite_341": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      454,
+      459
+    ]
+  },
+  "entite_342": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      24,
+      33
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Là",
+    "jalons": [
+      441,
+      443
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      237,
+      246
+    ]
+  },
+  "entite_345": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      356,
+      361
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Beauvau",
+    "jalons": [
+      336,
+      343
+    ]
+  },
+  "entite_347": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      423,
+      428
+    ]
+  },
+  "entite_348": {
+    "label": "LOC",
+    "text": "Votre Anglais",
+    "jalons": [
+      52,
+      65
+    ]
+  },
+  "entite_349": {
+    "label": "LOC",
+    "text": "Gertes",
+    "jalons": [
+      377,
+      383
+    ]
+  },
+  "entite_350": {
+    "label": "PER",
+    "text": "M. Bobby",
+    "jalons": [
+      229,
+      237
+    ]
+  },
+  "entite_351": {
+    "label": "PER",
+    "text": "Monsieur le ministre",
+    "jalons": [
+      242,
+      262
+    ]
+  },
+  "entite_352": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      343,
+      348
+    ]
+  },
+  "entite_353": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      484,
+      491
+    ]
+  },
+  "entite_354": {
+    "label": "MISC",
+    "text": "Monsieur le préfet de",
+    "jalons": [
+      10,
+      31
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "Athel Random",
+    "jalons": [
+      457,
+      469
+    ]
+  },
+  "entite_356": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      44,
+      49
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      80,
+      89
+    ]
+  },
+  "entite_358": {
+    "label": "PER",
+    "text": "Monsieur Random",
+    "jalons": [
+      10,
+      25
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "Alavoine",
+    "jalons": [
+      223,
+      231
+    ]
+  },
+  "entite_360": {
+    "label": "PER",
+    "text": "Athel Random",
+    "jalons": [
+      3,
+      15
+    ]
+  },
+  "entite_361": {
+    "label": "PER",
+    "text": "William Crookes",
+    "jalons": [
+      51,
+      66
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "de la Société Royale Scientifique de Londres",
+    "jalons": [
+      81,
+      125
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "US",
+    "jalons": [
+      423,
+      425
+    ]
+  },
+  "entite_364": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      425,
+      430
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "Sibérie",
+    "jalons": [
+      62,
+      69
+    ]
+  },
+  "entite_366": {
+    "label": "MISC",
+    "text": "la Chine et le Japon",
+    "jalons": [
+      71,
+      91
+    ]
+  },
+  "entite_367": {
+    "label": "LOC",
+    "text": "l'Amérique du Nord",
+    "jalons": [
+      109,
+      127
+    ]
+  },
+  "entite_368": {
+    "label": "PER",
+    "text": "Athel",
+    "jalons": [
+      31,
+      36
+    ]
+  },
+  "entite_369": {
+    "label": "LOC",
+    "text": "Ala",
+    "jalons": [
+      508,
+      511
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "Corsica-street",
+    "jalons": [
+      417,
+      431
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      464,
+      471
+    ]
+  },
+  "entite_372": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      71,
+      77
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      438,
+      447
+    ]
+  },
+  "entite_374": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      355,
+      364
+    ]
+  },
+  "entite_375": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      90,
+      95
+    ]
+  },
+  "entite_376": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      272,
+      277
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Athel",
+    "jalons": [
+      337,
+      342
+    ]
+  },
+  "entite_378": {
+    "label": "MISC",
+    "text": "C’est toujours un peu du théâtre",
+    "jalons": [
+      7,
+      39
+    ]
+  },
+  "entite_379": {
+    "label": "PER",
+    "text": "Sir Athel",
+    "jalons": [
+      472,
+      481
+    ]
+  },
+  "entite_380": {
+    "label": "LOC",
+    "text": "Lebon",
+    "jalons": [
+      11,
+      16
+    ]
+  },
+  "entite_381": {
+    "label": "PER",
+    "text": "Henry Bulwer Lytton",
+    "jalons": [
+      32,
+      51
+    ]
+  },
+  "entite_382": {
+    "label": "LOC",
+    "text": "Lecoq de Boisbaudran",
+    "jalons": [
+      188,
+      208
+    ]
+  },
+  "entite_383": {
+    "label": "PER",
+    "text": "de Sir Arthur Ramsay",
+    "jalons": [
+      4,
+      24
+    ]
+  },
+  "entite_384": {
+    "label": "PER",
+    "text": "de Lord Raleigh",
+    "jalons": [
+      26,
+      41
+    ]
+  },
+  "entite_385": {
+    "label": "PER",
+    "text": "de Norman Lockyer",
+    "jalons": [
+      43,
+      60
+    ]
+  },
+  "entite_386": {
+    "label": "PER",
+    "text": "Berthelot",
+    "jalons": [
+      69,
+      78
+    ]
+  },
+  "entite_387": {
+    "label": "LOC",
+    "text": "Bec",
+    "jalons": [
+      80,
+      83
+    ]
+  },
+  "entite_388": {
+    "label": "LOC",
+    "text": "de la rue des Carrières-d'Amérique",
+    "jalons": [
+      449,
+      483
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "celle de Laber",
+    "jalons": [
+      222,
+      236
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Athel",
+    "jalons": [
+      304,
+      309
+    ]
+  },
+  "entite_391": {
+    "label": "PER",
+    "text": "Athel",
+    "jalons": [
+      28,
+      33
+    ]
+  },
+  "entite_392": {
+    "label": "LOC",
+    "text": "Toi",
+    "jalons": [
+      477,
+      480
+    ]
+  },
+  "entite_393": {
+    "label": "ORG",
+    "text": "PARIS AVANT LA CRÉATION DE L'HO",
+    "jalons": [
+      481,
+      512
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "Lépine",
+    "jalons": [
+      251,
+      257
+    ]
+  },
+  "entite_395": {
+    "label": "LOC",
+    "text": "D'ahord",
+    "jalons": [
+      260,
+      267
+    ]
+  },
+  "entite_396": {
+    "label": "PER",
+    "text": "Ainsi",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "de la Préfecture de la Seine",
+    "jalons": [
+      100,
+      128
+    ]
+  },
+  "entite_398": {
+    "label": "PER",
+    "text": "M. Gérards",
+    "jalons": [
+      130,
+      140
+    ]
+  },
+  "entite_399": {
+    "label": "LOC",
+    "text": "de la rue des Carrières-d'Amérique",
+    "jalons": [
+      354,
+      388
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Déjà",
+    "jalons": [
+      27,
+      31
+    ]
+  },
+  "entite_401": {
+    "label": "PER",
+    "text": "M. Lépine",
+    "jalons": [
+      409,
+      418
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "Athel",
+    "jalons": [
+      489,
+      494
+    ]
+  },
+  "entite_403": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      500,
+      505
+    ]
+  },
+  "entite_404": {
+    "label": "PER",
+    "text": "Labergère",
+    "jalons": [
+      121,
+      130
+    ]
+  },
+  "entite_405": {
+    "label": "PER",
+    "text": "J'ai le",
+    "jalons": [
+      19,
+      26
+    ]
+  },
+  "entite_406": {
+    "label": "MISC",
+    "text": "droit de disposer de ma vie",
+    "jalons": [
+      27,
+      54
+    ]
+  },
+  "entite_407": {
+    "label": "LOC",
+    "text": "Jamais de la",
+    "jalons": [
+      184,
+      196
+    ]
+  },
+  "entite_408": {
+    "label": "LOC",
+    "text": "Angleterre",
+    "jalons": [
+      330,
+      340
+    ]
+  },
+  "entite_409": {
+    "label": "PER",
+    "text": "Athel",
+    "jalons": [
+      142,
+      147
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      432,
+      441
+    ]
+  },
+  "entite_411": {
+    "label": "LOC",
+    "text": "Athel",
+    "jalons": [
+      286,
+      291
+    ]
+  },
+  "entite_412": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      416,
+      421
+    ]
+  },
+  "entite_413": {
+    "label": "PER",
+    "text": "Bobby",
+    "jalons": [
+      479,
+      484
+    ]
+  },
+  "entite_414": {
+    "label": "LOC",
+    "text": "Lobergère",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_415": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      96,
+      101
+    ]
+  },
+  "entite_416": {
+    "label": "LOC",
+    "text": "Seine",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_417": {
+    "label": "LOC",
+    "text": "Guerre",
+    "jalons": [
+      197,
+      203
+    ]
+  },
+  "entite_418": {
+    "label": "MISC",
+    "text": "la Marine et les Travaux",
+    "jalons": [
+      205,
+      229
+    ]
+  },
+  "entite_419": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      479,
+      485
+    ]
+  },
+  "entite_420": {
+    "label": "MISC",
+    "text": "gauche et sur les bancs de la droite",
+    "jalons": [
+      20,
+      56
+    ]
+  },
+  "entite_421": {
+    "label": "MISC",
+    "text": "Acclamations sur les bancs de la gauche et",
+    "jalons": [
+      92,
+      134
+    ]
+  },
+  "entite_422": {
+    "label": "LOC",
+    "text": "Bobby et de la",
+    "jalons": [
+      195,
+      209
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      220,
+      225
+    ]
+  },
+  "entite_424": {
+    "label": "LOC",
+    "text": "Une",
+    "jalons": [
+      508,
+      511
+    ]
+  },
+  "entite_425": {
+    "label": "LOC",
+    "text": "Rodin",
+    "jalons": [
+      457,
+      462
+    ]
+  },
+  "entite_426": {
+    "label": "LOC",
+    "text": "Moïse de Miche",
+    "jalons": [
+      498,
+      512
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "Emile Gautier",
+    "jalons": [
+      414,
+      427
+    ]
+  },
+  "entite_428": {
+    "label": "LOC",
+    "text": "de la Préfecture de la Seine",
+    "jalons": [
+      301,
+      329
+    ]
+  },
+  "entite_429": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      453,
+      458
+    ]
+  },
+  "entite_430": {
+    "label": "PER",
+    "text": "Mary Redmore",
+    "jalons": [
+      467,
+      479
+    ]
+  },
+  "entite_431": {
+    "label": "MISC",
+    "text": "la Ville de Paris et à lui",
+    "jalons": [
+      69,
+      95
+    ]
+  },
+  "entite_432": {
+    "label": "PER",
+    "text": "Sir Athel",
+    "jalons": [
+      130,
+      139
+    ]
+  },
+  "entite_433": {
+    "label": "MISC",
+    "text": "La vie et lu mort sont à la merci de milliers de",
+    "jalons": [
+      310,
+      358
+    ]
+  },
+  "entite_434": {
+    "label": "PER",
+    "text": "Athel Random",
+    "jalons": [
+      73,
+      85
+    ]
+  },
+  "entite_435": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      5,
+      9
+    ]
+  },
+  "entite_436": {
+    "label": "LOC",
+    "text": "Vriliogire",
+    "jalons": [
+      462,
+      472
+    ]
+  },
+  "entite_437": {
+    "label": "PER",
+    "text": "Sir Athel",
+    "jalons": [
+      453,
+      462
+    ]
+  },
+  "entite_438": {
+    "label": "MISC",
+    "text": "moyens qui me restent de sortir de la",
+    "jalons": [
+      0,
+      37
+    ]
+  },
+  "entite_439": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      283,
+      288
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "Pourquei",
+    "jalons": [
+      488,
+      496
+    ]
+  },
+  "entite_441": {
+    "label": "LOC",
+    "text": "Athel",
+    "jalons": [
+      356,
+      361
+    ]
+  },
+  "entite_442": {
+    "label": "MISC",
+    "text": "Au-dessus de lui",
+    "jalons": [
+      25,
+      41
+    ]
+  },
+  "entite_443": {
+    "label": "MISC",
+    "text": "Preuve nouvelle de la rela",
+    "jalons": [
+      85,
+      111
+    ]
+  },
+  "entite_444": {
+    "label": "PER",
+    "text": "N. de D.1",
+    "jalons": [
+      270,
+      279
+    ]
+  },
+  "entite_445": {
+    "label": "LOC",
+    "text": "Armé de",
+    "jalons": [
+      333,
+      340
+    ]
+  },
+  "entite_446": {
+    "label": "MISC",
+    "text": "Déjà il en avait fait deux",
+    "jalons": [
+      4,
+      30
+    ]
+  },
+  "entite_447": {
+    "label": "LOC",
+    "text": "Soudain",
+    "jalons": [
+      216,
+      223
+    ]
+  },
+  "entite_448": {
+    "label": "LOC",
+    "text": "L'AFFRAYANTE",
+    "jalons": [
+      497,
+      509
+    ]
+  },
+  "entite_449": {
+    "label": "LOC",
+    "text": "la voix de Labergère",
+    "jalons": [
+      464,
+      484
+    ]
+  },
+  "entite_450": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      87,
+      96
+    ]
+  },
+  "entite_451": {
+    "label": "LOC",
+    "text": "Unseave",
+    "jalons": [
+      270,
+      277
+    ]
+  },
+  "entite_452": {
+    "label": "PER",
+    "text": "éhtendu Bobby",
+    "jalons": [
+      497,
+      510
+    ]
+  },
+  "entite_453": {
+    "label": "PER",
+    "text": "Bobby était",
+    "jalons": [
+      39,
+      50
+    ]
+  },
+  "entite_454": {
+    "label": "MISC",
+    "text": "Vive Sa Majesté l'Empereur et Roi",
+    "jalons": [
+      286,
+      319
+    ]
+  },
+  "entite_455": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      389,
+      394
+    ]
+  },
+  "entite_456": {
+    "label": "PER",
+    "text": "Sir Athel",
+    "jalons": [
+      5,
+      14
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      425,
+      430
+    ]
+  },
+  "entite_458": {
+    "label": "PER",
+    "text": "rou et parlez lui",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_459": {
+    "label": "PER",
+    "text": "M. Labergère",
+    "jalons": [
+      26,
+      38
+    ]
+  },
+  "entite_460": {
+    "label": "LOC",
+    "text": "Oh",
+    "jalons": [
+      315,
+      317
+    ]
+  },
+  "entite_461": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      319,
+      324
+    ]
+  },
+  "entite_462": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      421,
+      430
+    ]
+  },
+  "entite_463": {
+    "label": "PER",
+    "text": "Monsieur Bobby",
+    "jalons": [
+      344,
+      358
+    ]
+  },
+  "entite_464": {
+    "label": "PER",
+    "text": "Monsieur Bobby",
+    "jalons": [
+      48,
+      62
+    ]
+  },
+  "entite_465": {
+    "label": "PER",
+    "text": "M. Labergère",
+    "jalons": [
+      444,
+      456
+    ]
+  },
+  "entite_466": {
+    "label": "MISC",
+    "text": "J'ai Bobby",
+    "jalons": [
+      13,
+      23
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      455,
+      464
+    ]
+  },
+  "entite_468": {
+    "label": "LOC",
+    "text": "Corneille",
+    "jalons": [
+      473,
+      482
+    ]
+  },
+  "entite_469": {
+    "label": "LOC",
+    "text": "Enfin",
+    "jalons": [
+      484,
+      489
+    ]
+  },
+  "entite_470": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      501,
+      506
+    ]
+  },
+  "entite_471": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      160,
+      162
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "Sorbonne",
+    "jalons": [
+      326,
+      334
+    ]
+  },
+  "entite_473": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      423,
+      428
+    ]
+  },
+  "entite_474": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      445,
+      454
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "Soudain",
+    "jalons": [
+      8,
+      15
+    ]
+  },
+  "entite_476": {
+    "label": "MISC",
+    "text": "La voix de Bobby s’éleva",
+    "jalons": [
+      330,
+      354
+    ]
+  },
+  "entite_477": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      449,
+      455
+    ]
+  },
+  "entite_478": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      169,
+      178
+    ]
+  },
+  "entite_479": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      180,
+      185
+    ]
+  },
+  "entite_480": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      386,
+      395
+    ]
+  },
+  "entite_481": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      326,
+      335
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "Athel",
+    "jalons": [
+      15,
+      20
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "Amis",
+    "jalons": [
+      423,
+      427
+    ]
+  },
+  "entite_484": {
+    "label": "MISC",
+    "text": "EU  De diamants",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_485": {
+    "label": "MISC",
+    "text": "Mais de glace",
+    "jalons": [
+      23,
+      36
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Ivres de la",
+    "jalons": [
+      307,
+      318
+    ]
+  },
+  "entite_487": {
+    "label": "LOC",
+    "text": "Eblouis",
+    "jalons": [
+      474,
+      481
+    ]
+  },
+  "entite_488": {
+    "label": "LOC",
+    "text": "Athel",
+    "jalons": [
+      302,
+      307
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "Aussi des",
+    "jalons": [
+      223,
+      232
+    ]
+  },
+  "entite_490": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      383,
+      388
+    ]
+  },
+  "entite_491": {
+    "label": "PER",
+    "text": "D'abord",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_492": {
+    "label": "LOC",
+    "text": "J'irai",
+    "jalons": [
+      444,
+      450
+    ]
+  },
+  "entite_493": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      50,
+      58
+    ]
+  },
+  "entite_494": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      486,
+      491
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "Certes",
+    "jalons": [
+      45,
+      51
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "Bien",
+    "jalons": [
+      392,
+      396
+    ]
+  },
+  "entite_497": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      299,
+      308
+    ]
+  },
+  "entite_498": {
+    "label": "LOC",
+    "text": "YEFFRAYANTE AVEN",
+    "jalons": [
+      496,
+      512
+    ]
+  },
+  "entite_499": {
+    "label": "PER",
+    "text": "Richard Owen",
+    "jalons": [
+      488,
+      500
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "Sibérie",
+    "jalons": [
+      504,
+      511
+    ]
+  },
+  "entite_501": {
+    "label": "PER",
+    "text": "de savant",
+    "jalons": [
+      1,
+      10
+    ]
+  },
+  "entite_502": {
+    "label": "ORG",
+    "text": "Ici",
+    "jalons": [
+      508,
+      511
+    ]
+  },
+  "entite_503": {
+    "label": "LOC",
+    "text": "Brontausaure",
+    "jalons": [
+      111,
+      123
+    ]
+  },
+  "entite_504": {
+    "label": "PER",
+    "text": "John Coxward",
+    "jalons": [
+      497,
+      509
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      504,
+      511
+    ]
+  },
+  "entite_506": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      176,
+      181
+    ]
+  },
+  "entite_507": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      439,
+      444
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "Labergèr",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_509": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      163,
+      172
+    ]
+  },
+  "entite_510": {
+    "label": "LOC",
+    "text": "Ivry",
+    "jalons": [
+      189,
+      193
+    ]
+  },
+  "entite_511": {
+    "label": "LOC",
+    "text": "Labergère",
+    "jalons": [
+      450,
+      459
+    ]
+  },
+  "entite_512": {
+    "label": "PER",
+    "text": "Mais Athel",
+    "jalons": [
+      500,
+      510
+    ]
+  },
+  "entite_513": {
+    "label": "LOC",
+    "text": "Hein",
+    "jalons": [
+      184,
+      188
+    ]
+  },
+  "entite_514": {
+    "label": "PER",
+    "text": "ria Labergère",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_515": {
+    "label": "LOC",
+    "text": "Jardin des Plantes",
+    "jalons": [
+      19,
+      37
+    ]
+  },
+  "entite_516": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      48,
+      53
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "Athel",
+    "jalons": [
+      195,
+      200
+    ]
+  },
+  "entite_518": {
+    "label": "MISC",
+    "text": "DE PARIS  C'était un dimanche, fin avril, un de ces beaux jours qui sont les hérauts du mois de  Huit",
+    "jalons": [
+      74,
+      175
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "Buttes-Chau",
+    "jalons": [
+      410,
+      421
+    ]
+  },
+  "entite_520": {
+    "label": "LOC",
+    "text": "Bolivar",
+    "jalons": [
+      448,
+      455
+    ]
+  },
+  "entite_521": {
+    "label": "MISC",
+    "text": "Botzaris",
+    "jalons": [
+      457,
+      465
+    ]
+  },
+  "entite_522": {
+    "label": "LOC",
+    "text": "Boucher de Perthes",
+    "jalons": [
+      433,
+      451
+    ]
+  },
+  "entite_523": {
+    "label": "LOC",
+    "text": "Bolivar",
+    "jalons": [
+      275,
+      282
+    ]
+  },
+  "entite_524": {
+    "label": "LOC",
+    "text": "Ciroulez",
+    "jalons": [
+      4,
+      12
+    ]
+  },
+  "entite_525": {
+    "label": "LOC",
+    "text": "la direction de la rue de Crimée",
+    "jalons": [
+      95,
+      127
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      336,
+      341
+    ]
+  },
+  "entite_527": {
+    "label": "LOC",
+    "text": "la rue de l'Atlas",
+    "jalons": [
+      369,
+      386
+    ]
+  },
+  "entite_528": {
+    "label": "LOC",
+    "text": "le boulevard de la Villette",
+    "jalons": [
+      404,
+      431
+    ]
+  },
+  "entite_529": {
+    "label": "MISC",
+    "text": "Brontossures",
+    "jalons": [
+      474,
+      486
+    ]
+  },
+  "entite_530": {
+    "label": "MISC",
+    "text": "Tricératops",
+    "jalons": [
+      488,
+      499
+    ]
+  },
+  "entite_531": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      468,
+      473
+    ]
+  },
+  "entite_532": {
+    "label": "LOC",
+    "text": "Au coin de la rue de l'Atlas",
+    "jalons": [
+      123,
+      151
+    ]
+  },
+  "entite_533": {
+    "label": "PER",
+    "text": "gie de Ma",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      280,
+      285
+    ]
+  },
+  "entite_535": {
+    "label": "LOC",
+    "text": "Martin",
+    "jalons": [
+      250,
+      256
+    ]
+  },
+  "entite_536": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      351,
+      356
+    ]
+  },
+  "entite_537": {
+    "label": "LOC",
+    "text": "l'Hôtel de Ville",
+    "jalons": [
+      133,
+      149
+    ]
+  },
+  "entite_538": {
+    "label": "LOC",
+    "text": "de la République",
+    "jalons": [
+      260,
+      276
+    ]
+  },
+  "entite_539": {
+    "label": "PER",
+    "text": "M. Lépine",
+    "jalons": [
+      396,
+      405
+    ]
+  },
+  "entite_540": {
+    "label": "PER",
+    "text": "M. Davaine",
+    "jalons": [
+      463,
+      473
+    ]
+  },
+  "entite_541": {
+    "label": "PER",
+    "text": "le chef de la Sûreté",
+    "jalons": [
+      475,
+      495
+    ]
+  },
+  "entite_542": {
+    "label": "PER",
+    "text": "M. Larmion",
+    "jalons": [
+      497,
+      507
+    ]
+  },
+  "entite_543": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      295,
+      300
+    ]
+  },
+  "entite_544": {
+    "label": "PER",
+    "text": "M. Lépine",
+    "jalons": [
+      354,
+      363
+    ]
+  },
+  "entite_545": {
+    "label": "LOC",
+    "text": "M. le ministre de la Guerre",
+    "jalons": [
+      110,
+      137
+    ]
+  },
+  "entite_546": {
+    "label": "LOC",
+    "text": "le gouverneur de Paris",
+    "jalons": [
+      139,
+      161
+    ]
+  },
+  "entite_547": {
+    "label": "LOC",
+    "text": "Hein",
+    "jalons": [
+      163,
+      167
+    ]
+  },
+  "entite_548": {
+    "label": "PER",
+    "text": "M. Lépine",
+    "jalons": [
+      74,
+      83
+    ]
+  },
+  "entite_549": {
+    "label": "PER",
+    "text": "M. Lépine",
+    "jalons": [
+      343,
+      352
+    ]
+  },
+  "entite_550": {
+    "label": "PER",
+    "text": "M. Lépine",
+    "jalons": [
+      278,
+      287
+    ]
+  },
+  "entite_551": {
+    "label": "LOC",
+    "text": "Suivez-moi",
+    "jalons": [
+      394,
+      404
+    ]
+  },
+  "entite_552": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      417,
+      422
+    ]
+  },
+  "entite_553": {
+    "label": "LOC",
+    "text": "la grande ville des",
+    "jalons": [
+      484,
+      503
+    ]
+  },
+  "entite_554": {
+    "label": "LOC",
+    "text": "Saint-Denis",
+    "jalons": [
+      61,
+      72
+    ]
+  },
+  "entite_555": {
+    "label": "LOC",
+    "text": "Le Mammouth",
+    "jalons": [
+      297,
+      308
+    ]
+  },
+  "entite_556": {
+    "label": "LOC",
+    "text": "Montmartre",
+    "jalons": [
+      76,
+      86
+    ]
+  },
+  "entite_557": {
+    "label": "PER",
+    "text": "Jules Simon",
+    "jalons": [
+      333,
+      344
+    ]
+  },
+  "entite_558": {
+    "label": "LOC",
+    "text": "Déjà",
+    "jalons": [
+      347,
+      351
+    ]
+  },
+  "entite_559": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      127,
+      132
+    ]
+  },
+  "entite_560": {
+    "label": "LOC",
+    "text": "lade des Boulevards",
+    "jalons": [
+      493,
+      512
+    ]
+  },
+  "entite_561": {
+    "label": "MISC",
+    "text": "giganteaque oiseau de la Madeleine",
+    "jalons": [
+      0,
+      34
+    ]
+  },
+  "entite_562": {
+    "label": "LOC",
+    "text": "Seine",
+    "jalons": [
+      483,
+      488
+    ]
+  },
+  "entite_563": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      122,
+      127
+    ]
+  },
+  "entite_564": {
+    "label": "LOC",
+    "text": "Rayonnant",
+    "jalons": [
+      142,
+      151
+    ]
+  },
+  "entite_565": {
+    "label": "PER",
+    "text": "M. Perrier",
+    "jalons": [
+      153,
+      163
+    ]
+  },
+  "entite_566": {
+    "label": "LOC",
+    "text": "Paléozoïques",
+    "jalons": [
+      343,
+      355
+    ]
+  },
+  "entite_567": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      433,
+      438
+    ]
+  },
+  "entite_568": {
+    "label": "PER",
+    "text": "Pauvre Mary Redmore!",
+    "jalons": [
+      490,
+      510
+    ]
+  },
+  "entite_569": {
+    "label": "LOC",
+    "text": "Angleterre",
+    "jalons": [
+      98,
+      108
+    ]
+  },
+  "entite_570": {
+    "label": "MISC",
+    "text": "la Ville de Paris en un",
+    "jalons": [
+      160,
+      183
+    ]
+  },
+  "entite_571": {
+    "label": "MISC",
+    "text": "ndémonium de pierre et de glace!  Quand le soir",
+    "jalons": [
+      0,
+      47
+    ]
+  },
+  "entite_572": {
+    "label": "PER",
+    "text": "Sorti de là",
+    "jalons": [
+      268,
+      279
+    ]
+  },
+  "entite_573": {
+    "label": "PER",
+    "text": "de Bobb",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_574": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      96,
+      101
+    ]
+  },
+  "entite_575": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      151,
+      156
+    ]
+  },
+  "entite_576": {
+    "label": "LOC",
+    "text": "Bobby",
+    "jalons": [
+      271,
+      276
+    ]
+  },
+  "entite_577": {
+    "label": "PER",
+    "text": "V. Z Le mystère",
+    "jalons": [
+      290,
+      305
+    ]
+  },
+  "entite_578": {
+    "label": "MISC",
+    "text": "Paris avant la création de l’homme",
+    "jalons": [
+      444,
+      478
+    ]
+  },
+  "entite_579": {
+    "label": "LOC",
+    "text": "Catastrophe",
+    "jalons": [
+      485,
+      496
+    ]
+  },
+  "entite_580": {
+    "label": "LOC",
+    "text": "L'invasion de Paris",
+    "jalons": [
+      287,
+      306
+    ]
+  },
+  "entite_581": {
+    "label": "MISC",
+    "text": "Romans",
+    "jalons": [
+      134,
+      140
+    ]
+  },
+  "entite_582": {
+    "label": "MISC",
+    "text": "Nouvelles",
+    "jalons": [
+      142,
+      151
+    ]
+  },
+  "entite_583": {
+    "label": "MISC",
+    "text": "Poèmes en vers ou en prose",
+    "jalons": [
+      153,
+      179
+    ]
+  },
+  "entite_584": {
+    "label": "MISC",
+    "text": "Pièces de théâtre",
+    "jalons": [
+      208,
+      225
+    ]
+  },
+  "entite_585": {
+    "label": "PER",
+    "text": "Maurice Barnès",
+    "jalons": [
+      92,
+      106
+    ]
+  },
+  "entite_586": {
+    "label": "PER",
+    "text": "G. Cuanwrepzeuns",
+    "jalons": [
+      110,
+      126
+    ]
+  },
+  "entite_587": {
+    "label": "PER",
+    "text": "E. Hanaucourt",
+    "jalons": [
+      130,
+      143
+    ]
+  },
+  "entite_588": {
+    "label": "PER",
+    "text": "Marcel Prévoer",
+    "jalons": [
+      145,
+      159
+    ]
+  },
+  "entite_589": {
+    "label": "PER",
+    "text": "de l'Acad.",
+    "jalons": [
+      161,
+      171
+    ]
+  },
+  "entite_590": {
+    "label": "PER",
+    "text": "Michel Conpav",
+    "jalons": [
+      179,
+      192
+    ]
+  },
+  "entite_591": {
+    "label": "PER",
+    "text": "Paul Henvmv",
+    "jalons": [
+      194,
+      205
+    ]
+  },
+  "entite_592": {
+    "label": "PER",
+    "text": "de l'Acad.",
+    "jalons": [
+      207,
+      217
+    ]
+  },
+  "entite_593": {
+    "label": "PER",
+    "text": "René Ban",
+    "jalons": [
+      224,
+      232
+    ]
+  },
+  "entite_594": {
+    "label": "PER",
+    "text": "G. Courreune",
+    "jalons": [
+      234,
+      246
+    ]
+  },
+  "entite_595": {
+    "label": "PER",
+    "text": "de l'Acad",
+    "jalons": [
+      248,
+      257
+    ]
+  },
+  "entite_596": {
+    "label": "ORG",
+    "text": "Provins. de l'Acad.",
+    "jalons": [
+      266,
+      285
+    ]
+  },
+  "entite_597": {
+    "label": "PER",
+    "text": "François",
+    "jalons": [
+      295,
+      303
+    ]
+  },
+  "entite_598": {
+    "label": "PER",
+    "text": "Maxime Lanpay",
+    "jalons": [
+      315,
+      328
+    ]
+  },
+  "entite_599": {
+    "label": "PER",
+    "text": "Henry Brcour",
+    "jalons": [
+      330,
+      342
+    ]
+  },
+  "entite_600": {
+    "label": "PER",
+    "text": "Maurice Donnay",
+    "jalons": [
+      344,
+      358
+    ]
+  },
+  "entite_601": {
+    "label": "PER",
+    "text": "Henri LavaDan",
+    "jalons": [
+      360,
+      373
+    ]
+  },
+  "entite_602": {
+    "label": "PER",
+    "text": "de l'Acad",
+    "jalons": [
+      375,
+      384
+    ]
+  },
+  "entite_603": {
+    "label": "PER",
+    "text": "Gaston Banczner",
+    "jalons": [
+      393,
+      408
+    ]
+  },
+  "entite_604": {
+    "label": "PER",
+    "text": "Victorien Sanvou",
+    "jalons": [
+      448,
+      464
+    ]
+  },
+  "entite_605": {
+    "label": "PER",
+    "text": "Arthur Bannèvs",
+    "jalons": [
+      466,
+      480
+    ]
+  },
+  "entite_606": {
+    "label": "PER",
+    "text": "Gustave FLauperr jules de",
+    "jalons": [
+      484,
+      509
+    ]
+  },
+  "entite_607": {
+    "label": "PER",
+    "text": "Jules Lewaîrne",
+    "jalons": [
+      16,
+      30
+    ]
+  },
+  "entite_608": {
+    "label": "PER",
+    "text": "Henry BORDEAUX",
+    "jalons": [
+      32,
+      46
+    ]
+  },
+  "entite_609": {
+    "label": "PER",
+    "text": "Charles Fozxy",
+    "jalons": [
+      48,
+      61
+    ]
+  },
+  "entite_610": {
+    "label": "PER",
+    "text": "de l'Acad.",
+    "jalons": [
+      63,
+      73
+    ]
+  },
+  "entite_611": {
+    "label": "PER",
+    "text": "André Taeurer",
+    "jalons": [
+      81,
+      94
+    ]
+  },
+  "entite_612": {
+    "label": "PER",
+    "text": "Bovnezr",
+    "jalons": [
+      96,
+      103
+    ]
+  },
+  "entite_613": {
+    "label": "PER",
+    "text": "Pierre Lon",
+    "jalons": [
+      105,
+      115
+    ]
+  },
+  "entite_614": {
+    "label": "PER",
+    "text": "de l'Acad.",
+    "jalons": [
+      117,
+      127
+    ]
+  },
+  "entite_615": {
+    "label": "PER",
+    "text": "Marcelle Tnravas",
+    "jalons": [
+      135,
+      151
+    ]
+  },
+  "entite_616": {
+    "label": "LOC",
+    "text": "Mancuenrre",
+    "jalons": [
+      153,
+      163
+    ]
+  },
+  "entite_617": {
+    "label": "MISC",
+    "text": "ABONNEMENTS UN AN :",
+    "jalons": [
+      166,
+      185
+    ]
+  },
+  "entite_618": {
+    "label": "LOC",
+    "text": "paris",
+    "jalons": [
+      187,
+      192
+    ]
+  },
+  "entite_619": {
+    "label": "MISC",
+    "text": "Envoi franco de la liste sur demande",
+    "jalons": [
+      358,
+      394
+    ]
+  },
+  "entite_620": {
+    "label": "LOC",
+    "text": "PARIS",
+    "jalons": [
+      457,
+      462
+    ]
+  },
+  "entite_621": {
+    "label": "LOC",
+    "text": "PARIS",
+    "jalons": [
+      483,
+      488
+    ]
+  },
+  "entite_622": {
+    "label": "PER",
+    "text": "Rue Dareau Jules TAL",
+    "jalons": [
+      492,
+      512
+    ]
+  },
+  "entite_623": {
+    "label": "LOC",
+    "text": "LANDIER",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_624": {
+    "label": "LOC",
+    "text": "Éditeur",
+    "jalons": [
+      9,
+      16
+    ]
+  },
+  "entite_625": {
+    "label": "PER",
+    "text": "Rue Dareau",
+    "jalons": [
+      21,
+      31
+    ]
+  },
+  "entite_626": {
+    "label": "ORG",
+    "text": "DU MÊME",
+    "jalons": [
+      141,
+      148
+    ]
+  },
+  "entite_627": {
+    "label": "MISC",
+    "text": "LA MÊME LIBRAIRIE  L'A BC du Bridge  Envoi franco contre mandat-poste        Le",
+    "jalons": [
+      158,
+      237
+    ]
+  },
+  "entite_628": {
+    "label": "LOC",
+    "text": "Conquêt",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_629": {
+    "label": "MISC",
+    "text": "Culture de la Beauté chez la Femme",
+    "jalons": [
+      5,
+      39
+    ]
+  },
+  "entite_630": {
+    "label": "LOC",
+    "text": "Le nouvel ouvrage de Georges",
+    "jalons": [
+      42,
+      70
+    ]
+  },
+  "entite_631": {
+    "label": "MISC",
+    "text": "Culture  LA BEAUTÉ  CHEZ LA FEMME  Livre",
+    "jalons": [
+      163,
+      203
+    ]
+  },
+  "entite_632": {
+    "label": "LOC",
+    "text": "Éditeur",
+    "jalons": [
+      122,
+      129
+    ]
+  },
+  "entite_633": {
+    "label": "LOC",
+    "text": "Dareas",
+    "jalons": [
+      139,
+      145
+    ]
+  },
+  "entite_634": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      149,
+      154
+    ]
+  },
+  "entite_635": {
+    "label": "PER",
+    "text": "Max Braun",
+    "jalons": [
+      151,
+      160
+    ]
+  },
+  "entite_636": {
+    "label": "PER",
+    "text": "Henry Bornraux",
+    "jalons": [
+      162,
+      176
+    ]
+  },
+  "entite_637": {
+    "label": "ORG",
+    "text": "D'CavanËs MGcorges Caïn",
+    "jalons": [
+      178,
+      201
+    ]
+  },
+  "entite_638": {
+    "label": "ORG",
+    "text": "JulcsCLanerindel'Ac.fr",
+    "jalons": [
+      203,
+      225
+    ]
+  },
+  "entite_639": {
+    "label": "PER",
+    "text": "Paul Descitanez do l'Acad",
+    "jalons": [
+      228,
+      253
+    ]
+  },
+  "entite_640": {
+    "label": "PER",
+    "text": "Charles Fozgv",
+    "jalons": [
+      263,
+      276
+    ]
+  },
+  "entite_641": {
+    "label": "PER",
+    "text": "Anatole France do l'Acad",
+    "jalons": [
+      278,
+      302
+    ]
+  },
+  "entite_642": {
+    "label": "PER",
+    "text": "Prante Funcr-Brenrand",
+    "jalons": [
+      312,
+      333
+    ]
+  },
+  "entite_643": {
+    "label": "PER",
+    "text": "Gabriel Hanoraux de l'Acad",
+    "jalons": [
+      335,
+      361
+    ]
+  },
+  "entite_644": {
+    "label": "PER",
+    "text": "Comte d'Haussonviizs de l'Acad",
+    "jalons": [
+      367,
+      397
+    ]
+  },
+  "entite_645": {
+    "label": "PER",
+    "text": "Hearl Lavenan de l'Acad",
+    "jalons": [
+      404,
+      427
+    ]
+  },
+  "entite_646": {
+    "label": "PER",
+    "text": "G. Lenorre",
+    "jalons": [
+      434,
+      444
+    ]
+  },
+  "entite_647": {
+    "label": "PER",
+    "text": "Ernest Lavisss de l'Acad",
+    "jalons": [
+      446,
+      470
+    ]
+  },
+  "entite_648": {
+    "label": "PER",
+    "text": "André LiCUTENBERGER",
+    "jalons": [
+      476,
+      495
+    ]
+  },
+  "entite_649": {
+    "label": "PER",
+    "text": "Frédéric Lou",
+    "jalons": [
+      497,
+      509
+    ]
+  },
+  "entite_650": {
+    "label": "PER",
+    "text": "Alfred Méaènes de l'Ac.",
+    "jalons": [
+      1,
+      24
+    ]
+  },
+  "entite_651": {
+    "label": "PER",
+    "text": "Pierre de NoLuac",
+    "jalons": [
+      29,
+      45
+    ]
+  },
+  "entite_652": {
+    "label": "PER",
+    "text": "P. de Panpieccanw",
+    "jalons": [
+      47,
+      64
+    ]
+  },
+  "entite_653": {
+    "label": "PER",
+    "text": "Jean Ricugrin de l'Acad",
+    "jalons": [
+      66,
+      89
+    ]
+  },
+  "entite_654": {
+    "label": "PER",
+    "text": "Henri Roujon de l'Acad",
+    "jalons": [
+      99,
+      121
+    ]
+  },
+  "entite_655": {
+    "label": "PER",
+    "text": "Colonci Rousser",
+    "jalons": [
+      138,
+      153
+    ]
+  },
+  "entite_656": {
+    "label": "ORG",
+    "text": "Marquis de S£our de l'Acad",
+    "jalons": [
+      155,
+      181
+    ]
+  },
+  "entite_657": {
+    "label": "PER",
+    "text": "Marcelle Tivavaz",
+    "jalons": [
+      185,
+      201
+    ]
+  },
+  "entite_658": {
+    "label": "PER",
+    "text": "Joseph Turguaw",
+    "jalons": [
+      204,
+      218
+    ]
+  },
+  "entite_659": {
+    "label": "PER",
+    "text": "Téodor de Wuewa",
+    "jalons": [
+      220,
+      235
+    ]
+  },
+  "entite_660": {
+    "label": "ORG",
+    "text": "Erc.",
+    "jalons": [
+      237,
+      241
+    ]
+  },
+  "entite_661": {
+    "label": "PER",
+    "text": "les Tableaux",
+    "jalons": [
+      271,
+      283
+    ]
+  },
+  "entite_662": {
+    "label": "ORG",
+    "text": "Dessins et Estampes de: Bauvoon",
+    "jalons": [
+      285,
+      316
+    ]
+  },
+  "entite_663": {
+    "label": "PER",
+    "text": "BoucHER",
+    "jalons": [
+      318,
+      325
+    ]
+  },
+  "entite_664": {
+    "label": "PER",
+    "text": "Emile Bourionv",
+    "jalons": [
+      327,
+      341
+    ]
+  },
+  "entite_665": {
+    "label": "PER",
+    "text": "Cazcor",
+    "jalons": [
+      343,
+      349
+    ]
+  },
+  "entite_666": {
+    "label": "PER",
+    "text": "CHarpin",
+    "jalons": [
+      351,
+      358
+    ]
+  },
+  "entite_667": {
+    "label": "ORG",
+    "text": "CHanLeT",
+    "jalons": [
+      360,
+      367
+    ]
+  },
+  "entite_668": {
+    "label": "ORG",
+    "text": "Cocmn",
+    "jalons": [
+      369,
+      374
+    ]
+  },
+  "entite_669": {
+    "label": "PER",
+    "text": "G. Conan",
+    "jalons": [
+      376,
+      384
+    ]
+  },
+  "entite_670": {
+    "label": "PER",
+    "text": "Davn",
+    "jalons": [
+      386,
+      390
+    ]
+  },
+  "entite_671": {
+    "label": "PER",
+    "text": "Desucourt",
+    "jalons": [
+      392,
+      401
+    ]
+  },
+  "entite_672": {
+    "label": "PER",
+    "text": "Van Dvcr",
+    "jalons": [
+      403,
+      411
+    ]
+  },
+  "entite_673": {
+    "label": "PER",
+    "text": "Edouard Dsrarzce",
+    "jalons": [
+      413,
+      429
+    ]
+  },
+  "entite_674": {
+    "label": "PER",
+    "text": "Eisex",
+    "jalons": [
+      431,
+      436
+    ]
+  },
+  "entite_675": {
+    "label": "PER",
+    "text": "Fraconarp",
+    "jalons": [
+      438,
+      447
+    ]
+  },
+  "entite_676": {
+    "label": "PER",
+    "text": "Baron Géranp",
+    "jalons": [
+      449,
+      461
+    ]
+  },
+  "entite_677": {
+    "label": "PER",
+    "text": "Géroue",
+    "jalons": [
+      463,
+      469
+    ]
+  },
+  "entite_678": {
+    "label": "PER",
+    "text": "Gova",
+    "jalons": [
+      471,
+      475
+    ]
+  },
+  "entite_679": {
+    "label": "PER",
+    "text": "Greuze",
+    "jalons": [
+      477,
+      483
+    ]
+  },
+  "entite_680": {
+    "label": "PER",
+    "text": "Baron Gros",
+    "jalons": [
+      485,
+      495
+    ]
+  },
+  "entite_681": {
+    "label": "PER",
+    "text": "Encres",
+    "jalons": [
+      497,
+      503
+    ]
+  },
+  "entite_682": {
+    "label": "PER",
+    "text": "Isasev",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_683": {
+    "label": "ORG",
+    "text": "La Tour",
+    "jalons": [
+      1,
+      8
+    ]
+  },
+  "entite_684": {
+    "label": "ORG",
+    "text": "Lancer",
+    "jalons": [
+      10,
+      16
+    ]
+  },
+  "entite_685": {
+    "label": "PER",
+    "text": "Maurice Leon",
+    "jalons": [
+      18,
+      30
+    ]
+  },
+  "entite_686": {
+    "label": "PER",
+    "text": "Lawrence, Merssonier",
+    "jalons": [
+      32,
+      52
+    ]
+  },
+  "entite_687": {
+    "label": "PER",
+    "text": "Micnarn",
+    "jalons": [
+      54,
+      61
+    ]
+  },
+  "entite_688": {
+    "label": "PER",
+    "text": "Morkau le jeune",
+    "jalons": [
+      63,
+      78
+    ]
+  },
+  "entite_689": {
+    "label": "PER",
+    "text": "Narriee",
+    "jalons": [
+      80,
+      87
+    ]
+  },
+  "entite_690": {
+    "label": "PER",
+    "text": "Alphonse de Neovizcs",
+    "jalons": [
+      89,
+      109
+    ]
+  },
+  "entite_691": {
+    "label": "ORG",
+    "text": "Prup'uon",
+    "jalons": [
+      111,
+      119
+    ]
+  },
+  "entite_692": {
+    "label": "PER",
+    "text": "Rarrer",
+    "jalons": [
+      121,
+      127
+    ]
+  },
+  "entite_693": {
+    "label": "PER",
+    "text": "Riaaup",
+    "jalons": [
+      129,
+      135
+    ]
+  },
+  "entite_694": {
+    "label": "PER",
+    "text": "Rusens",
+    "jalons": [
+      137,
+      143
+    ]
+  },
+  "entite_695": {
+    "label": "PER",
+    "text": "Le Tien",
+    "jalons": [
+      145,
+      152
+    ]
+  },
+  "entite_696": {
+    "label": "PER",
+    "text": "Van pen Mauzex",
+    "jalons": [
+      154,
+      168
+    ]
+  },
+  "entite_697": {
+    "label": "PER",
+    "text": "Van Loo",
+    "jalons": [
+      170,
+      177
+    ]
+  },
+  "entite_698": {
+    "label": "MISC",
+    "text": "Vécasquez",
+    "jalons": [
+      179,
+      188
+    ]
+  },
+  "entite_699": {
+    "label": "PER",
+    "text": "Mne Vicée-Leurun",
+    "jalons": [
+      190,
+      206
+    ]
+  },
+  "entite_700": {
+    "label": "ORG",
+    "text": "WATrEAU",
+    "jalons": [
+      208,
+      215
+    ]
+  },
+  "entite_701": {
+    "label": "PER",
+    "text": "Yvon",
+    "jalons": [
+      217,
+      221
+    ]
+  }
+}

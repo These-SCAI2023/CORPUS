@@ -1,0 +1,7258 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "I \n",
+    "jalons": [
+      2,
+      5
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "VEILLÉE",
+    "jalons": [
+      9,
+      16
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Norine Duclos",
+    "jalons": [
+      82,
+      95
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      154,
+      159
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      196,
+      202
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Hé !",
+    "jalons": [
+      261,
+      265
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Mandine",
+    "jalons": [
+      266,
+      273
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      386,
+      397
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      436,
+      440
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      496,
+      503
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Frotte",
+    "jalons": [
+      654,
+      660
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Cellier",
+    "jalons": [
+      694,
+      701
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      707,
+      713
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      892,
+      906
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Armandine",
+    "jalons": [
+      1173,
+      1182
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Rose",
+    "jalons": [
+      1187,
+      1191
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      1200,
+      1207
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "réserve de la Rose",
+    "jalons": [
+      1212,
+      1230
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      1315,
+      1321
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      1439,
+      1443
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      1599,
+      1610
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "couseuses",
+    "jalons": [
+      1697,
+      1706
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "couseuses",
+    "jalons": [
+      1783,
+      1792
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      2019,
+      2023
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Taisez",
+    "jalons": [
+      2101,
+      2107
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Perpétue",
+    "jalons": [
+      2147,
+      2155
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Garde-les",
+    "jalons": [
+      2243,
+      2252
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Tiens !",
+    "jalons": [
+      2276,
+      2283
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      2290,
+      2301
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      2312,
+      2323
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Bonsoir",
+    "jalons": [
+      2329,
+      2336
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      2353,
+      2359
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "Bonsoir",
+    "jalons": [
+      2364,
+      2371
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      2391,
+      2402
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Devinez",
+    "jalons": [
+      2404,
+      2411
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Basset",
+    "jalons": [
+      2451,
+      2457
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      2623,
+      2627
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Rose",
+    "jalons": [
+      2655,
+      2659
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "Bassette",
+    "jalons": [
+      2689,
+      2697
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "bras-le-corps",
+    "jalons": [
+      2854,
+      2867
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "La Rose",
+    "jalons": [
+      2915,
+      2922
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      2985,
+      2992
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "Combien de chandelles",
+    "jalons": [
+      3062,
+      3083
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "Trente-six !",
+    "jalons": [
+      3139,
+      3151
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "Gaspard sans broncher",
+    "jalons": [
+      3156,
+      3177
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Rose !",
+    "jalons": [
+      3342,
+      3348
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Hardi",
+    "jalons": [
+      3381,
+      3386
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      3388,
+      3395
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      3430,
+      3436
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      3459,
+      3466
+    ]
+  },
+  "entite_50": {
+    "label": "PER",
+    "text": "Jacqueline",
+    "jalons": [
+      3652,
+      3662
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      3746,
+      3753
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "Denis",
+    "jalons": [
+      3764,
+      3769
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      3817,
+      3823
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      3825,
+      3832
+    ]
+  },
+  "entite_55": {
+    "label": "PER",
+    "text": "Leroy",
+    "jalons": [
+      3891,
+      3896
+    ]
+  },
+  "entite_56": {
+    "label": "MISC",
+    "text": "Hé !",
+    "jalons": [
+      3902,
+      3906
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      4031,
+      4038
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      4227,
+      4231
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      4259,
+      4266
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "Jacqueline",
+    "jalons": [
+      4322,
+      4332
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      4360,
+      4364
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      4372,
+      4379
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Rose",
+    "jalons": [
+      4390,
+      4394
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Rose",
+    "jalons": [
+      4402,
+      4406
+    ]
+  },
+  "entite_65": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      4463,
+      4469
+    ]
+  },
+  "entite_66": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      4500,
+      4506
+    ]
+  },
+  "entite_67": {
+    "label": "MISC",
+    "text": "Chante",
+    "jalons": [
+      4623,
+      4629
+    ]
+  },
+  "entite_68": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      4639,
+      4643
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      4649,
+      4660
+    ]
+  },
+  "entite_70": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      4760,
+      4764
+    ]
+  },
+  "entite_71": {
+    "label": "MISC",
+    "text": "Chante",
+    "jalons": [
+      4784,
+      4790
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      4796,
+      4803
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      4857,
+      4861
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      4867,
+      4873
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "tranquille",
+    "jalons": [
+      4901,
+      4911
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "Perpétue",
+    "jalons": [
+      5005,
+      5013
+    ]
+  },
+  "entite_77": {
+    "label": "LOC",
+    "text": "Toinon",
+    "jalons": [
+      5038,
+      5044
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "Méchante",
+    "jalons": [
+      5119,
+      5127
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      5140,
+      5151
+    ]
+  },
+  "entite_80": {
+    "label": "PER",
+    "text": "Jeanneton",
+    "jalons": [
+      5266,
+      5275
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "Las",
+    "jalons": [
+      5384,
+      5387
+    ]
+  },
+  "entite_82": {
+    "label": "MISC",
+    "text": "La petiote Jeanneton ? \nLas !",
+    "jalons": [
+      5416,
+      5445
+    ]
+  },
+  "entite_83": {
+    "label": "MISC",
+    "text": "La petiote Jeanneton ? \nMais quand sa botte",
+    "jalons": [
+      5472,
+      5515
+    ]
+  },
+  "entite_84": {
+    "label": "MISC",
+    "text": "Trois cavaliers de renom",
+    "jalons": [
+      5588,
+      5612
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "Las",
+    "jalons": [
+      5615,
+      5618
+    ]
+  },
+  "entite_86": {
+    "label": "MISC",
+    "text": "La petiote Jeanneton",
+    "jalons": [
+      5647,
+      5667
+    ]
+  },
+  "entite_87": {
+    "label": "MISC",
+    "text": "Trois cavaliers de renom",
+    "jalons": [
+      5701,
+      5725
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "Las",
+    "jalons": [
+      5785,
+      5788
+    ]
+  },
+  "entite_89": {
+    "label": "MISC",
+    "text": "La petiote Jeanneton ? \n",
+    "jalons": [
+      5818,
+      5842
+    ]
+  },
+  "entite_90": {
+    "label": "LOC",
+    "text": "Las",
+    "jalons": [
+      5959,
+      5962
+    ]
+  },
+  "entite_91": {
+    "label": "MISC",
+    "text": "La petiote Jeanneton ? \n",
+    "jalons": [
+      5992,
+      6016
+    ]
+  },
+  "entite_92": {
+    "label": "LOC",
+    "text": "Las",
+    "jalons": [
+      6142,
+      6145
+    ]
+  },
+  "entite_93": {
+    "label": "MISC",
+    "text": "La petiote Jeanneton ? \n—",
+    "jalons": [
+      6175,
+      6200
+    ]
+  },
+  "entite_94": {
+    "label": "ORG",
+    "text": "Retiens",
+    "jalons": [
+      6201,
+      6208
+    ]
+  },
+  "entite_95": {
+    "label": "PER",
+    "text": "petiote Perpétue",
+    "jalons": [
+      6224,
+      6240
+    ]
+  },
+  "entite_96": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      6254,
+      6258
+    ]
+  },
+  "entite_97": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      6296,
+      6301
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "Remblay",
+    "jalons": [
+      6343,
+      6350
+    ]
+  },
+  "entite_99": {
+    "label": "MISC",
+    "text": "Comment !",
+    "jalons": [
+      6613,
+      6622
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "Vermand",
+    "jalons": [
+      6692,
+      6699
+    ]
+  },
+  "entite_101": {
+    "label": "PER",
+    "text": "Vermand",
+    "jalons": [
+      6761,
+      6768
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "de France",
+    "jalons": [
+      6780,
+      6789
+    ]
+  },
+  "entite_103": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      6875,
+      6879
+    ]
+  },
+  "entite_104": {
+    "label": "PER",
+    "text": "Chantez",
+    "jalons": [
+      6884,
+      6891
+    ]
+  },
+  "entite_105": {
+    "label": "MISC",
+    "text": "Bonsoir",
+    "jalons": [
+      6979,
+      6986
+    ]
+  },
+  "entite_106": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      6988,
+      6994
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Remblay",
+    "jalons": [
+      7029,
+      7036
+    ]
+  },
+  "entite_108": {
+    "label": "PER",
+    "text": "Ch",
+    "jalons": [
+      7145,
+      7147
+    ]
+  },
+  "entite_109": {
+    "label": "PER",
+    "text": "moinet",
+    "jalons": [
+      7168,
+      7174
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "cainte",
+    "jalons": [
+      7177,
+      7183
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "Ch",
+    "jalons": [
+      7186,
+      7188
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "lépène",
+    "jalons": [
+      7211,
+      7217
+    ]
+  },
+  "entite_113": {
+    "label": "PER",
+    "text": "V'",
+    "jalons": [
+      7232,
+      7234
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "V'",
+    "jalons": [
+      7289,
+      7291
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "V'",
+    "jalons": [
+      7326,
+      7328
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "leu",
+    "jalons": [
+      7351,
+      7354
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "V'",
+    "jalons": [
+      7368,
+      7370
+    ]
+  },
+  "entite_118": {
+    "label": "MISC",
+    "text": "Eussiez une tiote",
+    "jalons": [
+      7410,
+      7427
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "Y foët",
+    "jalons": [
+      7448,
+      7454
+    ]
+  },
+  "entite_120": {
+    "label": "MISC",
+    "text": "ché",
+    "jalons": [
+      7474,
+      7477
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Saint-Quentin",
+    "jalons": [
+      7552,
+      7565
+    ]
+  },
+  "entite_122": {
+    "label": "PER",
+    "text": "Nom-de-Nom",
+    "jalons": [
+      7788,
+      7798
+    ]
+  },
+  "entite_123": {
+    "label": "MISC",
+    "text": "Bonsoir",
+    "jalons": [
+      7895,
+      7902
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      7987,
+      7991
+    ]
+  },
+  "entite_125": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      7994,
+      8005
+    ]
+  },
+  "entite_126": {
+    "label": "PER",
+    "text": "Allez",
+    "jalons": [
+      8101,
+      8106
+    ]
+  },
+  "entite_127": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      8137,
+      8148
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "Fût-ce !",
+    "jalons": [
+      8218,
+      8226
+    ]
+  },
+  "entite_129": {
+    "label": "MISC",
+    "text": "Hé !",
+    "jalons": [
+      8267,
+      8271
+    ]
+  },
+  "entite_130": {
+    "label": "PER",
+    "text": "Nom-de-Nom",
+    "jalons": [
+      8277,
+      8287
+    ]
+  },
+  "entite_131": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      8340,
+      8344
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "Chausson-Chaussette",
+    "jalons": [
+      8415,
+      8434
+    ]
+  },
+  "entite_133": {
+    "label": "MISC",
+    "text": "Sylvain",
+    "jalons": [
+      8573,
+      8580
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "Nom-de-Nom",
+    "jalons": [
+      8622,
+      8632
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "Nom-de-Nom",
+    "jalons": [
+      9025,
+      9035
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      9038,
+      9043
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      9167,
+      9174
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Rose",
+    "jalons": [
+      9226,
+      9230
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "Toussaint",
+    "jalons": [
+      9306,
+      9315
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "Médor",
+    "jalons": [
+      9410,
+      9415
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "Me",
+    "jalons": [
+      9583,
+      9585
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "Carrière-Fondue",
+    "jalons": [
+      9640,
+      9655
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      9919,
+      9924
+    ]
+  },
+  "entite_144": {
+    "label": "MISC",
+    "text": "Chut !",
+    "jalons": [
+      10011,
+      10017
+    ]
+  },
+  "entite_145": {
+    "label": "PER",
+    "text": "Mon finot",
+    "jalons": [
+      10090,
+      10099
+    ]
+  },
+  "entite_146": {
+    "label": "MISC",
+    "text": "furolles",
+    "jalons": [
+      10446,
+      10454
+    ]
+  },
+  "entite_147": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      10742,
+      10746
+    ]
+  },
+  "entite_148": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      10884,
+      10888
+    ]
+  },
+  "entite_149": {
+    "label": "MISC",
+    "text": "Fût-ce !",
+    "jalons": [
+      10973,
+      10981
+    ]
+  },
+  "entite_150": {
+    "label": "MISC",
+    "text": "Assez !",
+    "jalons": [
+      11254,
+      11261
+    ]
+  },
+  "entite_151": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      11267,
+      11278
+    ]
+  },
+  "entite_152": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      11367,
+      11373
+    ]
+  },
+  "entite_153": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      11378,
+      11382
+    ]
+  },
+  "entite_154": {
+    "label": "PER",
+    "text": "Nom-de-Nom",
+    "jalons": [
+      11413,
+      11423
+    ]
+  },
+  "entite_155": {
+    "label": "MISC",
+    "text": "Fût-ce !",
+    "jalons": [
+      12067,
+      12075
+    ]
+  },
+  "entite_156": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      12390,
+      12401
+    ]
+  },
+  "entite_157": {
+    "label": "ORG",
+    "text": "Fichtre !",
+    "jalons": [
+      12452,
+      12461
+    ]
+  },
+  "entite_158": {
+    "label": "MISC",
+    "text": "Suffit !",
+    "jalons": [
+      12635,
+      12643
+    ]
+  },
+  "entite_159": {
+    "label": "MISC",
+    "text": "Rose d'un air aimable",
+    "jalons": [
+      12665,
+      12686
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      12747,
+      12751
+    ]
+  },
+  "entite_161": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      12769,
+      12775
+    ]
+  },
+  "entite_162": {
+    "label": "MISC",
+    "text": "Si c'est des histoires de guerre",
+    "jalons": [
+      12791,
+      12823
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "Armandine",
+    "jalons": [
+      12953,
+      12962
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "Nom-de-Nom",
+    "jalons": [
+      13055,
+      13065
+    ]
+  },
+  "entite_165": {
+    "label": "MISC",
+    "text": "Soyez tranquille",
+    "jalons": [
+      13102,
+      13118
+    ]
+  },
+  "entite_166": {
+    "label": "PER",
+    "text": "Armandine",
+    "jalons": [
+      13124,
+      13133
+    ]
+  },
+  "entite_167": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      13309,
+      13313
+    ]
+  },
+  "entite_168": {
+    "label": "PER",
+    "text": "Remblay",
+    "jalons": [
+      13505,
+      13512
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      13573,
+      13584
+    ]
+  },
+  "entite_170": {
+    "label": "MISC",
+    "text": "Bah ! la Remy",
+    "jalons": [
+      13794,
+      13807
+    ]
+  },
+  "entite_171": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      13821,
+      13825
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "Vieux",
+    "jalons": [
+      13956,
+      13961
+    ]
+  },
+  "entite_173": {
+    "label": "MISC",
+    "text": "Malicieuse ! \n",
+    "jalons": [
+      13978,
+      13992
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      14074,
+      14078
+    ]
+  },
+  "entite_175": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      14103,
+      14114
+    ]
+  },
+  "entite_176": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      14215,
+      14219
+    ]
+  },
+  "entite_177": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      14246,
+      14252
+    ]
+  },
+  "entite_178": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      14360,
+      14371
+    ]
+  },
+  "entite_179": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      14376,
+      14382
+    ]
+  },
+  "entite_180": {
+    "label": "PER",
+    "text": "Conte",
+    "jalons": [
+      14521,
+      14526
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Cellier",
+    "jalons": [
+      14528,
+      14535
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      14541,
+      14547
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "Défunt",
+    "jalons": [
+      14637,
+      14643
+    ]
+  },
+  "entite_184": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      14665,
+      14676
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "Perpétue",
+    "jalons": [
+      14806,
+      14814
+    ]
+  },
+  "entite_186": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      14982,
+      14993
+    ]
+  },
+  "entite_187": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      15269,
+      15280
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "rondelet",
+    "jalons": [
+      15374,
+      15382
+    ]
+  },
+  "entite_189": {
+    "label": "PER",
+    "text": "sainte Vierge Marie",
+    "jalons": [
+      15570,
+      15589
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      15748,
+      15759
+    ]
+  },
+  "entite_191": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      15851,
+      15856
+    ]
+  },
+  "entite_192": {
+    "label": "PER",
+    "text": "Mlle Léonie",
+    "jalons": [
+      15864,
+      15875
+    ]
+  },
+  "entite_193": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      16197,
+      16208
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      16492,
+      16503
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      16688,
+      16692
+    ]
+  },
+  "entite_196": {
+    "label": "LOC",
+    "text": "Las",
+    "jalons": [
+      17348,
+      17351
+    ]
+  },
+  "entite_197": {
+    "label": "PER",
+    "text": "Jeacquet",
+    "jalons": [
+      17544,
+      17552
+    ]
+  },
+  "entite_198": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      17685,
+      17689
+    ]
+  },
+  "entite_199": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      17730,
+      17734
+    ]
+  },
+  "entite_200": {
+    "label": "PER",
+    "text": "Jeacquet",
+    "jalons": [
+      17740,
+      17748
+    ]
+  },
+  "entite_201": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      17867,
+      17871
+    ]
+  },
+  "entite_202": {
+    "label": "PER",
+    "text": "Jeacquet",
+    "jalons": [
+      17899,
+      17907
+    ]
+  },
+  "entite_203": {
+    "label": "PER",
+    "text": "II \nLA ROSE",
+    "jalons": [
+      17935,
+      17946
+    ]
+  },
+  "entite_204": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      18057,
+      18061
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "Artaban",
+    "jalons": [
+      18111,
+      18118
+    ]
+  },
+  "entite_206": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      18576,
+      18581
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      18707,
+      18713
+    ]
+  },
+  "entite_208": {
+    "label": "PER",
+    "text": "Plaisant",
+    "jalons": [
+      18838,
+      18846
+    ]
+  },
+  "entite_209": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      18951,
+      18955
+    ]
+  },
+  "entite_210": {
+    "label": "PER",
+    "text": "baguenauder",
+    "jalons": [
+      19100,
+      19111
+    ]
+  },
+  "entite_211": {
+    "label": "PER",
+    "text": "Plaisant",
+    "jalons": [
+      19164,
+      19172
+    ]
+  },
+  "entite_212": {
+    "label": "PER",
+    "text": "Pierre le dragon",
+    "jalons": [
+      19194,
+      19210
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      19224,
+      19230
+    ]
+  },
+  "entite_214": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      19543,
+      19549
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Rose",
+    "jalons": [
+      19559,
+      19563
+    ]
+  },
+  "entite_216": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      19659,
+      19665
+    ]
+  },
+  "entite_217": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      19956,
+      19960
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      20031,
+      20036
+    ]
+  },
+  "entite_219": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      20108,
+      20114
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "retraversa",
+    "jalons": [
+      20211,
+      20221
+    ]
+  },
+  "entite_221": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      20331,
+      20337
+    ]
+  },
+  "entite_222": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      20737,
+      20741
+    ]
+  },
+  "entite_223": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      20773,
+      20779
+    ]
+  },
+  "entite_224": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      20863,
+      20868
+    ]
+  },
+  "entite_225": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      21152,
+      21159
+    ]
+  },
+  "entite_226": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      21225,
+      21231
+    ]
+  },
+  "entite_227": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      21291,
+      21297
+    ]
+  },
+  "entite_228": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      21504,
+      21508
+    ]
+  },
+  "entite_229": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      21585,
+      21591
+    ]
+  },
+  "entite_230": {
+    "label": "MISC",
+    "text": "La Rose",
+    "jalons": [
+      21984,
+      21991
+    ]
+  },
+  "entite_231": {
+    "label": "PER",
+    "text": "Maman",
+    "jalons": [
+      22169,
+      22174
+    ]
+  },
+  "entite_232": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      22413,
+      22417
+    ]
+  },
+  "entite_233": {
+    "label": "MISC",
+    "text": "M'aimeras-tu",
+    "jalons": [
+      22546,
+      22558
+    ]
+  },
+  "entite_234": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      22600,
+      22604
+    ]
+  },
+  "entite_235": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      22610,
+      22614
+    ]
+  },
+  "entite_236": {
+    "label": "MISC",
+    "text": "Pierre, je t'",
+    "jalons": [
+      22775,
+      22788
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "là-bas",
+    "jalons": [
+      22824,
+      22830
+    ]
+  },
+  "entite_238": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      22915,
+      22919
+    ]
+  },
+  "entite_239": {
+    "label": "PER",
+    "text": "Jure-moi",
+    "jalons": [
+      23096,
+      23104
+    ]
+  },
+  "entite_240": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      23106,
+      23112
+    ]
+  },
+  "entite_241": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      23269,
+      23271
+    ]
+  },
+  "entite_242": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      23302,
+      23306
+    ]
+  },
+  "entite_243": {
+    "label": "PER",
+    "text": "Jure",
+    "jalons": [
+      23527,
+      23531
+    ]
+  },
+  "entite_244": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      23533,
+      23539
+    ]
+  },
+  "entite_245": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      23789,
+      23795
+    ]
+  },
+  "entite_246": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      23893,
+      23897
+    ]
+  },
+  "entite_247": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      23920,
+      23924
+    ]
+  },
+  "entite_248": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      23930,
+      23936
+    ]
+  },
+  "entite_249": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      24381,
+      24385
+    ]
+  },
+  "entite_250": {
+    "label": "MISC",
+    "text": "La Rose",
+    "jalons": [
+      24750,
+      24757
+    ]
+  },
+  "entite_251": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      24814,
+      24820
+    ]
+  },
+  "entite_252": {
+    "label": "MISC",
+    "text": "Crois-tu",
+    "jalons": [
+      24889,
+      24897
+    ]
+  },
+  "entite_253": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      25228,
+      25234
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "fielleuse",
+    "jalons": [
+      25431,
+      25440
+    ]
+  },
+  "entite_255": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      25474,
+      25478
+    ]
+  },
+  "entite_256": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      25531,
+      25537
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      25653,
+      25659
+    ]
+  },
+  "entite_258": {
+    "label": "MISC",
+    "text": "Rose en goguenardant",
+    "jalons": [
+      25921,
+      25941
+    ]
+  },
+  "entite_259": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      26116,
+      26121
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "Me",
+    "jalons": [
+      26227,
+      26229
+    ]
+  },
+  "entite_261": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      26430,
+      26434
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      26459,
+      26465
+    ]
+  },
+  "entite_263": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      26515,
+      26521
+    ]
+  },
+  "entite_264": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      27102,
+      27106
+    ]
+  },
+  "entite_265": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      27160,
+      27166
+    ]
+  },
+  "entite_266": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      27522,
+      27528
+    ]
+  },
+  "entite_267": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      27697,
+      27701
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "bravacherie",
+    "jalons": [
+      27815,
+      27826
+    ]
+  },
+  "entite_269": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      28060,
+      28066
+    ]
+  },
+  "entite_270": {
+    "label": "PER",
+    "text": "Tope",
+    "jalons": [
+      28111,
+      28115
+    ]
+  },
+  "entite_271": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      28344,
+      28348
+    ]
+  },
+  "entite_272": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      28459,
+      28465
+    ]
+  },
+  "entite_273": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      28524,
+      28528
+    ]
+  },
+  "entite_274": {
+    "label": "MISC",
+    "text": "Tiens !",
+    "jalons": [
+      28644,
+      28651
+    ]
+  },
+  "entite_275": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      28660,
+      28664
+    ]
+  },
+  "entite_276": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      28736,
+      28742
+    ]
+  },
+  "entite_277": {
+    "label": "PER",
+    "text": "Rose",
+    "jalons": [
+      28798,
+      28802
+    ]
+  },
+  "entite_278": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      28820,
+      28826
+    ]
+  },
+  "entite_279": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      28835,
+      28839
+    ]
+  },
+  "entite_280": {
+    "label": "MISC",
+    "text": "Je pars demain",
+    "jalons": [
+      28991,
+      29005
+    ]
+  },
+  "entite_281": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      29010,
+      29014
+    ]
+  },
+  "entite_282": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      29061,
+      29067
+    ]
+  },
+  "entite_283": {
+    "label": "PER",
+    "text": "III \nLES PARIGOTS",
+    "jalons": [
+      29095,
+      29112
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "Thérèse",
+    "jalons": [
+      29134,
+      29141
+    ]
+  },
+  "entite_285": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      29154,
+      29165
+    ]
+  },
+  "entite_286": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      29261,
+      29267
+    ]
+  },
+  "entite_287": {
+    "label": "MISC",
+    "text": "Hé !",
+    "jalons": [
+      29311,
+      29315
+    ]
+  },
+  "entite_288": {
+    "label": "PER",
+    "text": "Toinon",
+    "jalons": [
+      29333,
+      29339
+    ]
+  },
+  "entite_289": {
+    "label": "LOC",
+    "text": "Tournez",
+    "jalons": [
+      29375,
+      29382
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      29396,
+      29407
+    ]
+  },
+  "entite_291": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      29659,
+      29670
+    ]
+  },
+  "entite_292": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      29676,
+      29687
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      29698,
+      29706
+    ]
+  },
+  "entite_294": {
+    "label": "PER",
+    "text": "Claude",
+    "jalons": [
+      29899,
+      29905
+    ]
+  },
+  "entite_295": {
+    "label": "PER",
+    "text": "Toinon",
+    "jalons": [
+      30142,
+      30148
+    ]
+  },
+  "entite_296": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      30159,
+      30170
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      30179,
+      30190
+    ]
+  },
+  "entite_298": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      30794,
+      30805
+    ]
+  },
+  "entite_299": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      30852,
+      30863
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      30896,
+      30904
+    ]
+  },
+  "entite_301": {
+    "label": "ORG",
+    "text": "Feuillants",
+    "jalons": [
+      30966,
+      30976
+    ]
+  },
+  "entite_302": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      31037,
+      31048
+    ]
+  },
+  "entite_303": {
+    "label": "PER",
+    "text": "Thérèse",
+    "jalons": [
+      31205,
+      31212
+    ]
+  },
+  "entite_304": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      31268,
+      31276
+    ]
+  },
+  "entite_305": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      31315,
+      31326
+    ]
+  },
+  "entite_306": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      31402,
+      31413
+    ]
+  },
+  "entite_307": {
+    "label": "MISC",
+    "text": "Croirais-tu",
+    "jalons": [
+      31486,
+      31497
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      31559,
+      31565
+    ]
+  },
+  "entite_309": {
+    "label": "MISC",
+    "text": "Si",
+    "jalons": [
+      32304,
+      32306
+    ]
+  },
+  "entite_310": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      32452,
+      32456
+    ]
+  },
+  "entite_311": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      32513,
+      32524
+    ]
+  },
+  "entite_312": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      32528,
+      32536
+    ]
+  },
+  "entite_313": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      32625,
+      32636
+    ]
+  },
+  "entite_314": {
+    "label": "MISC",
+    "text": "Ouvrez !",
+    "jalons": [
+      33013,
+      33021
+    ]
+  },
+  "entite_315": {
+    "label": "MISC",
+    "text": "Mes petiots",
+    "jalons": [
+      33425,
+      33436
+    ]
+  },
+  "entite_316": {
+    "label": "MISC",
+    "text": "bon Dieu",
+    "jalons": [
+      33484,
+      33492
+    ]
+  },
+  "entite_317": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      33546,
+      33554
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "Favette",
+    "jalons": [
+      33635,
+      33642
+    ]
+  },
+  "entite_319": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      33869,
+      33880
+    ]
+  },
+  "entite_320": {
+    "label": "MISC",
+    "text": "Allons donc !",
+    "jalons": [
+      33941,
+      33954
+    ]
+  },
+  "entite_321": {
+    "label": "PER",
+    "text": "Jeacquet",
+    "jalons": [
+      34084,
+      34092
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "parigot",
+    "jalons": [
+      34175,
+      34182
+    ]
+  },
+  "entite_323": {
+    "label": "LOC",
+    "text": "Jeacquet",
+    "jalons": [
+      34187,
+      34195
+    ]
+  },
+  "entite_324": {
+    "label": "PER",
+    "text": "M.",
+    "jalons": [
+      34227,
+      34229
+    ]
+  },
+  "entite_325": {
+    "label": "PER",
+    "text": "Jeacquet",
+    "jalons": [
+      34351,
+      34359
+    ]
+  },
+  "entite_326": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      34365,
+      34376
+    ]
+  },
+  "entite_327": {
+    "label": "MISC",
+    "text": "nippes",
+    "jalons": [
+      34583,
+      34589
+    ]
+  },
+  "entite_328": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      34856,
+      34864
+    ]
+  },
+  "entite_329": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      34968,
+      34979
+    ]
+  },
+  "entite_330": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      35047,
+      35051
+    ]
+  },
+  "entite_331": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      35223,
+      35234
+    ]
+  },
+  "entite_332": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      35238,
+      35246
+    ]
+  },
+  "entite_333": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      35317,
+      35322
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      35440,
+      35445
+    ]
+  },
+  "entite_335": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      35893,
+      35899
+    ]
+  },
+  "entite_336": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      36498,
+      36504
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "émotionnée",
+    "jalons": [
+      36782,
+      36792
+    ]
+  },
+  "entite_338": {
+    "label": "PER",
+    "text": "Savoyard",
+    "jalons": [
+      37127,
+      37135
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "Savoyard",
+    "jalons": [
+      37205,
+      37213
+    ]
+  },
+  "entite_340": {
+    "label": "LOC",
+    "text": "Savoyard",
+    "jalons": [
+      38063,
+      38071
+    ]
+  },
+  "entite_341": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      38121,
+      38132
+    ]
+  },
+  "entite_342": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      38138,
+      38146
+    ]
+  },
+  "entite_343": {
+    "label": "PER",
+    "text": "Allez",
+    "jalons": [
+      38198,
+      38203
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Céran",
+    "jalons": [
+      38214,
+      38219
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      38228,
+      38239
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Céran",
+    "jalons": [
+      38605,
+      38610
+    ]
+  },
+  "entite_347": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      38616,
+      38627
+    ]
+  },
+  "entite_348": {
+    "label": "LOC",
+    "text": "Morlinval",
+    "jalons": [
+      38910,
+      38919
+    ]
+  },
+  "entite_349": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      39196,
+      39210
+    ]
+  },
+  "entite_350": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      39452,
+      39456
+    ]
+  },
+  "entite_351": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      39612,
+      39616
+    ]
+  },
+  "entite_352": {
+    "label": "MISC",
+    "text": "Nous voilà arrivés",
+    "jalons": [
+      39772,
+      39790
+    ]
+  },
+  "entite_353": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      39799,
+      39807
+    ]
+  },
+  "entite_354": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      39824,
+      39835
+    ]
+  },
+  "entite_355": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      39888,
+      39894
+    ]
+  },
+  "entite_356": {
+    "label": "LOC",
+    "text": "Rose",
+    "jalons": [
+      39899,
+      39903
+    ]
+  },
+  "entite_357": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      40017,
+      40025
+    ]
+  },
+  "entite_358": {
+    "label": "PER",
+    "text": "madame la mairesse",
+    "jalons": [
+      40768,
+      40786
+    ]
+  },
+  "entite_359": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      40957,
+      40965
+    ]
+  },
+  "entite_360": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      40984,
+      40998
+    ]
+  },
+  "entite_361": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      41158,
+      41164
+    ]
+  },
+  "entite_362": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      41229,
+      41240
+    ]
+  },
+  "entite_363": {
+    "label": "PER",
+    "text": "madame la mairesse",
+    "jalons": [
+      41259,
+      41277
+    ]
+  },
+  "entite_364": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      41329,
+      41337
+    ]
+  },
+  "entite_365": {
+    "label": "MISC",
+    "text": "IV \nMONSIEUR LE CURÉ",
+    "jalons": [
+      41340,
+      41360
+    ]
+  },
+  "entite_366": {
+    "label": "MISC",
+    "text": "La Rose",
+    "jalons": [
+      41363,
+      41370
+    ]
+  },
+  "entite_367": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      41427,
+      41433
+    ]
+  },
+  "entite_368": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      41672,
+      41676
+    ]
+  },
+  "entite_369": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      41807,
+      41813
+    ]
+  },
+  "entite_370": {
+    "label": "MISC",
+    "text": "Si la Rose",
+    "jalons": [
+      41847,
+      41857
+    ]
+  },
+  "entite_371": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      41972,
+      41980
+    ]
+  },
+  "entite_372": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      42160,
+      42174
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      42493,
+      42507
+    ]
+  },
+  "entite_374": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      42953,
+      42961
+    ]
+  },
+  "entite_375": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      43021,
+      43029
+    ]
+  },
+  "entite_376": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      43153,
+      43161
+    ]
+  },
+  "entite_377": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      43244,
+      43252
+    ]
+  },
+  "entite_378": {
+    "label": "MISC",
+    "text": "Pâques",
+    "jalons": [
+      43378,
+      43384
+    ]
+  },
+  "entite_379": {
+    "label": "LOC",
+    "text": "Crachez",
+    "jalons": [
+      43642,
+      43649
+    ]
+  },
+  "entite_380": {
+    "label": "LOC",
+    "text": "mouchez",
+    "jalons": [
+      43656,
+      43663
+    ]
+  },
+  "entite_381": {
+    "label": "PER",
+    "text": "Evigilabunt",
+    "jalons": [
+      43773,
+      43784
+    ]
+  },
+  "entite_382": {
+    "label": "MISC",
+    "text": "Mes chers frères !",
+    "jalons": [
+      43899,
+      43917
+    ]
+  },
+  "entite_383": {
+    "label": "MISC",
+    "text": "Vierge !",
+    "jalons": [
+      44011,
+      44019
+    ]
+  },
+  "entite_384": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      44459,
+      44463
+    ]
+  },
+  "entite_385": {
+    "label": "ORG",
+    "text": "linguam",
+    "jalons": [
+      44855,
+      44862
+    ]
+  },
+  "entite_386": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      45532,
+      45536
+    ]
+  },
+  "entite_387": {
+    "label": "PER",
+    "text": "Supposons",
+    "jalons": [
+      45601,
+      45610
+    ]
+  },
+  "entite_388": {
+    "label": "MISC",
+    "text": "Bjitt",
+    "jalons": [
+      45844,
+      45849
+    ]
+  },
+  "entite_389": {
+    "label": "MISC",
+    "text": "bjitt !!!",
+    "jalons": [
+      45861,
+      45870
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Riez",
+    "jalons": [
+      45959,
+      45963
+    ]
+  },
+  "entite_391": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      46009,
+      46023
+    ]
+  },
+  "entite_392": {
+    "label": "PER",
+    "text": "Jeacquet",
+    "jalons": [
+      46368,
+      46376
+    ]
+  },
+  "entite_393": {
+    "label": "MISC",
+    "text": "bon Dieu",
+    "jalons": [
+      47082,
+      47090
+    ]
+  },
+  "entite_394": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      47135,
+      47146
+    ]
+  },
+  "entite_395": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      47430,
+      47441
+    ]
+  },
+  "entite_396": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      47790,
+      47801
+    ]
+  },
+  "entite_397": {
+    "label": "PER",
+    "text": "Mlle Dorothée",
+    "jalons": [
+      48247,
+      48260
+    ]
+  },
+  "entite_398": {
+    "label": "ORG",
+    "text": "V \nL'AVOCAT DE PIGNON",
+    "jalons": [
+      48335,
+      48356
+    ]
+  },
+  "entite_399": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      48382,
+      48393
+    ]
+  },
+  "entite_400": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      49052,
+      49063
+    ]
+  },
+  "entite_401": {
+    "label": "MISC",
+    "text": "Bah !",
+    "jalons": [
+      49136,
+      49141
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      49360,
+      49374
+    ]
+  },
+  "entite_403": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      49593,
+      49604
+    ]
+  },
+  "entite_404": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      49865,
+      49870
+    ]
+  },
+  "entite_405": {
+    "label": "PER",
+    "text": "Clarisse Manot",
+    "jalons": [
+      49886,
+      49900
+    ]
+  },
+  "entite_406": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      50219,
+      50230
+    ]
+  },
+  "entite_407": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      50255,
+      50263
+    ]
+  },
+  "entite_408": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      50538,
+      50542
+    ]
+  },
+  "entite_409": {
+    "label": "ORG",
+    "text": "Content",
+    "jalons": [
+      50615,
+      50622
+    ]
+  },
+  "entite_410": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      50732,
+      50736
+    ]
+  },
+  "entite_411": {
+    "label": "LOC",
+    "text": "Perpétue",
+    "jalons": [
+      51182,
+      51190
+    ]
+  },
+  "entite_412": {
+    "label": "PER",
+    "text": "Jeacquet",
+    "jalons": [
+      51192,
+      51200
+    ]
+  },
+  "entite_413": {
+    "label": "LOC",
+    "text": "Toinon",
+    "jalons": [
+      51231,
+      51237
+    ]
+  },
+  "entite_414": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      51268,
+      51276
+    ]
+  },
+  "entite_415": {
+    "label": "PER",
+    "text": "Clarisse Manot",
+    "jalons": [
+      51387,
+      51401
+    ]
+  },
+  "entite_416": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      51421,
+      51435
+    ]
+  },
+  "entite_417": {
+    "label": "MISC",
+    "text": "dimanche de Pâques",
+    "jalons": [
+      51796,
+      51814
+    ]
+  },
+  "entite_418": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      51853,
+      51864
+    ]
+  },
+  "entite_419": {
+    "label": "PER",
+    "text": "Hé",
+    "jalons": [
+      51906,
+      51908
+    ]
+  },
+  "entite_420": {
+    "label": "PER",
+    "text": "lurot",
+    "jalons": [
+      51911,
+      51916
+    ]
+  },
+  "entite_421": {
+    "label": "PER",
+    "text": "lurot",
+    "jalons": [
+      51946,
+      51951
+    ]
+  },
+  "entite_422": {
+    "label": "MISC",
+    "text": "Va vitement t'asseoir",
+    "jalons": [
+      52104,
+      52125
+    ]
+  },
+  "entite_423": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      52139,
+      52143
+    ]
+  },
+  "entite_424": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      52154,
+      52165
+    ]
+  },
+  "entite_425": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      52233,
+      52238
+    ]
+  },
+  "entite_426": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      52244,
+      52255
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "Thérèse",
+    "jalons": [
+      52325,
+      52332
+    ]
+  },
+  "entite_428": {
+    "label": "PER",
+    "text": "Dieu merci",
+    "jalons": [
+      52378,
+      52388
+    ]
+  },
+  "entite_429": {
+    "label": "LOC",
+    "text": "Manot",
+    "jalons": [
+      52399,
+      52404
+    ]
+  },
+  "entite_430": {
+    "label": "PER",
+    "text": "Clarisse",
+    "jalons": [
+      52417,
+      52425
+    ]
+  },
+  "entite_431": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      52631,
+      52642
+    ]
+  },
+  "entite_432": {
+    "label": "PER",
+    "text": "Manot",
+    "jalons": [
+      52893,
+      52898
+    ]
+  },
+  "entite_433": {
+    "label": "PER",
+    "text": "Clarisse",
+    "jalons": [
+      52922,
+      52930
+    ]
+  },
+  "entite_434": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      52969,
+      52980
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "Tâche",
+    "jalons": [
+      53020,
+      53025
+    ]
+  },
+  "entite_436": {
+    "label": "LOC",
+    "text": "Manot",
+    "jalons": [
+      53027,
+      53032
+    ]
+  },
+  "entite_437": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      53058,
+      53069
+    ]
+  },
+  "entite_438": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      53178,
+      53183
+    ]
+  },
+  "entite_439": {
+    "label": "LOC",
+    "text": "Manot",
+    "jalons": [
+      53189,
+      53194
+    ]
+  },
+  "entite_440": {
+    "label": "PER",
+    "text": "Manot",
+    "jalons": [
+      53295,
+      53300
+    ]
+  },
+  "entite_441": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      53562,
+      53573
+    ]
+  },
+  "entite_442": {
+    "label": "MISC",
+    "text": "Bah !",
+    "jalons": [
+      53886,
+      53891
+    ]
+  },
+  "entite_443": {
+    "label": "PER",
+    "text": "Clarisse",
+    "jalons": [
+      54134,
+      54142
+    ]
+  },
+  "entite_444": {
+    "label": "PER",
+    "text": "Supposez",
+    "jalons": [
+      54317,
+      54325
+    ]
+  },
+  "entite_445": {
+    "label": "LOC",
+    "text": "État",
+    "jalons": [
+      54391,
+      54395
+    ]
+  },
+  "entite_446": {
+    "label": "PER",
+    "text": "Charité",
+    "jalons": [
+      54521,
+      54528
+    ]
+  },
+  "entite_447": {
+    "label": "PER",
+    "text": "Clarisse",
+    "jalons": [
+      54577,
+      54585
+    ]
+  },
+  "entite_448": {
+    "label": "PER",
+    "text": "Hé",
+    "jalons": [
+      54606,
+      54608
+    ]
+  },
+  "entite_449": {
+    "label": "LOC",
+    "text": "Cellier",
+    "jalons": [
+      54635,
+      54642
+    ]
+  },
+  "entite_450": {
+    "label": "MISC",
+    "text": "Si j'étais assuré de trouver une ménagère habile et tournée comme toi",
+    "jalons": [
+      54761,
+      54830
+    ]
+  },
+  "entite_451": {
+    "label": "MISC",
+    "text": "Clarisse",
+    "jalons": [
+      54832,
+      54840
+    ]
+  },
+  "entite_452": {
+    "label": "LOC",
+    "text": "bras-le-corps",
+    "jalons": [
+      54869,
+      54882
+    ]
+  },
+  "entite_453": {
+    "label": "PER",
+    "text": "Pas de galanterie",
+    "jalons": [
+      54925,
+      54942
+    ]
+  },
+  "entite_454": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      54964,
+      54975
+    ]
+  },
+  "entite_455": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      55252,
+      55254
+    ]
+  },
+  "entite_456": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      55278,
+      55282
+    ]
+  },
+  "entite_457": {
+    "label": "MISC",
+    "text": "prise d'Alger",
+    "jalons": [
+      55456,
+      55469
+    ]
+  },
+  "entite_458": {
+    "label": "MISC",
+    "text": "Bah !",
+    "jalons": [
+      55567,
+      55572
+    ]
+  },
+  "entite_459": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      55707,
+      55718
+    ]
+  },
+  "entite_460": {
+    "label": "LOC",
+    "text": "Alger",
+    "jalons": [
+      55879,
+      55884
+    ]
+  },
+  "entite_461": {
+    "label": "MISC",
+    "text": "Sylvain",
+    "jalons": [
+      55893,
+      55900
+    ]
+  },
+  "entite_462": {
+    "label": "PER",
+    "text": "Nom-de-Nom",
+    "jalons": [
+      55957,
+      55967
+    ]
+  },
+  "entite_463": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      55973,
+      55984
+    ]
+  },
+  "entite_464": {
+    "label": "PER",
+    "text": "Vive le roi !",
+    "jalons": [
+      56090,
+      56103
+    ]
+  },
+  "entite_465": {
+    "label": "PER",
+    "text": "Jeacquet",
+    "jalons": [
+      56108,
+      56116
+    ]
+  },
+  "entite_466": {
+    "label": "MISC",
+    "text": "Amen",
+    "jalons": [
+      56162,
+      56166
+    ]
+  },
+  "entite_467": {
+    "label": "PER",
+    "text": "Vive le roi !",
+    "jalons": [
+      56171,
+      56184
+    ]
+  },
+  "entite_468": {
+    "label": "PER",
+    "text": "Manot",
+    "jalons": [
+      56189,
+      56194
+    ]
+  },
+  "entite_469": {
+    "label": "PER",
+    "text": "Jeacquet",
+    "jalons": [
+      56229,
+      56237
+    ]
+  },
+  "entite_470": {
+    "label": "LOC",
+    "text": "Manot",
+    "jalons": [
+      56249,
+      56254
+    ]
+  },
+  "entite_471": {
+    "label": "PER",
+    "text": "Manot",
+    "jalons": [
+      56297,
+      56302
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "irons politiquer",
+    "jalons": [
+      56317,
+      56333
+    ]
+  },
+  "entite_473": {
+    "label": "LOC",
+    "text": "Clarisse",
+    "jalons": [
+      56359,
+      56367
+    ]
+  },
+  "entite_474": {
+    "label": "PER",
+    "text": "Manot",
+    "jalons": [
+      56438,
+      56443
+    ]
+  },
+  "entite_475": {
+    "label": "PER",
+    "text": "VI",
+    "jalons": [
+      56505,
+      56507
+    ]
+  },
+  "entite_476": {
+    "label": "MISC",
+    "text": "MAIRESSE",
+    "jalons": [
+      56519,
+      56527
+    ]
+  },
+  "entite_477": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      56530,
+      56537
+    ]
+  },
+  "entite_478": {
+    "label": "PER",
+    "text": "Jacqueline",
+    "jalons": [
+      56563,
+      56573
+    ]
+  },
+  "entite_479": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      56677,
+      56681
+    ]
+  },
+  "entite_480": {
+    "label": "PER",
+    "text": "Pierre le dragon",
+    "jalons": [
+      56778,
+      56794
+    ]
+  },
+  "entite_481": {
+    "label": "MISC",
+    "text": "Allez !",
+    "jalons": [
+      56884,
+      56891
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "Devise",
+    "jalons": [
+      57164,
+      57170
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      57207,
+      57213
+    ]
+  },
+  "entite_484": {
+    "label": "MISC",
+    "text": "Pauvre jeunesse !",
+    "jalons": [
+      57217,
+      57234
+    ]
+  },
+  "entite_485": {
+    "label": "LOC",
+    "text": "Cachez",
+    "jalons": [
+      57536,
+      57542
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      57573,
+      57587
+    ]
+  },
+  "entite_487": {
+    "label": "MISC",
+    "text": "Allez sans bruit",
+    "jalons": [
+      57707,
+      57723
+    ]
+  },
+  "entite_488": {
+    "label": "LOC",
+    "text": "Cachez",
+    "jalons": [
+      58201,
+      58207
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "Cachez",
+    "jalons": [
+      58577,
+      58583
+    ]
+  },
+  "entite_490": {
+    "label": "MISC",
+    "text": "Fillettes",
+    "jalons": [
+      58784,
+      58793
+    ]
+  },
+  "entite_491": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      58821,
+      58832
+    ]
+  },
+  "entite_492": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      58985,
+      58991
+    ]
+  },
+  "entite_493": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      59163,
+      59170
+    ]
+  },
+  "entite_494": {
+    "label": "PER",
+    "text": "Armandine",
+    "jalons": [
+      59174,
+      59183
+    ]
+  },
+  "entite_495": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      59268,
+      59272
+    ]
+  },
+  "entite_496": {
+    "label": "MISC",
+    "text": "Un beau matin",
+    "jalons": [
+      59357,
+      59370
+    ]
+  },
+  "entite_497": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      59372,
+      59383
+    ]
+  },
+  "entite_498": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      59521,
+      59527
+    ]
+  },
+  "entite_499": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      59596,
+      59604
+    ]
+  },
+  "entite_500": {
+    "label": "PER",
+    "text": "madame la mairesse",
+    "jalons": [
+      59856,
+      59874
+    ]
+  },
+  "entite_501": {
+    "label": "PER",
+    "text": "Mon bon Claude",
+    "jalons": [
+      59879,
+      59893
+    ]
+  },
+  "entite_502": {
+    "label": "PER",
+    "text": "Ma Rose",
+    "jalons": [
+      60081,
+      60088
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      60106,
+      60117
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      60257,
+      60263
+    ]
+  },
+  "entite_505": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      60291,
+      60295
+    ]
+  },
+  "entite_506": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      60394,
+      60400
+    ]
+  },
+  "entite_507": {
+    "label": "PER",
+    "text": "ravigoter",
+    "jalons": [
+      60474,
+      60483
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      60597,
+      60603
+    ]
+  },
+  "entite_509": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      60608,
+      60615
+    ]
+  },
+  "entite_510": {
+    "label": "PER",
+    "text": "Armandine",
+    "jalons": [
+      60621,
+      60630
+    ]
+  },
+  "entite_511": {
+    "label": "PER",
+    "text": "Rassurez",
+    "jalons": [
+      60636,
+      60644
+    ]
+  },
+  "entite_512": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      60651,
+      60655
+    ]
+  },
+  "entite_513": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      60731,
+      60735
+    ]
+  },
+  "entite_514": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      60760,
+      60766
+    ]
+  },
+  "entite_515": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      61025,
+      61029
+    ]
+  },
+  "entite_516": {
+    "label": "PER",
+    "text": "Me",
+    "jalons": [
+      61152,
+      61154
+    ]
+  },
+  "entite_517": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      61269,
+      61275
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      61289,
+      61295
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      61408,
+      61414
+    ]
+  },
+  "entite_520": {
+    "label": "MISC",
+    "text": "Sauvez-nous l'honneur",
+    "jalons": [
+      61516,
+      61537
+    ]
+  },
+  "entite_521": {
+    "label": "PER",
+    "text": "Relevez",
+    "jalons": [
+      61565,
+      61572
+    ]
+  },
+  "entite_522": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      61621,
+      61627
+    ]
+  },
+  "entite_523": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      61650,
+      61654
+    ]
+  },
+  "entite_524": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      61964,
+      61970
+    ]
+  },
+  "entite_525": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      61993,
+      61997
+    ]
+  },
+  "entite_526": {
+    "label": "PER",
+    "text": "Armandine",
+    "jalons": [
+      62028,
+      62037
+    ]
+  },
+  "entite_527": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      62039,
+      62046
+    ]
+  },
+  "entite_528": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      62170,
+      62184
+    ]
+  },
+  "entite_529": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      62232,
+      62243
+    ]
+  },
+  "entite_530": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      62262,
+      62266
+    ]
+  },
+  "entite_531": {
+    "label": "PER",
+    "text": "Pierre le dragon",
+    "jalons": [
+      62413,
+      62429
+    ]
+  },
+  "entite_532": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      62554,
+      62558
+    ]
+  },
+  "entite_533": {
+    "label": "MISC",
+    "text": "bon Dieu",
+    "jalons": [
+      63081,
+      63089
+    ]
+  },
+  "entite_534": {
+    "label": "PER",
+    "text": "Toinon",
+    "jalons": [
+      63175,
+      63181
+    ]
+  },
+  "entite_535": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      63474,
+      63485
+    ]
+  },
+  "entite_536": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      64291,
+      64302
+    ]
+  },
+  "entite_537": {
+    "label": "PER",
+    "text": "VII \nLA CONSCRIPTION",
+    "jalons": [
+      64997,
+      65017
+    ]
+  },
+  "entite_538": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      65367,
+      65372
+    ]
+  },
+  "entite_539": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      65954,
+      65968
+    ]
+  },
+  "entite_540": {
+    "label": "MISC",
+    "text": "Quoi !",
+    "jalons": [
+      66100,
+      66106
+    ]
+  },
+  "entite_541": {
+    "label": "PER",
+    "text": "bravacherie",
+    "jalons": [
+      66342,
+      66353
+    ]
+  },
+  "entite_542": {
+    "label": "LOC",
+    "text": "Craintifs",
+    "jalons": [
+      66498,
+      66507
+    ]
+  },
+  "entite_543": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      66692,
+      66700
+    ]
+  },
+  "entite_544": {
+    "label": "LOC",
+    "text": "Morlinval",
+    "jalons": [
+      66714,
+      66723
+    ]
+  },
+  "entite_545": {
+    "label": "LOC",
+    "text": "Morlinval",
+    "jalons": [
+      66799,
+      66808
+    ]
+  },
+  "entite_546": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      66886,
+      66894
+    ]
+  },
+  "entite_547": {
+    "label": "PER",
+    "text": "Sainte-Radegonde",
+    "jalons": [
+      67266,
+      67282
+    ]
+  },
+  "entite_548": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      67331,
+      67336
+    ]
+  },
+  "entite_549": {
+    "label": "PER",
+    "text": "Vulcain",
+    "jalons": [
+      68036,
+      68043
+    ]
+  },
+  "entite_550": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      68549,
+      68563
+    ]
+  },
+  "entite_551": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      68759,
+      68766
+    ]
+  },
+  "entite_552": {
+    "label": "PER",
+    "text": "Denis",
+    "jalons": [
+      68778,
+      68783
+    ]
+  },
+  "entite_553": {
+    "label": "LOC",
+    "text": "Toinon",
+    "jalons": [
+      68798,
+      68804
+    ]
+  },
+  "entite_554": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      68816,
+      68827
+    ]
+  },
+  "entite_555": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      68866,
+      68872
+    ]
+  },
+  "entite_556": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      68874,
+      68881
+    ]
+  },
+  "entite_557": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      68883,
+      68894
+    ]
+  },
+  "entite_558": {
+    "label": "PER",
+    "text": "Denis",
+    "jalons": [
+      68921,
+      68926
+    ]
+  },
+  "entite_559": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      68958,
+      68964
+    ]
+  },
+  "entite_560": {
+    "label": "LOC",
+    "text": "Toinon",
+    "jalons": [
+      68975,
+      68981
+    ]
+  },
+  "entite_561": {
+    "label": "PER",
+    "text": "Perpétue",
+    "jalons": [
+      68997,
+      69005
+    ]
+  },
+  "entite_562": {
+    "label": "PER",
+    "text": "fieu de Toinon",
+    "jalons": [
+      69052,
+      69066
+    ]
+  },
+  "entite_563": {
+    "label": "PER",
+    "text": "Jacqueline",
+    "jalons": [
+      69079,
+      69089
+    ]
+  },
+  "entite_564": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      69101,
+      69105
+    ]
+  },
+  "entite_565": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      69120,
+      69127
+    ]
+  },
+  "entite_566": {
+    "label": "PER",
+    "text": "Denis",
+    "jalons": [
+      69224,
+      69229
+    ]
+  },
+  "entite_567": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      69231,
+      69238
+    ]
+  },
+  "entite_568": {
+    "label": "LOC",
+    "text": "Toinon",
+    "jalons": [
+      69251,
+      69257
+    ]
+  },
+  "entite_569": {
+    "label": "MISC",
+    "text": "Vive la France !",
+    "jalons": [
+      69539,
+      69555
+    ]
+  },
+  "entite_570": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      70179,
+      70184
+    ]
+  },
+  "entite_571": {
+    "label": "LOC",
+    "text": "B",
+    "jalons": [
+      70236,
+      70237
+    ]
+  },
+  "entite_572": {
+    "label": "LOC",
+    "text": "Morlinval",
+    "jalons": [
+      70834,
+      70843
+    ]
+  },
+  "entite_573": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      71203,
+      71210
+    ]
+  },
+  "entite_574": {
+    "label": "PER",
+    "text": "Denis",
+    "jalons": [
+      71222,
+      71227
+    ]
+  },
+  "entite_575": {
+    "label": "LOC",
+    "text": "Toinon",
+    "jalons": [
+      71242,
+      71248
+    ]
+  },
+  "entite_576": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      71683,
+      71697
+    ]
+  },
+  "entite_577": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      71711,
+      71715
+    ]
+  },
+  "entite_578": {
+    "label": "MISC",
+    "text": "VIII \nUN REVENANT",
+    "jalons": [
+      71796,
+      71813
+    ]
+  },
+  "entite_579": {
+    "label": "PER",
+    "text": "Brugnon",
+    "jalons": [
+      71984,
+      71991
+    ]
+  },
+  "entite_580": {
+    "label": "PER",
+    "text": "Brugnon",
+    "jalons": [
+      72146,
+      72153
+    ]
+  },
+  "entite_581": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      72231,
+      72245
+    ]
+  },
+  "entite_582": {
+    "label": "LOC",
+    "text": "mitan-côte",
+    "jalons": [
+      72260,
+      72270
+    ]
+  },
+  "entite_583": {
+    "label": "PER",
+    "text": "Brugnon",
+    "jalons": [
+      72574,
+      72581
+    ]
+  },
+  "entite_584": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      72631,
+      72636
+    ]
+  },
+  "entite_585": {
+    "label": "PER",
+    "text": "Brugnon",
+    "jalons": [
+      72884,
+      72891
+    ]
+  },
+  "entite_586": {
+    "label": "LOC",
+    "text": "couvent Brugnon",
+    "jalons": [
+      72979,
+      72994
+    ]
+  },
+  "entite_587": {
+    "label": "PER",
+    "text": "Toussaint",
+    "jalons": [
+      73329,
+      73338
+    ]
+  },
+  "entite_588": {
+    "label": "PER",
+    "text": "Brugnon",
+    "jalons": [
+      73411,
+      73418
+    ]
+  },
+  "entite_589": {
+    "label": "LOC",
+    "text": "Dizy",
+    "jalons": [
+      73664,
+      73668
+    ]
+  },
+  "entite_590": {
+    "label": "PER",
+    "text": "Faudra",
+    "jalons": [
+      73826,
+      73832
+    ]
+  },
+  "entite_591": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      73935,
+      73946
+    ]
+  },
+  "entite_592": {
+    "label": "PER",
+    "text": "Lambin",
+    "jalons": [
+      74208,
+      74214
+    ]
+  },
+  "entite_593": {
+    "label": "LOC",
+    "text": "Perpétue",
+    "jalons": [
+      74231,
+      74239
+    ]
+  },
+  "entite_594": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      74281,
+      74292
+    ]
+  },
+  "entite_595": {
+    "label": "MISC",
+    "text": "Bah !",
+    "jalons": [
+      74482,
+      74487
+    ]
+  },
+  "entite_596": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      74592,
+      74596
+    ]
+  },
+  "entite_597": {
+    "label": "MISC",
+    "text": "bon Dieu",
+    "jalons": [
+      74650,
+      74658
+    ]
+  },
+  "entite_598": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      74677,
+      74688
+    ]
+  },
+  "entite_599": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      74734,
+      74738
+    ]
+  },
+  "entite_600": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      75084,
+      75089
+    ]
+  },
+  "entite_601": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      75177,
+      75188
+    ]
+  },
+  "entite_602": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      75200,
+      75204
+    ]
+  },
+  "entite_603": {
+    "label": "PER",
+    "text": "Arrive",
+    "jalons": [
+      75650,
+      75656
+    ]
+  },
+  "entite_604": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      75718,
+      75722
+    ]
+  },
+  "entite_605": {
+    "label": "PER",
+    "text": "Père Roux",
+    "jalons": [
+      75779,
+      75788
+    ]
+  },
+  "entite_606": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      75794,
+      75805
+    ]
+  },
+  "entite_607": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      76137,
+      76141
+    ]
+  },
+  "entite_608": {
+    "label": "MISC",
+    "text": "Jugez !",
+    "jalons": [
+      76195,
+      76202
+    ]
+  },
+  "entite_609": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      76278,
+      76289
+    ]
+  },
+  "entite_610": {
+    "label": "MISC",
+    "text": "Tais-toi",
+    "jalons": [
+      76394,
+      76402
+    ]
+  },
+  "entite_611": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      76437,
+      76441
+    ]
+  },
+  "entite_612": {
+    "label": "MISC",
+    "text": "Parle !",
+    "jalons": [
+      76483,
+      76490
+    ]
+  },
+  "entite_613": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      76498,
+      76509
+    ]
+  },
+  "entite_614": {
+    "label": "MISC",
+    "text": "T'arrêteras-tu ? \n",
+    "jalons": [
+      76602,
+      76620
+    ]
+  },
+  "entite_615": {
+    "label": "MISC",
+    "text": "Ah bien oui !",
+    "jalons": [
+      76620,
+      76633
+    ]
+  },
+  "entite_616": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      76702,
+      76707
+    ]
+  },
+  "entite_617": {
+    "label": "MISC",
+    "text": "Attrape !",
+    "jalons": [
+      76828,
+      76837
+    ]
+  },
+  "entite_618": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      76842,
+      76853
+    ]
+  },
+  "entite_619": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      76946,
+      76950
+    ]
+  },
+  "entite_620": {
+    "label": "MISC",
+    "text": "Tiens",
+    "jalons": [
+      77082,
+      77087
+    ]
+  },
+  "entite_621": {
+    "label": "MISC",
+    "text": "Assez causé !",
+    "jalons": [
+      77188,
+      77201
+    ]
+  },
+  "entite_622": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      77206,
+      77217
+    ]
+  },
+  "entite_623": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      77647,
+      77651
+    ]
+  },
+  "entite_624": {
+    "label": "LOC",
+    "text": "Parlons",
+    "jalons": [
+      77681,
+      77688
+    ]
+  },
+  "entite_625": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      77706,
+      77717
+    ]
+  },
+  "entite_626": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      77854,
+      77868
+    ]
+  },
+  "entite_627": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      77904,
+      77908
+    ]
+  },
+  "entite_628": {
+    "label": "MISC",
+    "text": "Ma foi !",
+    "jalons": [
+      78015,
+      78023
+    ]
+  },
+  "entite_629": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      78179,
+      78190
+    ]
+  },
+  "entite_630": {
+    "label": "MISC",
+    "text": "Dizy",
+    "jalons": [
+      78200,
+      78204
+    ]
+  },
+  "entite_631": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      78357,
+      78368
+    ]
+  },
+  "entite_632": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      78450,
+      78461
+    ]
+  },
+  "entite_633": {
+    "label": "PER",
+    "text": "Clarisse Manot",
+    "jalons": [
+      78556,
+      78570
+    ]
+  },
+  "entite_634": {
+    "label": "LOC",
+    "text": "Dizy",
+    "jalons": [
+      78592,
+      78596
+    ]
+  },
+  "entite_635": {
+    "label": "LOC",
+    "text": "Dizy",
+    "jalons": [
+      78625,
+      78629
+    ]
+  },
+  "entite_636": {
+    "label": "LOC",
+    "text": "Hommes-sans-Têtes",
+    "jalons": [
+      79245,
+      79262
+    ]
+  },
+  "entite_637": {
+    "label": "LOC",
+    "text": "Poulains",
+    "jalons": [
+      79468,
+      79476
+    ]
+  },
+  "entite_638": {
+    "label": "LOC",
+    "text": "réserve des furolles",
+    "jalons": [
+      79487,
+      79507
+    ]
+  },
+  "entite_639": {
+    "label": "MISC",
+    "text": "IX \nLES NOCES",
+    "jalons": [
+      79636,
+      79649
+    ]
+  },
+  "entite_640": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      79657,
+      79663
+    ]
+  },
+  "entite_641": {
+    "label": "PER",
+    "text": "Jacqueline",
+    "jalons": [
+      79680,
+      79690
+    ]
+  },
+  "entite_642": {
+    "label": "PER",
+    "text": "Perpétue",
+    "jalons": [
+      79697,
+      79705
+    ]
+  },
+  "entite_643": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      80314,
+      80318
+    ]
+  },
+  "entite_644": {
+    "label": "MISC",
+    "text": "Allons !",
+    "jalons": [
+      80958,
+      80966
+    ]
+  },
+  "entite_645": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      81077,
+      81084
+    ]
+  },
+  "entite_646": {
+    "label": "PER",
+    "text": "Denis",
+    "jalons": [
+      81098,
+      81103
+    ]
+  },
+  "entite_647": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      81160,
+      81166
+    ]
+  },
+  "entite_648": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      81193,
+      81204
+    ]
+  },
+  "entite_649": {
+    "label": "MISC",
+    "text": "Ton ami !",
+    "jalons": [
+      81250,
+      81259
+    ]
+  },
+  "entite_650": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      81260,
+      81271
+    ]
+  },
+  "entite_651": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      81335,
+      81346
+    ]
+  },
+  "entite_652": {
+    "label": "PER",
+    "text": "Pardine",
+    "jalons": [
+      81546,
+      81553
+    ]
+  },
+  "entite_653": {
+    "label": "MISC",
+    "text": "Tiens",
+    "jalons": [
+      81623,
+      81628
+    ]
+  },
+  "entite_654": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      81634,
+      81645
+    ]
+  },
+  "entite_655": {
+    "label": "LOC",
+    "text": "Rose",
+    "jalons": [
+      81794,
+      81798
+    ]
+  },
+  "entite_656": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      81802,
+      81808
+    ]
+  },
+  "entite_657": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      81966,
+      81970
+    ]
+  },
+  "entite_658": {
+    "label": "LOC",
+    "text": "Cellier",
+    "jalons": [
+      82071,
+      82078
+    ]
+  },
+  "entite_659": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      82146,
+      82157
+    ]
+  },
+  "entite_660": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      82375,
+      82381
+    ]
+  },
+  "entite_661": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      82401,
+      82405
+    ]
+  },
+  "entite_662": {
+    "label": "PER",
+    "text": "Vive",
+    "jalons": [
+      82512,
+      82516
+    ]
+  },
+  "entite_663": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      82535,
+      82546
+    ]
+  },
+  "entite_664": {
+    "label": "PER",
+    "text": "Vive",
+    "jalons": [
+      82596,
+      82600
+    ]
+  },
+  "entite_665": {
+    "label": "MISC",
+    "text": "T'as un brave",
+    "jalons": [
+      82670,
+      82683
+    ]
+  },
+  "entite_666": {
+    "label": "MISC",
+    "text": "Nous voilà donc à la mairie",
+    "jalons": [
+      83185,
+      83212
+    ]
+  },
+  "entite_667": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      83314,
+      83319
+    ]
+  },
+  "entite_668": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      83950,
+      83955
+    ]
+  },
+  "entite_669": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      84220,
+      84227
+    ]
+  },
+  "entite_670": {
+    "label": "PER",
+    "text": "madame la mairesse",
+    "jalons": [
+      84274,
+      84292
+    ]
+  },
+  "entite_671": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      84522,
+      84533
+    ]
+  },
+  "entite_672": {
+    "label": "PER",
+    "text": "Dizy",
+    "jalons": [
+      84550,
+      84554
+    ]
+  },
+  "entite_673": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      84652,
+      84663
+    ]
+  },
+  "entite_674": {
+    "label": "LOC",
+    "text": "Dizy",
+    "jalons": [
+      84857,
+      84861
+    ]
+  },
+  "entite_675": {
+    "label": "MISC",
+    "text": "Va pour dix sous",
+    "jalons": [
+      84889,
+      84905
+    ]
+  },
+  "entite_676": {
+    "label": "MISC",
+    "text": "Et Dizy",
+    "jalons": [
+      84908,
+      84915
+    ]
+  },
+  "entite_677": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      85154,
+      85165
+    ]
+  },
+  "entite_678": {
+    "label": "LOC",
+    "text": "Dizy",
+    "jalons": [
+      85249,
+      85253
+    ]
+  },
+  "entite_679": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      85280,
+      85291
+    ]
+  },
+  "entite_680": {
+    "label": "MISC",
+    "text": "Moi, j'ai perdu ! \nTout le monde",
+    "jalons": [
+      85378,
+      85410
+    ]
+  },
+  "entite_681": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      85451,
+      85462
+    ]
+  },
+  "entite_682": {
+    "label": "PER",
+    "text": "gouailla Dizy",
+    "jalons": [
+      85466,
+      85479
+    ]
+  },
+  "entite_683": {
+    "label": "PER",
+    "text": "Me",
+    "jalons": [
+      86411,
+      86413
+    ]
+  },
+  "entite_684": {
+    "label": "PER",
+    "text": "Clarisse Manot",
+    "jalons": [
+      87511,
+      87525
+    ]
+  },
+  "entite_685": {
+    "label": "PER",
+    "text": "Manot",
+    "jalons": [
+      87665,
+      87670
+    ]
+  },
+  "entite_686": {
+    "label": "MISC",
+    "text": "Me voilà maintenant trop vieux",
+    "jalons": [
+      87801,
+      87831
+    ]
+  },
+  "entite_687": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      87862,
+      87873
+    ]
+  },
+  "entite_688": {
+    "label": "MISC",
+    "text": "Bah !",
+    "jalons": [
+      87968,
+      87973
+    ]
+  },
+  "entite_689": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      88271,
+      88282
+    ]
+  },
+  "entite_690": {
+    "label": "LOC",
+    "text": "Sens-tu",
+    "jalons": [
+      88288,
+      88295
+    ]
+  },
+  "entite_691": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      88320,
+      88331
+    ]
+  },
+  "entite_692": {
+    "label": "PER",
+    "text": "Baptiste",
+    "jalons": [
+      88448,
+      88456
+    ]
+  },
+  "entite_693": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      88475,
+      88486
+    ]
+  },
+  "entite_694": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      88498,
+      88504
+    ]
+  },
+  "entite_695": {
+    "label": "PER",
+    "text": "M'",
+    "jalons": [
+      88720,
+      88722
+    ]
+  },
+  "entite_696": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      88736,
+      88747
+    ]
+  },
+  "entite_697": {
+    "label": "MISC",
+    "text": "Fût-ce !",
+    "jalons": [
+      88861,
+      88869
+    ]
+  },
+  "entite_698": {
+    "label": "PER",
+    "text": "Baptiste",
+    "jalons": [
+      88874,
+      88882
+    ]
+  },
+  "entite_699": {
+    "label": "PER",
+    "text": "Baptiste",
+    "jalons": [
+      88945,
+      88953
+    ]
+  },
+  "entite_700": {
+    "label": "LOC",
+    "text": "Tour",
+    "jalons": [
+      89257,
+      89261
+    ]
+  },
+  "entite_701": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      89629,
+      89640
+    ]
+  },
+  "entite_702": {
+    "label": "PER",
+    "text": "Taisez",
+    "jalons": [
+      90006,
+      90012
+    ]
+  },
+  "entite_703": {
+    "label": "PER",
+    "text": "huguenot",
+    "jalons": [
+      90019,
+      90027
+    ]
+  },
+  "entite_704": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      90091,
+      90095
+    ]
+  },
+  "entite_705": {
+    "label": "PER",
+    "text": "Brugnon",
+    "jalons": [
+      90127,
+      90134
+    ]
+  },
+  "entite_706": {
+    "label": "MISC",
+    "text": "Pater",
+    "jalons": [
+      90532,
+      90537
+    ]
+  },
+  "entite_707": {
+    "label": "MISC",
+    "text": "Ave",
+    "jalons": [
+      90546,
+      90549
+    ]
+  },
+  "entite_708": {
+    "label": "PER",
+    "text": "sainte",
+    "jalons": [
+      90565,
+      90571
+    ]
+  },
+  "entite_709": {
+    "label": "PER",
+    "text": "redanser le soir",
+    "jalons": [
+      90739,
+      90755
+    ]
+  },
+  "entite_710": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      90763,
+      90769
+    ]
+  },
+  "entite_711": {
+    "label": "LOC",
+    "text": "Rose",
+    "jalons": [
+      90860,
+      90864
+    ]
+  },
+  "entite_712": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      91301,
+      91305
+    ]
+  },
+  "entite_713": {
+    "label": "MISC",
+    "text": "La Rose",
+    "jalons": [
+      91540,
+      91547
+    ]
+  },
+  "entite_714": {
+    "label": "LOC",
+    "text": "Cellier",
+    "jalons": [
+      91788,
+      91795
+    ]
+  },
+  "entite_715": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      92137,
+      92141
+    ]
+  },
+  "entite_716": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      92198,
+      92202
+    ]
+  },
+  "entite_717": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      92380,
+      92386
+    ]
+  },
+  "entite_718": {
+    "label": "MISC",
+    "text": "Vive notre mairesse",
+    "jalons": [
+      92816,
+      92835
+    ]
+  },
+  "entite_719": {
+    "label": "LOC",
+    "text": "Rose",
+    "jalons": [
+      92868,
+      92872
+    ]
+  },
+  "entite_720": {
+    "label": "PER",
+    "text": "Denis",
+    "jalons": [
+      92882,
+      92887
+    ]
+  },
+  "entite_721": {
+    "label": "PER",
+    "text": "Denis",
+    "jalons": [
+      92915,
+      92920
+    ]
+  },
+  "entite_722": {
+    "label": "PER",
+    "text": "Norine",
+    "jalons": [
+      92922,
+      92928
+    ]
+  },
+  "entite_723": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      92930,
+      92941
+    ]
+  },
+  "entite_724": {
+    "label": "PER",
+    "text": "Rose du déshonneur",
+    "jalons": [
+      93230,
+      93248
+    ]
+  },
+  "entite_725": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      93518,
+      93529
+    ]
+  },
+  "entite_726": {
+    "label": "ORG",
+    "text": "X \nCE",
+    "jalons": [
+      93722,
+      93727
+    ]
+  },
+  "entite_727": {
+    "label": "ORG",
+    "text": "IL VOUS PLAIRA",
+    "jalons": [
+      93731,
+      93745
+    ]
+  },
+  "entite_728": {
+    "label": "MISC",
+    "text": "Pierre",
+    "jalons": [
+      94263,
+      94269
+    ]
+  },
+  "entite_729": {
+    "label": "MISC",
+    "text": "La Rose",
+    "jalons": [
+      94323,
+      94330
+    ]
+  },
+  "entite_730": {
+    "label": "PER",
+    "text": "Pierrette",
+    "jalons": [
+      94375,
+      94384
+    ]
+  },
+  "entite_731": {
+    "label": "MISC",
+    "text": "La Rose",
+    "jalons": [
+      94434,
+      94441
+    ]
+  },
+  "entite_732": {
+    "label": "LOC",
+    "text": "Norine",
+    "jalons": [
+      94593,
+      94599
+    ]
+  },
+  "entite_733": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      94690,
+      94696
+    ]
+  },
+  "entite_734": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      95026,
+      95034
+    ]
+  },
+  "entite_735": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      95077,
+      95088
+    ]
+  },
+  "entite_736": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      95256,
+      95262
+    ]
+  },
+  "entite_737": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      95508,
+      95516
+    ]
+  },
+  "entite_738": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      95615,
+      95619
+    ]
+  },
+  "entite_739": {
+    "label": "PER",
+    "text": "Jacqueline",
+    "jalons": [
+      95639,
+      95649
+    ]
+  },
+  "entite_740": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      95653,
+      95660
+    ]
+  },
+  "entite_741": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      95674,
+      95679
+    ]
+  },
+  "entite_742": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      95949,
+      95953
+    ]
+  },
+  "entite_743": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      95958,
+      95965
+    ]
+  },
+  "entite_744": {
+    "label": "PER",
+    "text": "Jacqueline",
+    "jalons": [
+      95987,
+      95997
+    ]
+  },
+  "entite_745": {
+    "label": "PER",
+    "text": "Gaspard",
+    "jalons": [
+      96117,
+      96124
+    ]
+  },
+  "entite_746": {
+    "label": "PER",
+    "text": "Jacqueline",
+    "jalons": [
+      96138,
+      96148
+    ]
+  },
+  "entite_747": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      96214,
+      96218
+    ]
+  },
+  "entite_748": {
+    "label": "PER",
+    "text": "Clarisse Manot",
+    "jalons": [
+      96300,
+      96314
+    ]
+  },
+  "entite_749": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      96324,
+      96328
+    ]
+  },
+  "entite_750": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      96356,
+      96361
+    ]
+  },
+  "entite_751": {
+    "label": "LOC",
+    "text": "montagne blanche",
+    "jalons": [
+      96672,
+      96688
+    ]
+  },
+  "entite_752": {
+    "label": "PER",
+    "text": "Satané",
+    "jalons": [
+      96750,
+      96756
+    ]
+  },
+  "entite_753": {
+    "label": "MISC",
+    "text": "Bah !",
+    "jalons": [
+      96857,
+      96862
+    ]
+  },
+  "entite_754": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      97012,
+      97016
+    ]
+  },
+  "entite_755": {
+    "label": "LOC",
+    "text": "colonne Vendôme",
+    "jalons": [
+      97245,
+      97260
+    ]
+  },
+  "entite_756": {
+    "label": "PER",
+    "text": "Manot",
+    "jalons": [
+      97271,
+      97276
+    ]
+  },
+  "entite_757": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      97365,
+      97369
+    ]
+  },
+  "entite_758": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      97533,
+      97538
+    ]
+  },
+  "entite_759": {
+    "label": "PER",
+    "text": "Clarisse",
+    "jalons": [
+      97599,
+      97607
+    ]
+  },
+  "entite_760": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      97706,
+      97710
+    ]
+  },
+  "entite_761": {
+    "label": "LOC",
+    "text": "Clarisse",
+    "jalons": [
+      97931,
+      97939
+    ]
+  },
+  "entite_762": {
+    "label": "LOC",
+    "text": "Palais-Royal",
+    "jalons": [
+      97956,
+      97968
+    ]
+  },
+  "entite_763": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      97997,
+      98008
+    ]
+  },
+  "entite_764": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      98095,
+      98106
+    ]
+  },
+  "entite_765": {
+    "label": "LOC",
+    "text": "Palais-Royal",
+    "jalons": [
+      98261,
+      98273
+    ]
+  },
+  "entite_766": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      98394,
+      98405
+    ]
+  },
+  "entite_767": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      98459,
+      98464
+    ]
+  },
+  "entite_768": {
+    "label": "MISC",
+    "text": "Quoi !",
+    "jalons": [
+      98600,
+      98606
+    ]
+  },
+  "entite_769": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      98631,
+      98642
+    ]
+  },
+  "entite_770": {
+    "label": "PER",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      98661,
+      98675
+    ]
+  },
+  "entite_771": {
+    "label": "PER",
+    "text": "Adonc",
+    "jalons": [
+      99021,
+      99026
+    ]
+  },
+  "entite_772": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      99176,
+      99184
+    ]
+  },
+  "entite_773": {
+    "label": "LOC",
+    "text": "Parisien",
+    "jalons": [
+      99466,
+      99474
+    ]
+  },
+  "entite_774": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      99492,
+      99500
+    ]
+  },
+  "entite_775": {
+    "label": "MISC",
+    "text": "Bien !",
+    "jalons": [
+      99612,
+      99618
+    ]
+  },
+  "entite_776": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      99624,
+      99635
+    ]
+  },
+  "entite_777": {
+    "label": "LOC",
+    "text": "Parisiens",
+    "jalons": [
+      99682,
+      99691
+    ]
+  },
+  "entite_778": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      99764,
+      99768
+    ]
+  },
+  "entite_779": {
+    "label": "LOC",
+    "text": "MOISSON",
+    "jalons": [
+      99793,
+      99800
+    ]
+  },
+  "entite_780": {
+    "label": "MISC",
+    "text": "Alerte, faucheurs !",
+    "jalons": [
+      99957,
+      99976
+    ]
+  },
+  "entite_781": {
+    "label": "MISC",
+    "text": "Alerte !",
+    "jalons": [
+      100037,
+      100045
+    ]
+  },
+  "entite_782": {
+    "label": "PER",
+    "text": "Assis",
+    "jalons": [
+      100361,
+      100366
+    ]
+  },
+  "entite_783": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      100610,
+      100614
+    ]
+  },
+  "entite_784": {
+    "label": "MISC",
+    "text": "Sortez des maisons",
+    "jalons": [
+      100698,
+      100716
+    ]
+  },
+  "entite_785": {
+    "label": "LOC",
+    "text": "la France",
+    "jalons": [
+      101004,
+      101013
+    ]
+  },
+  "entite_786": {
+    "label": "LOC",
+    "text": "la France",
+    "jalons": [
+      101172,
+      101181
+    ]
+  },
+  "entite_787": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      101185,
+      101189
+    ]
+  },
+  "entite_788": {
+    "label": "PER",
+    "text": "Gens de Morlinval",
+    "jalons": [
+      101326,
+      101343
+    ]
+  },
+  "entite_789": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      101348,
+      101359
+    ]
+  },
+  "entite_790": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      102130,
+      102141
+    ]
+  },
+  "entite_791": {
+    "label": "MISC",
+    "text": "la Révolution",
+    "jalons": [
+      102159,
+      102172
+    ]
+  },
+  "entite_792": {
+    "label": "LOC",
+    "text": "la France",
+    "jalons": [
+      102668,
+      102677
+    ]
+  },
+  "entite_793": {
+    "label": "MISC",
+    "text": "Simple affaire de sonnerie",
+    "jalons": [
+      102916,
+      102942
+    ]
+  },
+  "entite_794": {
+    "label": "LOC",
+    "text": "la France",
+    "jalons": [
+      103042,
+      103051
+    ]
+  },
+  "entite_795": {
+    "label": "LOC",
+    "text": "Est",
+    "jalons": [
+      103792,
+      103795
+    ]
+  },
+  "entite_796": {
+    "label": "MISC",
+    "text": "Argent !",
+    "jalons": [
+      104054,
+      104062
+    ]
+  },
+  "entite_797": {
+    "label": "MISC",
+    "text": "En voilà une de chaleur",
+    "jalons": [
+      104080,
+      104103
+    ]
+  },
+  "entite_798": {
+    "label": "LOC",
+    "text": "la France",
+    "jalons": [
+      104313,
+      104322
+    ]
+  },
+  "entite_799": {
+    "label": "LOC",
+    "text": "Reviendront",
+    "jalons": [
+      104325,
+      104336
+    ]
+  },
+  "entite_800": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      104443,
+      104451
+    ]
+  },
+  "entite_801": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      104475,
+      104479
+    ]
+  },
+  "entite_802": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      104624,
+      104635
+    ]
+  },
+  "entite_803": {
+    "label": "PER",
+    "text": "Cadet Lambin",
+    "jalons": [
+      104649,
+      104661
+    ]
+  },
+  "entite_804": {
+    "label": "LOC",
+    "text": "la France",
+    "jalons": [
+      104684,
+      104693
+    ]
+  },
+  "entite_805": {
+    "label": "LOC",
+    "text": "franciers",
+    "jalons": [
+      104783,
+      104792
+    ]
+  },
+  "entite_806": {
+    "label": "MISC",
+    "text": "Les voilà !",
+    "jalons": [
+      104845,
+      104856
+    ]
+  },
+  "entite_807": {
+    "label": "MISC",
+    "text": "Courons",
+    "jalons": [
+      104935,
+      104942
+    ]
+  },
+  "entite_808": {
+    "label": "MISC",
+    "text": "Mon pauvre fieu !",
+    "jalons": [
+      105038,
+      105055
+    ]
+  },
+  "entite_809": {
+    "label": "MISC",
+    "text": "Mon pauvre homme !",
+    "jalons": [
+      105058,
+      105076
+    ]
+  },
+  "entite_810": {
+    "label": "MISC",
+    "text": "Courons",
+    "jalons": [
+      105107,
+      105114
+    ]
+  },
+  "entite_811": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      105225,
+      105236
+    ]
+  },
+  "entite_812": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      105389,
+      105403
+    ]
+  },
+  "entite_813": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      105459,
+      105470
+    ]
+  },
+  "entite_814": {
+    "label": "PER",
+    "text": "XII",
+    "jalons": [
+      105495,
+      105498
+    ]
+  },
+  "entite_815": {
+    "label": "LOC",
+    "text": "Cellier",
+    "jalons": [
+      105548,
+      105555
+    ]
+  },
+  "entite_816": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      105576,
+      105587
+    ]
+  },
+  "entite_817": {
+    "label": "LOC",
+    "text": "Morlincourt",
+    "jalons": [
+      105599,
+      105610
+    ]
+  },
+  "entite_818": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      105631,
+      105639
+    ]
+  },
+  "entite_819": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      105735,
+      105743
+    ]
+  },
+  "entite_820": {
+    "label": "LOC",
+    "text": "franciers",
+    "jalons": [
+      105849,
+      105858
+    ]
+  },
+  "entite_821": {
+    "label": "LOC",
+    "text": "M",
+    "jalons": [
+      105894,
+      105895
+    ]
+  },
+  "entite_822": {
+    "label": "LOC",
+    "text": "Céran",
+    "jalons": [
+      105899,
+      105904
+    ]
+  },
+  "entite_823": {
+    "label": "PER",
+    "text": "Monsieur Céran",
+    "jalons": [
+      106086,
+      106100
+    ]
+  },
+  "entite_824": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      106192,
+      106206
+    ]
+  },
+  "entite_825": {
+    "label": "LOC",
+    "text": "Franciers",
+    "jalons": [
+      106212,
+      106221
+    ]
+  },
+  "entite_826": {
+    "label": "LOC",
+    "text": "Céran",
+    "jalons": [
+      106340,
+      106345
+    ]
+  },
+  "entite_827": {
+    "label": "LOC",
+    "text": "Céran",
+    "jalons": [
+      106386,
+      106391
+    ]
+  },
+  "entite_828": {
+    "label": "PER",
+    "text": "Monsieur Céran",
+    "jalons": [
+      106405,
+      106419
+    ]
+  },
+  "entite_829": {
+    "label": "MISC",
+    "text": "Si c'est vrai !",
+    "jalons": [
+      106754,
+      106769
+    ]
+  },
+  "entite_830": {
+    "label": "MISC",
+    "text": "Courez",
+    "jalons": [
+      106847,
+      106853
+    ]
+  },
+  "entite_831": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      106990,
+      106998
+    ]
+  },
+  "entite_832": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      107255,
+      107266
+    ]
+  },
+  "entite_833": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      107268,
+      107274
+    ]
+  },
+  "entite_834": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      107296,
+      107300
+    ]
+  },
+  "entite_835": {
+    "label": "PER",
+    "text": "Thérèse",
+    "jalons": [
+      107314,
+      107321
+    ]
+  },
+  "entite_836": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      107421,
+      107429
+    ]
+  },
+  "entite_837": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      107517,
+      107528
+    ]
+  },
+  "entite_838": {
+    "label": "PER",
+    "text": "Thérèse",
+    "jalons": [
+      107533,
+      107540
+    ]
+  },
+  "entite_839": {
+    "label": "LOC",
+    "text": "Rose",
+    "jalons": [
+      107569,
+      107573
+    ]
+  },
+  "entite_840": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      107810,
+      107814
+    ]
+  },
+  "entite_841": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      107820,
+      107828
+    ]
+  },
+  "entite_842": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      107968,
+      107976
+    ]
+  },
+  "entite_843": {
+    "label": "PER",
+    "text": "Mon bon ami",
+    "jalons": [
+      108239,
+      108250
+    ]
+  },
+  "entite_844": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      108372,
+      108386
+    ]
+  },
+  "entite_845": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      108652,
+      108658
+    ]
+  },
+  "entite_846": {
+    "label": "LOC",
+    "text": "Rose",
+    "jalons": [
+      108677,
+      108681
+    ]
+  },
+  "entite_847": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      108824,
+      108835
+    ]
+  },
+  "entite_848": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      108885,
+      108890
+    ]
+  },
+  "entite_849": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      108982,
+      108990
+    ]
+  },
+  "entite_850": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      109060,
+      109064
+    ]
+  },
+  "entite_851": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      109140,
+      109154
+    ]
+  },
+  "entite_852": {
+    "label": "LOC",
+    "text": "Las",
+    "jalons": [
+      109729,
+      109732
+    ]
+  },
+  "entite_853": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      110002,
+      110016
+    ]
+  },
+  "entite_854": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      110029,
+      110033
+    ]
+  },
+  "entite_855": {
+    "label": "LOC",
+    "text": "Vénus",
+    "jalons": [
+      110524,
+      110529
+    ]
+  },
+  "entite_856": {
+    "label": "LOC",
+    "text": "Bérénice",
+    "jalons": [
+      110531,
+      110539
+    ]
+  },
+  "entite_857": {
+    "label": "MISC",
+    "text": "Cassiopée !",
+    "jalons": [
+      110541,
+      110552
+    ]
+  },
+  "entite_858": {
+    "label": "MISC",
+    "text": "La Rose veille",
+    "jalons": [
+      110596,
+      110610
+    ]
+  },
+  "entite_859": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      110829,
+      110833
+    ]
+  },
+  "entite_860": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      110879,
+      110885
+    ]
+  },
+  "entite_861": {
+    "label": "PER",
+    "text": "Chanvriers",
+    "jalons": [
+      111278,
+      111288
+    ]
+  },
+  "entite_862": {
+    "label": "MISC",
+    "text": "XIII \nUNE PÉTITION",
+    "jalons": [
+      112083,
+      112101
+    ]
+  },
+  "entite_863": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      112277,
+      112281
+    ]
+  },
+  "entite_864": {
+    "label": "MISC",
+    "text": "Bonsoir",
+    "jalons": [
+      112340,
+      112347
+    ]
+  },
+  "entite_865": {
+    "label": "PER",
+    "text": "madame la mairesse",
+    "jalons": [
+      112395,
+      112413
+    ]
+  },
+  "entite_866": {
+    "label": "PER",
+    "text": "Sois",
+    "jalons": [
+      112418,
+      112422
+    ]
+  },
+  "entite_867": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      112441,
+      112452
+    ]
+  },
+  "entite_868": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      112695,
+      112699
+    ]
+  },
+  "entite_869": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      112724,
+      112735
+    ]
+  },
+  "entite_870": {
+    "label": "PER",
+    "text": "Messieurs",
+    "jalons": [
+      112837,
+      112846
+    ]
+  },
+  "entite_871": {
+    "label": "LOC",
+    "text": "du Nord",
+    "jalons": [
+      112886,
+      112893
+    ]
+  },
+  "entite_872": {
+    "label": "PER",
+    "text": "Messieurs",
+    "jalons": [
+      112898,
+      112907
+    ]
+  },
+  "entite_873": {
+    "label": "LOC",
+    "text": "Parisien",
+    "jalons": [
+      112958,
+      112966
+    ]
+  },
+  "entite_874": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      113024,
+      113029
+    ]
+  },
+  "entite_875": {
+    "label": "LOC",
+    "text": "du Nord",
+    "jalons": [
+      113241,
+      113248
+    ]
+  },
+  "entite_876": {
+    "label": "LOC",
+    "text": "la France",
+    "jalons": [
+      113296,
+      113305
+    ]
+  },
+  "entite_877": {
+    "label": "LOC",
+    "text": "du Nord",
+    "jalons": [
+      113840,
+      113847
+    ]
+  },
+  "entite_878": {
+    "label": "PER",
+    "text": "Messieurs",
+    "jalons": [
+      113899,
+      113908
+    ]
+  },
+  "entite_879": {
+    "label": "PER",
+    "text": "DE TRAVAIL",
+    "jalons": [
+      114020,
+      114030
+    ]
+  },
+  "entite_880": {
+    "label": "ORG",
+    "text": "Agréez",
+    "jalons": [
+      114036,
+      114042
+    ]
+  },
+  "entite_881": {
+    "label": "PER",
+    "text": "Messieurs",
+    "jalons": [
+      114044,
+      114053
+    ]
+  },
+  "entite_882": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      114097,
+      114108
+    ]
+  },
+  "entite_883": {
+    "label": "PER",
+    "text": "Hein",
+    "jalons": [
+      114110,
+      114114
+    ]
+  },
+  "entite_884": {
+    "label": "LOC",
+    "text": "la France",
+    "jalons": [
+      114275,
+      114284
+    ]
+  },
+  "entite_885": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      114297,
+      114301
+    ]
+  },
+  "entite_886": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      114332,
+      114337
+    ]
+  },
+  "entite_887": {
+    "label": "ORG",
+    "text": "Avisez",
+    "jalons": [
+      114383,
+      114389
+    ]
+  },
+  "entite_888": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      114480,
+      114491
+    ]
+  },
+  "entite_889": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      114921,
+      114927
+    ]
+  },
+  "entite_890": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      114948,
+      114952
+    ]
+  },
+  "entite_891": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      115272,
+      115283
+    ]
+  },
+  "entite_892": {
+    "label": "MISC",
+    "text": "Rose",
+    "jalons": [
+      115356,
+      115360
+    ]
+  },
+  "entite_893": {
+    "label": "PER",
+    "text": "Remblay",
+    "jalons": [
+      115494,
+      115501
+    ]
+  },
+  "entite_894": {
+    "label": "MISC",
+    "text": "Allez !",
+    "jalons": [
+      115867,
+      115874
+    ]
+  },
+  "entite_895": {
+    "label": "MISC",
+    "text": "Ta !",
+    "jalons": [
+      116092,
+      116096
+    ]
+  },
+  "entite_896": {
+    "label": "PER",
+    "text": "Remblay",
+    "jalons": [
+      116112,
+      116119
+    ]
+  },
+  "entite_897": {
+    "label": "PER",
+    "text": "Jean-Claude",
+    "jalons": [
+      116125,
+      116136
+    ]
+  },
+  "entite_898": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      116249,
+      116253
+    ]
+  },
+  "entite_899": {
+    "label": "LOC",
+    "text": "Saint-Brunelle",
+    "jalons": [
+      116361,
+      116375
+    ]
+  },
+  "entite_900": {
+    "label": "MISC",
+    "text": "SOUHAITS",
+    "jalons": [
+      116389,
+      116397
+    ]
+  },
+  "entite_901": {
+    "label": "MISC",
+    "text": "PRIÈRE",
+    "jalons": [
+      116399,
+      116405
+    ]
+  },
+  "entite_902": {
+    "label": "PER",
+    "text": "Roux",
+    "jalons": [
+      116690,
+      116694
+    ]
+  },
+  "entite_903": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      116728,
+      116733
+    ]
+  },
+  "entite_904": {
+    "label": "LOC",
+    "text": "SOUHAITS",
+    "jalons": [
+      116772,
+      116780
+    ]
+  },
+  "entite_905": {
+    "label": "PER",
+    "text": "M. Céran",
+    "jalons": [
+      117029,
+      117037
+    ]
+  },
+  "entite_906": {
+    "label": "ORG",
+    "text": "CELLIER",
+    "jalons": [
+      117236,
+      117243
+    ]
+  }
+}

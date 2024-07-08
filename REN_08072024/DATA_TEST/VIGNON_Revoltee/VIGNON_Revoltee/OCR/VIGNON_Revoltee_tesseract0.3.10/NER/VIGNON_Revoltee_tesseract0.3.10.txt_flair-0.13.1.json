@@ -1,0 +1,8698 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Gallica  Révoltée",
+    "jalons": [
+      6,
+      23
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Claude Vignon  Source",
+    "jalons": [
+      30,
+      51
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Bibliothèque nationale de France",
+    "jalons": [
+      69,
+      101
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Gallica     Vignon",
+    "jalons": [
+      107,
+      125
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Claude",
+    "jalons": [
+      127,
+      133
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Auteur du texte",
+    "jalons": [
+      147,
+      162
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Claude Vignon",
+    "jalons": [
+      179,
+      192
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la mention de",
+    "jalons": [
+      66,
+      170
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      273,
+      279
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Les contenus de Gallica sont la propriété de la BnF au sens de",
+    "jalons": [
+      356,
+      418
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "MLISAPETH VERDIER",
+    "jalons": [
+      171,
+      188
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "E. Mazereau",
+    "jalons": [
+      265,
+      276
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "PARIS  CALMANN LÉVY",
+    "jalons": [
+      491,
+      510
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "ANCIENNE MAISON MICHEL LÉVY FRÈRES  RUE AUBER",
+    "jalons": [
+      8,
+      53
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      402,
+      408
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "Armand",
+    "jalons": [
+      479,
+      485
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      92,
+      98
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      59,
+      64
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Clémence",
+    "jalons": [
+      52,
+      60
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Enfin les dames de Sainte-Claire la",
+    "jalons": [
+      336,
+      371
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Ms de Bréhan",
+    "jalons": [
+      24,
+      36
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      142,
+      148
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Dieudonné",
+    "jalons": [
+      317,
+      326
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Madame de Cl",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "M. Le Dam",
+    "jalons": [
+      46,
+      55
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Clérac",
+    "jalons": [
+      96,
+      102
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Clérae",
+    "jalons": [
+      72,
+      78
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      451,
+      456
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "rue de l’Université",
+    "jalons": [
+      458,
+      477
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "de Clérac",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "frère de madame de Clérac",
+    "jalons": [
+      83,
+      108
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Saint-Louis",
+    "jalons": [
+      264,
+      275
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      304,
+      309
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "la fin de la Restauration",
+    "jalons": [
+      305,
+      330
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Malheureusement",
+    "jalons": [
+      332,
+      347
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Ar",
+    "jalons": [
+      349,
+      351
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Cora Mend",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Bobino",
+    "jalons": [
+      476,
+      482
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "le Dam d’Anjault se monta",
+    "jalons": [
+      1,
+      26
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "de la vie de la",
+    "jalons": [
+      301,
+      316
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Malgré la tenue de la jeune femme",
+    "jalons": [
+      154,
+      187
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Armand de parler de",
+    "jalons": [
+      288,
+      307
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Cora Mendilla",
+    "jalons": [
+      388,
+      401
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Clérac",
+    "jalons": [
+      492,
+      498
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Anjaultet",
+    "jalons": [
+      502,
+      511
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Le",
+    "jalons": [
+      509,
+      511
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Puis",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_48": {
+    "label": "ORG",
+    "text": "la chapelle de la Vie",
+    "jalons": [
+      491,
+      512
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Limousin",
+    "jalons": [
+      256,
+      264
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Parfois",
+    "jalons": [
+      457,
+      464
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      464,
+      469
+    ]
+  },
+  "entite_52": {
+    "label": "ORG",
+    "text": "de la rue de l’U",
+    "jalons": [
+      496,
+      512
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "Li Clérac",
+    "jalons": [
+      490,
+      499
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "l'avenir de la Providence",
+    "jalons": [
+      129,
+      154
+    ]
+  },
+  "entite_55": {
+    "label": "MISC",
+    "text": "FU A voir le beau Paris de la rive droite",
+    "jalons": [
+      211,
+      252
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "EU",
+    "jalons": [
+      14,
+      16
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "Armand Le Dam",
+    "jalons": [
+      433,
+      446
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "de Clérac",
+    "jalons": [
+      491,
+      500
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Subitemen",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "L'idée de",
+    "jalons": [
+      166,
+      175
+    ]
+  },
+  "entite_61": {
+    "label": "MISC",
+    "text": "dans le salon ou dans Ja chambre de",
+    "jalons": [
+      477,
+      512
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "Madame de Clérac",
+    "jalons": [
+      80,
+      96
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Germain",
+    "jalons": [
+      235,
+      242
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      359,
+      364
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Le Dam d’Anjault",
+    "jalons": [
+      434,
+      450
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "consul de France",
+    "jalons": [
+      403,
+      419
+    ]
+  },
+  "entite_67": {
+    "label": "LOC",
+    "text": "Paraguay",
+    "jalons": [
+      423,
+      431
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      446,
+      451
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Un la Chesnaie",
+    "jalons": [
+      487,
+      501
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "Paraguay",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "dame de Clérac",
+    "jalons": [
+      21,
+      35
+    ]
+  },
+  "entite_72": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      407,
+      413
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Madame de Clérac",
+    "jalons": [
+      319,
+      335
+    ]
+  },
+  "entite_74": {
+    "label": "MISC",
+    "text": "Sonnage du baron de la Chesnaie au souvenir du",
+    "jalons": [
+      37,
+      83
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "baron de la Chesnaie",
+    "jalons": [
+      116,
+      136
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      207,
+      224
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      490,
+      507
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "baron de la Chesnaie",
+    "jalons": [
+      473,
+      493
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "Il faudrait d'abo",
+    "jalons": [
+      495,
+      512
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      360,
+      365
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "Ur",
+    "jalons": [
+      507,
+      509
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "Sud",
+    "jalons": [
+      118,
+      121
+    ]
+  },
+  "entite_83": {
+    "label": "MISC",
+    "text": "dans l'Amérique du Sud ou ailleurs",
+    "jalons": [
+      30,
+      64
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "de la Chesnaie fut  de chercher",
+    "jalons": [
+      481,
+      512
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "l'enveloppe de la",
+    "jalons": [
+      1,
+      18
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "Monsieur le baron de la Chesnaie",
+    "jalons": [
+      78,
+      110
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      293,
+      298
+    ]
+  },
+  "entite_88": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      474,
+      491
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      72,
+      78
+    ]
+  },
+  "entite_90": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      464,
+      470
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "baron de la Chesnaie",
+    "jalons": [
+      219,
+      239
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      479,
+      496
+    ]
+  },
+  "entite_93": {
+    "label": "LOC",
+    "text": "Saint-Germain",
+    "jalons": [
+      333,
+      346
+    ]
+  },
+  "entite_94": {
+    "label": "LOC",
+    "text": "Certes",
+    "jalons": [
+      392,
+      398
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "baron de la Chesnaie.",
+    "jalons": [
+      490,
+      511
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Le baron de la Chesnaie",
+    "jalons": [
+      392,
+      415
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "C’est",
+    "jalons": [
+      503,
+      508
+    ]
+  },
+  "entite_98": {
+    "label": "MISC",
+    "text": "Le baron de la Chesnaie",
+    "jalons": [
+      133,
+      156
+    ]
+  },
+  "entite_99": {
+    "label": "PER",
+    "text": "de M. de la Chesnaie",
+    "jalons": [
+      268,
+      288
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "Le De Dam d’Anjault",
+    "jalons": [
+      367,
+      386
+    ]
+  },
+  "entite_101": {
+    "label": "PER",
+    "text": "M. Le Dam",
+    "jalons": [
+      418,
+      427
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "d’Anjault",
+    "jalons": [
+      431,
+      440
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "Saint-Louis",
+    "jalons": [
+      154,
+      165
+    ]
+  },
+  "entite_104": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      101,
+      118
+    ]
+  },
+  "entite_105": {
+    "label": "PER",
+    "text": "Le baron de la Chesnaie",
+    "jalons": [
+      284,
+      307
+    ]
+  },
+  "entite_106": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      376,
+      393
+    ]
+  },
+  "entite_107": {
+    "label": "LOC",
+    "text": "Fa",
+    "jalons": [
+      428,
+      430
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      193,
+      199
+    ]
+  },
+  "entite_109": {
+    "label": "PER",
+    "text": "Le Dam",
+    "jalons": [
+      504,
+      510
+    ]
+  },
+  "entite_110": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      231,
+      248
+    ]
+  },
+  "entite_111": {
+    "label": "PER",
+    "text": "Pl  M. de la Chesnaie",
+    "jalons": [
+      268,
+      289
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "M. Le Dam",
+    "jalons": [
+      361,
+      370
+    ]
+  },
+  "entite_113": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      24,
+      41
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "du baron de la Chesnaie",
+    "jalons": [
+      1,
+      24
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "d'Anjault",
+    "jalons": [
+      401,
+      410
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "M. d'Anjault",
+    "jalons": [
+      38,
+      50
+    ]
+  },
+  "entite_117": {
+    "label": "MISC",
+    "text": "Avant de la laisser partir",
+    "jalons": [
+      128,
+      154
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      166,
+      174
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "de là je fus envoyé en Colombie",
+    "jalons": [
+      5,
+      36
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "Nicaragua",
+    "jalons": [
+      94,
+      103
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Paraguay",
+    "jalons": [
+      225,
+      233
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      500,
+      506
+    ]
+  },
+  "entite_123": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      56,
+      60
+    ]
+  },
+  "entite_124": {
+    "label": "LOC",
+    "text": "Paraguay",
+    "jalons": [
+      299,
+      307
+    ]
+  },
+  "entite_125": {
+    "label": "MISC",
+    "text": "La voix du baron de la Chesnaie",
+    "jalons": [
+      89,
+      120
+    ]
+  },
+  "entite_126": {
+    "label": "MISC",
+    "text": "madame de Clérac avait indiqué comme le jour de",
+    "jalons": [
+      0,
+      47
+    ]
+  },
+  "entite_127": {
+    "label": "PER",
+    "text": "son départ",
+    "jalons": [
+      48,
+      58
+    ]
+  },
+  "entite_128": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      264,
+      269
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "la pitié de personne",
+    "jalons": [
+      1,
+      21
+    ]
+  },
+  "entite_130": {
+    "label": "PER",
+    "text": "Ainsi donc",
+    "jalons": [
+      31,
+      41
+    ]
+  },
+  "entite_131": {
+    "label": "LOC",
+    "text": "Le baron de la",
+    "jalons": [
+      254,
+      268
+    ]
+  },
+  "entite_132": {
+    "label": "LOC",
+    "text": "Chesnaie",
+    "jalons": [
+      271,
+      279
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "baron de la Chesnaie",
+    "jalons": [
+      381,
+      401
+    ]
+  },
+  "entite_134": {
+    "label": "ORG",
+    "text": "ST TRES IE",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_135": {
+    "label": "MISC",
+    "text": "J'ai l’honneur de vous demander la main de votre fille",
+    "jalons": [
+      46,
+      100
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "BARON LOUIS DE LA CHESNAIE",
+    "jalons": [
+      272,
+      298
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "C'était M. d’Anjault",
+    "jalons": [
+      26,
+      46
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "De la part de",
+    "jalons": [
+      282,
+      295
+    ]
+  },
+  "entite_139": {
+    "label": "LOC",
+    "text": "la famille de la Chesnaie",
+    "jalons": [
+      157,
+      182
+    ]
+  },
+  "entite_140": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      295,
+      300
+    ]
+  },
+  "entite_141": {
+    "label": "LOC",
+    "text": "La porte",
+    "jalons": [
+      97,
+      105
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "baron de la Chesnaie",
+    "jalons": [
+      207,
+      227
+    ]
+  },
+  "entite_143": {
+    "label": "LOC",
+    "text": "Va Les",
+    "jalons": [
+      503,
+      509
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "Invalides",
+    "jalons": [
+      136,
+      145
+    ]
+  },
+  "entite_145": {
+    "label": "PER",
+    "text": "Jean",
+    "jalons": [
+      363,
+      367
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "M. de la Ches",
+    "jalons": [
+      261,
+      274
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "Anjault",
+    "jalons": [
+      450,
+      457
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      216,
+      221
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      223,
+      228
+    ]
+  },
+  "entite_150": {
+    "label": "PER",
+    "text": "M. Le Dam d’Anjault",
+    "jalons": [
+      6,
+      25
+    ]
+  },
+  "entite_151": {
+    "label": "PER",
+    "text": "vicomtesse de Clérac",
+    "jalons": [
+      58,
+      78
+    ]
+  },
+  "entite_152": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      141,
+      158
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      364,
+      370
+    ]
+  },
+  "entite_154": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      221,
+      226
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "J'enverrai",
+    "jalons": [
+      315,
+      325
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      398,
+      403
+    ]
+  },
+  "entite_157": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      456,
+      461
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "D'autre",
+    "jalons": [
+      466,
+      473
+    ]
+  },
+  "entite_159": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      480,
+      497
+    ]
+  },
+  "entite_160": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      488,
+      498
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "Lanka",
+    "jalons": [
+      8,
+      13
+    ]
+  },
+  "entite_162": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      291,
+      301
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "le baron de la Chesnaie",
+    "jalons": [
+      9,
+      32
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "M. de la Ghesnaie",
+    "jalons": [
+      219,
+      236
+    ]
+  },
+  "entite_165": {
+    "label": "MISC",
+    "text": "sans oser même la serrer sur son cœur",
+    "jalons": [
+      3,
+      40
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      378,
+      386
+    ]
+  },
+  "entite_167": {
+    "label": "MISC",
+    "text": "L’aisance de la vie et la",
+    "jalons": [
+      184,
+      209
+    ]
+  },
+  "entite_168": {
+    "label": "PER",
+    "text": "de HA",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_169": {
+    "label": "MISC",
+    "text": "de madame la baronne de la Ches",
+    "jalons": [
+      276,
+      307
+    ]
+  },
+  "entite_170": {
+    "label": "LOC",
+    "text": "USE",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "SA de la",
+    "jalons": [
+      58,
+      66
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      318,
+      328
+    ]
+  },
+  "entite_173": {
+    "label": "MISC",
+    "text": "PAS  Elle était de toutes les fêtes et les",
+    "jalons": [
+      332,
+      374
+    ]
+  },
+  "entite_174": {
+    "label": "LOC",
+    "text": "Le baron de la Chesnaie vou",
+    "jalons": [
+      417,
+      444
+    ]
+  },
+  "entite_175": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      501,
+      506
+    ]
+  },
+  "entite_176": {
+    "label": "MISC",
+    "text": "M. de la Chesnaie lui faisait donner des",
+    "jalons": [
+      310,
+      350
+    ]
+  },
+  "entite_177": {
+    "label": "LOC",
+    "text": "L'ignoran",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_178": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      488,
+      498
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "Bari Pourquoi",
+    "jalons": [
+      137,
+      150
+    ]
+  },
+  "entite_180": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      197,
+      214
+    ]
+  },
+  "entite_181": {
+    "label": "PER",
+    "text": "Mentor vêtu de la L tunique de Nessus",
+    "jalons": [
+      18,
+      55
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      159,
+      164
+    ]
+  },
+  "entite_183": {
+    "label": "LOC",
+    "text": "Rio-Panama avec le Rio-Uruguay et avec la rivière de la Plata",
+    "jalons": [
+      414,
+      475
+    ]
+  },
+  "entite_184": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      92,
+      102
+    ]
+  },
+  "entite_185": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      343,
+      348
+    ]
+  },
+  "entite_186": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      54,
+      59
+    ]
+  },
+  "entite_187": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      278,
+      284
+    ]
+  },
+  "entite_188": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      422,
+      432
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      486,
+      492
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      328,
+      334
+    ]
+  },
+  "entite_191": {
+    "label": "MISC",
+    "text": "aris en liberté ; de rêver dans les musées de Rome ; d'aller au bal de la cour",
+    "jalons": [
+      0,
+      78
+    ]
+  },
+  "entite_192": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      481,
+      491
+    ]
+  },
+  "entite_193": {
+    "label": "LOC",
+    "text": "itta la quinta",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      114,
+      119
+    ]
+  },
+  "entite_195": {
+    "label": "MISC",
+    "text": "Pour le baron de la Chesnaie",
+    "jalons": [
+      124,
+      152
+    ]
+  },
+  "entite_196": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      119,
+      124
+    ]
+  },
+  "entite_197": {
+    "label": "PER",
+    "text": "Madame de Clérac",
+    "jalons": [
+      399,
+      415
+    ]
+  },
+  "entite_198": {
+    "label": "PER",
+    "text": "de D. Saint-Louis",
+    "jalons": [
+      438,
+      455
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "la duchesse de Berry",
+    "jalons": [
+      265,
+      285
+    ]
+  },
+  "entite_200": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      431,
+      436
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      452,
+      457
+    ]
+  },
+  "entite_202": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      23,
+      28
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      67,
+      72
+    ]
+  },
+  "entite_204": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      76,
+      86
+    ]
+  },
+  "entite_205": {
+    "label": "MISC",
+    "text": "Edmée n'ignorait pas le",
+    "jalons": [
+      88,
+      111
+    ]
+  },
+  "entite_206": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      239,
+      244
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      285,
+      295
+    ]
+  },
+  "entite_208": {
+    "label": "PER",
+    "text": "Le baron",
+    "jalons": [
+      197,
+      205
+    ]
+  },
+  "entite_209": {
+    "label": "MISC",
+    "text": "de la Chesnaie rayonna ortto C'était lu ai qui avait",
+    "jalons": [
+      206,
+      258
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "baron de la Chesnaie",
+    "jalons": [
+      210,
+      230
+    ]
+  },
+  "entite_211": {
+    "label": "LOC",
+    "text": "de la Chesnaie",
+    "jalons": [
+      305,
+      319
+    ]
+  },
+  "entite_212": {
+    "label": "MISC",
+    "text": "Dans le salon",
+    "jalons": [
+      321,
+      334
+    ]
+  },
+  "entite_213": {
+    "label": "PER",
+    "text": "de Clérac",
+    "jalons": [
+      501,
+      510
+    ]
+  },
+  "entite_214": {
+    "label": "MISC",
+    "text": "la femme de son frère",
+    "jalons": [
+      1,
+      22
+    ]
+  },
+  "entite_215": {
+    "label": "PER",
+    "text": "de Clérac",
+    "jalons": [
+      480,
+      489
+    ]
+  },
+  "entite_216": {
+    "label": "LOC",
+    "text": "de la Chesnaie",
+    "jalons": [
+      258,
+      272
+    ]
+  },
+  "entite_217": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      47,
+      52
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "Lu                    Cr",
+    "jalons": [
+      20,
+      44
+    ]
+  },
+  "entite_219": {
+    "label": "MISC",
+    "text": "MARS la baronne de la Chesnaie",
+    "jalons": [
+      270,
+      300
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      393,
+      410
+    ]
+  },
+  "entite_221": {
+    "label": "MISC",
+    "text": "Edmée sur les habitudes et les modes de l'Amérique du Sud, et M. de la Chesnuie sur les intérêts français dans le Nouveau Monde et sur les attributions de nos consuls dans les échelles du Le",
+    "jalons": [
+      78,
+      268
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "Madame de Clérac",
+    "jalons": [
+      462,
+      478
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "M. de la Ches",
+    "jalons": [
+      314,
+      327
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      119,
+      124
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      299,
+      304
+    ]
+  },
+  "entite_226": {
+    "label": "PER",
+    "text": "Robert de Ré",
+    "jalons": [
+      308,
+      320
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "Robert de Ré",
+    "jalons": [
+      255,
+      267
+    ]
+  },
+  "entite_228": {
+    "label": "PER",
+    "text": "Avec cela des",
+    "jalons": [
+      3,
+      16
+    ]
+  },
+  "entite_229": {
+    "label": "PER",
+    "text": "Kobert de Ré",
+    "jalons": [
+      193,
+      205
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "qu'en lui donnant leur vertu",
+    "jalons": [
+      2,
+      30
+    ]
+  },
+  "entite_231": {
+    "label": "PER",
+    "text": "Robert avait-il",
+    "jalons": [
+      85,
+      100
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      255,
+      260
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "Robert l’avait",
+    "jalons": [
+      29,
+      43
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Mariée",
+    "jalons": [
+      143,
+      149
+    ]
+  },
+  "entite_235": {
+    "label": "PER",
+    "text": "donna le frisson",
+    "jalons": [
+      0,
+      16
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      377,
+      382
+    ]
+  },
+  "entite_237": {
+    "label": "PER",
+    "text": "Robert de Ré",
+    "jalons": [
+      272,
+      284
+    ]
+  },
+  "entite_238": {
+    "label": "MISC",
+    "text": "Cependant Ja baronne de la Chesnaie avait",
+    "jalons": [
+      393,
+      434
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      492,
+      497
+    ]
+  },
+  "entite_240": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      372,
+      382
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "Zionne de la",
+    "jalons": [
+      246,
+      258
+    ]
+  },
+  "entite_242": {
+    "label": "LOC",
+    "text": "La _ nouvelle situation de sa famille",
+    "jalons": [
+      267,
+      304
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      401,
+      411
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      70,
+      75
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "M. de Ja Cheésnaie",
+    "jalons": [
+      78,
+      96
+    ]
+  },
+  "entite_246": {
+    "label": "LOC",
+    "text": "de la baronne de la Chesnaie",
+    "jalons": [
+      341,
+      369
+    ]
+  },
+  "entite_247": {
+    "label": "PER",
+    "text": "M. Robert de Ré",
+    "jalons": [
+      371,
+      386
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      443,
+      453
+    ]
+  },
+  "entite_249": {
+    "label": "PER",
+    "text": "Robert de Ré",
+    "jalons": [
+      241,
+      253
+    ]
+  },
+  "entite_250": {
+    "label": "PER",
+    "text": "RÉVOLTÉE",
+    "jalons": [
+      3,
+      11
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      89,
+      94
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "Alexandrie",
+    "jalons": [
+      197,
+      207
+    ]
+  },
+  "entite_253": {
+    "label": "PER",
+    "text": "Robert de Ré",
+    "jalons": [
+      336,
+      348
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "bert de Ré",
+    "jalons": [
+      17,
+      27
+    ]
+  },
+  "entite_255": {
+    "label": "LOC",
+    "text": "Vendôme",
+    "jalons": [
+      364,
+      371
+    ]
+  },
+  "entite_256": {
+    "label": "LOC",
+    "text": "de Robert de Ré",
+    "jalons": [
+      310,
+      325
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      457,
+      462
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      269,
+      274
+    ]
+  },
+  "entite_259": {
+    "label": "PER",
+    "text": "Robert de Ré",
+    "jalons": [
+      72,
+      84
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "Ré",
+    "jalons": [
+      498,
+      500
+    ]
+  },
+  "entite_261": {
+    "label": "PER",
+    "text": "mari et moi",
+    "jalons": [
+      1,
+      12
+    ]
+  },
+  "entite_262": {
+    "label": "PER",
+    "text": "Edmée",
+    "jalons": [
+      10,
+      15
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      125,
+      130
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      58,
+      63
+    ]
+  },
+  "entite_265": {
+    "label": "PER",
+    "text": "Robert de Ré",
+    "jalons": [
+      139,
+      151
+    ]
+  },
+  "entite_266": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      156,
+      173
+    ]
+  },
+  "entite_267": {
+    "label": "MISC",
+    "text": "Elle nat et Fe vait dans",
+    "jalons": [
+      175,
+      199
+    ]
+  },
+  "entite_268": {
+    "label": "LOC",
+    "text": "M. de Ré",
+    "jalons": [
+      422,
+      430
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      101,
+      118
+    ]
+  },
+  "entite_270": {
+    "label": "MISC",
+    "text": "Bois et dans le monde",
+    "jalons": [
+      66,
+      87
+    ]
+  },
+  "entite_271": {
+    "label": "LOC",
+    "text": "Robert de",
+    "jalons": [
+      324,
+      333
+    ]
+  },
+  "entite_272": {
+    "label": "LOC",
+    "text": "Alexandrie",
+    "jalons": [
+      498,
+      508
+    ]
+  },
+  "entite_273": {
+    "label": "LOC",
+    "text": "Ma",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "de M. de Ré",
+    "jalons": [
+      238,
+      249
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      419,
+      424
+    ]
+  },
+  "entite_276": {
+    "label": "PER",
+    "text": "naud de Belcour",
+    "jalons": [
+      425,
+      440
+    ]
+  },
+  "entite_277": {
+    "label": "MISC",
+    "text": "baronne de la Chesnaie que la voiture",
+    "jalons": [
+      45,
+      82
+    ]
+  },
+  "entite_278": {
+    "label": "MISC",
+    "text": "de la baronne de la Chesnaie",
+    "jalons": [
+      230,
+      258
+    ]
+  },
+  "entite_279": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      98,
+      106
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "M. de Ré",
+    "jalons": [
+      305,
+      313
+    ]
+  },
+  "entite_281": {
+    "label": "LOC",
+    "text": "M. de Ré",
+    "jalons": [
+      453,
+      461
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      19,
+      24
+    ]
+  },
+  "entite_283": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      364,
+      372
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      491,
+      499
+    ]
+  },
+  "entite_285": {
+    "label": "LOC",
+    "text": "Néanmoins",
+    "jalons": [
+      495,
+      504
+    ]
+  },
+  "entite_286": {
+    "label": "MISC",
+    "text": "Elle en était",
+    "jalons": [
+      2,
+      15
+    ]
+  },
+  "entite_287": {
+    "label": "MISC",
+    "text": "le jour de loge de madame Arte à l'Opéra",
+    "jalons": [
+      403,
+      443
+    ]
+  },
+  "entite_288": {
+    "label": "PER",
+    "text": "voir Edmée",
+    "jalons": [
+      499,
+      509
+    ]
+  },
+  "entite_289": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      187,
+      204
+    ]
+  },
+  "entite_290": {
+    "label": "PER",
+    "text": "Dès que Robert parut",
+    "jalons": [
+      304,
+      324
+    ]
+  },
+  "entite_291": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      481,
+      486
+    ]
+  },
+  "entite_292": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      126,
+      134
+    ]
+  },
+  "entite_293": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      427,
+      432
+    ]
+  },
+  "entite_294": {
+    "label": "PER",
+    "text": "Robert de",
+    "jalons": [
+      9,
+      18
+    ]
+  },
+  "entite_295": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      170,
+      175
+    ]
+  },
+  "entite_296": {
+    "label": "MISC",
+    "text": "Jusqu'au départ de M. et madame de la Chesnaie",
+    "jalons": [
+      181,
+      227
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "En Périgord",
+    "jalons": [
+      471,
+      482
+    ]
+  },
+  "entite_298": {
+    "label": "LOC",
+    "text": "Ah",
+    "jalons": [
+      487,
+      489
+    ]
+  },
+  "entite_299": {
+    "label": "LOC",
+    "text": "Pas de chasse",
+    "jalons": [
+      491,
+      504
+    ]
+  },
+  "entite_300": {
+    "label": "LOC",
+    "text": "Levant",
+    "jalons": [
+      278,
+      284
+    ]
+  },
+  "entite_301": {
+    "label": "LOC",
+    "text": "Levant",
+    "jalons": [
+      362,
+      368
+    ]
+  },
+  "entite_302": {
+    "label": "LOC",
+    "text": "Voyant",
+    "jalons": [
+      51,
+      57
+    ]
+  },
+  "entite_303": {
+    "label": "LOC",
+    "text": "C’est de la part de la couturière de",
+    "jalons": [
+      328,
+      364
+    ]
+  },
+  "entite_304": {
+    "label": "PER",
+    "text": "de Robert",
+    "jalons": [
+      428,
+      437
+    ]
+  },
+  "entite_305": {
+    "label": "PER",
+    "text": "Elle ouvrit",
+    "jalons": [
+      439,
+      450
+    ]
+  },
+  "entite_306": {
+    "label": "PER",
+    "text": "Mesdames X.",
+    "jalons": [
+      50,
+      61
+    ]
+  },
+  "entite_307": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      364,
+      381
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Maïs",
+    "jalons": [
+      436,
+      440
+    ]
+  },
+  "entite_309": {
+    "label": "MISC",
+    "text": "Vendôme La voiture de Robert",
+    "jalons": [
+      408,
+      436
+    ]
+  },
+  "entite_310": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      176,
+      184
+    ]
+  },
+  "entite_311": {
+    "label": "LOC",
+    "text": "Puis",
+    "jalons": [
+      186,
+      190
+    ]
+  },
+  "entite_312": {
+    "label": "PER",
+    "text": "D'abord",
+    "jalons": [
+      404,
+      411
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      356,
+      361
+    ]
+  },
+  "entite_314": {
+    "label": "MISC",
+    "text": "J'ai quitté la maison de ma",
+    "jalons": [
+      6,
+      33
+    ]
+  },
+  "entite_315": {
+    "label": "LOC",
+    "text": "Périgord",
+    "jalons": [
+      452,
+      460
+    ]
+  },
+  "entite_316": {
+    "label": "LOC",
+    "text": "Passy",
+    "jalons": [
+      73,
+      78
+    ]
+  },
+  "entite_317": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      97,
+      107
+    ]
+  },
+  "entite_318": {
+    "label": "MISC",
+    "text": "Les deux",
+    "jalons": [
+      109,
+      117
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      493,
+      498
+    ]
+  },
+  "entite_320": {
+    "label": "ORG",
+    "text": "SAC LES",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_321": {
+    "label": "MISC",
+    "text": "Manon et De",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      405,
+      410
+    ]
+  },
+  "entite_323": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      451,
+      456
+    ]
+  },
+  "entite_324": {
+    "label": "MISC",
+    "text": "Des dans le jardin",
+    "jalons": [
+      367,
+      385
+    ]
+  },
+  "entite_325": {
+    "label": "PER",
+    "text": "jai ais",
+    "jalons": [
+      1,
+      8
+    ]
+  },
+  "entite_326": {
+    "label": "MISC",
+    "text": "la musique et la danse",
+    "jalons": [
+      281,
+      303
+    ]
+  },
+  "entite_327": {
+    "label": "PER",
+    "text": "Mais M. de Ré",
+    "jalons": [
+      236,
+      249
+    ]
+  },
+  "entite_328": {
+    "label": "LOC",
+    "text": "M. de Ré",
+    "jalons": [
+      309,
+      317
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      331,
+      336
+    ]
+  },
+  "entite_330": {
+    "label": "PER",
+    "text": "M. de Belcour",
+    "jalons": [
+      456,
+      469
+    ]
+  },
+  "entite_331": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      501,
+      509
+    ]
+  },
+  "entite_332": {
+    "label": "PER",
+    "text": "M. de Belcour",
+    "jalons": [
+      50,
+      63
+    ]
+  },
+  "entite_333": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      130,
+      138
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "M. de Belcour",
+    "jalons": [
+      290,
+      303
+    ]
+  },
+  "entite_335": {
+    "label": "PER",
+    "text": "M. d’Anjault",
+    "jalons": [
+      351,
+      363
+    ]
+  },
+  "entite_336": {
+    "label": "LOC",
+    "text": "Dresde",
+    "jalons": [
+      278,
+      284
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "Turin",
+    "jalons": [
+      286,
+      291
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      221,
+      226
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "Levant",
+    "jalons": [
+      402,
+      408
+    ]
+  },
+  "entite_340": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      93,
+      110
+    ]
+  },
+  "entite_341": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      387,
+      395
+    ]
+  },
+  "entite_342": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_343": {
+    "label": "ORG",
+    "text": "Edmée",
+    "jalons": [
+      503,
+      508
+    ]
+  },
+  "entite_344": {
+    "label": "PER",
+    "text": "M. d’Anjault",
+    "jalons": [
+      12,
+      24
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      4,
+      21
+    ]
+  },
+  "entite_346": {
+    "label": "PER",
+    "text": "M. de Belcour",
+    "jalons": [
+      438,
+      451
+    ]
+  },
+  "entite_347": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      217,
+      225
+    ]
+  },
+  "entite_348": {
+    "label": "LOC",
+    "text": "Sortez",
+    "jalons": [
+      374,
+      380
+    ]
+  },
+  "entite_349": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      470,
+      478
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      490,
+      495
+    ]
+  },
+  "entite_351": {
+    "label": "LOC",
+    "text": "Ila",
+    "jalons": [
+      501,
+      504
+    ]
+  },
+  "entite_352": {
+    "label": "PER",
+    "text": "M. de la Chesnaie le droit de me",
+    "jalons": [
+      78,
+      110
+    ]
+  },
+  "entite_353": {
+    "label": "LOC",
+    "text": "L'ai-je",
+    "jalons": [
+      503,
+      510
+    ]
+  },
+  "entite_354": {
+    "label": "MISC",
+    "text": "Dé- sormais entre la baronne de la Chesnaiïe et sa",
+    "jalons": [
+      144,
+      194
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "de Scheffer",
+    "jalons": [
+      320,
+      331
+    ]
+  },
+  "entite_356": {
+    "label": "PER",
+    "text": "Francesca et Paolo",
+    "jalons": [
+      333,
+      351
+    ]
+  },
+  "entite_357": {
+    "label": "PER",
+    "text": "Puis",
+    "jalons": [
+      353,
+      357
+    ]
+  },
+  "entite_358": {
+    "label": "LOC",
+    "text": "Dè",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "Menlir",
+    "jalons": [
+      48,
+      54
+    ]
+  },
+  "entite_360": {
+    "label": "LOC",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      357,
+      374
+    ]
+  },
+  "entite_361": {
+    "label": "MISC",
+    "text": "Mais pressez le départ de la Chesnaie",
+    "jalons": [
+      46,
+      83
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Longchamp",
+    "jalons": [
+      492,
+      501
+    ]
+  },
+  "entite_363": {
+    "label": "PER",
+    "text": "Soyez",
+    "jalons": [
+      29,
+      34
+    ]
+  },
+  "entite_364": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      262,
+      279
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      56,
+      61
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      84,
+      90
+    ]
+  },
+  "entite_367": {
+    "label": "LOC",
+    "text": "Passy",
+    "jalons": [
+      138,
+      143
+    ]
+  },
+  "entite_368": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      432,
+      440
+    ]
+  },
+  "entite_369": {
+    "label": "PER",
+    "text": "s’en allait dans",
+    "jalons": [
+      0,
+      16
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      17,
+      22
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Chaque jour",
+    "jalons": [
+      447,
+      458
+    ]
+  },
+  "entite_372": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      193,
+      198
+    ]
+  },
+  "entite_373": {
+    "label": "PER",
+    "text": "Mais Alexandrie",
+    "jalons": [
+      458,
+      473
+    ]
+  },
+  "entite_374": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      484,
+      494
+    ]
+  },
+  "entite_375": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      246,
+      256
+    ]
+  },
+  "entite_376": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      462,
+      468
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Alexandrie",
+    "jalons": [
+      336,
+      346
+    ]
+  },
+  "entite_378": {
+    "label": "MISC",
+    "text": "Italie ou en",
+    "jalons": [
+      283,
+      295
+    ]
+  },
+  "entite_379": {
+    "label": "LOC",
+    "text": "Allemagne",
+    "jalons": [
+      296,
+      305
+    ]
+  },
+  "entite_380": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      326,
+      332
+    ]
+  },
+  "entite_381": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      358,
+      364
+    ]
+  },
+  "entite_382": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      388,
+      393
+    ]
+  },
+  "entite_383": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      453,
+      458
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      25,
+      30
+    ]
+  },
+  "entite_385": {
+    "label": "LOC",
+    "text": "appartement de la rue de l’Université",
+    "jalons": [
+      366,
+      403
+    ]
+  },
+  "entite_386": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      219,
+      224
+    ]
+  },
+  "entite_387": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      409,
+      414
+    ]
+  },
+  "entite_388": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      289,
+      306
+    ]
+  },
+  "entite_389": {
+    "label": "PER",
+    "text": "Dès le matin",
+    "jalons": [
+      354,
+      366
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Auteuil",
+    "jalons": [
+      410,
+      417
+    ]
+  },
+  "entite_391": {
+    "label": "ORG",
+    "text": "VUE",
+    "jalons": [
+      508,
+      511
+    ]
+  },
+  "entite_392": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      350,
+      355
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "Orient.",
+    "jalons": [
+      419,
+      426
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      148,
+      153
+    ]
+  },
+  "entite_395": {
+    "label": "MISC",
+    "text": "J'ai essayé de le lui faire ES Sans succès",
+    "jalons": [
+      222,
+      264
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "Ehbien",
+    "jalons": [
+      340,
+      346
+    ]
+  },
+  "entite_397": {
+    "label": "MISC",
+    "text": "HONTE  Le baron de la Chesnaie sonna",
+    "jalons": [
+      288,
+      324
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      329,
+      334
+    ]
+  },
+  "entite_399": {
+    "label": "ORG",
+    "text": "RÉVOLTÉE!",
+    "jalons": [
+      501,
+      510
+    ]
+  },
+  "entite_400": {
+    "label": "PER",
+    "text": "Madame la baronne est sortie",
+    "jalons": [
+      4,
+      32
+    ]
+  },
+  "entite_401": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      84,
+      101
+    ]
+  },
+  "entite_402": {
+    "label": "PER",
+    "text": "Robert",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_403": {
+    "label": "MISC",
+    "text": "Robert avait eu le temps de fermer",
+    "jalons": [
+      80,
+      114
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "la porte de la",
+    "jalons": [
+      127,
+      141
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Robert",
+    "jalons": [
+      469,
+      475
+    ]
+  },
+  "entite_406": {
+    "label": "PER",
+    "text": "Robert ouvrit",
+    "jalons": [
+      363,
+      376
+    ]
+  },
+  "entite_407": {
+    "label": "MISC",
+    "text": "la porte de la seconde pièce",
+    "jalons": [
+      377,
+      405
+    ]
+  },
+  "entite_408": {
+    "label": "PER",
+    "text": "Robert",
+    "jalons": [
+      276,
+      282
+    ]
+  },
+  "entite_409": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      95,
+      102
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "M. de la Ches",
+    "jalons": [
+      163,
+      176
+    ]
+  },
+  "entite_411": {
+    "label": "LOC",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      308,
+      325
+    ]
+  },
+  "entite_412": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      486,
+      503
+    ]
+  },
+  "entite_413": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      65,
+      70
+    ]
+  },
+  "entite_414": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      220,
+      237
+    ]
+  },
+  "entite_415": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      495,
+      499
+    ]
+  },
+  "entite_416": {
+    "label": "LOC",
+    "text": "de la baronne prés de de la Chesnaie",
+    "jalons": [
+      120,
+      156
+    ]
+  },
+  "entite_417": {
+    "label": "LOC",
+    "text": "Quant",
+    "jalons": [
+      158,
+      163
+    ]
+  },
+  "entite_418": {
+    "label": "LOC",
+    "text": "Désormais",
+    "jalons": [
+      362,
+      371
+    ]
+  },
+  "entite_419": {
+    "label": "PER",
+    "text": "Robert? Vous me l’enlevez",
+    "jalons": [
+      34,
+      59
+    ]
+  },
+  "entite_420": {
+    "label": "MISC",
+    "text": "en Re de l'amour",
+    "jalons": [
+      0,
+      16
+    ]
+  },
+  "entite_421": {
+    "label": "LOC",
+    "text": "La baronne de la Ches",
+    "jalons": [
+      149,
+      170
+    ]
+  },
+  "entite_422": {
+    "label": "PER",
+    "text": "Robert le Ré",
+    "jalons": [
+      368,
+      380
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      170,
+      176
+    ]
+  },
+  "entite_424": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      283,
+      289
+    ]
+  },
+  "entite_425": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      307,
+      313
+    ]
+  },
+  "entite_426": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      383,
+      400
+    ]
+  },
+  "entite_427": {
+    "label": "LOC",
+    "text": "Deux",
+    "jalons": [
+      500,
+      504
+    ]
+  },
+  "entite_428": {
+    "label": "PER",
+    "text": "Robert de Ré traversa la cour",
+    "jalons": [
+      45,
+      74
+    ]
+  },
+  "entite_429": {
+    "label": "LOC",
+    "text": "Sortez",
+    "jalons": [
+      444,
+      450
+    ]
+  },
+  "entite_430": {
+    "label": "PER",
+    "text": "Sortez",
+    "jalons": [
+      18,
+      24
+    ]
+  },
+  "entite_431": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      40,
+      57
+    ]
+  },
+  "entite_432": {
+    "label": "LOC",
+    "text": "Va-t'en",
+    "jalons": [
+      484,
+      491
+    ]
+  },
+  "entite_433": {
+    "label": "MISC",
+    "text": "C'étaitun des beaux bateaux de la Compagnie Fraissi",
+    "jalons": [
+      218,
+      269
+    ]
+  },
+  "entite_434": {
+    "label": "MISC",
+    "text": "le baron de la Chesnaie et sa femme. Elle",
+    "jalons": [
+      358,
+      399
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "Jamais",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_436": {
+    "label": "PER",
+    "text": "M. de la Chesnai",
+    "jalons": [
+      496,
+      512
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      301,
+      311
+    ]
+  },
+  "entite_438": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_439": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      453,
+      459
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      149,
+      155
+    ]
+  },
+  "entite_441": {
+    "label": "MISC",
+    "text": "Sorrente et Capri",
+    "jalons": [
+      284,
+      301
+    ]
+  },
+  "entite_442": {
+    "label": "LOC",
+    "text": "Sainte-Lucie",
+    "jalons": [
+      433,
+      445
+    ]
+  },
+  "entite_443": {
+    "label": "PER",
+    "text": "Tantôt elle",
+    "jalons": [
+      352,
+      363
+    ]
+  },
+  "entite_444": {
+    "label": "PER",
+    "text": "Jeanne",
+    "jalons": [
+      469,
+      475
+    ]
+  },
+  "entite_445": {
+    "label": "LOC",
+    "text": "San Martino",
+    "jalons": [
+      48,
+      59
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "la pointe de Sorrente cette ile de Capri",
+    "jalons": [
+      236,
+      276
+    ]
+  },
+  "entite_447": {
+    "label": "LOC",
+    "text": "Tibère le centre du",
+    "jalons": [
+      289,
+      308
+    ]
+  },
+  "entite_448": {
+    "label": "LOC",
+    "text": "Et le baron de la Chesnaie",
+    "jalons": [
+      319,
+      345
+    ]
+  },
+  "entite_449": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      211,
+      228
+    ]
+  },
+  "entite_450": {
+    "label": "PER",
+    "text": "Voilà Nisida",
+    "jalons": [
+      124,
+      136
+    ]
+  },
+  "entite_451": {
+    "label": "LOC",
+    "text": "Procida",
+    "jalons": [
+      138,
+      145
+    ]
+  },
+  "entite_452": {
+    "label": "LOC",
+    "text": "Quelle",
+    "jalons": [
+      253,
+      259
+    ]
+  },
+  "entite_453": {
+    "label": "MISC",
+    "text": "loin que la vie, Robert et elle",
+    "jalons": [
+      1,
+      32
+    ]
+  },
+  "entite_454": {
+    "label": "MISC",
+    "text": "ES de Alors",
+    "jalons": [
+      230,
+      241
+    ]
+  },
+  "entite_455": {
+    "label": "LOC",
+    "text": "Mais la voix",
+    "jalons": [
+      233,
+      245
+    ]
+  },
+  "entite_456": {
+    "label": "PER",
+    "text": "Edmée lui",
+    "jalons": [
+      462,
+      471
+    ]
+  },
+  "entite_457": {
+    "label": "ORG",
+    "text": "Le — Pardonnez",
+    "jalons": [
+      497,
+      511
+    ]
+  },
+  "entite_458": {
+    "label": "LOC",
+    "text": "le aron de la Chesnaie",
+    "jalons": [
+      166,
+      188
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "Désormais",
+    "jalons": [
+      82,
+      91
+    ]
+  },
+  "entite_460": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      310,
+      315
+    ]
+  },
+  "entite_461": {
+    "label": "LOC",
+    "text": "sul de France",
+    "jalons": [
+      380,
+      393
+    ]
+  },
+  "entite_462": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      326,
+      332
+    ]
+  },
+  "entite_463": {
+    "label": "MISC",
+    "text": "L'élève consul repoussa de sa canne la",
+    "jalons": [
+      423,
+      461
+    ]
+  },
+  "entite_464": {
+    "label": "PER",
+    "text": "Edmée passa",
+    "jalons": [
+      53,
+      64
+    ]
+  },
+  "entite_465": {
+    "label": "PER",
+    "text": "sauta du",
+    "jalons": [
+      66,
+      74
+    ]
+  },
+  "entite_466": {
+    "label": "MISC",
+    "text": "bateau  dans la barque avec",
+    "jalons": [
+      75,
+      102
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "Amérique",
+    "jalons": [
+      316,
+      324
+    ]
+  },
+  "entite_468": {
+    "label": "LOC",
+    "text": "Amérique",
+    "jalons": [
+      405,
+      413
+    ]
+  },
+  "entite_469": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      424,
+      430
+    ]
+  },
+  "entite_470": {
+    "label": "LOC",
+    "text": "Angleterre",
+    "jalons": [
+      442,
+      452
+    ]
+  },
+  "entite_471": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      476,
+      482
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      76,
+      82
+    ]
+  },
+  "entite_473": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      361,
+      367
+    ]
+  },
+  "entite_474": {
+    "label": "MISC",
+    "text": "Edmée vit un bâtiment qui semblait un palais parmi les",
+    "jalons": [
+      370,
+      424
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      55,
+      65
+    ]
+  },
+  "entite_476": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      12,
+      18
+    ]
+  },
+  "entite_477": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      407,
+      413
+    ]
+  },
+  "entite_478": {
+    "label": "LOC",
+    "text": "de la baronne de la Chesnaie",
+    "jalons": [
+      240,
+      268
+    ]
+  },
+  "entite_479": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      463,
+      469
+    ]
+  },
+  "entite_480": {
+    "label": "PER",
+    "text": "M. Raoul de la Barre",
+    "jalons": [
+      69,
+      89
+    ]
+  },
+  "entite_481": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      244,
+      250
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "Levant",
+    "jalons": [
+      97,
+      103
+    ]
+  },
+  "entite_483": {
+    "label": "PER",
+    "text": "M. Raoul de la Barre",
+    "jalons": [
+      226,
+      246
+    ]
+  },
+  "entite_484": {
+    "label": "LOC",
+    "text": "Alexandrie",
+    "jalons": [
+      484,
+      494
+    ]
+  },
+  "entite_485": {
+    "label": "PER",
+    "text": "Liniete",
+    "jalons": [
+      327,
+      334
+    ]
+  },
+  "entite_486": {
+    "label": "PER",
+    "text": "Fr de",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_487": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      370,
+      384
+    ]
+  },
+  "entite_488": {
+    "label": "PER",
+    "text": "de la Chesaie",
+    "jalons": [
+      449,
+      462
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      454,
+      459
+    ]
+  },
+  "entite_490": {
+    "label": "LOC",
+    "text": "Raoul de la Barre",
+    "jalons": [
+      474,
+      491
+    ]
+  },
+  "entite_491": {
+    "label": "MISC",
+    "text": "isième jour de son",
+    "jalons": [
+      0,
+      18
+    ]
+  },
+  "entite_492": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      441,
+      447
+    ]
+  },
+  "entite_493": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      458,
+      464
+    ]
+  },
+  "entite_494": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      281,
+      286
+    ]
+  },
+  "entite_495": {
+    "label": "MISC",
+    "text": "Et Madame de X... voit le Levantin et la Levantine  Ans RÉVOLTÉE !",
+    "jalons": [
+      64,
+      130
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "femme de la colonie",
+    "jalons": [
+      2,
+      21
+    ]
+  },
+  "entite_497": {
+    "label": "LOC",
+    "text": "le baron de la Chesnaie",
+    "jalons": [
+      319,
+      342
+    ]
+  },
+  "entite_498": {
+    "label": "LOC",
+    "text": "baron de la Chesnaie",
+    "jalons": [
+      194,
+      214
+    ]
+  },
+  "entite_499": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      116,
+      122
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      379,
+      385
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "Levantin",
+    "jalons": [
+      82,
+      90
+    ]
+  },
+  "entite_502": {
+    "label": "MISC",
+    "text": "De là le besoin de la",
+    "jalons": [
+      478,
+      499
+    ]
+  },
+  "entite_503": {
+    "label": "LOC",
+    "text": "Mais la France",
+    "jalons": [
+      171,
+      185
+    ]
+  },
+  "entite_504": {
+    "label": "PER",
+    "text": "Raoul de la Barre",
+    "jalons": [
+      255,
+      272
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      410,
+      415
+    ]
+  },
+  "entite_506": {
+    "label": "LOC",
+    "text": "C’est la réunion",
+    "jalons": [
+      460,
+      476
+    ]
+  },
+  "entite_507": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      483,
+      497
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      325,
+      330
+    ]
+  },
+  "entite_509": {
+    "label": "LOC",
+    "text": "M. de la Barre",
+    "jalons": [
+      49,
+      63
+    ]
+  },
+  "entite_510": {
+    "label": "LOC",
+    "text": "Oui",
+    "jalons": [
+      483,
+      486
+    ]
+  },
+  "entite_511": {
+    "label": "MISC",
+    "text": "rale du côté de l’église des Anglais",
+    "jalons": [
+      27,
+      63
+    ]
+  },
+  "entite_512": {
+    "label": "PER",
+    "text": "Osman se",
+    "jalons": [
+      30,
+      38
+    ]
+  },
+  "entite_513": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      255,
+      261
+    ]
+  },
+  "entite_514": {
+    "label": "LOC",
+    "text": "jeune de la Barre",
+    "jalons": [
+      470,
+      487
+    ]
+  },
+  "entite_515": {
+    "label": "PER",
+    "text": "Osman Chérif",
+    "jalons": [
+      494,
+      506
+    ]
+  },
+  "entite_516": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      478,
+      483
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "Turc de trente",
+    "jalons": [
+      350,
+      364
+    ]
+  },
+  "entite_518": {
+    "label": "PER",
+    "text": "M. de la Chesnaic",
+    "jalons": [
+      11,
+      28
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      308,
+      314
+    ]
+  },
+  "entite_520": {
+    "label": "LOC",
+    "text": "Alexandrie",
+    "jalons": [
+      499,
+      509
+    ]
+  },
+  "entite_521": {
+    "label": "LOC",
+    "text": "Levant",
+    "jalons": [
+      230,
+      236
+    ]
+  },
+  "entite_522": {
+    "label": "MISC",
+    "text": "Elle avait vu sur une des fa",
+    "jalons": [
+      238,
+      266
+    ]
+  },
+  "entite_523": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      297,
+      303
+    ]
+  },
+  "entite_524": {
+    "label": "MISC",
+    "text": "Un signe de lui, et le directeur de la",
+    "jalons": [
+      267,
+      305
+    ]
+  },
+  "entite_525": {
+    "label": "PER",
+    "text": "Ja loyauté du baron de la Chesnaïie",
+    "jalons": [
+      37,
+      72
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      292,
+      298
+    ]
+  },
+  "entite_527": {
+    "label": "PER",
+    "text": "Quand M. de la Chesnaie eut devant lui sous l'abat",
+    "jalons": [
+      300,
+      350
+    ]
+  },
+  "entite_528": {
+    "label": "MISC",
+    "text": "jour de la lampe un monceau de lettres parmi lesquelles se",
+    "jalons": [
+      354,
+      412
+    ]
+  },
+  "entite_529": {
+    "label": "PER",
+    "text": "M. dela Chesnaie",
+    "jalons": [
+      105,
+      121
+    ]
+  },
+  "entite_530": {
+    "label": "MISC",
+    "text": "alors avancait la main sur les lettres",
+    "jalons": [
+      122,
+      160
+    ]
+  },
+  "entite_531": {
+    "label": "PER",
+    "text": "Edmée",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_532": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      58,
+      63
+    ]
+  },
+  "entite_533": {
+    "label": "PER",
+    "text": "Monsieur Robert de Ré",
+    "jalons": [
+      91,
+      112
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "PARIS",
+    "jalons": [
+      132,
+      137
+    ]
+  },
+  "entite_535": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      390,
+      396
+    ]
+  },
+  "entite_536": {
+    "label": "MISC",
+    "text": "baron de la Chesnaie laissa retomber cette lettre Li",
+    "jalons": [
+      26,
+      78
+    ]
+  },
+  "entite_537": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      502,
+      507
+    ]
+  },
+  "entite_538": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      501,
+      507
+    ]
+  },
+  "entite_539": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      44,
+      61
+    ]
+  },
+  "entite_540": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      353,
+      359
+    ]
+  },
+  "entite_541": {
+    "label": "MISC",
+    "text": "Ces mœurs de l'Orient",
+    "jalons": [
+      434,
+      455
+    ]
+  },
+  "entite_542": {
+    "label": "LOC",
+    "text": "Chesnaie",
+    "jalons": [
+      62,
+      70
+    ]
+  },
+  "entite_543": {
+    "label": "MISC",
+    "text": "baron de la Chesnaie une si grande",
+    "jalons": [
+      19,
+      53
+    ]
+  },
+  "entite_544": {
+    "label": "LOC",
+    "text": "M. de la Barre",
+    "jalons": [
+      415,
+      429
+    ]
+  },
+  "entite_545": {
+    "label": "PER",
+    "text": "TE D'abord M. de la Chesnaie",
+    "jalons": [
+      78,
+      106
+    ]
+  },
+  "entite_546": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      170,
+      175
+    ]
+  },
+  "entite_547": {
+    "label": "LOC",
+    "text": "Chacune des pensées du baron de la Chesnaie",
+    "jalons": [
+      53,
+      96
+    ]
+  },
+  "entite_548": {
+    "label": "PER",
+    "text": "Raoul de la Barre",
+    "jalons": [
+      194,
+      211
+    ]
+  },
+  "entite_549": {
+    "label": "LOC",
+    "text": "de la Chesnaie",
+    "jalons": [
+      422,
+      436
+    ]
+  },
+  "entite_550": {
+    "label": "MISC",
+    "text": "Elles ont alors toute la fougue de la force de",
+    "jalons": [
+      438,
+      484
+    ]
+  },
+  "entite_551": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      199,
+      205
+    ]
+  },
+  "entite_552": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      207,
+      224
+    ]
+  },
+  "entite_553": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      310,
+      316
+    ]
+  },
+  "entite_554": {
+    "label": "MISC",
+    "text": "Pas de nouvelles de toi",
+    "jalons": [
+      364,
+      387
+    ]
+  },
+  "entite_555": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      99,
+      105
+    ]
+  },
+  "entite_556": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      162,
+      179
+    ]
+  },
+  "entite_557": {
+    "label": "PER",
+    "text": "Robert de Ré",
+    "jalons": [
+      287,
+      299
+    ]
+  },
+  "entite_558": {
+    "label": "PER",
+    "text": "PE je l'aim",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_559": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      405,
+      415
+    ]
+  },
+  "entite_560": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      59,
+      76
+    ]
+  },
+  "entite_561": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      328,
+      333
+    ]
+  },
+  "entite_562": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      300,
+      305
+    ]
+  },
+  "entite_563": {
+    "label": "MISC",
+    "text": "ssaient dans les salons du consulat de",
+    "jalons": [
+      0,
+      38
+    ]
+  },
+  "entite_564": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      39,
+      45
+    ]
+  },
+  "entite_565": {
+    "label": "MISC",
+    "text": "la mne des Françaises",
+    "jalons": [
+      2,
+      23
+    ]
+  },
+  "entite_566": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      392,
+      409
+    ]
+  },
+  "entite_567": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      411,
+      415
+    ]
+  },
+  "entite_568": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      171,
+      185
+    ]
+  },
+  "entite_569": {
+    "label": "ORG",
+    "text": "APE",
+    "jalons": [
+      504,
+      507
+    ]
+  },
+  "entite_570": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      425,
+      430
+    ]
+  },
+  "entite_571": {
+    "label": "LOC",
+    "text": "Arméniëén",
+    "jalons": [
+      457,
+      466
+    ]
+  },
+  "entite_572": {
+    "label": "LOC",
+    "text": "Yakoub",
+    "jalons": [
+      217,
+      223
+    ]
+  },
+  "entite_573": {
+    "label": "PER",
+    "text": "Ouékil",
+    "jalons": [
+      40,
+      46
+    ]
+  },
+  "entite_574": {
+    "label": "PER",
+    "text": "Pour Osmawn",
+    "jalons": [
+      48,
+      59
+    ]
+  },
+  "entite_575": {
+    "label": "PER",
+    "text": "Alors Osman",
+    "jalons": [
+      211,
+      222
+    ]
+  },
+  "entite_576": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      358,
+      364
+    ]
+  },
+  "entite_577": {
+    "label": "LOC",
+    "text": "Assa",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_578": {
+    "label": "MISC",
+    "text": "Je suis heureuse de me rencontrer avec le hakim",
+    "jalons": [
+      0,
+      47
+    ]
+  },
+  "entite_579": {
+    "label": "PER",
+    "text": "Aussitôt le pacha",
+    "jalons": [
+      54,
+      71
+    ]
+  },
+  "entite_580": {
+    "label": "LOC",
+    "text": "Pacha",
+    "jalons": [
+      445,
+      450
+    ]
+  },
+  "entite_581": {
+    "label": "LOC",
+    "text": "Mahmoudieh",
+    "jalons": [
+      497,
+      507
+    ]
+  },
+  "entite_582": {
+    "label": "LOC",
+    "text": "Osm",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_583": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      228,
+      233
+    ]
+  },
+  "entite_584": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      167,
+      173
+    ]
+  },
+  "entite_585": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      79,
+      85
+    ]
+  },
+  "entite_586": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      499,
+      505
+    ]
+  },
+  "entite_587": {
+    "label": "MISC",
+    "text": "Tout raya enrichi le sait d’ailleu",
+    "jalons": [
+      14,
+      48
+    ]
+  },
+  "entite_588": {
+    "label": "MISC",
+    "text": "la rue et de la place des Consuls à la rue des Sœurs ce et dans",
+    "jalons": [
+      243,
+      306
+    ]
+  },
+  "entite_589": {
+    "label": "PER",
+    "text": "Orie",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_590": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      139,
+      145
+    ]
+  },
+  "entite_591": {
+    "label": "PER",
+    "text": "de Raoul de la Barre",
+    "jalons": [
+      62,
+      82
+    ]
+  },
+  "entite_592": {
+    "label": "PER",
+    "text": "ez de moi",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_593": {
+    "label": "LOC",
+    "text": "EU",
+    "jalons": [
+      194,
+      196
+    ]
+  },
+  "entite_594": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      84,
+      98
+    ]
+  },
+  "entite_595": {
+    "label": "PER",
+    "text": "dre Edmée",
+    "jalons": [
+      8,
+      17
+    ]
+  },
+  "entite_596": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      341,
+      347
+    ]
+  },
+  "entite_597": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      353,
+      358
+    ]
+  },
+  "entite_598": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      400,
+      406
+    ]
+  },
+  "entite_599": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      417,
+      422
+    ]
+  },
+  "entite_600": {
+    "label": "LOC",
+    "text": "Voyez-vous",
+    "jalons": [
+      80,
+      90
+    ]
+  },
+  "entite_601": {
+    "label": "PER",
+    "text": "Le  TA",
+    "jalons": [
+      503,
+      509
+    ]
+  },
+  "entite_602": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      73,
+      79
+    ]
+  },
+  "entite_603": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      169,
+      186
+    ]
+  },
+  "entite_604": {
+    "label": "MISC",
+    "text": "Madame la baronne de la Chesnaie",
+    "jalons": [
+      236,
+      268
+    ]
+  },
+  "entite_605": {
+    "label": "MISC",
+    "text": "armes d'Italie, et de donner ordre à un janissaire de la",
+    "jalons": [
+      22,
+      78
+    ]
+  },
+  "entite_606": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      101,
+      107
+    ]
+  },
+  "entite_607": {
+    "label": "PER",
+    "text": "jour La France",
+    "jalons": [
+      15,
+      29
+    ]
+  },
+  "entite_608": {
+    "label": "PER",
+    "text": "de lettres de madame de la Chesnaie",
+    "jalons": [
+      31,
+      66
+    ]
+  },
+  "entite_609": {
+    "label": "MISC",
+    "text": "dans le dernier courrier venu de",
+    "jalons": [
+      80,
+      112
+    ]
+  },
+  "entite_610": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      113,
+      119
+    ]
+  },
+  "entite_611": {
+    "label": "PER",
+    "text": "trouvé de lettre de Robert à madame de la",
+    "jalons": [
+      139,
+      180
+    ]
+  },
+  "entite_612": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      4,
+      21
+    ]
+  },
+  "entite_613": {
+    "label": "LOC",
+    "text": "du moins",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_614": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      428,
+      436
+    ]
+  },
+  "entite_615": {
+    "label": "MISC",
+    "text": "Merci de n’avoir pas douté de moi",
+    "jalons": [
+      25,
+      58
+    ]
+  },
+  "entite_616": {
+    "label": "PER",
+    "text": "M. de la",
+    "jalons": [
+      460,
+      468
+    ]
+  },
+  "entite_617": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_618": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      131,
+      139
+    ]
+  },
+  "entite_619": {
+    "label": "LOC",
+    "text": "Certes",
+    "jalons": [
+      168,
+      174
+    ]
+  },
+  "entite_620": {
+    "label": "PER",
+    "text": "le consul de France",
+    "jalons": [
+      176,
+      195
+    ]
+  },
+  "entite_621": {
+    "label": "LOC",
+    "text": "Levant",
+    "jalons": [
+      261,
+      267
+    ]
+  },
+  "entite_622": {
+    "label": "LOC",
+    "text": "Levant",
+    "jalons": [
+      194,
+      200
+    ]
+  },
+  "entite_623": {
+    "label": "MISC",
+    "text": "Phaiteurs la femme du consul de",
+    "jalons": [
+      287,
+      318
+    ]
+  },
+  "entite_624": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      319,
+      325
+    ]
+  },
+  "entite_625": {
+    "label": "PER",
+    "text": "Robert de débarquer et de venir l'enlever",
+    "jalons": [
+      0,
+      41
+    ]
+  },
+  "entite_626": {
+    "label": "PER",
+    "text": "M. dela Chesnaie",
+    "jalons": [
+      485,
+      501
+    ]
+  },
+  "entite_627": {
+    "label": "LOC",
+    "text": "M. de Ré",
+    "jalons": [
+      258,
+      266
+    ]
+  },
+  "entite_628": {
+    "label": "PER",
+    "text": "M. de Ré de venir",
+    "jalons": [
+      347,
+      364
+    ]
+  },
+  "entite_629": {
+    "label": "LOC",
+    "text": "Sans",
+    "jalons": [
+      402,
+      406
+    ]
+  },
+  "entite_630": {
+    "label": "MISC",
+    "text": "Edmée et de lui",
+    "jalons": [
+      418,
+      433
+    ]
+  },
+  "entite_631": {
+    "label": "LOC",
+    "text": "Ain",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_632": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      197,
+      202
+    ]
+  },
+  "entite_633": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      405,
+      411
+    ]
+  },
+  "entite_634": {
+    "label": "LOC",
+    "text": "M. de",
+    "jalons": [
+      183,
+      188
+    ]
+  },
+  "entite_635": {
+    "label": "MISC",
+    "text": "Ré à madame de la Chesnaie",
+    "jalons": [
+      189,
+      215
+    ]
+  },
+  "entite_636": {
+    "label": "LOC",
+    "text": "M. de Ré",
+    "jalons": [
+      371,
+      379
+    ]
+  },
+  "entite_637": {
+    "label": "LOC",
+    "text": "Ilva",
+    "jalons": [
+      386,
+      390
+    ]
+  },
+  "entite_638": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      285,
+      293
+    ]
+  },
+  "entite_639": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      357,
+      362
+    ]
+  },
+  "entite_640": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      138,
+      143
+    ]
+  },
+  "entite_641": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      198,
+      204
+    ]
+  },
+  "entite_642": {
+    "label": "LOC",
+    "text": "Échelles",
+    "jalons": [
+      330,
+      338
+    ]
+  },
+  "entite_643": {
+    "label": "LOC",
+    "text": "Levant",
+    "jalons": [
+      342,
+      348
+    ]
+  },
+  "entite_644": {
+    "label": "LOC",
+    "text": "Le palais de France",
+    "jalons": [
+      350,
+      369
+    ]
+  },
+  "entite_645": {
+    "label": "MISC",
+    "text": "ge du baron de la Chesnaie quand les lèvres",
+    "jalons": [
+      0,
+      43
+    ]
+  },
+  "entite_646": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      371,
+      388
+    ]
+  },
+  "entite_647": {
+    "label": "MISC",
+    "text": "Dans la matinée",
+    "jalons": [
+      496,
+      511
+    ]
+  },
+  "entite_648": {
+    "label": "LOC",
+    "text": "Alepian",
+    "jalons": [
+      347,
+      354
+    ]
+  },
+  "entite_649": {
+    "label": "PER",
+    "text": "Raoul de la Barre",
+    "jalons": [
+      67,
+      84
+    ]
+  },
+  "entite_650": {
+    "label": "LOC",
+    "text": "Pierreries",
+    "jalons": [
+      86,
+      96
+    ]
+  },
+  "entite_651": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      322,
+      328
+    ]
+  },
+  "entite_652": {
+    "label": "PER",
+    "text": "Madame Alepian",
+    "jalons": [
+      465,
+      479
+    ]
+  },
+  "entite_653": {
+    "label": "LOC",
+    "text": "Chérif",
+    "jalons": [
+      136,
+      142
+    ]
+  },
+  "entite_654": {
+    "label": "PER",
+    "text": "aujourd’hui Abou",
+    "jalons": [
+      144,
+      160
+    ]
+  },
+  "entite_655": {
+    "label": "LOC",
+    "text": "el-Kacim",
+    "jalons": [
+      162,
+      170
+    ]
+  },
+  "entite_656": {
+    "label": "LOC",
+    "text": "Tanrah",
+    "jalons": [
+      373,
+      379
+    ]
+  },
+  "entite_657": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      30,
+      44
+    ]
+  },
+  "entite_658": {
+    "label": "PER",
+    "text": "Osman Chérif",
+    "jalons": [
+      206,
+      218
+    ]
+  },
+  "entite_659": {
+    "label": "LOC",
+    "text": "M. de la Barre",
+    "jalons": [
+      293,
+      307
+    ]
+  },
+  "entite_660": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      186,
+      200
+    ]
+  },
+  "entite_661": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      69,
+      75
+    ]
+  },
+  "entite_662": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      165,
+      171
+    ]
+  },
+  "entite_663": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      311,
+      318
+    ]
+  },
+  "entite_664": {
+    "label": "LOC",
+    "text": "M. de la Barre",
+    "jalons": [
+      328,
+      342
+    ]
+  },
+  "entite_665": {
+    "label": "LOC",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      196,
+      213
+    ]
+  },
+  "entite_666": {
+    "label": "LOC",
+    "text": "Chérif",
+    "jalons": [
+      344,
+      350
+    ]
+  },
+  "entite_667": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      71,
+      76
+    ]
+  },
+  "entite_668": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      464,
+      474
+    ]
+  },
+  "entite_669": {
+    "label": "PER",
+    "text": "Tears",
+    "jalons": [
+      484,
+      489
+    ]
+  },
+  "entite_670": {
+    "label": "PER",
+    "text": "Raoul de la Barre",
+    "jalons": [
+      192,
+      209
+    ]
+  },
+  "entite_671": {
+    "label": "PER",
+    "text": "Chez M. de La Barre",
+    "jalons": [
+      360,
+      379
+    ]
+  },
+  "entite_672": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      321,
+      327
+    ]
+  },
+  "entite_673": {
+    "label": "LOC",
+    "text": "jeune de la Barre",
+    "jalons": [
+      183,
+      200
+    ]
+  },
+  "entite_674": {
+    "label": "PER",
+    "text": "Raoul de la Barre",
+    "jalons": [
+      466,
+      483
+    ]
+  },
+  "entite_675": {
+    "label": "LOC",
+    "text": "Alepian",
+    "jalons": [
+      169,
+      176
+    ]
+  },
+  "entite_676": {
+    "label": "PER",
+    "text": "Raoul de La Barre",
+    "jalons": [
+      461,
+      478
+    ]
+  },
+  "entite_677": {
+    "label": "LOC",
+    "text": "Sans",
+    "jalons": [
+      162,
+      166
+    ]
+  },
+  "entite_678": {
+    "label": "MISC",
+    "text": "J'ai lieu de le croire",
+    "jalons": [
+      182,
+      204
+    ]
+  },
+  "entite_679": {
+    "label": "MISC",
+    "text": "pas de nouvelles de France et qu’elle en",
+    "jalons": [
+      271,
+      311
+    ]
+  },
+  "entite_680": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      195,
+      201
+    ]
+  },
+  "entite_681": {
+    "label": "LOC",
+    "text": "M. de la Barre",
+    "jalons": [
+      475,
+      489
+    ]
+  },
+  "entite_682": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      253,
+      259
+    ]
+  },
+  "entite_683": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      44,
+      61
+    ]
+  },
+  "entite_684": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      352,
+      366
+    ]
+  },
+  "entite_685": {
+    "label": "LOC",
+    "text": "de la baronne de la Chesnai",
+    "jalons": [
+      485,
+      512
+    ]
+  },
+  "entite_686": {
+    "label": "PER",
+    "text": "Raoul de la.",
+    "jalons": [
+      491,
+      503
+    ]
+  },
+  "entite_687": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      432,
+      438
+    ]
+  },
+  "entite_688": {
+    "label": "PER",
+    "text": "de M. de la Barre",
+    "jalons": [
+      51,
+      68
+    ]
+  },
+  "entite_689": {
+    "label": "LOC",
+    "text": "Raoul de la Barre",
+    "jalons": [
+      471,
+      488
+    ]
+  },
+  "entite_690": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      163,
+      169
+    ]
+  },
+  "entite_691": {
+    "label": "LOC",
+    "text": "Yacoub-Alepian",
+    "jalons": [
+      211,
+      225
+    ]
+  },
+  "entite_692": {
+    "label": "LOC",
+    "text": "Alepian",
+    "jalons": [
+      494,
+      501
+    ]
+  },
+  "entite_693": {
+    "label": "PER",
+    "text": "Madame Alepian",
+    "jalons": [
+      41,
+      55
+    ]
+  },
+  "entite_694": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      87,
+      101
+    ]
+  },
+  "entite_695": {
+    "label": "PER",
+    "text": "M. le Dam d'Anjault",
+    "jalons": [
+      457,
+      476
+    ]
+  },
+  "entite_696": {
+    "label": "PER",
+    "text": "le baron de la Chesnaie",
+    "jalons": [
+      480,
+      503
+    ]
+  },
+  "entite_697": {
+    "label": "PER",
+    "text": "M. Robert de Ré n'ira",
+    "jalons": [
+      438,
+      459
+    ]
+  },
+  "entite_698": {
+    "label": "LOC",
+    "text": "Alexandrie",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_699": {
+    "label": "MISC",
+    "text": "la baronne de la hesnaie de",
+    "jalons": [
+      19,
+      46
+    ]
+  },
+  "entite_700": {
+    "label": "LOC",
+    "text": "la lettre de M. de la hesnaie",
+    "jalons": [
+      144,
+      173
+    ]
+  },
+  "entite_701": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      379,
+      385
+    ]
+  },
+  "entite_702": {
+    "label": "PER",
+    "text": "de M. de Ré",
+    "jalons": [
+      470,
+      481
+    ]
+  },
+  "entite_703": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      21,
+      26
+    ]
+  },
+  "entite_704": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      384,
+      388
+    ]
+  },
+  "entite_705": {
+    "label": "LOC",
+    "text": "Pompei",
+    "jalons": [
+      27,
+      33
+    ]
+  },
+  "entite_706": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      431,
+      437
+    ]
+  },
+  "entite_707": {
+    "label": "MISC",
+    "text": "bordées de buis ou de myrte bien",
+    "jalons": [
+      3,
+      35
+    ]
+  },
+  "entite_708": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      242,
+      248
+    ]
+  },
+  "entite_709": {
+    "label": "MISC",
+    "text": "Un peu de poudre dans les",
+    "jalons": [
+      1,
+      26
+    ]
+  },
+  "entite_710": {
+    "label": "LOC",
+    "text": "de la baronne de la",
+    "jalons": [
+      458,
+      477
+    ]
+  },
+  "entite_711": {
+    "label": "MISC",
+    "text": "ues de joie et d’orgueil de la",
+    "jalons": [
+      0,
+      30
+    ]
+  },
+  "entite_712": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      348,
+      362
+    ]
+  },
+  "entite_713": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      501,
+      506
+    ]
+  },
+  "entite_714": {
+    "label": "LOC",
+    "text": "Lill",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_715": {
+    "label": "LOC",
+    "text": "Alexandrie",
+    "jalons": [
+      368,
+      378
+    ]
+  },
+  "entite_716": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      409,
+      423
+    ]
+  },
+  "entite_717": {
+    "label": "LOC",
+    "text": "RÉ",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_718": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      199,
+      207
+    ]
+  },
+  "entite_719": {
+    "label": "MISC",
+    "text": "M. de la Chésnaie la beauté de Zeinab et des",
+    "jalons": [
+      163,
+      207
+    ]
+  },
+  "entite_720": {
+    "label": "LOC",
+    "text": "Chérif",
+    "jalons": [
+      452,
+      458
+    ]
+  },
+  "entite_721": {
+    "label": "PER",
+    "text": "Mais M. de la Chesnaie",
+    "jalons": [
+      398,
+      420
+    ]
+  },
+  "entite_722": {
+    "label": "MISC",
+    "text": "ATOS  VPree di de sv  madame de la Chesnaie",
+    "jalons": [
+      407,
+      450
+    ]
+  },
+  "entite_723": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      232,
+      238
+    ]
+  },
+  "entite_724": {
+    "label": "LOC",
+    "text": "celui du baron de la Chesnaie.",
+    "jalons": [
+      471,
+      501
+    ]
+  },
+  "entite_725": {
+    "label": "MISC",
+    "text": "ais du moins le souvenir d’avoir vécu et aimé un jour",
+    "jalons": [
+      0,
+      53
+    ]
+  },
+  "entite_726": {
+    "label": "MISC",
+    "text": "C'était le baron de la Chesnaie qui",
+    "jalons": [
+      109,
+      144
+    ]
+  },
+  "entite_727": {
+    "label": "PER",
+    "text": "Madame Alepian",
+    "jalons": [
+      50,
+      64
+    ]
+  },
+  "entite_728": {
+    "label": "LOC",
+    "text": "Chérif",
+    "jalons": [
+      381,
+      387
+    ]
+  },
+  "entite_729": {
+    "label": "PER",
+    "text": "Mia Mptan",
+    "jalons": [
+      107,
+      116
+    ]
+  },
+  "entite_730": {
+    "label": "MISC",
+    "text": "Zéinab en tête",
+    "jalons": [
+      190,
+      204
+    ]
+  },
+  "entite_731": {
+    "label": "MISC",
+    "text": "elle entendait l'orgue de Barbarie qui ressassait l’air de la",
+    "jalons": [
+      11,
+      72
+    ]
+  },
+  "entite_732": {
+    "label": "LOC",
+    "text": "Oh",
+    "jalons": [
+      466,
+      468
+    ]
+  },
+  "entite_733": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      470,
+      475
+    ]
+  },
+  "entite_734": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      477,
+      482
+    ]
+  },
+  "entite_735": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      500,
+      505
+    ]
+  },
+  "entite_736": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      132,
+      137
+    ]
+  },
+  "entite_737": {
+    "label": "PER",
+    "text": "Robert!.",
+    "jalons": [
+      487,
+      495
+    ]
+  },
+  "entite_738": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      428,
+      433
+    ]
+  },
+  "entite_739": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      493,
+      498
+    ]
+  },
+  "entite_740": {
+    "label": "LOC",
+    "text": "New-York",
+    "jalons": [
+      79,
+      87
+    ]
+  },
+  "entite_741": {
+    "label": "LOC",
+    "text": "Saint-Pétersbourg",
+    "jalons": [
+      91,
+      108
+    ]
+  },
+  "entite_742": {
+    "label": "LOC",
+    "text": "Constantinople",
+    "jalons": [
+      112,
+      126
+    ]
+  },
+  "entite_743": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      142,
+      147
+    ]
+  },
+  "entite_744": {
+    "label": "LOC",
+    "text": "Saint-Honoré",
+    "jalons": [
+      300,
+      312
+    ]
+  },
+  "entite_745": {
+    "label": "MISC",
+    "text": "Comme madame de Staël",
+    "jalons": [
+      314,
+      335
+    ]
+  },
+  "entite_746": {
+    "label": "LOC",
+    "text": "lac de Genève",
+    "jalons": [
+      443,
+      456
+    ]
+  },
+  "entite_747": {
+    "label": "ORG",
+    "text": "TE UT le ruisseau de la rue du Ba",
+    "jalons": [
+      479,
+      512
+    ]
+  },
+  "entite_748": {
+    "label": "LOC",
+    "text": "Italie",
+    "jalons": [
+      281,
+      287
+    ]
+  },
+  "entite_749": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      281,
+      295
+    ]
+  },
+  "entite_750": {
+    "label": "LOC",
+    "text": "d'Angleterre",
+    "jalons": [
+      471,
+      483
+    ]
+  },
+  "entite_751": {
+    "label": "LOC",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      233,
+      250
+    ]
+  },
+  "entite_752": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      257,
+      274
+    ]
+  },
+  "entite_753": {
+    "label": "PER",
+    "text": "M. de la Chesnaiïe",
+    "jalons": [
+      11,
+      29
+    ]
+  },
+  "entite_754": {
+    "label": "LOC",
+    "text": "Fa",
+    "jalons": [
+      230,
+      232
+    ]
+  },
+  "entite_755": {
+    "label": "LOC",
+    "text": "l'oreille de madame de la Chesnaie",
+    "jalons": [
+      98,
+      132
+    ]
+  },
+  "entite_756": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      143,
+      149
+    ]
+  },
+  "entite_757": {
+    "label": "LOC",
+    "text": "de la baronne de la Chesnaie",
+    "jalons": [
+      63,
+      91
+    ]
+  },
+  "entite_758": {
+    "label": "LOC",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      124,
+      141
+    ]
+  },
+  "entite_759": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      307,
+      312
+    ]
+  },
+  "entite_760": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      496,
+      502
+    ]
+  },
+  "entite_761": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_762": {
+    "label": "MISC",
+    "text": "Alepian",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_763": {
+    "label": "LOC",
+    "text": "Barre",
+    "jalons": [
+      340,
+      345
+    ]
+  },
+  "entite_764": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      387,
+      404
+    ]
+  },
+  "entite_765": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      212,
+      218
+    ]
+  },
+  "entite_766": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      374,
+      388
+    ]
+  },
+  "entite_767": {
+    "label": "PER",
+    "text": "M. de la Baïpe",
+    "jalons": [
+      41,
+      55
+    ]
+  },
+  "entite_768": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      250,
+      267
+    ]
+  },
+  "entite_769": {
+    "label": "LOC",
+    "text": "Calmez-vous",
+    "jalons": [
+      269,
+      280
+    ]
+  },
+  "entite_770": {
+    "label": "MISC",
+    "text": "Monsieur de la Chesnaie",
+    "jalons": [
+      120,
+      143
+    ]
+  },
+  "entite_771": {
+    "label": "PER",
+    "text": "M. la Chesnaie",
+    "jalons": [
+      47,
+      61
+    ]
+  },
+  "entite_772": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      124,
+      138
+    ]
+  },
+  "entite_773": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      113,
+      127
+    ]
+  },
+  "entite_774": {
+    "label": "PER",
+    "text": "M.de la Chesnaie",
+    "jalons": [
+      38,
+      54
+    ]
+  },
+  "entite_775": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      502,
+      508
+    ]
+  },
+  "entite_776": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      326,
+      331
+    ]
+  },
+  "entite_777": {
+    "label": "PER",
+    "text": "Mais Edmée",
+    "jalons": [
+      309,
+      319
+    ]
+  },
+  "entite_778": {
+    "label": "PER",
+    "text": "M. de la Chesnaie la saisit",
+    "jalons": [
+      446,
+      473
+    ]
+  },
+  "entite_779": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      492,
+      498
+    ]
+  },
+  "entite_780": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      38,
+      55
+    ]
+  },
+  "entite_781": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      464,
+      478
+    ]
+  },
+  "entite_782": {
+    "label": "LOC",
+    "text": "Raoul de la Barre",
+    "jalons": [
+      326,
+      343
+    ]
+  },
+  "entite_783": {
+    "label": "PER",
+    "text": "le délire de la",
+    "jalons": [
+      68,
+      83
+    ]
+  },
+  "entite_784": {
+    "label": "PER",
+    "text": "Madame de la Chesnaie",
+    "jalons": [
+      124,
+      145
+    ]
+  },
+  "entite_785": {
+    "label": "PER",
+    "text": "Madame Alepian",
+    "jalons": [
+      461,
+      475
+    ]
+  },
+  "entite_786": {
+    "label": "LOC",
+    "text": "baron de la Chesnaie",
+    "jalons": [
+      119,
+      139
+    ]
+  },
+  "entite_787": {
+    "label": "PER",
+    "text": "Raoul de la Barre",
+    "jalons": [
+      455,
+      472
+    ]
+  },
+  "entite_788": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      1,
+      18
+    ]
+  },
+  "entite_789": {
+    "label": "LOC",
+    "text": "d'Italie",
+    "jalons": [
+      492,
+      500
+    ]
+  },
+  "entite_790": {
+    "label": "PER",
+    "text": "de M. de Ré",
+    "jalons": [
+      3,
+      14
+    ]
+  },
+  "entite_791": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      63,
+      69
+    ]
+  },
+  "entite_792": {
+    "label": "PER",
+    "text": "Edmée de sa",
+    "jalons": [
+      487,
+      498
+    ]
+  },
+  "entite_793": {
+    "label": "LOC",
+    "text": "le jardin du palais",
+    "jalons": [
+      0,
+      19
+    ]
+  },
+  "entite_794": {
+    "label": "PER",
+    "text": "Raoul de la Barre",
+    "jalons": [
+      112,
+      129
+    ]
+  },
+  "entite_795": {
+    "label": "LOC",
+    "text": "de Raoul de la Barre",
+    "jalons": [
+      300,
+      320
+    ]
+  },
+  "entite_796": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      393,
+      410
+    ]
+  },
+  "entite_797": {
+    "label": "MISC",
+    "text": "ne de la Chesnaie mit au monde",
+    "jalons": [
+      0,
+      30
+    ]
+  },
+  "entite_798": {
+    "label": "PER",
+    "text": "Raoul de la Barre",
+    "jalons": [
+      61,
+      78
+    ]
+  },
+  "entite_799": {
+    "label": "PER",
+    "text": "Tenez je connais M. de la Chesnaie",
+    "jalons": [
+      81,
+      115
+    ]
+  },
+  "entite_800": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      151,
+      168
+    ]
+  },
+  "entite_801": {
+    "label": "LOC",
+    "text": "M. de la",
+    "jalons": [
+      354,
+      362
+    ]
+  },
+  "entite_802": {
+    "label": "MISC",
+    "text": "Chesnaie et le mien",
+    "jalons": [
+      363,
+      382
+    ]
+  },
+  "entite_803": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      13,
+      30
+    ]
+  },
+  "entite_804": {
+    "label": "LOC",
+    "text": "Jusqu’alors",
+    "jalons": [
+      33,
+      44
+    ]
+  },
+  "entite_805": {
+    "label": "MISC",
+    "text": "Dans les yeux",
+    "jalons": [
+      11,
+      24
+    ]
+  },
+  "entite_806": {
+    "label": "LOC",
+    "text": "Alepian",
+    "jalons": [
+      397,
+      404
+    ]
+  },
+  "entite_807": {
+    "label": "PER",
+    "text": "M. et madame de la Chesnaie",
+    "jalons": [
+      29,
+      56
+    ]
+  },
+  "entite_808": {
+    "label": "LOC",
+    "text": "besoin de la protection de la France",
+    "jalons": [
+      74,
+      110
+    ]
+  },
+  "entite_809": {
+    "label": "LOC",
+    "text": "Kartoum",
+    "jalons": [
+      272,
+      279
+    ]
+  },
+  "entite_810": {
+    "label": "LOC",
+    "text": "Faz-Ouglou",
+    "jalons": [
+      485,
+      495
+    ]
+  },
+  "entite_811": {
+    "label": "PER",
+    "text": "la Sibérie",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_812": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      294,
+      300
+    ]
+  },
+  "entite_813": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      449,
+      466
+    ]
+  },
+  "entite_814": {
+    "label": "LOC",
+    "text": "Providence",
+    "jalons": [
+      483,
+      493
+    ]
+  },
+  "entite_815": {
+    "label": "LOC",
+    "text": "Agissez",
+    "jalons": [
+      363,
+      370
+    ]
+  },
+  "entite_816": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      398,
+      404
+    ]
+  },
+  "entite_817": {
+    "label": "MISC",
+    "text": "Usez de celui qui vous reste",
+    "jalons": [
+      439,
+      467
+    ]
+  },
+  "entite_818": {
+    "label": "LOC",
+    "text": "Faites",
+    "jalons": [
+      242,
+      248
+    ]
+  },
+  "entite_819": {
+    "label": "PER",
+    "text": "Madame Alepian",
+    "jalons": [
+      285,
+      299
+    ]
+  },
+  "entite_820": {
+    "label": "PER",
+    "text": "Sauvez",
+    "jalons": [
+      503,
+      509
+    ]
+  },
+  "entite_821": {
+    "label": "LOC",
+    "text": "celle de",
+    "jalons": [
+      3,
+      11
+    ]
+  },
+  "entite_822": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      12,
+      29
+    ]
+  },
+  "entite_823": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      273,
+      290
+    ]
+  },
+  "entite_824": {
+    "label": "LOC",
+    "text": "la baronne de la Chesnaie",
+    "jalons": [
+      446,
+      471
+    ]
+  },
+  "entite_825": {
+    "label": "MISC",
+    "text": "Alepian qui venait de s'asseoir dans le cercle",
+    "jalons": [
+      5,
+      51
+    ]
+  },
+  "entite_826": {
+    "label": "LOC",
+    "text": "la baronne de la Chesnaie",
+    "jalons": [
+      393,
+      418
+    ]
+  },
+  "entite_827": {
+    "label": "LOC",
+    "text": "Baïram",
+    "jalons": [
+      317,
+      323
+    ]
+  },
+  "entite_828": {
+    "label": "PER",
+    "text": "des Syrie",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_829": {
+    "label": "LOC",
+    "text": "Baïram",
+    "jalons": [
+      72,
+      78
+    ]
+  },
+  "entite_830": {
+    "label": "LOC",
+    "text": "Osman-Chérif de",
+    "jalons": [
+      409,
+      424
+    ]
+  },
+  "entite_831": {
+    "label": "LOC",
+    "text": "Il",
+    "jalons": [
+      507,
+      509
+    ]
+  },
+  "entite_832": {
+    "label": "PER",
+    "text": "de M. de la Barr",
+    "jalons": [
+      496,
+      512
+    ]
+  },
+  "entite_833": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      6,
+      23
+    ]
+  },
+  "entite_834": {
+    "label": "LOC",
+    "text": "Grèce",
+    "jalons": [
+      160,
+      165
+    ]
+  },
+  "entite_835": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      326,
+      332
+    ]
+  },
+  "entite_836": {
+    "label": "LOC",
+    "text": "Bien",
+    "jalons": [
+      168,
+      172
+    ]
+  },
+  "entite_837": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      312,
+      319
+    ]
+  },
+  "entite_838": {
+    "label": "LOC",
+    "text": "Bien",
+    "jalons": [
+      380,
+      384
+    ]
+  },
+  "entite_839": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      47,
+      61
+    ]
+  },
+  "entite_840": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      224,
+      238
+    ]
+  },
+  "entite_841": {
+    "label": "LOC",
+    "text": "Français",
+    "jalons": [
+      243,
+      251
+    ]
+  },
+  "entite_842": {
+    "label": "LOC",
+    "text": "Ouglou",
+    "jalons": [
+      337,
+      343
+    ]
+  },
+  "entite_843": {
+    "label": "PER",
+    "text": "Jene la",
+    "jalons": [
+      437,
+      444
+    ]
+  },
+  "entite_844": {
+    "label": "MISC",
+    "text": "Mais pas d'argent français",
+    "jalons": [
+      14,
+      40
+    ]
+  },
+  "entite_845": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      73,
+      79
+    ]
+  },
+  "entite_846": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      252,
+      258
+    ]
+  },
+  "entite_847": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      431,
+      445
+    ]
+  },
+  "entite_848": {
+    "label": "PER",
+    "text": "parla du Baïram",
+    "jalons": [
+      1,
+      16
+    ]
+  },
+  "entite_849": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      162,
+      176
+    ]
+  },
+  "entite_850": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      50,
+      67
+    ]
+  },
+  "entite_851": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      455,
+      472
+    ]
+  },
+  "entite_852": {
+    "label": "PER",
+    "text": "Au nom de ces",
+    "jalons": [
+      27,
+      40
+    ]
+  },
+  "entite_853": {
+    "label": "PER",
+    "text": "Edmée de",
+    "jalons": [
+      503,
+      511
+    ]
+  },
+  "entite_854": {
+    "label": "LOC",
+    "text": "la Ches",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_855": {
+    "label": "PER",
+    "text": "Raoul de la Barre",
+    "jalons": [
+      337,
+      354
+    ]
+  },
+  "entite_856": {
+    "label": "PER",
+    "text": "Eh bien",
+    "jalons": [
+      400,
+      407
+    ]
+  },
+  "entite_857": {
+    "label": "PER",
+    "text": "Mais déjà",
+    "jalons": [
+      470,
+      479
+    ]
+  },
+  "entite_858": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      356,
+      370
+    ]
+  },
+  "entite_859": {
+    "label": "PER",
+    "text": "Pour M. de la Chesnaie",
+    "jalons": [
+      472,
+      494
+    ]
+  },
+  "entite_860": {
+    "label": "PER",
+    "text": "M. de la  arre",
+    "jalons": [
+      259,
+      273
+    ]
+  },
+  "entite_861": {
+    "label": "PER",
+    "text": "de M. de la Barre",
+    "jalons": [
+      339,
+      356
+    ]
+  },
+  "entite_862": {
+    "label": "LOC",
+    "text": "Hall et de M. de la",
+    "jalons": [
+      390,
+      409
+    ]
+  },
+  "entite_863": {
+    "label": "LOC",
+    "text": "Chesnaie",
+    "jalons": [
+      412,
+      420
+    ]
+  },
+  "entite_864": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      424,
+      438
+    ]
+  },
+  "entite_865": {
+    "label": "MISC",
+    "text": "Voici l'heure de partir",
+    "jalons": [
+      416,
+      439
+    ]
+  },
+  "entite_866": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      445,
+      459
+    ]
+  },
+  "entite_867": {
+    "label": "LOC",
+    "text": "Baïram",
+    "jalons": [
+      503,
+      509
+    ]
+  },
+  "entite_868": {
+    "label": "LOC",
+    "text": "la baronne de la Chesnaie",
+    "jalons": [
+      339,
+      364
+    ]
+  },
+  "entite_869": {
+    "label": "LOC",
+    "text": "Cependant",
+    "jalons": [
+      366,
+      375
+    ]
+  },
+  "entite_870": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      213,
+      227
+    ]
+  },
+  "entite_871": {
+    "label": "LOC",
+    "text": "Sais",
+    "jalons": [
+      451,
+      455
+    ]
+  },
+  "entite_872": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      73,
+      87
+    ]
+  },
+  "entite_873": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      388,
+      402
+    ]
+  },
+  "entite_874": {
+    "label": "LOC",
+    "text": "Sofia",
+    "jalons": [
+      111,
+      116
+    ]
+  },
+  "entite_875": {
+    "label": "LOC",
+    "text": "M. de la Barre",
+    "jalons": [
+      268,
+      282
+    ]
+  },
+  "entite_876": {
+    "label": "LOC",
+    "text": "Baïiram",
+    "jalons": [
+      477,
+      484
+    ]
+  },
+  "entite_877": {
+    "label": "LOC",
+    "text": "Voici",
+    "jalons": [
+      33,
+      38
+    ]
+  },
+  "entite_878": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      390,
+      404
+    ]
+  },
+  "entite_879": {
+    "label": "MISC",
+    "text": "obscurités de la Bible et du Koran",
+    "jalons": [
+      26,
+      60
+    ]
+  },
+  "entite_880": {
+    "label": "LOC",
+    "text": "Le culte des",
+    "jalons": [
+      62,
+      74
+    ]
+  },
+  "entite_881": {
+    "label": "MISC",
+    "text": "Grèce et à Rome",
+    "jalons": [
+      104,
+      119
+    ]
+  },
+  "entite_882": {
+    "label": "PER",
+    "text": "de Booz",
+    "jalons": [
+      492,
+      499
+    ]
+  },
+  "entite_883": {
+    "label": "PER",
+    "text": "Elle en avait",
+    "jalons": [
+      127,
+      140
+    ]
+  },
+  "entite_884": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      349,
+      363
+    ]
+  },
+  "entite_885": {
+    "label": "LOC",
+    "text": "Retournons",
+    "jalons": [
+      274,
+      284
+    ]
+  },
+  "entite_886": {
+    "label": "PER",
+    "text": "Madame Alepian",
+    "jalons": [
+      494,
+      508
+    ]
+  },
+  "entite_887": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      94,
+      108
+    ]
+  },
+  "entite_888": {
+    "label": "PER",
+    "text": "M. dela Barre",
+    "jalons": [
+      304,
+      317
+    ]
+  },
+  "entite_889": {
+    "label": "LOC",
+    "text": "Sauvez-la",
+    "jalons": [
+      319,
+      328
+    ]
+  },
+  "entite_890": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      344,
+      358
+    ]
+  },
+  "entite_891": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      125,
+      130
+    ]
+  },
+  "entite_892": {
+    "label": "LOC",
+    "text": "de la colonne de Pompée.",
+    "jalons": [
+      22,
+      46
+    ]
+  },
+  "entite_893": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      243,
+      249
+    ]
+  },
+  "entite_894": {
+    "label": "MISC",
+    "text": "ai-je le Saisissement et l’effroi de",
+    "jalons": [
+      58,
+      94
+    ]
+  },
+  "entite_895": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      95,
+      109
+    ]
+  },
+  "entite_896": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      427,
+      444
+    ]
+  },
+  "entite_897": {
+    "label": "MISC",
+    "text": "nragée de retrouver",
+    "jalons": [
+      0,
+      19
+    ]
+  },
+  "entite_898": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      300,
+      314
+    ]
+  },
+  "entite_899": {
+    "label": "PER",
+    "text": "dame la baronne de le Chesnaie",
+    "jalons": [
+      0,
+      30
+    ]
+  },
+  "entite_900": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      61,
+      67
+    ]
+  },
+  "entite_901": {
+    "label": "LOC",
+    "text": "Mainte",
+    "jalons": [
+      69,
+      75
+    ]
+  },
+  "entite_902": {
+    "label": "LOC",
+    "text": "Sofia",
+    "jalons": [
+      155,
+      160
+    ]
+  },
+  "entite_903": {
+    "label": "LOC",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      170,
+      187
+    ]
+  },
+  "entite_904": {
+    "label": "LOC",
+    "text": "C'était la France",
+    "jalons": [
+      495,
+      512
+    ]
+  },
+  "entite_905": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      396,
+      404
+    ]
+  },
+  "entite_906": {
+    "label": "MISC",
+    "text": "Mais ce premier choc de la vie réelle lui causa une",
+    "jalons": [
+      75,
+      126
+    ]
+  },
+  "entite_907": {
+    "label": "MISC",
+    "text": "ssion de la première",
+    "jalons": [
+      0,
+      20
+    ]
+  },
+  "entite_908": {
+    "label": "MISC",
+    "text": "Madame la baronne de In Chesnaie",
+    "jalons": [
+      251,
+      283
+    ]
+  },
+  "entite_909": {
+    "label": "LOC",
+    "text": "Dieu",
+    "jalons": [
+      498,
+      502
+    ]
+  },
+  "entite_910": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      104,
+      112
+    ]
+  },
+  "entite_911": {
+    "label": "LOC",
+    "text": "bateau de la Compagnie",
+    "jalons": [
+      479,
+      501
+    ]
+  },
+  "entite_912": {
+    "label": "LOC",
+    "text": "Fraiss",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_913": {
+    "label": "MISC",
+    "text": "M. de la Chesnaie la traversée de",
+    "jalons": [
+      117,
+      150
+    ]
+  },
+  "entite_914": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      151,
+      160
+    ]
+  },
+  "entite_915": {
+    "label": "LOC",
+    "text": "Alexandrie",
+    "jalons": [
+      163,
+      173
+    ]
+  },
+  "entite_916": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      494,
+      500
+    ]
+  },
+  "entite_917": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      270,
+      276
+    ]
+  },
+  "entite_918": {
+    "label": "LOC",
+    "text": "Athènes",
+    "jalons": [
+      230,
+      237
+    ]
+  },
+  "entite_919": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      102,
+      108
+    ]
+  },
+  "entite_920": {
+    "label": "MISC",
+    "text": "la Chartreuse",
+    "jalons": [
+      499,
+      512
+    ]
+  },
+  "entite_921": {
+    "label": "LOC",
+    "text": "Baïram",
+    "jalons": [
+      247,
+      253
+    ]
+  },
+  "entite_922": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      168,
+      174
+    ]
+  },
+  "entite_923": {
+    "label": "LOC",
+    "text": "port de Marseille",
+    "jalons": [
+      1,
+      18
+    ]
+  },
+  "entite_924": {
+    "label": "PER",
+    "text": "Madame la baronne",
+    "jalons": [
+      135,
+      152
+    ]
+  },
+  "entite_925": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      502,
+      507
+    ]
+  },
+  "entite_926": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      132,
+      137
+    ]
+  },
+  "entite_927": {
+    "label": "LOC",
+    "text": "hôtel de Flandre",
+    "jalons": [
+      489,
+      505
+    ]
+  },
+  "entite_928": {
+    "label": "LOC",
+    "text": "Bac",
+    "jalons": [
+      93,
+      96
+    ]
+  },
+  "entite_929": {
+    "label": "LOC",
+    "text": "devant la porte de M. de Ré",
+    "jalons": [
+      98,
+      125
+    ]
+  },
+  "entite_930": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      381,
+      386
+    ]
+  },
+  "entite_931": {
+    "label": "PER",
+    "text": "Robert ne l’attendait",
+    "jalons": [
+      2,
+      23
+    ]
+  },
+  "entite_932": {
+    "label": "LOC",
+    "text": "Rendez-moi la",
+    "jalons": [
+      436,
+      449
+    ]
+  },
+  "entite_933": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      16,
+      21
+    ]
+  },
+  "entite_934": {
+    "label": "MISC",
+    "text": "Elle s’efforçait bien de se",
+    "jalons": [
+      39,
+      66
+    ]
+  },
+  "entite_935": {
+    "label": "MISC",
+    "text": "C'était la maîtresse de l'hôtel",
+    "jalons": [
+      372,
+      403
+    ]
+  },
+  "entite_936": {
+    "label": "MISC",
+    "text": "Le nom de Madame",
+    "jalons": [
+      4,
+      20
+    ]
+  },
+  "entite_937": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      446,
+      451
+    ]
+  },
+  "entite_938": {
+    "label": "PER",
+    "text": "Robert n’était",
+    "jalons": [
+      461,
+      475
+    ]
+  },
+  "entite_939": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      482,
+      487
+    ]
+  },
+  "entite_940": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      310,
+      316
+    ]
+  },
+  "entite_941": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      426,
+      431
+    ]
+  },
+  "entite_942": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      491,
+      497
+    ]
+  },
+  "entite_943": {
+    "label": "LOC",
+    "text": "La grande ville",
+    "jalons": [
+      141,
+      156
+    ]
+  },
+  "entite_944": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      13,
+      30
+    ]
+  },
+  "entite_945": {
+    "label": "PER",
+    "text": "Elie n’avait",
+    "jalons": [
+      234,
+      246
+    ]
+  },
+  "entite_946": {
+    "label": "LOC",
+    "text": "Bien",
+    "jalons": [
+      486,
+      490
+    ]
+  },
+  "entite_947": {
+    "label": "LOC",
+    "text": "Annoncez",
+    "jalons": [
+      437,
+      445
+    ]
+  },
+  "entite_948": {
+    "label": "LOC",
+    "text": "la baronne de la Chesnaie",
+    "jalons": [
+      457,
+      482
+    ]
+  },
+  "entite_949": {
+    "label": "MISC",
+    "text": "M. de la Chesnaie?",
+    "jalons": [
+      74,
+      92
+    ]
+  },
+  "entite_950": {
+    "label": "MISC",
+    "text": "Madame de Ré avait été au devant de la",
+    "jalons": [
+      99,
+      137
+    ]
+  },
+  "entite_951": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      495,
+      512
+    ]
+  },
+  "entite_952": {
+    "label": "MISC",
+    "text": "La visite de la jeune",
+    "jalons": [
+      2,
+      23
+    ]
+  },
+  "entite_953": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      385,
+      390
+    ]
+  },
+  "entite_954": {
+    "label": "LOC",
+    "text": "Pauvre",
+    "jalons": [
+      502,
+      508
+    ]
+  },
+  "entite_955": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      61,
+      67
+    ]
+  },
+  "entite_956": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      1,
+      6
+    ]
+  },
+  "entite_957": {
+    "label": "MISC",
+    "text": "Los Un enfant",
+    "jalons": [
+      8,
+      21
+    ]
+  },
+  "entite_958": {
+    "label": "LOC",
+    "text": "Rober",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_959": {
+    "label": "PER",
+    "text": "Te Allon",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_960": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      16,
+      21
+    ]
+  },
+  "entite_961": {
+    "label": "LOC",
+    "text": "Chesnaie",
+    "jalons": [
+      458,
+      466
+    ]
+  },
+  "entite_962": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      468,
+      472
+    ]
+  },
+  "entite_963": {
+    "label": "PER",
+    "text": "Madame de Ré",
+    "jalons": [
+      7,
+      19
+    ]
+  },
+  "entite_964": {
+    "label": "LOC",
+    "text": "Alors",
+    "jalons": [
+      266,
+      271
+    ]
+  },
+  "entite_965": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      359,
+      364
+    ]
+  },
+  "entite_966": {
+    "label": "MISC",
+    "text": "le comte le De d’Anjault avait recu la lettre du baron de la",
+    "jalons": [
+      358,
+      418
+    ]
+  },
+  "entite_967": {
+    "label": "LOC",
+    "text": "La mère",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_968": {
+    "label": "LOC",
+    "text": "celui de la baronne de la Chesnaie",
+    "jalons": [
+      133,
+      167
+    ]
+  },
+  "entite_969": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      361,
+      378
+    ]
+  },
+  "entite_970": {
+    "label": "PER",
+    "text": "Robert",
+    "jalons": [
+      481,
+      487
+    ]
+  },
+  "entite_971": {
+    "label": "PER",
+    "text": "Robert de",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_972": {
+    "label": "LOC",
+    "text": "Alexandrie",
+    "jalons": [
+      281,
+      291
+    ]
+  },
+  "entite_973": {
+    "label": "PER",
+    "text": "madame de la Chesnaie",
+    "jalons": [
+      35,
+      56
+    ]
+  },
+  "entite_974": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      494,
+      499
+    ]
+  },
+  "entite_975": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      107,
+      124
+    ]
+  },
+  "entite_976": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      312,
+      317
+    ]
+  },
+  "entite_977": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      175,
+      180
+    ]
+  },
+  "entite_978": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      467,
+      473
+    ]
+  },
+  "entite_979": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      246,
+      251
+    ]
+  },
+  "entite_980": {
+    "label": "MISC",
+    "text": "Je bruit de l’arrivée de la belle madame de la Ches",
+    "jalons": [
+      154,
+      205
+    ]
+  },
+  "entite_981": {
+    "label": "PER",
+    "text": "M. de la “% Chesnaie",
+    "jalons": [
+      0,
+      20
+    ]
+  },
+  "entite_982": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      201,
+      218
+    ]
+  },
+  "entite_983": {
+    "label": "LOC",
+    "text": "jamais de M. de la Chesnaie",
+    "jalons": [
+      150,
+      177
+    ]
+  },
+  "entite_984": {
+    "label": "LOC",
+    "text": "La visite de madame de Ré",
+    "jalons": [
+      485,
+      510
+    ]
+  },
+  "entite_985": {
+    "label": "LOC",
+    "text": "Périgord",
+    "jalons": [
+      110,
+      118
+    ]
+  },
+  "entite_986": {
+    "label": "PER",
+    "text": "dame de la Chesnaie",
+    "jalons": [
+      0,
+      19
+    ]
+  },
+  "entite_987": {
+    "label": "PER",
+    "text": "jadis elle",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_988": {
+    "label": "LOC",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      349,
+      366
+    ]
+  },
+  "entite_989": {
+    "label": "MISC",
+    "text": "Robert et adressa la lettre",
+    "jalons": [
+      418,
+      445
+    ]
+  },
+  "entite_990": {
+    "label": "LOC",
+    "text": "Bac",
+    "jalons": [
+      454,
+      457
+    ]
+  },
+  "entite_991": {
+    "label": "PER",
+    "text": "Madame de Ré",
+    "jalons": [
+      493,
+      505
+    ]
+  },
+  "entite_992": {
+    "label": "LOC",
+    "text": "Edmée",
+    "jalons": [
+      316,
+      321
+    ]
+  },
+  "entite_993": {
+    "label": "MISC",
+    "text": "A Paris comme à Alexandrie, au milieu du monde comme au fond du palais de",
+    "jalons": [
+      15,
+      88
+    ]
+  },
+  "entite_994": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      89,
+      95
+    ]
+  },
+  "entite_995": {
+    "label": "LOC",
+    "text": "de M. de la Chesnaie",
+    "jalons": [
+      225,
+      245
+    ]
+  },
+  "entite_996": {
+    "label": "LOC",
+    "text": "Dix",
+    "jalons": [
+      247,
+      250
+    ]
+  },
+  "entite_997": {
+    "label": "PER",
+    "text": "Robert de Ré",
+    "jalons": [
+      95,
+      107
+    ]
+  },
+  "entite_998": {
+    "label": "PER",
+    "text": "Robert de Ré",
+    "jalons": [
+      424,
+      436
+    ]
+  },
+  "entite_999": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      10,
+      17
+    ]
+  },
+  "entite_1000": {
+    "label": "PER",
+    "text": "Lee",
+    "jalons": [
+      500,
+      503
+    ]
+  },
+  "entite_1001": {
+    "label": "MISC",
+    "text": "elle avait eu la naïveté de",
+    "jalons": [
+      20,
+      47
+    ]
+  },
+  "entite_1002": {
+    "label": "PER",
+    "text": "le croire",
+    "jalons": [
+      48,
+      57
+    ]
+  },
+  "entite_1003": {
+    "label": "PER",
+    "text": "es Lise Le      Te",
+    "jalons": [
+      6,
+      24
+    ]
+  },
+  "entite_1004": {
+    "label": "PER",
+    "text": "M. et madame d'Anjault",
+    "jalons": [
+      489,
+      511
+    ]
+  },
+  "entite_1005": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      447,
+      454
+    ]
+  },
+  "entite_1006": {
+    "label": "LOC",
+    "text": "quelqu'un des",
+    "jalons": [
+      8,
+      21
+    ]
+  },
+  "entite_1007": {
+    "label": "MISC",
+    "text": "Elle s'arrêta enfin dans le jardin du",
+    "jalons": [
+      181,
+      218
+    ]
+  },
+  "entite_1008": {
+    "label": "LOC",
+    "text": "Luxembourg",
+    "jalons": [
+      219,
+      229
+    ]
+  },
+  "entite_1009": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      257,
+      262
+    ]
+  },
+  "entite_1010": {
+    "label": "MISC",
+    "text": "Paris qui venait de s'éclairer pour le soir",
+    "jalons": [
+      276,
+      319
+    ]
+  },
+  "entite_1011": {
+    "label": "PER",
+    "text": "ui laissait la carte",
+    "jalons": [
+      0,
+      20
+    ]
+  },
+  "entite_1012": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      297,
+      303
+    ]
+  },
+  "entite_1013": {
+    "label": "PER",
+    "text": "de M. de la Chesnaie",
+    "jalons": [
+      66,
+      86
+    ]
+  },
+  "entite_1014": {
+    "label": "PER",
+    "text": "M. de la Barre",
+    "jalons": [
+      117,
+      131
+    ]
+  },
+  "entite_1015": {
+    "label": "LOC",
+    "text": "Remiremont",
+    "jalons": [
+      375,
+      385
+    ]
+  },
+  "entite_1016": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      134,
+      139
+    ]
+  },
+  "entite_1017": {
+    "label": "PER",
+    "text": "au jardin Mabille",
+    "jalons": [
+      1,
+      18
+    ]
+  },
+  "entite_1018": {
+    "label": "MISC",
+    "text": "le ne savait pas encore que les hommes qui",
+    "jalons": [
+      0,
+      42
+    ]
+  },
+  "entite_1019": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      489,
+      495
+    ]
+  },
+  "entite_1020": {
+    "label": "PER",
+    "text": "Robert de Ré",
+    "jalons": [
+      39,
+      51
+    ]
+  },
+  "entite_1021": {
+    "label": "PER",
+    "text": "Qu'elle",
+    "jalons": [
+      19,
+      26
+    ]
+  },
+  "entite_1022": {
+    "label": "LOC",
+    "text": "Saint-Germain",
+    "jalons": [
+      448,
+      461
+    ]
+  },
+  "entite_1023": {
+    "label": "LOC",
+    "text": "Mabille",
+    "jalons": [
+      203,
+      210
+    ]
+  },
+  "entite_1024": {
+    "label": "MISC",
+    "text": "Puisque je l'ai vue au Bois",
+    "jalons": [
+      0,
+      27
+    ]
+  },
+  "entite_1025": {
+    "label": "PER",
+    "text": "Alors",
+    "jalons": [
+      501,
+      506
+    ]
+  },
+  "entite_1026": {
+    "label": "PER",
+    "text": "de Clérac",
+    "jalons": [
+      483,
+      492
+    ]
+  },
+  "entite_1027": {
+    "label": "PER",
+    "text": "BARONNE DE LA CHESNAIE Ron Née Le Dam",
+    "jalons": [
+      98,
+      135
+    ]
+  },
+  "entite_1028": {
+    "label": "PER",
+    "text": "L'émo",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_1029": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      115,
+      120
+    ]
+  },
+  "entite_1030": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      347,
+      364
+    ]
+  },
+  "entite_1031": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      75,
+      81
+    ]
+  },
+  "entite_1032": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      109,
+      116
+    ]
+  },
+  "entite_1033": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      70,
+      75
+    ]
+  },
+  "entite_1034": {
+    "label": "LOC",
+    "text": "Mabille",
+    "jalons": [
+      264,
+      271
+    ]
+  },
+  "entite_1035": {
+    "label": "PER",
+    "text": "baron de la Chesnaie",
+    "jalons": [
+      177,
+      197
+    ]
+  },
+  "entite_1036": {
+    "label": "MISC",
+    "text": "La Chesnaie",
+    "jalons": [
+      477,
+      488
+    ]
+  },
+  "entite_1037": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      407,
+      413
+    ]
+  },
+  "entite_1038": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      98,
+      115
+    ]
+  },
+  "entite_1039": {
+    "label": "PER",
+    "text": "D'abord",
+    "jalons": [
+      133,
+      140
+    ]
+  },
+  "entite_1040": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      412,
+      429
+    ]
+  },
+  "entite_1041": {
+    "label": "LOC",
+    "text": "l'histoire de la lettre de",
+    "jalons": [
+      119,
+      145
+    ]
+  },
+  "entite_1042": {
+    "label": "PER",
+    "text": "Madame de Clérac",
+    "jalons": [
+      220,
+      236
+    ]
+  },
+  "entite_1043": {
+    "label": "PER",
+    "text": "madame de Clérac",
+    "jalons": [
+      2,
+      18
+    ]
+  },
+  "entite_1044": {
+    "label": "MISC",
+    "text": "d'esprit de la baronne de la Chesnaie",
+    "jalons": [
+      15,
+      52
+    ]
+  },
+  "entite_1045": {
+    "label": "MISC",
+    "text": "Elle Ja montrait déjà bizarre en",
+    "jalons": [
+      90,
+      122
+    ]
+  },
+  "entite_1046": {
+    "label": "LOC",
+    "text": "Orient",
+    "jalons": [
+      123,
+      129
+    ]
+  },
+  "entite_1047": {
+    "label": "PER",
+    "text": "Pour la famille d’Anjault",
+    "jalons": [
+      6,
+      31
+    ]
+  },
+  "entite_1048": {
+    "label": "PER",
+    "text": "de M. de la Chesnaie",
+    "jalons": [
+      482,
+      502
+    ]
+  },
+  "entite_1049": {
+    "label": "PER",
+    "text": "Ja Chesnaie",
+    "jalons": [
+      50,
+      61
+    ]
+  },
+  "entite_1050": {
+    "label": "ORG",
+    "text": "Le marquis",
+    "jalons": [
+      492,
+      502
+    ]
+  },
+  "entite_1051": {
+    "label": "LOC",
+    "text": "Barjon",
+    "jalons": [
+      182,
+      188
+    ]
+  },
+  "entite_1052": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      422,
+      427
+    ]
+  },
+  "entite_1053": {
+    "label": "PER",
+    "text": "M. de Ré",
+    "jalons": [
+      493,
+      501
+    ]
+  },
+  "entite_1054": {
+    "label": "LOC",
+    "text": "Ou rue des Vignes",
+    "jalons": [
+      122,
+      139
+    ]
+  },
+  "entite_1055": {
+    "label": "LOC",
+    "text": "rue de la Cure",
+    "jalons": [
+      144,
+      158
+    ]
+  },
+  "entite_1056": {
+    "label": "LOC",
+    "text": "Mabille",
+    "jalons": [
+      460,
+      467
+    ]
+  },
+  "entite_1057": {
+    "label": "MISC",
+    "text": "Elle avait reçu  Hire de ses oo : elle avai",
+    "jalons": [
+      469,
+      512
+    ]
+  },
+  "entite_1058": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      453,
+      458
+    ]
+  },
+  "entite_1059": {
+    "label": "PER",
+    "text": "M. de la",
+    "jalons": [
+      71,
+      79
+    ]
+  },
+  "entite_1060": {
+    "label": "MISC",
+    "text": "Fe Ja la portière de la voiture et de",
+    "jalons": [
+      139,
+      176
+    ]
+  },
+  "entite_1061": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      352,
+      356
+    ]
+  },
+  "entite_1062": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      198,
+      204
+    ]
+  },
+  "entite_1063": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      318,
+      328
+    ]
+  },
+  "entite_1064": {
+    "label": "LOC",
+    "text": "l’entrée de la rue                                                                          Ribéra",
+    "jalons": [
+      332,
+      430
+    ]
+  },
+  "entite_1065": {
+    "label": "LOC",
+    "text": "Elle monta la rue",
+    "jalons": [
+      16,
+      33
+    ]
+  },
+  "entite_1066": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      138,
+      148
+    ]
+  },
+  "entite_1067": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_1068": {
+    "label": "MISC",
+    "text": "Tout de suite",
+    "jalons": [
+      28,
+      41
+    ]
+  },
+  "entite_1069": {
+    "label": "LOC",
+    "text": "Bien",
+    "jalons": [
+      152,
+      156
+    ]
+  },
+  "entite_1070": {
+    "label": "LOC",
+    "text": "de la Saint-Martin faisai",
+    "jalons": [
+      487,
+      512
+    ]
+  },
+  "entite_1071": {
+    "label": "MISC",
+    "text": "L’humidité de la nuit",
+    "jalons": [
+      94,
+      115
+    ]
+  },
+  "entite_1072": {
+    "label": "MISC",
+    "text": "échaud de eu  Par",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_1073": {
+    "label": "LOC",
+    "text": "Alexandrie",
+    "jalons": [
+      203,
+      213
+    ]
+  },
+  "entite_1074": {
+    "label": "PER",
+    "text": "M. de la Chesnaie.",
+    "jalons": [
+      355,
+      373
+    ]
+  },
+  "entite_1075": {
+    "label": "PER",
+    "text": "#| de Ré",
+    "jalons": [
+      485,
+      493
+    ]
+  },
+  "entite_1076": {
+    "label": "PER",
+    "text": "Pour M. de la Chesnaie",
+    "jalons": [
+      180,
+      202
+    ]
+  },
+  "entite_1077": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      230,
+      238
+    ]
+  },
+  "entite_1078": {
+    "label": "MISC",
+    "text": "ier le soir",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_1079": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      198,
+      215
+    ]
+  },
+  "entite_1080": {
+    "label": "PER",
+    "text": "M. de la Chesnaie",
+    "jalons": [
+      180,
+      197
+    ]
+  },
+  "entite_1081": {
+    "label": "LOC",
+    "text": "Pune",
+    "jalons": [
+      505,
+      509
+    ]
+  },
+  "entite_1082": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      117,
+      123
+    ]
+  },
+  "entite_1083": {
+    "label": "LOC",
+    "text": "Montevideo",
+    "jalons": [
+      148,
+      158
+    ]
+  },
+  "entite_1084": {
+    "label": "PER",
+    "text": "de la Chesnaie",
+    "jalons": [
+      42,
+      56
+    ]
+  },
+  "entite_1085": {
+    "label": "ORG",
+    "text": "Tel le",
+    "jalons": [
+      9,
+      15
+    ]
+  },
+  "entite_1086": {
+    "label": "MISC",
+    "text": "Mais le baron de la Chesnaie refusa de le",
+    "jalons": [
+      411,
+      452
+    ]
+  }
+}

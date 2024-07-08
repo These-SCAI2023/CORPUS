@@ -1,0 +1,11762 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "MADELEINE",
+    "jalons": [
+      2,
+      11
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "La Fête de Saint-Cloud",
+    "jalons": [
+      48,
+      70
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      396,
+      401
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Saint-Cloud",
+    "jalons": [
+      303,
+      314
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "de la Tête-Noire",
+    "jalons": [
+      382,
+      398
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Enfin Victor",
+    "jalons": [
+      114,
+      126
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      131,
+      136
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Saint-Cloud",
+    "jalons": [
+      232,
+      243
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "devant la porte de la dame",
+    "jalons": [
+      427,
+      453
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Écoute",
+    "jalons": [
+      478,
+      484
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      374,
+      380
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "le la fête de Saint-Cloud",
+    "jalons": [
+      0,
+      25
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      289,
+      293
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Saint-Cloud",
+    "jalons": [
+      296,
+      307
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "la fête de Saint-Cloud",
+    "jalons": [
+      258,
+      280
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Pend",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      287,
+      293
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Ennuyé de ne",
+    "jalons": [
+      3,
+      15
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "L'autr",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Victor à Dufour",
+    "jalons": [
+      3,
+      18
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Saint-Cloud",
+    "jalons": [
+      79,
+      90
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Mais la grande",
+    "jalons": [
+      15,
+      29
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Poupoule",
+    "jalons": [
+      266,
+      274
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Dufour essuya",
+    "jalons": [
+      499,
+      512
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      182,
+      188
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Mouron",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Poupoule",
+    "jalons": [
+      351,
+      359
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "M. Mouron",
+    "jalons": [
+      461,
+      470
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "de la pomme de",
+    "jalons": [
+      155,
+      169
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Mouron",
+    "jalons": [
+      310,
+      316
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      409,
+      415
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "M. Mouron",
+    "jalons": [
+      448,
+      457
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Victor Dalmer",
+    "jalons": [
+      280,
+      293
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "marquis de Bréville",
+    "jalons": [
+      44,
+      63
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Allons chez Legriel",
+    "jalons": [
+      150,
+      169
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      304,
+      310
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      493,
+      499
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Moi",
+    "jalons": [
+      504,
+      507
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "M. Mouron",
+    "jalons": [
+      310,
+      319
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      491,
+      496
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Armand de Bréville, fils du marquis de Bréville",
+    "jalons": [
+      216,
+      263
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "M. de Bréville",
+    "jalons": [
+      473,
+      487
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      145,
+      149
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Picardie",
+    "jalons": [
+      154,
+      162
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "la terre de Bréville",
+    "jalons": [
+      156,
+      176
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "de la vie sage et rangée que lui faisait mener",
+    "jalons": [
+      2,
+      48
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      439,
+      453
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      497,
+      503
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "M. de Saint-Elme",
+    "jalons": [
+      277,
+      293
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      403,
+      413
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "J'ai les garçons",
+    "jalons": [
+      10,
+      26
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "M. de Saint-Elme",
+    "jalons": [
+      90,
+      106
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      114,
+      120
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "Peste",
+    "jalons": [
+      122,
+      127
+    ]
+  },
+  "entite_54": {
+    "label": "ORG",
+    "text": "Le jeune Bréville",
+    "jalons": [
+      490,
+      507
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      374,
+      380
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "M. de Saint-Elme",
+    "jalons": [
+      491,
+      507
+    ]
+  },
+  "entite_57": {
+    "label": "ORG",
+    "text": "Le jeune de Bréville",
+    "jalons": [
+      491,
+      511
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      392,
+      398
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Voilà de Montclair qui",
+    "jalons": [
+      411,
+      433
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Montclair",
+    "jalons": [
+      255,
+      264
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      233,
+      239
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "Armand de Bréville",
+    "jalons": [
+      59,
+      77
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      113,
+      119
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      331,
+      337
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "M. de Saint-Elme",
+    "jalons": [
+      252,
+      268
+    ]
+  },
+  "entite_66": {
+    "label": "PER",
+    "text": "Victor",
+    "jalons": [
+      500,
+      506
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "le carlin de M. de Sai",
+    "jalons": [
+      490,
+      512
+    ]
+  },
+  "entite_68": {
+    "label": "MISC",
+    "text": "laisser parler les autres",
+    "jalons": [
+      3,
+      28
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      400,
+      406
+    ]
+  },
+  "entite_70": {
+    "label": "PER",
+    "text": "Victor et Dufour",
+    "jalons": [
+      3,
+      19
+    ]
+  },
+  "entite_71": {
+    "label": "LOC",
+    "text": "La grande allée du parc",
+    "jalons": [
+      45,
+      68
+    ]
+  },
+  "entite_72": {
+    "label": "MISC",
+    "text": "Les habitants de la rue Saint-Denis et",
+    "jalons": [
+      98,
+      136
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "Saint-Martin",
+    "jalons": [
+      137,
+      149
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      249,
+      254
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Beaucoup de",
+    "jalons": [
+      256,
+      267
+    ]
+  },
+  "entite_76": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      26,
+      31
+    ]
+  },
+  "entite_77": {
+    "label": "LOC",
+    "text": "Dalmer",
+    "jalons": [
+      381,
+      387
+    ]
+  },
+  "entite_78": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      405,
+      411
+    ]
+  },
+  "entite_79": {
+    "label": "LOC",
+    "text": "le parc de Saint-Cloud",
+    "jalons": [
+      10,
+      32
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "Lisa",
+    "jalons": [
+      314,
+      318
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "Saint-Cloud",
+    "jalons": [
+      446,
+      457
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      18,
+      23
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "Dieu",
+    "jalons": [
+      507,
+      511
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Lisa",
+    "jalons": [
+      242,
+      246
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      437,
+      442
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "ami lui",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "Saint-Cloud",
+    "jalons": [
+      53,
+      64
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "Lisa",
+    "jalons": [
+      123,
+      127
+    ]
+  },
+  "entite_90": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      66,
+      72
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      104,
+      109
+    ]
+  },
+  "entite_92": {
+    "label": "LOC",
+    "text": "Nanterre",
+    "jalons": [
+      419,
+      427
+    ]
+  },
+  "entite_93": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      498,
+      504
+    ]
+  },
+  "entite_94": {
+    "label": "LOC",
+    "text": "Lisa",
+    "jalons": [
+      97,
+      101
+    ]
+  },
+  "entite_95": {
+    "label": "PER",
+    "text": "Victor lui",
+    "jalons": [
+      129,
+      139
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      55,
+      61
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "Ah",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_98": {
+    "label": "MISC",
+    "text": "Et Dufour se met en marche",
+    "jalons": [
+      178,
+      204
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      210,
+      215
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "Victor le",
+    "jalons": [
+      218,
+      227
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "Lisa",
+    "jalons": [
+      158,
+      162
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      417,
+      423
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "Estelle",
+    "jalons": [
+      474,
+      481
+    ]
+  },
+  "entite_104": {
+    "label": "PER",
+    "text": "peu de mirliton",
+    "jalons": [
+      20,
+      35
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      460,
+      466
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Boulogne",
+    "jalons": [
+      480,
+      488
+    ]
+  },
+  "entite_107": {
+    "label": "LOC",
+    "text": "Dans le bois de Boulogne",
+    "jalons": [
+      205,
+      229
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      303,
+      309
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "Lisa",
+    "jalons": [
+      403,
+      407
+    ]
+  },
+  "entite_110": {
+    "label": "PER",
+    "text": "Victor ?",
+    "jalons": [
+      17,
+      25
+    ]
+  },
+  "entite_111": {
+    "label": "MISC",
+    "text": "Dans les Champs-Élysées",
+    "jalons": [
+      56,
+      79
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "Victor et Dufour",
+    "jalons": [
+      340,
+      356
+    ]
+  },
+  "entite_113": {
+    "label": "PER",
+    "text": "Victor Dalmer",
+    "jalons": [
+      407,
+      420
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "Dufour",
+    "jalons": [
+      2,
+      8
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      483,
+      489
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "Armand de",
+    "jalons": [
+      89,
+      98
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "M. Saint-Elme ou de Saint-Elme",
+    "jalons": [
+      153,
+      183
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      205,
+      211
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "Armand donne",
+    "jalons": [
+      272,
+      284
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "Saint-Cloud",
+    "jalons": [
+      42,
+      53
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Calme-toi",
+    "jalons": [
+      379,
+      388
+    ]
+  },
+  "entite_122": {
+    "label": "PER",
+    "text": "Armand de Bréville",
+    "jalons": [
+      467,
+      485
+    ]
+  },
+  "entite_123": {
+    "label": "MISC",
+    "text": "égant dans la rue du Mont-Blanc",
+    "jalons": [
+      0,
+      31
+    ]
+  },
+  "entite_124": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      484,
+      490
+    ]
+  },
+  "entite_125": {
+    "label": "MISC",
+    "text": "Il serre la main de Victor et remercie très-gracieusement Dufour de s'être rendu",
+    "jalons": [
+      72,
+      152
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "J'irai",
+    "jalons": [
+      502,
+      508
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      190,
+      196
+    ]
+  },
+  "entite_128": {
+    "label": "PER",
+    "text": "M. Saint-Elme",
+    "jalons": [
+      3,
+      16
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      292,
+      298
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      368,
+      374
+    ]
+  },
+  "entite_131": {
+    "label": "LOC",
+    "text": "Saint-Cloud",
+    "jalons": [
+      415,
+      426
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      143,
+      152
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "de la forêt de Compiègne",
+    "jalons": [
+      472,
+      496
+    ]
+  },
+  "entite_134": {
+    "label": "LOC",
+    "text": "Justement",
+    "jalons": [
+      501,
+      510
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "la forêt de Compiègne",
+    "jalons": [
+      0,
+      21
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      12,
+      21
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "je vous prie de me le garder",
+    "jalons": [
+      23,
+      51
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Saint-Lazare",
+    "jalons": [
+      188,
+      200
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      449,
+      458
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      115,
+      124
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "Armand lui",
+    "jalons": [
+      395,
+      405
+    ]
+  },
+  "entite_142": {
+    "label": "MISC",
+    "text": "Déjà de l'or sur les",
+    "jalons": [
+      154,
+      174
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "eoir près de son amie",
+    "jalons": [
+      0,
+      21
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      123,
+      129
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Très-bien",
+    "jalons": [
+      260,
+      269
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      399,
+      405
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "Picardie",
+    "jalons": [
+      259,
+      267
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "Samoncey",
+    "jalons": [
+      338,
+      346
+    ]
+  },
+  "entite_149": {
+    "label": "MISC",
+    "text": "Laon et Sissonne",
+    "jalons": [
+      424,
+      440
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "Picardie",
+    "jalons": [
+      305,
+      313
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      392,
+      398
+    ]
+  },
+  "entite_152": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      75,
+      89
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      322,
+      336
+    ]
+  },
+  "entite_154": {
+    "label": "PER",
+    "text": "C'est Berlibiche",
+    "jalons": [
+      488,
+      504
+    ]
+  },
+  "entite_155": {
+    "label": "PER",
+    "text": "Déjà le jeune Armand",
+    "jalons": [
+      83,
+      103
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      258,
+      263
+    ]
+  },
+  "entite_157": {
+    "label": "PER",
+    "text": "M. Jaunisson",
+    "jalons": [
+      28,
+      40
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      144,
+      150
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      168,
+      174
+    ]
+  },
+  "entite_160": {
+    "label": "LOC",
+    "text": "Célanire",
+    "jalons": [
+      395,
+      403
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "Célanire",
+    "jalons": [
+      408,
+      416
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "Enfin",
+    "jalons": [
+      3,
+      8
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      215,
+      224
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "Saint-Cloud",
+    "jalons": [
+      166,
+      177
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      83,
+      89
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      275,
+      281
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Voulant",
+    "jalons": [
+      500,
+      507
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      257,
+      263
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Madame Flock",
+    "jalons": [
+      37,
+      49
+    ]
+  },
+  "entite_170": {
+    "label": "LOC",
+    "text": "Berlibiche",
+    "jalons": [
+      448,
+      458
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      332,
+      338
+    ]
+  },
+  "entite_172": {
+    "label": "PER",
+    "text": "avec Célanire",
+    "jalons": [
+      1,
+      14
+    ]
+  },
+  "entite_173": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      407,
+      413
+    ]
+  },
+  "entite_174": {
+    "label": "LOC",
+    "text": "Bientôt",
+    "jalons": [
+      457,
+      464
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      112,
+      121
+    ]
+  },
+  "entite_176": {
+    "label": "LOC",
+    "text": "Pardonnez-moi",
+    "jalons": [
+      125,
+      138
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "M. Jaunisson",
+    "jalons": [
+      236,
+      248
+    ]
+  },
+  "entite_178": {
+    "label": "PER",
+    "text": "Victor et Armand parviennent",
+    "jalons": [
+      262,
+      290
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "J'en ai assez",
+    "jalons": [
+      452,
+      465
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      316,
+      326
+    ]
+  },
+  "entite_181": {
+    "label": "PER",
+    "text": "ami Dufour",
+    "jalons": [
+      376,
+      386
+    ]
+  },
+  "entite_182": {
+    "label": "MISC",
+    "text": "Victor presse l'artiste de faire avec lui",
+    "jalons": [
+      391,
+      432
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "Enfin Armand",
+    "jalons": [
+      444,
+      456
+    ]
+  },
+  "entite_184": {
+    "label": "LOC",
+    "text": "Voir de",
+    "jalons": [
+      23,
+      30
+    ]
+  },
+  "entite_185": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      234,
+      240
+    ]
+  },
+  "entite_186": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      368,
+      374
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "Armand",
+    "jalons": [
+      493,
+      499
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "madame de Noirmont",
+    "jalons": [
+      1,
+      19
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      168,
+      174
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "Picardie",
+    "jalons": [
+      412,
+      420
+    ]
+  },
+  "entite_191": {
+    "label": "LOC",
+    "text": "Victor",
+    "jalons": [
+      143,
+      149
+    ]
+  },
+  "entite_192": {
+    "label": "MISC",
+    "text": "Célanire, et même les demoiselles de Saint-Cloud",
+    "jalons": [
+      217,
+      265
+    ]
+  },
+  "entite_193": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      304,
+      309
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      120,
+      126
+    ]
+  },
+  "entite_195": {
+    "label": "LOC",
+    "text": "Samoncey",
+    "jalons": [
+      198,
+      206
+    ]
+  },
+  "entite_196": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      195,
+      201
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      115,
+      123
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      474,
+      480
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "Samoncey",
+    "jalons": [
+      438,
+      446
+    ]
+  },
+  "entite_200": {
+    "label": "MISC",
+    "text": "Mais les gens de la ville",
+    "jalons": [
+      26,
+      51
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      237,
+      242
+    ]
+  },
+  "entite_202": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      495,
+      499
+    ]
+  },
+  "entite_203": {
+    "label": "PER",
+    "text": "s'écrie Dufour",
+    "jalons": [
+      52,
+      66
+    ]
+  },
+  "entite_204": {
+    "label": "LOC",
+    "text": "Paysan",
+    "jalons": [
+      27,
+      33
+    ]
+  },
+  "entite_205": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      294,
+      300
+    ]
+  },
+  "entite_206": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      302,
+      308
+    ]
+  },
+  "entite_207": {
+    "label": "PER",
+    "text": "t. Dam",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_208": {
+    "label": "LOC",
+    "text": "Ce village de Samoncey",
+    "jalons": [
+      482,
+      504
+    ]
+  },
+  "entite_209": {
+    "label": "LOC",
+    "text": "Samoncey",
+    "jalons": [
+      176,
+      184
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "Crois-moi",
+    "jalons": [
+      300,
+      309
+    ]
+  },
+  "entite_211": {
+    "label": "LOC",
+    "text": "Victor",
+    "jalons": [
+      311,
+      317
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "Samoncey",
+    "jalons": [
+      197,
+      205
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "la terre de M. de Bréville",
+    "jalons": [
+      279,
+      305
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "M. de Bréville",
+    "jalons": [
+      333,
+      347
+    ]
+  },
+  "entite_215": {
+    "label": "PER",
+    "text": "Dufour",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_216": {
+    "label": "PER",
+    "text": "M. de Bréville",
+    "jalons": [
+      234,
+      248
+    ]
+  },
+  "entite_217": {
+    "label": "LOC",
+    "text": "Samoncey",
+    "jalons": [
+      404,
+      412
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "M. de Bréville",
+    "jalons": [
+      216,
+      230
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "Samoncey",
+    "jalons": [
+      449,
+      457
+    ]
+  },
+  "entite_220": {
+    "label": "LOC",
+    "text": "Prenez",
+    "jalons": [
+      487,
+      493
+    ]
+  },
+  "entite_221": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      404,
+      410
+    ]
+  },
+  "entite_222": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      414,
+      422
+    ]
+  },
+  "entite_223": {
+    "label": "MISC",
+    "text": "ttendre la rencontre de quelqu'un",
+    "jalons": [
+      0,
+      33
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      238,
+      244
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      43,
+      49
+    ]
+  },
+  "entite_226": {
+    "label": "LOC",
+    "text": "Victoire",
+    "jalons": [
+      432,
+      440
+    ]
+  },
+  "entite_227": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      464,
+      470
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      11,
+      16
+    ]
+  },
+  "entite_229": {
+    "label": "MISC",
+    "text": "intérieur de la maison",
+    "jalons": [
+      1,
+      23
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "Cela",
+    "jalons": [
+      505,
+      509
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      27,
+      33
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      108,
+      113
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "M. de Bréville",
+    "jalons": [
+      133,
+      147
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      306,
+      310
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "Dufo",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_236": {
+    "label": "PER",
+    "text": "M. de Bréville",
+    "jalons": [
+      278,
+      292
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      428,
+      434
+    ]
+  },
+  "entite_238": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      213,
+      219
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "M. de Bréville",
+    "jalons": [
+      399,
+      413
+    ]
+  },
+  "entite_240": {
+    "label": "LOC",
+    "text": "Buvez",
+    "jalons": [
+      473,
+      478
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      501,
+      506
+    ]
+  },
+  "entite_242": {
+    "label": "MISC",
+    "text": "aître de la maison avale un verre de vin",
+    "jalons": [
+      0,
+      40
+    ]
+  },
+  "entite_243": {
+    "label": "PER",
+    "text": "Elle sourit",
+    "jalons": [
+      3,
+      14
+    ]
+  },
+  "entite_244": {
+    "label": "PER",
+    "text": "Grandpierre",
+    "jalons": [
+      20,
+      31
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Dieu merci",
+    "jalons": [
+      213,
+      223
+    ]
+  },
+  "entite_246": {
+    "label": "LOC",
+    "text": "Jacqueline",
+    "jalons": [
+      169,
+      179
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "Va",
+    "jalons": [
+      402,
+      404
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      406,
+      415
+    ]
+  },
+  "entite_249": {
+    "label": "LOC",
+    "text": "va",
+    "jalons": [
+      417,
+      419
+    ]
+  },
+  "entite_250": {
+    "label": "MISC",
+    "text": "craintes de la veille",
+    "jalons": [
+      1,
+      22
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      438,
+      444
+    ]
+  },
+  "entite_252": {
+    "label": "PER",
+    "text": "Dufour",
+    "jalons": [
+      296,
+      302
+    ]
+  },
+  "entite_253": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      278,
+      284
+    ]
+  },
+  "entite_254": {
+    "label": "LOC",
+    "text": "Grandpierre",
+    "jalons": [
+      79,
+      90
+    ]
+  },
+  "entite_255": {
+    "label": "PER",
+    "text": "rande chez lui la force de l'habitude",
+    "jalons": [
+      0,
+      37
+    ]
+  },
+  "entite_256": {
+    "label": "PER",
+    "text": "Madeleine se",
+    "jalons": [
+      40,
+      52
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      204,
+      213
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      388,
+      394
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "la marquise de Bréville",
+    "jalons": [
+      471,
+      494
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "de Bréville",
+    "jalons": [
+      1,
+      12
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      498,
+      504
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "Erne",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      152,
+      158
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "Pourquoi la",
+    "jalons": [
+      484,
+      495
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "arriva",
+    "jalons": [
+      401,
+      407
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "malheur",
+    "jalons": [
+      419,
+      426
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "Jacques n'avait",
+    "jalons": [
+      456,
+      471
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "M. Grandpierre",
+    "jalons": [
+      32,
+      46
+    ]
+  },
+  "entite_269": {
+    "label": "PER",
+    "text": "Armand de Bréville",
+    "jalons": [
+      299,
+      317
+    ]
+  },
+  "entite_270": {
+    "label": "MISC",
+    "text": "Armand et Ernestine ses enfants",
+    "jalons": [
+      253,
+      284
+    ]
+  },
+  "entite_271": {
+    "label": "MISC",
+    "text": "désir de les voir",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_272": {
+    "label": "PER",
+    "text": "Le récit de Madeleine",
+    "jalons": [
+      10,
+      31
+    ]
+  },
+  "entite_273": {
+    "label": "MISC",
+    "text": "Dans l'effusion de sa",
+    "jalons": [
+      17,
+      38
+    ]
+  },
+  "entite_274": {
+    "label": "LOC",
+    "text": "Grandpierre",
+    "jalons": [
+      346,
+      357
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      284,
+      293
+    ]
+  },
+  "entite_276": {
+    "label": "PER",
+    "text": "Victor quitte le jardin",
+    "jalons": [
+      8,
+      31
+    ]
+  },
+  "entite_277": {
+    "label": "LOC",
+    "text": "Grandpierre",
+    "jalons": [
+      211,
+      222
+    ]
+  },
+  "entite_278": {
+    "label": "MISC",
+    "text": "Ah ! il faudra aussi que je fasse l'ami Jacques",
+    "jalons": [
+      5,
+      52
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "La Société de Bréville",
+    "jalons": [
+      356,
+      378
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      201,
+      207
+    ]
+  },
+  "entite_281": {
+    "label": "LOC",
+    "text": "Gizy",
+    "jalons": [
+      340,
+      344
+    ]
+  },
+  "entite_282": {
+    "label": "MISC",
+    "text": "Laon et de Sissonne viennent passer la belle saison",
+    "jalons": [
+      412,
+      463
+    ]
+  },
+  "entite_283": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      32,
+      38
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "Armand de Bréville",
+    "jalons": [
+      393,
+      411
+    ]
+  },
+  "entite_285": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      417,
+      423
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "M. de Bréville",
+    "jalons": [
+      20,
+      34
+    ]
+  },
+  "entite_287": {
+    "label": "PER",
+    "text": "M. Armand",
+    "jalons": [
+      306,
+      315
+    ]
+  },
+  "entite_288": {
+    "label": "PER",
+    "text": "M. Saint-Elme",
+    "jalons": [
+      320,
+      333
+    ]
+  },
+  "entite_289": {
+    "label": "PER",
+    "text": "Madame de Noirmont",
+    "jalons": [
+      370,
+      388
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "Fanfan",
+    "jalons": [
+      439,
+      445
+    ]
+  },
+  "entite_291": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      115,
+      120
+    ]
+  },
+  "entite_292": {
+    "label": "PER",
+    "text": "Dufour",
+    "jalons": [
+      497,
+      503
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "Armand",
+    "jalons": [
+      45,
+      51
+    ]
+  },
+  "entite_294": {
+    "label": "PER",
+    "text": "de Dufour",
+    "jalons": [
+      73,
+      82
+    ]
+  },
+  "entite_295": {
+    "label": "MISC",
+    "text": "Monsieur de Saint-Elme",
+    "jalons": [
+      472,
+      494
+    ]
+  },
+  "entite_296": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      14,
+      20
+    ]
+  },
+  "entite_298": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      500,
+      509
+    ]
+  },
+  "entite_299": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      155,
+      160
+    ]
+  },
+  "entite_300": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      483,
+      489
+    ]
+  },
+  "entite_301": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      494,
+      500
+    ]
+  },
+  "entite_302": {
+    "label": "MISC",
+    "text": "Armand à Victor et à Dufour",
+    "jalons": [
+      146,
+      173
+    ]
+  },
+  "entite_303": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      330,
+      336
+    ]
+  },
+  "entite_304": {
+    "label": "LOC",
+    "text": "l'habitude des plaisirs de Paris",
+    "jalons": [
+      21,
+      53
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      349,
+      354
+    ]
+  },
+  "entite_306": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      77,
+      83
+    ]
+  },
+  "entite_307": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      170,
+      175
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "la faire venir de la rue de Richelieu",
+    "jalons": [
+      1,
+      38
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "Enfin",
+    "jalons": [
+      43,
+      48
+    ]
+  },
+  "entite_310": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      401,
+      415
+    ]
+  },
+  "entite_311": {
+    "label": "PER",
+    "text": "M. Montrésor",
+    "jalons": [
+      488,
+      500
+    ]
+  },
+  "entite_312": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      97,
+      111
+    ]
+  },
+  "entite_313": {
+    "label": "PER",
+    "text": "Armand s'adresse",
+    "jalons": [
+      21,
+      37
+    ]
+  },
+  "entite_314": {
+    "label": "PER",
+    "text": "Victor Dalmer",
+    "jalons": [
+      112,
+      125
+    ]
+  },
+  "entite_315": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      344,
+      349
+    ]
+  },
+  "entite_316": {
+    "label": "LOC",
+    "text": "Picardie",
+    "jalons": [
+      390,
+      398
+    ]
+  },
+  "entite_317": {
+    "label": "LOC",
+    "text": "pendra pas de moi",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "Monsieur de Bréville",
+    "jalons": [
+      473,
+      493
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "Montrésor",
+    "jalons": [
+      1,
+      10
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      175,
+      181
+    ]
+  },
+  "entite_321": {
+    "label": "LOC",
+    "text": "Noirmont",
+    "jalons": [
+      325,
+      333
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      337,
+      347
+    ]
+  },
+  "entite_323": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      141,
+      147
+    ]
+  },
+  "entite_324": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      484,
+      490
+    ]
+  },
+  "entite_325": {
+    "label": "MISC",
+    "text": "Dufour et lui serre la main en lui",
+    "jalons": [
+      71,
+      105
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      372,
+      378
+    ]
+  },
+  "entite_327": {
+    "label": "PER",
+    "text": "Mais Armand",
+    "jalons": [
+      2,
+      13
+    ]
+  },
+  "entite_328": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      219,
+      224
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      67,
+      73
+    ]
+  },
+  "entite_330": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      322,
+      328
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "Bretagne",
+    "jalons": [
+      74,
+      82
+    ]
+  },
+  "entite_332": {
+    "label": "LOC",
+    "text": "Bretagne",
+    "jalons": [
+      104,
+      112
+    ]
+  },
+  "entite_333": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      336,
+      341
+    ]
+  },
+  "entite_334": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      226,
+      231
+    ]
+  },
+  "entite_335": {
+    "label": "PER",
+    "text": "M. Dalmer",
+    "jalons": [
+      265,
+      274
+    ]
+  },
+  "entite_336": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      23,
+      29
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      41,
+      55
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      504,
+      510
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "Nanette, la fille de la",
+    "jalons": [
+      160,
+      183
+    ]
+  },
+  "entite_340": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      147,
+      152
+    ]
+  },
+  "entite_341": {
+    "label": "LOC",
+    "text": "Madame de Noirmont",
+    "jalons": [
+      244,
+      262
+    ]
+  },
+  "entite_342": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      85,
+      94
+    ]
+  },
+  "entite_343": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      108,
+      117
+    ]
+  },
+  "entite_344": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      157,
+      164
+    ]
+  },
+  "entite_345": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      257,
+      262
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "La maîtresse de la",
+    "jalons": [
+      315,
+      333
+    ]
+  },
+  "entite_347": {
+    "label": "MISC",
+    "text": "Armand et de sa sœur",
+    "jalons": [
+      1,
+      21
+    ]
+  },
+  "entite_348": {
+    "label": "MISC",
+    "text": "Elle s'appuie sur Jacques en lui",
+    "jalons": [
+      275,
+      307
+    ]
+  },
+  "entite_349": {
+    "label": "MISC",
+    "text": "Jacques serrait la main de la jeune fille",
+    "jalons": [
+      103,
+      144
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      235,
+      240
+    ]
+  },
+  "entite_351": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      383,
+      390
+    ]
+  },
+  "entite_352": {
+    "label": "PER",
+    "text": "Adieu",
+    "jalons": [
+      16,
+      21
+    ]
+  },
+  "entite_353": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      23,
+      32
+    ]
+  },
+  "entite_354": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      388,
+      394
+    ]
+  },
+  "entite_355": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      463,
+      468
+    ]
+  },
+  "entite_356": {
+    "label": "LOC",
+    "text": "Mais la",
+    "jalons": [
+      48,
+      55
+    ]
+  },
+  "entite_357": {
+    "label": "MISC",
+    "text": "pensée que je vais revoir la demeure de",
+    "jalons": [
+      56,
+      95
+    ]
+  },
+  "entite_358": {
+    "label": "PER",
+    "text": "Victor fait",
+    "jalons": [
+      463,
+      474
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "Là-bas",
+    "jalons": [
+      163,
+      169
+    ]
+  },
+  "entite_360": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      205,
+      211
+    ]
+  },
+  "entite_361": {
+    "label": "LOC",
+    "text": "Dalmer",
+    "jalons": [
+      339,
+      345
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      351,
+      357
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      161,
+      167
+    ]
+  },
+  "entite_364": {
+    "label": "LOC",
+    "text": "Depuis près de cinq",
+    "jalons": [
+      169,
+      188
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "Mortagne",
+    "jalons": [
+      260,
+      268
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      428,
+      433
+    ]
+  },
+  "entite_367": {
+    "label": "PER",
+    "text": "Armand",
+    "jalons": [
+      8,
+      14
+    ]
+  },
+  "entite_368": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      50,
+      55
+    ]
+  },
+  "entite_369": {
+    "label": "LOC",
+    "text": "lais",
+    "jalons": [
+      0,
+      4
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      196,
+      202
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      21,
+      27
+    ]
+  },
+  "entite_372": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      48,
+      62
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      50,
+      56
+    ]
+  },
+  "entite_374": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      189,
+      198
+    ]
+  },
+  "entite_375": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      20,
+      26
+    ]
+  },
+  "entite_376": {
+    "label": "PER",
+    "text": "madame de Noirmont",
+    "jalons": [
+      38,
+      56
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      109,
+      118
+    ]
+  },
+  "entite_378": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      190,
+      195
+    ]
+  },
+  "entite_379": {
+    "label": "LOC",
+    "text": "lles de",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_380": {
+    "label": "MISC",
+    "text": "la personne dont vous parlez",
+    "jalons": [
+      8,
+      36
+    ]
+  },
+  "entite_381": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      78,
+      87
+    ]
+  },
+  "entite_382": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      387,
+      393
+    ]
+  },
+  "entite_383": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      493,
+      502
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      482,
+      490
+    ]
+  },
+  "entite_385": {
+    "label": "LOC",
+    "text": "La jeune fille",
+    "jalons": [
+      492,
+      506
+    ]
+  },
+  "entite_386": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      405,
+      411
+    ]
+  },
+  "entite_387": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      451,
+      456
+    ]
+  },
+  "entite_388": {
+    "label": "LOC",
+    "text": "la voix de Dufour",
+    "jalons": [
+      11,
+      28
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      315,
+      324
+    ]
+  },
+  "entite_390": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      448,
+      457
+    ]
+  },
+  "entite_391": {
+    "label": "PER",
+    "text": "s'écrie Dufour",
+    "jalons": [
+      459,
+      473
+    ]
+  },
+  "entite_392": {
+    "label": "LOC",
+    "text": "la jeune fille de la",
+    "jalons": [
+      475,
+      495
+    ]
+  },
+  "entite_393": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      72,
+      81
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      397,
+      402
+    ]
+  },
+  "entite_395": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      221,
+      227
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      389,
+      398
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "Grandpierre",
+    "jalons": [
+      188,
+      199
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      284,
+      293
+    ]
+  },
+  "entite_399": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      117,
+      126
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Babolein",
+    "jalons": [
+      93,
+      101
+    ]
+  },
+  "entite_401": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      107,
+      116
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      488,
+      494
+    ]
+  },
+  "entite_403": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      426,
+      433
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      192,
+      200
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      400,
+      406
+    ]
+  },
+  "entite_406": {
+    "label": "MISC",
+    "text": "Messieurs de Noirmont et Saint-Elme",
+    "jalons": [
+      217,
+      252
+    ]
+  },
+  "entite_407": {
+    "label": "LOC",
+    "text": "Pomard",
+    "jalons": [
+      269,
+      275
+    ]
+  },
+  "entite_408": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      462,
+      476
+    ]
+  },
+  "entite_409": {
+    "label": "LOC",
+    "text": "Honneur",
+    "jalons": [
+      480,
+      487
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "Voyez",
+    "jalons": [
+      80,
+      85
+    ]
+  },
+  "entite_411": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      296,
+      302
+    ]
+  },
+  "entite_412": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      233,
+      239
+    ]
+  },
+  "entite_413": {
+    "label": "PER",
+    "text": "M. Pomard s'adresse",
+    "jalons": [
+      241,
+      260
+    ]
+  },
+  "entite_414": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      263,
+      269
+    ]
+  },
+  "entite_415": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      274,
+      288
+    ]
+  },
+  "entite_416": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      119,
+      125
+    ]
+  },
+  "entite_417": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      492,
+      498
+    ]
+  },
+  "entite_418": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      120,
+      126
+    ]
+  },
+  "entite_419": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      213,
+      223
+    ]
+  },
+  "entite_420": {
+    "label": "LOC",
+    "text": "Crois-moi",
+    "jalons": [
+      299,
+      308
+    ]
+  },
+  "entite_421": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      445,
+      450
+    ]
+  },
+  "entite_422": {
+    "label": "LOC",
+    "text": "Aussi",
+    "jalons": [
+      351,
+      356
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Aussi",
+    "jalons": [
+      243,
+      248
+    ]
+  },
+  "entite_424": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      425,
+      430
+    ]
+  },
+  "entite_425": {
+    "label": "PER",
+    "text": "M. Pomard",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_426": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      444,
+      450
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "M. Pomard",
+    "jalons": [
+      17,
+      26
+    ]
+  },
+  "entite_428": {
+    "label": "PER",
+    "text": "Victor remarque que la jeune",
+    "jalons": [
+      68,
+      96
+    ]
+  },
+  "entite_429": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      294,
+      308
+    ]
+  },
+  "entite_430": {
+    "label": "PER",
+    "text": "Mais Victor",
+    "jalons": [
+      353,
+      364
+    ]
+  },
+  "entite_431": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      475,
+      484
+    ]
+  },
+  "entite_432": {
+    "label": "LOC",
+    "text": "Ernest",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_433": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      467,
+      477
+    ]
+  },
+  "entite_434": {
+    "label": "PER",
+    "text": "M. de Noi",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      7,
+      13
+    ]
+  },
+  "entite_436": {
+    "label": "PER",
+    "text": "M. Pomard",
+    "jalons": [
+      15,
+      24
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      294,
+      303
+    ]
+  },
+  "entite_438": {
+    "label": "LOC",
+    "text": "L'orpheline",
+    "jalons": [
+      305,
+      316
+    ]
+  },
+  "entite_439": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      348,
+      362
+    ]
+  },
+  "entite_440": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      401,
+      415
+    ]
+  },
+  "entite_441": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      437,
+      446
+    ]
+  },
+  "entite_442": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      477,
+      486
+    ]
+  },
+  "entite_443": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      222,
+      231
+    ]
+  },
+  "entite_444": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      91,
+      100
+    ]
+  },
+  "entite_445": {
+    "label": "PER",
+    "text": "Victor Dalmer",
+    "jalons": [
+      455,
+      468
+    ]
+  },
+  "entite_446": {
+    "label": "PER",
+    "text": "Avec lui",
+    "jalons": [
+      10,
+      18
+    ]
+  },
+  "entite_447": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      232,
+      237
+    ]
+  },
+  "entite_448": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      314,
+      328
+    ]
+  },
+  "entite_449": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      330,
+      336
+    ]
+  },
+  "entite_450": {
+    "label": "LOC",
+    "text": "Montrésor",
+    "jalons": [
+      365,
+      374
+    ]
+  },
+  "entite_451": {
+    "label": "LOC",
+    "text": "Pomard",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_452": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      211,
+      217
+    ]
+  },
+  "entite_453": {
+    "label": "LOC",
+    "text": "Dalmer",
+    "jalons": [
+      462,
+      468
+    ]
+  },
+  "entite_454": {
+    "label": "LOC",
+    "text": "Chéri",
+    "jalons": [
+      48,
+      53
+    ]
+  },
+  "entite_455": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      396,
+      402
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "Chéri",
+    "jalons": [
+      495,
+      500
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      360,
+      366
+    ]
+  },
+  "entite_458": {
+    "label": "LOC",
+    "text": "Pomard",
+    "jalons": [
+      80,
+      86
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "Pomard",
+    "jalons": [
+      465,
+      471
+    ]
+  },
+  "entite_460": {
+    "label": "PER",
+    "text": "M. Pomard",
+    "jalons": [
+      100,
+      109
+    ]
+  },
+  "entite_461": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      491,
+      500
+    ]
+  },
+  "entite_462": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      308,
+      314
+    ]
+  },
+  "entite_463": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      185,
+      193
+    ]
+  },
+  "entite_464": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      243,
+      257
+    ]
+  },
+  "entite_465": {
+    "label": "LOC",
+    "text": "Pomard",
+    "jalons": [
+      25,
+      31
+    ]
+  },
+  "entite_466": {
+    "label": "LOC",
+    "text": "la gaîté de sa sœur",
+    "jalons": [
+      33,
+      52
+    ]
+  },
+  "entite_467": {
+    "label": "MISC",
+    "text": "Depuis que Victor a ramené Madeleine dans les bras d'Ernestine",
+    "jalons": [
+      70,
+      132
+    ]
+  },
+  "entite_468": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      311,
+      321
+    ]
+  },
+  "entite_469": {
+    "label": "PER",
+    "text": "Ernestine et Madeleine",
+    "jalons": [
+      388,
+      410
+    ]
+  },
+  "entite_470": {
+    "label": "MISC",
+    "text": "Ernestine et à Madeleine",
+    "jalons": [
+      37,
+      61
+    ]
+  },
+  "entite_471": {
+    "label": "LOC",
+    "text": "J'aimerais",
+    "jalons": [
+      501,
+      511
+    ]
+  },
+  "entite_472": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      241,
+      255
+    ]
+  },
+  "entite_473": {
+    "label": "PER",
+    "text": "M. de Noirm",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_474": {
+    "label": "LOC",
+    "text": "Dalmer",
+    "jalons": [
+      427,
+      433
+    ]
+  },
+  "entite_475": {
+    "label": "PER",
+    "text": "Mais Madeleine",
+    "jalons": [
+      178,
+      192
+    ]
+  },
+  "entite_476": {
+    "label": "PER",
+    "text": "Pauvre Madeleine",
+    "jalons": [
+      20,
+      36
+    ]
+  },
+  "entite_477": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      468,
+      482
+    ]
+  },
+  "entite_478": {
+    "label": "MISC",
+    "text": "ne va pas à la chasse",
+    "jalons": [
+      483,
+      504
+    ]
+  },
+  "entite_479": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      184,
+      190
+    ]
+  },
+  "entite_480": {
+    "label": "MISC",
+    "text": "Madame de Noirmont est la vertu même",
+    "jalons": [
+      460,
+      496
+    ]
+  },
+  "entite_481": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      353,
+      359
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "Voilà Ar",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      131,
+      136
+    ]
+  },
+  "entite_484": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      499,
+      506
+    ]
+  },
+  "entite_485": {
+    "label": "PER",
+    "text": "Dufour",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      93,
+      99
+    ]
+  },
+  "entite_487": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      228,
+      234
+    ]
+  },
+  "entite_488": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      287,
+      293
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      502,
+      508
+    ]
+  },
+  "entite_490": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      105,
+      119
+    ]
+  },
+  "entite_491": {
+    "label": "PER",
+    "text": "M. de Saint-Elme",
+    "jalons": [
+      293,
+      309
+    ]
+  },
+  "entite_492": {
+    "label": "MISC",
+    "text": "J'ai à parler au ministre de la guerre pour un de mes",
+    "jalons": [
+      341,
+      394
+    ]
+  },
+  "entite_493": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      98,
+      104
+    ]
+  },
+  "entite_494": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      195,
+      205
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      307,
+      313
+    ]
+  },
+  "entite_496": {
+    "label": "PER",
+    "text": "Victor va",
+    "jalons": [
+      215,
+      224
+    ]
+  },
+  "entite_497": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      294,
+      303
+    ]
+  },
+  "entite_498": {
+    "label": "PER",
+    "text": "M. de Saint-Elme",
+    "jalons": [
+      48,
+      64
+    ]
+  },
+  "entite_499": {
+    "label": "MISC",
+    "text": "Enfin le jeune homme prend la main de Madeleine",
+    "jalons": [
+      106,
+      153
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      187,
+      196
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      199,
+      205
+    ]
+  },
+  "entite_502": {
+    "label": "PER",
+    "text": "de M. de Noirmont",
+    "jalons": [
+      220,
+      237
+    ]
+  },
+  "entite_503": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      239,
+      248
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "M. de Noirmont de le",
+    "jalons": [
+      172,
+      192
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "Voyez",
+    "jalons": [
+      483,
+      488
+    ]
+  },
+  "entite_506": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      474,
+      488
+    ]
+  },
+  "entite_507": {
+    "label": "PER",
+    "text": "Dufo",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      259,
+      265
+    ]
+  },
+  "entite_509": {
+    "label": "MISC",
+    "text": "Outre les maîtres de la maison et les Pomard",
+    "jalons": [
+      336,
+      380
+    ]
+  },
+  "entite_510": {
+    "label": "PER",
+    "text": "Courtois",
+    "jalons": [
+      450,
+      458
+    ]
+  },
+  "entite_511": {
+    "label": "PER",
+    "text": "Victor se",
+    "jalons": [
+      460,
+      469
+    ]
+  },
+  "entite_512": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      116,
+      130
+    ]
+  },
+  "entite_513": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      286,
+      292
+    ]
+  },
+  "entite_514": {
+    "label": "LOC",
+    "text": "Lucie",
+    "jalons": [
+      359,
+      364
+    ]
+  },
+  "entite_515": {
+    "label": "LOC",
+    "text": "Lucie",
+    "jalons": [
+      11,
+      16
+    ]
+  },
+  "entite_516": {
+    "label": "PER",
+    "text": "M. Montrésor",
+    "jalons": [
+      202,
+      214
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "Pomard",
+    "jalons": [
+      453,
+      459
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      99,
+      104
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      310,
+      316
+    ]
+  },
+  "entite_520": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      332,
+      337
+    ]
+  },
+  "entite_521": {
+    "label": "PER",
+    "text": "Mademoiselle Clara",
+    "jalons": [
+      131,
+      149
+    ]
+  },
+  "entite_522": {
+    "label": "PER",
+    "text": "M. Montrésor",
+    "jalons": [
+      326,
+      338
+    ]
+  },
+  "entite_523": {
+    "label": "LOC",
+    "text": "Trente-neuf",
+    "jalons": [
+      343,
+      354
+    ]
+  },
+  "entite_524": {
+    "label": "PER",
+    "text": "M. Montrésor",
+    "jalons": [
+      473,
+      485
+    ]
+  },
+  "entite_525": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      13,
+      18
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      166,
+      172
+    ]
+  },
+  "entite_527": {
+    "label": "LOC",
+    "text": "Montrésor",
+    "jalons": [
+      99,
+      108
+    ]
+  },
+  "entite_528": {
+    "label": "PER",
+    "text": "M. Courtois",
+    "jalons": [
+      285,
+      296
+    ]
+  },
+  "entite_529": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      167,
+      173
+    ]
+  },
+  "entite_530": {
+    "label": "PER",
+    "text": "dit Dufour",
+    "jalons": [
+      10,
+      20
+    ]
+  },
+  "entite_531": {
+    "label": "LOC",
+    "text": "Lucie",
+    "jalons": [
+      397,
+      402
+    ]
+  },
+  "entite_532": {
+    "label": "LOC",
+    "text": "Pardonnez-moi",
+    "jalons": [
+      475,
+      488
+    ]
+  },
+  "entite_533": {
+    "label": "PER",
+    "text": "Madame Montrésor",
+    "jalons": [
+      475,
+      491
+    ]
+  },
+  "entite_534": {
+    "label": "PER",
+    "text": "monsieur Pomard",
+    "jalons": [
+      494,
+      509
+    ]
+  },
+  "entite_535": {
+    "label": "MISC",
+    "text": "J'ai eu deux de mes",
+    "jalons": [
+      464,
+      483
+    ]
+  },
+  "entite_536": {
+    "label": "LOC",
+    "text": "Madame Bonn",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_537": {
+    "label": "LOC",
+    "text": "Beaucoup de bien",
+    "jalons": [
+      440,
+      456
+    ]
+  },
+  "entite_538": {
+    "label": "LOC",
+    "text": "remarque de la petite",
+    "jalons": [
+      1,
+      22
+    ]
+  },
+  "entite_539": {
+    "label": "LOC",
+    "text": "Noirmont",
+    "jalons": [
+      45,
+      53
+    ]
+  },
+  "entite_540": {
+    "label": "LOC",
+    "text": "Mademoiselle Lucie",
+    "jalons": [
+      58,
+      76
+    ]
+  },
+  "entite_541": {
+    "label": "LOC",
+    "text": "Pomard",
+    "jalons": [
+      447,
+      453
+    ]
+  },
+  "entite_542": {
+    "label": "PER",
+    "text": "Bientôt M. de Noirmont parle de se",
+    "jalons": [
+      4,
+      38
+    ]
+  },
+  "entite_543": {
+    "label": "PER",
+    "text": "M. Dalmer",
+    "jalons": [
+      458,
+      467
+    ]
+  },
+  "entite_544": {
+    "label": "LOC",
+    "text": "Montrésor",
+    "jalons": [
+      177,
+      186
+    ]
+  },
+  "entite_545": {
+    "label": "PER",
+    "text": "M. Courtois",
+    "jalons": [
+      7,
+      18
+    ]
+  },
+  "entite_546": {
+    "label": "LOC",
+    "text": "Pourvu que j'aie de la",
+    "jalons": [
+      476,
+      498
+    ]
+  },
+  "entite_547": {
+    "label": "PER",
+    "text": "Monsieur Courtois",
+    "jalons": [
+      16,
+      33
+    ]
+  },
+  "entite_548": {
+    "label": "PER",
+    "text": "M. Courtois",
+    "jalons": [
+      53,
+      64
+    ]
+  },
+  "entite_549": {
+    "label": "LOC",
+    "text": "Bonnifoux",
+    "jalons": [
+      90,
+      99
+    ]
+  },
+  "entite_550": {
+    "label": "LOC",
+    "text": "Lucie",
+    "jalons": [
+      111,
+      116
+    ]
+  },
+  "entite_551": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      278,
+      287
+    ]
+  },
+  "entite_552": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      292,
+      298
+    ]
+  },
+  "entite_553": {
+    "label": "LOC",
+    "text": "Le lendemain de la partie de",
+    "jalons": [
+      38,
+      66
+    ]
+  },
+  "entite_554": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      73,
+      82
+    ]
+  },
+  "entite_555": {
+    "label": "PER",
+    "text": "de Jacques",
+    "jalons": [
+      482,
+      492
+    ]
+  },
+  "entite_556": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      497,
+      504
+    ]
+  },
+  "entite_557": {
+    "label": "PER",
+    "text": "Madele",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_558": {
+    "label": "LOC",
+    "text": "la main de la jeune fille",
+    "jalons": [
+      33,
+      58
+    ]
+  },
+  "entite_559": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      65,
+      72
+    ]
+  },
+  "entite_560": {
+    "label": "LOC",
+    "text": "Bonne Madeleine",
+    "jalons": [
+      187,
+      202
+    ]
+  },
+  "entite_561": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      461,
+      470
+    ]
+  },
+  "entite_562": {
+    "label": "PER",
+    "text": "M. Victor Dalmer",
+    "jalons": [
+      221,
+      237
+    ]
+  },
+  "entite_563": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      280,
+      285
+    ]
+  },
+  "entite_564": {
+    "label": "PER",
+    "text": "M. de Saint-Elme",
+    "jalons": [
+      365,
+      381
+    ]
+  },
+  "entite_565": {
+    "label": "PER",
+    "text": "l'ami d'Armand",
+    "jalons": [
+      383,
+      397
+    ]
+  },
+  "entite_566": {
+    "label": "PER",
+    "text": "M. Victor donne le bras",
+    "jalons": [
+      56,
+      79
+    ]
+  },
+  "entite_567": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      410,
+      424
+    ]
+  },
+  "entite_568": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      7,
+      21
+    ]
+  },
+  "entite_569": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      165,
+      174
+    ]
+  },
+  "entite_570": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      364,
+      370
+    ]
+  },
+  "entite_571": {
+    "label": "MISC",
+    "text": "jamais trouver l'occasion de leur être bonne à quelque",
+    "jalons": [
+      0,
+      54
+    ]
+  },
+  "entite_572": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      131,
+      140
+    ]
+  },
+  "entite_573": {
+    "label": "MISC",
+    "text": "Quelquefois elle met à l'abri de bien des",
+    "jalons": [
+      26,
+      67
+    ]
+  },
+  "entite_574": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      150,
+      159
+    ]
+  },
+  "entite_575": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      247,
+      252
+    ]
+  },
+  "entite_576": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      320,
+      325
+    ]
+  },
+  "entite_577": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      62,
+      69
+    ]
+  },
+  "entite_578": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      173,
+      179
+    ]
+  },
+  "entite_579": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      190,
+      195
+    ]
+  },
+  "entite_580": {
+    "label": "LOC",
+    "text": "M. de Saint-Elme",
+    "jalons": [
+      214,
+      230
+    ]
+  },
+  "entite_581": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      329,
+      334
+    ]
+  },
+  "entite_582": {
+    "label": "LOC",
+    "text": "miez",
+    "jalons": [
+      0,
+      4
+    ]
+  },
+  "entite_583": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      48,
+      55
+    ]
+  },
+  "entite_584": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      243,
+      252
+    ]
+  },
+  "entite_585": {
+    "label": "LOC",
+    "text": "Celle",
+    "jalons": [
+      498,
+      503
+    ]
+  },
+  "entite_586": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      89,
+      96
+    ]
+  },
+  "entite_587": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      125,
+      132
+    ]
+  },
+  "entite_588": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      386,
+      392
+    ]
+  },
+  "entite_589": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      493,
+      501
+    ]
+  },
+  "entite_590": {
+    "label": "MISC",
+    "text": "Madeleine ? si en effet je me suis",
+    "jalons": [
+      4,
+      38
+    ]
+  },
+  "entite_591": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      237,
+      246
+    ]
+  },
+  "entite_592": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      326,
+      333
+    ]
+  },
+  "entite_593": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      16,
+      23
+    ]
+  },
+  "entite_594": {
+    "label": "LOC",
+    "text": "Au bas de la plaine",
+    "jalons": [
+      414,
+      433
+    ]
+  },
+  "entite_595": {
+    "label": "PER",
+    "text": "Madeleine n'avait",
+    "jalons": [
+      6,
+      23
+    ]
+  },
+  "entite_596": {
+    "label": "PER",
+    "text": "Enfin il s'écrie",
+    "jalons": [
+      3,
+      19
+    ]
+  },
+  "entite_597": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      171,
+      178
+    ]
+  },
+  "entite_598": {
+    "label": "PER",
+    "text": "Jacques en relevant la tête",
+    "jalons": [
+      70,
+      97
+    ]
+  },
+  "entite_599": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      94,
+      101
+    ]
+  },
+  "entite_600": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      310,
+      319
+    ]
+  },
+  "entite_601": {
+    "label": "LOC",
+    "text": "Adieu",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_602": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      359,
+      368
+    ]
+  },
+  "entite_603": {
+    "label": "ORG",
+    "text": "porte qui ouvre sur les jardins de Bré",
+    "jalons": [
+      474,
+      512
+    ]
+  },
+  "entite_604": {
+    "label": "MISC",
+    "text": "Madeleine rentre et va du côté de la",
+    "jalons": [
+      7,
+      43
+    ]
+  },
+  "entite_605": {
+    "label": "PER",
+    "text": "Pauvre Madeleine",
+    "jalons": [
+      487,
+      503
+    ]
+  },
+  "entite_606": {
+    "label": "PER",
+    "text": "elle que Victor cherchait dans le jardin",
+    "jalons": [
+      9,
+      49
+    ]
+  },
+  "entite_607": {
+    "label": "PER",
+    "text": "MADELEINE",
+    "jalons": [
+      77,
+      86
+    ]
+  },
+  "entite_608": {
+    "label": "LOC",
+    "text": "Montrésor",
+    "jalons": [
+      494,
+      503
+    ]
+  },
+  "entite_609": {
+    "label": "MISC",
+    "text": "brûle de voir Ernestine",
+    "jalons": [
+      0,
+      23
+    ]
+  },
+  "entite_610": {
+    "label": "MISC",
+    "text": "de Noirmont ne quitte pas sa chambre ou le salon",
+    "jalons": [
+      1,
+      49
+    ]
+  },
+  "entite_611": {
+    "label": "PER",
+    "text": "Madame de Noirmont s'aperçoit de la tristesse de Victor",
+    "jalons": [
+      1,
+      56
+    ]
+  },
+  "entite_612": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      99,
+      108
+    ]
+  },
+  "entite_613": {
+    "label": "PER",
+    "text": "Victor en s'approchant d'Ernestine",
+    "jalons": [
+      5,
+      39
+    ]
+  },
+  "entite_614": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      203,
+      217
+    ]
+  },
+  "entite_615": {
+    "label": "PER",
+    "text": "M. Dalmer",
+    "jalons": [
+      240,
+      249
+    ]
+  },
+  "entite_616": {
+    "label": "LOC",
+    "text": "Constitutionnel",
+    "jalons": [
+      304,
+      319
+    ]
+  },
+  "entite_617": {
+    "label": "MISC",
+    "text": "Je vais toujours faire le portrait de M. de Noirmont en chasseur",
+    "jalons": [
+      178,
+      242
+    ]
+  },
+  "entite_618": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      398,
+      412
+    ]
+  },
+  "entite_619": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      493,
+      499
+    ]
+  },
+  "entite_620": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      428,
+      434
+    ]
+  },
+  "entite_621": {
+    "label": "MISC",
+    "text": "près d'Ernestine avant qu'on ait eu l'air de l'apercevoir",
+    "jalons": [
+      37,
+      94
+    ]
+  },
+  "entite_622": {
+    "label": "PER",
+    "text": "Ernestine",
+    "jalons": [
+      65,
+      74
+    ]
+  },
+  "entite_623": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      388,
+      393
+    ]
+  },
+  "entite_624": {
+    "label": "MISC",
+    "text": "Parce que la société de mon mari et la mienne",
+    "jalons": [
+      26,
+      71
+    ]
+  },
+  "entite_625": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      384,
+      390
+    ]
+  },
+  "entite_626": {
+    "label": "PER",
+    "text": "de M. de Noirmont",
+    "jalons": [
+      426,
+      443
+    ]
+  },
+  "entite_627": {
+    "label": "MISC",
+    "text": "donc bien fâchée de les",
+    "jalons": [
+      10,
+      33
+    ]
+  },
+  "entite_628": {
+    "label": "PER",
+    "text": "de M. de Noirmont",
+    "jalons": [
+      125,
+      142
+    ]
+  },
+  "entite_629": {
+    "label": "LOC",
+    "text": "Pomard",
+    "jalons": [
+      270,
+      276
+    ]
+  },
+  "entite_630": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      47,
+      56
+    ]
+  },
+  "entite_631": {
+    "label": "LOC",
+    "text": "Dalmer",
+    "jalons": [
+      83,
+      89
+    ]
+  },
+  "entite_632": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      483,
+      492
+    ]
+  },
+  "entite_633": {
+    "label": "MISC",
+    "text": "s'arracher de son maudit",
+    "jalons": [
+      1,
+      25
+    ]
+  },
+  "entite_634": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      26,
+      31
+    ]
+  },
+  "entite_635": {
+    "label": "PER",
+    "text": "M. Dalmer",
+    "jalons": [
+      87,
+      96
+    ]
+  },
+  "entite_636": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      208,
+      222
+    ]
+  },
+  "entite_637": {
+    "label": "PER",
+    "text": "Les Pomard",
+    "jalons": [
+      42,
+      52
+    ]
+  },
+  "entite_638": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      221,
+      226
+    ]
+  },
+  "entite_639": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      236,
+      241
+    ]
+  },
+  "entite_640": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      391,
+      396
+    ]
+  },
+  "entite_641": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      492,
+      497
+    ]
+  },
+  "entite_642": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      24,
+      33
+    ]
+  },
+  "entite_643": {
+    "label": "MISC",
+    "text": "aller et venir seule dans la maison",
+    "jalons": [
+      1,
+      36
+    ]
+  },
+  "entite_644": {
+    "label": "MISC",
+    "text": "déjà la justesse de ce que lui",
+    "jalons": [
+      404,
+      434
+    ]
+  },
+  "entite_645": {
+    "label": "PER",
+    "text": "de M. de Noirmont",
+    "jalons": [
+      486,
+      503
+    ]
+  },
+  "entite_646": {
+    "label": "PER",
+    "text": "Dufour",
+    "jalons": [
+      4,
+      10
+    ]
+  },
+  "entite_647": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      48,
+      62
+    ]
+  },
+  "entite_648": {
+    "label": "PER",
+    "text": "Monsieur de Noirmont",
+    "jalons": [
+      334,
+      354
+    ]
+  },
+  "entite_649": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_650": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      1,
+      15
+    ]
+  },
+  "entite_651": {
+    "label": "LOC",
+    "text": "Montrésor",
+    "jalons": [
+      131,
+      140
+    ]
+  },
+  "entite_652": {
+    "label": "MISC",
+    "text": "Nous venons voir le portrait de M. de Noirmont et passer la soirée avec vous",
+    "jalons": [
+      252,
+      328
+    ]
+  },
+  "entite_653": {
+    "label": "LOC",
+    "text": "la vue de la",
+    "jalons": [
+      85,
+      97
+    ]
+  },
+  "entite_654": {
+    "label": "LOC",
+    "text": "Dufou",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_655": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      27,
+      41
+    ]
+  },
+  "entite_656": {
+    "label": "MISC",
+    "text": "de la liberté de la campagne",
+    "jalons": [
+      106,
+      134
+    ]
+  },
+  "entite_657": {
+    "label": "PER",
+    "text": "J'en ai assez",
+    "jalons": [
+      178,
+      191
+    ]
+  },
+  "entite_658": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      291,
+      297
+    ]
+  },
+  "entite_659": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      445,
+      459
+    ]
+  },
+  "entite_660": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      193,
+      207
+    ]
+  },
+  "entite_661": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      452,
+      456
+    ]
+  },
+  "entite_662": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      486,
+      500
+    ]
+  },
+  "entite_663": {
+    "label": "PER",
+    "text": "Chéri",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_664": {
+    "label": "MISC",
+    "text": "j'ai aussi besoin de voir quelqu'un à",
+    "jalons": [
+      2,
+      39
+    ]
+  },
+  "entite_665": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      40,
+      44
+    ]
+  },
+  "entite_666": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      254,
+      258
+    ]
+  },
+  "entite_667": {
+    "label": "PER",
+    "text": "de M. de Noirmont",
+    "jalons": [
+      460,
+      477
+    ]
+  },
+  "entite_668": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      484,
+      490
+    ]
+  },
+  "entite_669": {
+    "label": "PER",
+    "text": "Vous trouvez que j'ai fait M. de Noirmont",
+    "jalons": [
+      42,
+      83
+    ]
+  },
+  "entite_670": {
+    "label": "PER",
+    "text": "s'écrie Dufour",
+    "jalons": [
+      94,
+      108
+    ]
+  },
+  "entite_671": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      362,
+      367
+    ]
+  },
+  "entite_672": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      400,
+      414
+    ]
+  },
+  "entite_673": {
+    "label": "LOC",
+    "text": "Chéri",
+    "jalons": [
+      187,
+      192
+    ]
+  },
+  "entite_674": {
+    "label": "MISC",
+    "text": "M. de Noirmont vient de le tuer",
+    "jalons": [
+      203,
+      234
+    ]
+  },
+  "entite_675": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      41,
+      47
+    ]
+  },
+  "entite_676": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      188,
+      202
+    ]
+  },
+  "entite_677": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      478,
+      487
+    ]
+  },
+  "entite_678": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      113,
+      122
+    ]
+  },
+  "entite_679": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      125,
+      133
+    ]
+  },
+  "entite_680": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      491,
+      500
+    ]
+  },
+  "entite_681": {
+    "label": "MISC",
+    "text": "tu es malade",
+    "jalons": [
+      1,
+      13
+    ]
+  },
+  "entite_682": {
+    "label": "MISC",
+    "text": "Tout est en état",
+    "jalons": [
+      13,
+      29
+    ]
+  },
+  "entite_683": {
+    "label": "MISC",
+    "text": "Madame de Noirmont se",
+    "jalons": [
+      281,
+      302
+    ]
+  },
+  "entite_684": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      413,
+      418
+    ]
+  },
+  "entite_685": {
+    "label": "PER",
+    "text": "de Noirmon",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_686": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      172,
+      181
+    ]
+  },
+  "entite_687": {
+    "label": "MISC",
+    "text": "Ernestine pense que Dufour sera de la partie",
+    "jalons": [
+      373,
+      417
+    ]
+  },
+  "entite_688": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      96,
+      102
+    ]
+  },
+  "entite_689": {
+    "label": "MISC",
+    "text": "Et Dufour monte chez lui",
+    "jalons": [
+      337,
+      361
+    ]
+  },
+  "entite_690": {
+    "label": "PER",
+    "text": "de M. de Noirmont",
+    "jalons": [
+      485,
+      502
+    ]
+  },
+  "entite_691": {
+    "label": "LOC",
+    "text": "Eh",
+    "jalons": [
+      507,
+      509
+    ]
+  },
+  "entite_692": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      152,
+      161
+    ]
+  },
+  "entite_693": {
+    "label": "PER",
+    "text": "Madame de Noirmont",
+    "jalons": [
+      164,
+      182
+    ]
+  },
+  "entite_694": {
+    "label": "PER",
+    "text": "M. Pomard donne le bras",
+    "jalons": [
+      27,
+      50
+    ]
+  },
+  "entite_695": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      255,
+      260
+    ]
+  },
+  "entite_696": {
+    "label": "LOC",
+    "text": "Bonnifoux",
+    "jalons": [
+      40,
+      49
+    ]
+  },
+  "entite_697": {
+    "label": "MISC",
+    "text": "tromper et de cueillir à la place de mauvais",
+    "jalons": [
+      1,
+      45
+    ]
+  },
+  "entite_698": {
+    "label": "LOC",
+    "text": "Montrésor",
+    "jalons": [
+      70,
+      79
+    ]
+  },
+  "entite_699": {
+    "label": "PER",
+    "text": "Pomard",
+    "jalons": [
+      28,
+      34
+    ]
+  },
+  "entite_700": {
+    "label": "PER",
+    "text": "Ernestine",
+    "jalons": [
+      69,
+      78
+    ]
+  },
+  "entite_701": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      392,
+      397
+    ]
+  },
+  "entite_702": {
+    "label": "PER",
+    "text": "crie Sophie",
+    "jalons": [
+      496,
+      507
+    ]
+  },
+  "entite_703": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      149,
+      154
+    ]
+  },
+  "entite_704": {
+    "label": "PER",
+    "text": "Sophie",
+    "jalons": [
+      166,
+      172
+    ]
+  },
+  "entite_705": {
+    "label": "LOC",
+    "text": "Pomard",
+    "jalons": [
+      219,
+      225
+    ]
+  },
+  "entite_706": {
+    "label": "PER",
+    "text": "Prenez garde",
+    "jalons": [
+      471,
+      483
+    ]
+  },
+  "entite_707": {
+    "label": "LOC",
+    "text": "Pomard",
+    "jalons": [
+      494,
+      500
+    ]
+  },
+  "entite_708": {
+    "label": "LOC",
+    "text": "Peur",
+    "jalons": [
+      443,
+      447
+    ]
+  },
+  "entite_709": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      417,
+      426
+    ]
+  },
+  "entite_710": {
+    "label": "PER",
+    "text": "Pauvre Madeleine",
+    "jalons": [
+      355,
+      371
+    ]
+  },
+  "entite_711": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      67,
+      81
+    ]
+  },
+  "entite_712": {
+    "label": "MISC",
+    "text": "ui qui en est le maître",
+    "jalons": [
+      0,
+      23
+    ]
+  },
+  "entite_713": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      106,
+      120
+    ]
+  },
+  "entite_714": {
+    "label": "MISC",
+    "text": "Je viens de recevoir des lettres de",
+    "jalons": [
+      27,
+      62
+    ]
+  },
+  "entite_715": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      63,
+      68
+    ]
+  },
+  "entite_716": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      74,
+      88
+    ]
+  },
+  "entite_717": {
+    "label": "PER",
+    "text": "D'abord",
+    "jalons": [
+      51,
+      58
+    ]
+  },
+  "entite_718": {
+    "label": "PER",
+    "text": "ami que j'ai",
+    "jalons": [
+      1,
+      13
+    ]
+  },
+  "entite_719": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      16,
+      21
+    ]
+  },
+  "entite_720": {
+    "label": "MISC",
+    "text": "Je l'avais prié de s'informer de la conduite de votre",
+    "jalons": [
+      23,
+      76
+    ]
+  },
+  "entite_721": {
+    "label": "PER",
+    "text": "M. Armand fait le marquis",
+    "jalons": [
+      124,
+      149
+    ]
+  },
+  "entite_722": {
+    "label": "MISC",
+    "text": "beaucoup sur la bonne opinion que j'avais de",
+    "jalons": [
+      11,
+      55
+    ]
+  },
+  "entite_723": {
+    "label": "PER",
+    "text": "M. de Saint-Elme",
+    "jalons": [
+      56,
+      72
+    ]
+  },
+  "entite_724": {
+    "label": "LOC",
+    "text": "Moi",
+    "jalons": [
+      76,
+      79
+    ]
+  },
+  "entite_725": {
+    "label": "MISC",
+    "text": "Comme M. Dalmer et Dufour.... Oui",
+    "jalons": [
+      59,
+      92
+    ]
+  },
+  "entite_726": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      297,
+      301
+    ]
+  },
+  "entite_727": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      57,
+      66
+    ]
+  },
+  "entite_728": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      483,
+      497
+    ]
+  },
+  "entite_729": {
+    "label": "MISC",
+    "text": "lui demande le sujet de sa",
+    "jalons": [
+      20,
+      46
+    ]
+  },
+  "entite_730": {
+    "label": "PER",
+    "text": "Elle lui conte",
+    "jalons": [
+      58,
+      72
+    ]
+  },
+  "entite_731": {
+    "label": "MISC",
+    "text": "Chère Ernestine",
+    "jalons": [
+      35,
+      50
+    ]
+  },
+  "entite_732": {
+    "label": "PER",
+    "text": "Victor s'efforce de calmer",
+    "jalons": [
+      37,
+      63
+    ]
+  },
+  "entite_733": {
+    "label": "LOC",
+    "text": "Laissez-moi",
+    "jalons": [
+      204,
+      215
+    ]
+  },
+  "entite_734": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      333,
+      338
+    ]
+  },
+  "entite_735": {
+    "label": "LOC",
+    "text": "de la Picardie",
+    "jalons": [
+      260,
+      274
+    ]
+  },
+  "entite_736": {
+    "label": "LOC",
+    "text": "La voix",
+    "jalons": [
+      276,
+      283
+    ]
+  },
+  "entite_737": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      297,
+      306
+    ]
+  },
+  "entite_738": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      46,
+      55
+    ]
+  },
+  "entite_739": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      111,
+      120
+    ]
+  },
+  "entite_740": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      446,
+      455
+    ]
+  },
+  "entite_741": {
+    "label": "ORG",
+    "text": "La jeune fille se",
+    "jalons": [
+      495,
+      512
+    ]
+  },
+  "entite_742": {
+    "label": "MISC",
+    "text": "jette dans les bras du paysan",
+    "jalons": [
+      1,
+      30
+    ]
+  },
+  "entite_743": {
+    "label": "PER",
+    "text": "de Jacques",
+    "jalons": [
+      70,
+      80
+    ]
+  },
+  "entite_744": {
+    "label": "MISC",
+    "text": "et retrouve encore des larmes en s'appuyant sur le sein de",
+    "jalons": [
+      82,
+      140
+    ]
+  },
+  "entite_745": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      197,
+      204
+    ]
+  },
+  "entite_746": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      278,
+      285
+    ]
+  },
+  "entite_747": {
+    "label": "LOC",
+    "text": "Dalmer",
+    "jalons": [
+      481,
+      487
+    ]
+  },
+  "entite_748": {
+    "label": "PER",
+    "text": "er de lui",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_749": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      412,
+      421
+    ]
+  },
+  "entite_750": {
+    "label": "MISC",
+    "text": "eté que Jacques ne se sent pas la force de la gronder",
+    "jalons": [
+      0,
+      53
+    ]
+  },
+  "entite_751": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      400,
+      409
+    ]
+  },
+  "entite_752": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      499,
+      506
+    ]
+  },
+  "entite_753": {
+    "label": "MISC",
+    "text": "sens bien que j'ai",
+    "jalons": [
+      0,
+      18
+    ]
+  },
+  "entite_754": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      263,
+      270
+    ]
+  },
+  "entite_755": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      422,
+      429
+    ]
+  },
+  "entite_756": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      69,
+      78
+    ]
+  },
+  "entite_757": {
+    "label": "LOC",
+    "text": "Ainsi",
+    "jalons": [
+      489,
+      494
+    ]
+  },
+  "entite_758": {
+    "label": "LOC",
+    "text": "chaumière",
+    "jalons": [
+      17,
+      26
+    ]
+  },
+  "entite_759": {
+    "label": "MISC",
+    "text": "de Noirmont et Armand",
+    "jalons": [
+      0,
+      21
+    ]
+  },
+  "entite_760": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      196,
+      203
+    ]
+  },
+  "entite_761": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      119,
+      127
+    ]
+  },
+  "entite_762": {
+    "label": "MISC",
+    "text": "s'écrie Ernestine en courant à Madeleine",
+    "jalons": [
+      6,
+      46
+    ]
+  },
+  "entite_763": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      91,
+      96
+    ]
+  },
+  "entite_764": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      248,
+      257
+    ]
+  },
+  "entite_765": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      340,
+      346
+    ]
+  },
+  "entite_766": {
+    "label": "LOC",
+    "text": "La main de la jeune fille",
+    "jalons": [
+      447,
+      472
+    ]
+  },
+  "entite_767": {
+    "label": "LOC",
+    "text": "Qu'a",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_768": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      466,
+      480
+    ]
+  },
+  "entite_769": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      356,
+      361
+    ]
+  },
+  "entite_770": {
+    "label": "LOC",
+    "text": "lui",
+    "jalons": [
+      505,
+      508
+    ]
+  },
+  "entite_771": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      117,
+      126
+    ]
+  },
+  "entite_772": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      338,
+      352
+    ]
+  },
+  "entite_773": {
+    "label": "LOC",
+    "text": "de la plaine",
+    "jalons": [
+      388,
+      400
+    ]
+  },
+  "entite_774": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      168,
+      182
+    ]
+  },
+  "entite_775": {
+    "label": "LOC",
+    "text": "Gizy",
+    "jalons": [
+      231,
+      235
+    ]
+  },
+  "entite_776": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      338,
+      344
+    ]
+  },
+  "entite_777": {
+    "label": "PER",
+    "text": "de le peindre",
+    "jalons": [
+      1,
+      14
+    ]
+  },
+  "entite_778": {
+    "label": "PER",
+    "text": "M. de Noirmont au bout de",
+    "jalons": [
+      83,
+      108
+    ]
+  },
+  "entite_779": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      416,
+      422
+    ]
+  },
+  "entite_780": {
+    "label": "LOC",
+    "text": "qu'on",
+    "jalons": [
+      8,
+      13
+    ]
+  },
+  "entite_781": {
+    "label": "LOC",
+    "text": "Chéri",
+    "jalons": [
+      214,
+      219
+    ]
+  },
+  "entite_782": {
+    "label": "PER",
+    "text": "de Noirmont",
+    "jalons": [
+      500,
+      511
+    ]
+  },
+  "entite_783": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      101,
+      107
+    ]
+  },
+  "entite_784": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      372,
+      386
+    ]
+  },
+  "entite_785": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      67,
+      76
+    ]
+  },
+  "entite_786": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      397,
+      411
+    ]
+  },
+  "entite_787": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      352,
+      359
+    ]
+  },
+  "entite_788": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      426,
+      440
+    ]
+  },
+  "entite_789": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      63,
+      68
+    ]
+  },
+  "entite_790": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      464,
+      469
+    ]
+  },
+  "entite_791": {
+    "label": "LOC",
+    "text": "Tais-toi",
+    "jalons": [
+      475,
+      483
+    ]
+  },
+  "entite_792": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      485,
+      491
+    ]
+  },
+  "entite_793": {
+    "label": "PER",
+    "text": "Armand et M. de Saint-Elme",
+    "jalons": [
+      403,
+      429
+    ]
+  },
+  "entite_794": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      87,
+      101
+    ]
+  },
+  "entite_795": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      458,
+      464
+    ]
+  },
+  "entite_796": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      471,
+      480
+    ]
+  },
+  "entite_797": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      236,
+      250
+    ]
+  },
+  "entite_798": {
+    "label": "LOC",
+    "text": "Monsieur de Noirmont",
+    "jalons": [
+      201,
+      221
+    ]
+  },
+  "entite_799": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      390,
+      396
+    ]
+  },
+  "entite_800": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      497,
+      503
+    ]
+  },
+  "entite_801": {
+    "label": "LOC",
+    "text": "Bonsoir",
+    "jalons": [
+      15,
+      22
+    ]
+  },
+  "entite_802": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      47,
+      61
+    ]
+  },
+  "entite_803": {
+    "label": "LOC",
+    "text": "malgré soi",
+    "jalons": [
+      1,
+      11
+    ]
+  },
+  "entite_804": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      245,
+      251
+    ]
+  },
+  "entite_805": {
+    "label": "PER",
+    "text": "de Dufour",
+    "jalons": [
+      74,
+      83
+    ]
+  },
+  "entite_806": {
+    "label": "PER",
+    "text": "M. Pomard",
+    "jalons": [
+      359,
+      368
+    ]
+  },
+  "entite_807": {
+    "label": "LOC",
+    "text": "Pomard",
+    "jalons": [
+      83,
+      89
+    ]
+  },
+  "entite_808": {
+    "label": "PER",
+    "text": "mais Dufour",
+    "jalons": [
+      22,
+      33
+    ]
+  },
+  "entite_809": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      318,
+      332
+    ]
+  },
+  "entite_810": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      364,
+      372
+    ]
+  },
+  "entite_811": {
+    "label": "PER",
+    "text": "mari qu'elle",
+    "jalons": [
+      1,
+      13
+    ]
+  },
+  "entite_812": {
+    "label": "PER",
+    "text": "M. Pomard reste",
+    "jalons": [
+      39,
+      54
+    ]
+  },
+  "entite_813": {
+    "label": "PER",
+    "text": "devant le nez de Dufour",
+    "jalons": [
+      72,
+      95
+    ]
+  },
+  "entite_814": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      280,
+      285
+    ]
+  },
+  "entite_815": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      374,
+      379
+    ]
+  },
+  "entite_816": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      404,
+      410
+    ]
+  },
+  "entite_817": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      126,
+      131
+    ]
+  },
+  "entite_818": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      64,
+      78
+    ]
+  },
+  "entite_819": {
+    "label": "PER",
+    "text": "Mais M. de Noirmont",
+    "jalons": [
+      55,
+      74
+    ]
+  },
+  "entite_820": {
+    "label": "MISC",
+    "text": "est bien aise que Dufour fasse le portrait de sa",
+    "jalons": [
+      75,
+      123
+    ]
+  },
+  "entite_821": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      320,
+      334
+    ]
+  },
+  "entite_822": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      352,
+      358
+    ]
+  },
+  "entite_823": {
+    "label": "PER",
+    "text": "M. Pomard",
+    "jalons": [
+      498,
+      507
+    ]
+  },
+  "entite_824": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      94,
+      108
+    ]
+  },
+  "entite_825": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      137,
+      143
+    ]
+  },
+  "entite_826": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      220,
+      225
+    ]
+  },
+  "entite_827": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      478,
+      484
+    ]
+  },
+  "entite_828": {
+    "label": "PER",
+    "text": "Mais mademoiselle Clara",
+    "jalons": [
+      486,
+      509
+    ]
+  },
+  "entite_829": {
+    "label": "MISC",
+    "text": "Ernestine vient de quitter le salon et de prendre le bras de Madeleine en",
+    "jalons": [
+      191,
+      264
+    ]
+  },
+  "entite_830": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      506,
+      510
+    ]
+  },
+  "entite_831": {
+    "label": "MISC",
+    "text": "Ernestine la regarde et lui dit",
+    "jalons": [
+      19,
+      50
+    ]
+  },
+  "entite_832": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      187,
+      196
+    ]
+  },
+  "entite_833": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      405,
+      414
+    ]
+  },
+  "entite_834": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      195,
+      209
+    ]
+  },
+  "entite_835": {
+    "label": "MISC",
+    "text": "Madeleine seule a la liberté de",
+    "jalons": [
+      256,
+      287
+    ]
+  },
+  "entite_836": {
+    "label": "ORG",
+    "text": "Le soir",
+    "jalons": [
+      433,
+      440
+    ]
+  },
+  "entite_837": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      442,
+      448
+    ]
+  },
+  "entite_838": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      492,
+      497
+    ]
+  },
+  "entite_839": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      61,
+      65
+    ]
+  },
+  "entite_840": {
+    "label": "LOC",
+    "text": "Bonnifoux",
+    "jalons": [
+      396,
+      405
+    ]
+  },
+  "entite_841": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      502,
+      508
+    ]
+  },
+  "entite_842": {
+    "label": "PER",
+    "text": "Gertrude",
+    "jalons": [
+      55,
+      63
+    ]
+  },
+  "entite_843": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      375,
+      380
+    ]
+  },
+  "entite_844": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      183,
+      189
+    ]
+  },
+  "entite_845": {
+    "label": "MISC",
+    "text": "la fenêtre qui donne sur le jardin",
+    "jalons": [
+      5,
+      39
+    ]
+  },
+  "entite_846": {
+    "label": "MISC",
+    "text": "la voix du frère et celle de la sœur",
+    "jalons": [
+      256,
+      292
+    ]
+  },
+  "entite_847": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      378,
+      383
+    ]
+  },
+  "entite_848": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      487,
+      493
+    ]
+  },
+  "entite_849": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      496,
+      501
+    ]
+  },
+  "entite_850": {
+    "label": "LOC",
+    "text": "Mademoiselle Clara entre",
+    "jalons": [
+      175,
+      199
+    ]
+  },
+  "entite_851": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      183,
+      188
+    ]
+  },
+  "entite_852": {
+    "label": "LOC",
+    "text": "Bénard",
+    "jalons": [
+      259,
+      265
+    ]
+  },
+  "entite_853": {
+    "label": "MISC",
+    "text": "es et dans les mœurs",
+    "jalons": [
+      0,
+      20
+    ]
+  },
+  "entite_854": {
+    "label": "PER",
+    "text": "de M. de Noirmont",
+    "jalons": [
+      67,
+      84
+    ]
+  },
+  "entite_855": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      420,
+      434
+    ]
+  },
+  "entite_856": {
+    "label": "LOC",
+    "text": "Mademoiselle Clara",
+    "jalons": [
+      222,
+      240
+    ]
+  },
+  "entite_857": {
+    "label": "MISC",
+    "text": "Bonnifoux qui vient d'entrer dans la chambre de mademoiselle Clara en",
+    "jalons": [
+      280,
+      349
+    ]
+  },
+  "entite_858": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      364,
+      371
+    ]
+  },
+  "entite_859": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      467,
+      473
+    ]
+  },
+  "entite_860": {
+    "label": "LOC",
+    "text": "Va",
+    "jalons": [
+      477,
+      479
+    ]
+  },
+  "entite_861": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      105,
+      111
+    ]
+  },
+  "entite_862": {
+    "label": "MISC",
+    "text": "vez déjà fait la carte de votre",
+    "jalons": [
+      0,
+      31
+    ]
+  },
+  "entite_863": {
+    "label": "LOC",
+    "text": "Calmez-vous",
+    "jalons": [
+      58,
+      69
+    ]
+  },
+  "entite_864": {
+    "label": "PER",
+    "text": "Elle cherche la",
+    "jalons": [
+      3,
+      18
+    ]
+  },
+  "entite_865": {
+    "label": "LOC",
+    "text": "Arrêtez",
+    "jalons": [
+      245,
+      252
+    ]
+  },
+  "entite_866": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      279,
+      285
+    ]
+  },
+  "entite_867": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      295,
+      301
+    ]
+  },
+  "entite_868": {
+    "label": "PER",
+    "text": "Mais j'ai",
+    "jalons": [
+      481,
+      490
+    ]
+  },
+  "entite_869": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      312,
+      317
+    ]
+  },
+  "entite_870": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      319,
+      328
+    ]
+  },
+  "entite_871": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      459,
+      465
+    ]
+  },
+  "entite_872": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      58,
+      63
+    ]
+  },
+  "entite_873": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      498,
+      504
+    ]
+  },
+  "entite_874": {
+    "label": "LOC",
+    "text": "Bénard",
+    "jalons": [
+      402,
+      408
+    ]
+  },
+  "entite_875": {
+    "label": "PER",
+    "text": "Clara",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_876": {
+    "label": "LOC",
+    "text": "laissez",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_877": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      442,
+      448
+    ]
+  },
+  "entite_878": {
+    "label": "PER",
+    "text": "de M. de Noirmont",
+    "jalons": [
+      482,
+      499
+    ]
+  },
+  "entite_879": {
+    "label": "MISC",
+    "text": "Ernestine et à Victor de se",
+    "jalons": [
+      25,
+      52
+    ]
+  },
+  "entite_880": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      314,
+      323
+    ]
+  },
+  "entite_881": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      496,
+      505
+    ]
+  },
+  "entite_882": {
+    "label": "LOC",
+    "text": "Au lieu de cela",
+    "jalons": [
+      24,
+      39
+    ]
+  },
+  "entite_883": {
+    "label": "LOC",
+    "text": "Soyez",
+    "jalons": [
+      503,
+      508
+    ]
+  },
+  "entite_884": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      484,
+      498
+    ]
+  },
+  "entite_885": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      32,
+      41
+    ]
+  },
+  "entite_886": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      253,
+      262
+    ]
+  },
+  "entite_887": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      275,
+      289
+    ]
+  },
+  "entite_888": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      495,
+      504
+    ]
+  },
+  "entite_889": {
+    "label": "LOC",
+    "text": "Tu",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_890": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      354,
+      363
+    ]
+  },
+  "entite_891": {
+    "label": "PER",
+    "text": "Ernestine",
+    "jalons": [
+      11,
+      20
+    ]
+  },
+  "entite_892": {
+    "label": "PER",
+    "text": "M. de",
+    "jalons": [
+      368,
+      373
+    ]
+  },
+  "entite_893": {
+    "label": "MISC",
+    "text": "Noirmont se tourne vers sa femme en lui",
+    "jalons": [
+      374,
+      413
+    ]
+  },
+  "entite_894": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      63,
+      72
+    ]
+  },
+  "entite_895": {
+    "label": "PER",
+    "text": "Dalmer",
+    "jalons": [
+      491,
+      497
+    ]
+  },
+  "entite_896": {
+    "label": "PER",
+    "text": "M. de N",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_897": {
+    "label": "PER",
+    "text": "de M. de Noirmont",
+    "jalons": [
+      93,
+      110
+    ]
+  },
+  "entite_898": {
+    "label": "LOC",
+    "text": "Victor s'approche de la",
+    "jalons": [
+      217,
+      240
+    ]
+  },
+  "entite_899": {
+    "label": "MISC",
+    "text": "Qu'avez-vous donc fait de votre ami Dufour ? dit",
+    "jalons": [
+      14,
+      62
+    ]
+  },
+  "entite_900": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      63,
+      77
+    ]
+  },
+  "entite_901": {
+    "label": "PER",
+    "text": "de M. de Noirmont",
+    "jalons": [
+      386,
+      403
+    ]
+  },
+  "entite_902": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      488,
+      497
+    ]
+  },
+  "entite_903": {
+    "label": "PER",
+    "text": "en arrière de M. de Noirmont",
+    "jalons": [
+      2,
+      30
+    ]
+  },
+  "entite_904": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      163,
+      177
+    ]
+  },
+  "entite_905": {
+    "label": "PER",
+    "text": "M. Dalmer",
+    "jalons": [
+      208,
+      217
+    ]
+  },
+  "entite_906": {
+    "label": "PER",
+    "text": "M. de Noirmont du",
+    "jalons": [
+      493,
+      510
+    ]
+  },
+  "entite_907": {
+    "label": "MISC",
+    "text": "ôté de la maison",
+    "jalons": [
+      0,
+      16
+    ]
+  },
+  "entite_908": {
+    "label": "PER",
+    "text": "Madeleine se",
+    "jalons": [
+      200,
+      212
+    ]
+  },
+  "entite_909": {
+    "label": "MISC",
+    "text": "elle laisse voir une partie du papier qui est dans son sein",
+    "jalons": [
+      299,
+      358
+    ]
+  },
+  "entite_910": {
+    "label": "PER",
+    "text": "êter madame de Noirmont",
+    "jalons": [
+      0,
+      23
+    ]
+  },
+  "entite_911": {
+    "label": "PER",
+    "text": "Ernestine de ses",
+    "jalons": [
+      231,
+      247
+    ]
+  },
+  "entite_912": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      61,
+      70
+    ]
+  },
+  "entite_913": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      221,
+      230
+    ]
+  },
+  "entite_914": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      391,
+      405
+    ]
+  },
+  "entite_915": {
+    "label": "PER",
+    "text": "M. Victor en sortait",
+    "jalons": [
+      73,
+      93
+    ]
+  },
+  "entite_916": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      433,
+      442
+    ]
+  },
+  "entite_917": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      496,
+      505
+    ]
+  },
+  "entite_918": {
+    "label": "PER",
+    "text": "Victor de la conduite de Madeleine",
+    "jalons": [
+      131,
+      165
+    ]
+  },
+  "entite_919": {
+    "label": "LOC",
+    "text": "Madeleine de la",
+    "jalons": [
+      147,
+      162
+    ]
+  },
+  "entite_920": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      194,
+      208
+    ]
+  },
+  "entite_921": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      477,
+      491
+    ]
+  },
+  "entite_922": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      497,
+      511
+    ]
+  },
+  "entite_923": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      166,
+      171
+    ]
+  },
+  "entite_924": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      156,
+      164
+    ]
+  },
+  "entite_925": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      436,
+      442
+    ]
+  },
+  "entite_926": {
+    "label": "MISC",
+    "text": "l'influence de ses passions et de ses connaissances de Paris",
+    "jalons": [
+      0,
+      60
+    ]
+  },
+  "entite_927": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      167,
+      181
+    ]
+  },
+  "entite_928": {
+    "label": "LOC",
+    "text": "Voyez",
+    "jalons": [
+      340,
+      345
+    ]
+  },
+  "entite_929": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      315,
+      324
+    ]
+  },
+  "entite_930": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      110,
+      124
+    ]
+  },
+  "entite_931": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      445,
+      450
+    ]
+  },
+  "entite_932": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      230,
+      244
+    ]
+  },
+  "entite_933": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      342,
+      347
+    ]
+  },
+  "entite_934": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      362,
+      368
+    ]
+  },
+  "entite_935": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      288,
+      293
+    ]
+  },
+  "entite_936": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      383,
+      397
+    ]
+  },
+  "entite_937": {
+    "label": "PER",
+    "text": "M. Dalmer",
+    "jalons": [
+      399,
+      408
+    ]
+  },
+  "entite_938": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      423,
+      429
+    ]
+  },
+  "entite_939": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      444,
+      454
+    ]
+  },
+  "entite_940": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      42,
+      56
+    ]
+  },
+  "entite_941": {
+    "label": "PER",
+    "text": "M. Dalmer",
+    "jalons": [
+      107,
+      116
+    ]
+  },
+  "entite_942": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      345,
+      350
+    ]
+  },
+  "entite_943": {
+    "label": "PER",
+    "text": "Ernestine",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_944": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      166,
+      172
+    ]
+  },
+  "entite_945": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      296,
+      310
+    ]
+  },
+  "entite_946": {
+    "label": "PER",
+    "text": "ma dette avec lui",
+    "jalons": [
+      10,
+      27
+    ]
+  },
+  "entite_947": {
+    "label": "PER",
+    "text": "Armand m'a toujours",
+    "jalons": [
+      167,
+      186
+    ]
+  },
+  "entite_948": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      447,
+      451
+    ]
+  },
+  "entite_949": {
+    "label": "PER",
+    "text": "Alors M. Dalmer recevra de moi",
+    "jalons": [
+      66,
+      96
+    ]
+  },
+  "entite_950": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      128,
+      133
+    ]
+  },
+  "entite_951": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      305,
+      319
+    ]
+  },
+  "entite_952": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      369,
+      373
+    ]
+  },
+  "entite_953": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      167,
+      181
+    ]
+  },
+  "entite_954": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      350,
+      364
+    ]
+  },
+  "entite_955": {
+    "label": "PER",
+    "text": "Victor donne le bras",
+    "jalons": [
+      452,
+      472
+    ]
+  },
+  "entite_956": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      475,
+      484
+    ]
+  },
+  "entite_957": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      486,
+      495
+    ]
+  },
+  "entite_958": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      177,
+      186
+    ]
+  },
+  "entite_959": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      301,
+      310
+    ]
+  },
+  "entite_960": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      409,
+      414
+    ]
+  },
+  "entite_961": {
+    "label": "PER",
+    "text": "mademoiselle Clara",
+    "jalons": [
+      1,
+      19
+    ]
+  },
+  "entite_962": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      295,
+      304
+    ]
+  },
+  "entite_963": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      440,
+      445
+    ]
+  },
+  "entite_964": {
+    "label": "LOC",
+    "text": "Boileau",
+    "jalons": [
+      312,
+      319
+    ]
+  },
+  "entite_965": {
+    "label": "LOC",
+    "text": "bonnet de laine",
+    "jalons": [
+      22,
+      37
+    ]
+  },
+  "entite_966": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      66,
+      72
+    ]
+  },
+  "entite_967": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      73,
+      79
+    ]
+  },
+  "entite_968": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      349,
+      358
+    ]
+  },
+  "entite_969": {
+    "label": "LOC",
+    "text": "Noirmont",
+    "jalons": [
+      475,
+      483
+    ]
+  },
+  "entite_970": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      129,
+      135
+    ]
+  },
+  "entite_971": {
+    "label": "LOC",
+    "text": "Madame de Noirmont",
+    "jalons": [
+      381,
+      399
+    ]
+  },
+  "entite_972": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      90,
+      99
+    ]
+  },
+  "entite_973": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      225,
+      234
+    ]
+  },
+  "entite_974": {
+    "label": "LOC",
+    "text": "la porte de la chambre de Victor",
+    "jalons": [
+      252,
+      284
+    ]
+  },
+  "entite_975": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      145,
+      159
+    ]
+  },
+  "entite_976": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      492,
+      501
+    ]
+  },
+  "entite_977": {
+    "label": "PER",
+    "text": "Madeleine n'hésite",
+    "jalons": [
+      216,
+      234
+    ]
+  },
+  "entite_978": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      397,
+      411
+    ]
+  },
+  "entite_979": {
+    "label": "LOC",
+    "text": "Madeleine loin de la porte",
+    "jalons": [
+      407,
+      433
+    ]
+  },
+  "entite_980": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      478,
+      492
+    ]
+  },
+  "entite_981": {
+    "label": "MISC",
+    "text": "j'ai trouvé le moyen de",
+    "jalons": [
+      3,
+      26
+    ]
+  },
+  "entite_982": {
+    "label": "LOC",
+    "text": "la voix de M. de Noirmont",
+    "jalons": [
+      84,
+      109
+    ]
+  },
+  "entite_983": {
+    "label": "PER",
+    "text": "M. Dalmer",
+    "jalons": [
+      114,
+      123
+    ]
+  },
+  "entite_984": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      274,
+      278
+    ]
+  },
+  "entite_985": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      1,
+      10
+    ]
+  },
+  "entite_986": {
+    "label": "PER",
+    "text": "de Victor",
+    "jalons": [
+      18,
+      27
+    ]
+  },
+  "entite_987": {
+    "label": "PER",
+    "text": "Ernestine",
+    "jalons": [
+      41,
+      50
+    ]
+  },
+  "entite_988": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      225,
+      234
+    ]
+  },
+  "entite_989": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      12,
+      26
+    ]
+  },
+  "entite_990": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      123,
+      129
+    ]
+  },
+  "entite_991": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      224,
+      228
+    ]
+  },
+  "entite_992": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      269,
+      283
+    ]
+  },
+  "entite_993": {
+    "label": "PER",
+    "text": "Alors M. de Noirmont",
+    "jalons": [
+      280,
+      300
+    ]
+  },
+  "entite_994": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      222,
+      231
+    ]
+  },
+  "entite_995": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      283,
+      297
+    ]
+  },
+  "entite_996": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      480,
+      485
+    ]
+  },
+  "entite_997": {
+    "label": "PER",
+    "text": "M. Dalmer",
+    "jalons": [
+      443,
+      452
+    ]
+  },
+  "entite_998": {
+    "label": "LOC",
+    "text": "Fort bien",
+    "jalons": [
+      399,
+      408
+    ]
+  },
+  "entite_999": {
+    "label": "MISC",
+    "text": "s'agit de ramener un jeune homme dans le sentier de l'honneur et de l'empêcher de flétrir le nom de",
+    "jalons": [
+      234,
+      333
+    ]
+  },
+  "entite_1000": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      502,
+      506
+    ]
+  },
+  "entite_1001": {
+    "label": "PER",
+    "text": "M. de Noirmont va",
+    "jalons": [
+      142,
+      159
+    ]
+  },
+  "entite_1002": {
+    "label": "PER",
+    "text": "Mais M. Dalmer",
+    "jalons": [
+      487,
+      501
+    ]
+  },
+  "entite_1003": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      11,
+      15
+    ]
+  },
+  "entite_1004": {
+    "label": "PER",
+    "text": "M. Dalmer",
+    "jalons": [
+      92,
+      101
+    ]
+  },
+  "entite_1005": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      302,
+      311
+    ]
+  },
+  "entite_1006": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      313,
+      327
+    ]
+  },
+  "entite_1007": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      383,
+      392
+    ]
+  },
+  "entite_1008": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      492,
+      498
+    ]
+  },
+  "entite_1009": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      7,
+      21
+    ]
+  },
+  "entite_1010": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      101,
+      107
+    ]
+  },
+  "entite_1011": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      379,
+      393
+    ]
+  },
+  "entite_1012": {
+    "label": "MISC",
+    "text": "Avant de monter en selle",
+    "jalons": [
+      24,
+      48
+    ]
+  },
+  "entite_1013": {
+    "label": "PER",
+    "text": "Victor se",
+    "jalons": [
+      50,
+      59
+    ]
+  },
+  "entite_1014": {
+    "label": "PER",
+    "text": "M. de Noirmont et lui dit à l'oreille",
+    "jalons": [
+      72,
+      109
+    ]
+  },
+  "entite_1015": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      169,
+      174
+    ]
+  },
+  "entite_1016": {
+    "label": "PER",
+    "text": "monsieur Dalmer",
+    "jalons": [
+      186,
+      201
+    ]
+  },
+  "entite_1017": {
+    "label": "PER",
+    "text": "Victor monte",
+    "jalons": [
+      384,
+      396
+    ]
+  },
+  "entite_1018": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      494,
+      508
+    ]
+  },
+  "entite_1019": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      268,
+      274
+    ]
+  },
+  "entite_1020": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      278,
+      285
+    ]
+  },
+  "entite_1021": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      291,
+      305
+    ]
+  },
+  "entite_1022": {
+    "label": "PER",
+    "text": "Pardon M. Dufour",
+    "jalons": [
+      45,
+      61
+    ]
+  },
+  "entite_1023": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      113,
+      118
+    ]
+  },
+  "entite_1024": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      202,
+      216
+    ]
+  },
+  "entite_1025": {
+    "label": "PER",
+    "text": "M. de Noirmont venir",
+    "jalons": [
+      391,
+      411
+    ]
+  },
+  "entite_1026": {
+    "label": "MISC",
+    "text": "Vous êtes l'ami d'une jeune fille",
+    "jalons": [
+      46,
+      79
+    ]
+  },
+  "entite_1027": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      1,
+      10
+    ]
+  },
+  "entite_1028": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      63,
+      77
+    ]
+  },
+  "entite_1029": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      225,
+      239
+    ]
+  },
+  "entite_1030": {
+    "label": "MISC",
+    "text": "qui voit Madeleine sortir de la maison et venir de",
+    "jalons": [
+      240,
+      290
+    ]
+  },
+  "entite_1031": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      501,
+      510
+    ]
+  },
+  "entite_1032": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      241,
+      255
+    ]
+  },
+  "entite_1033": {
+    "label": "PER",
+    "text": "M. Jacques",
+    "jalons": [
+      295,
+      305
+    ]
+  },
+  "entite_1034": {
+    "label": "PER",
+    "text": "Jacques pâlit",
+    "jalons": [
+      498,
+      511
+    ]
+  },
+  "entite_1035": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      26,
+      40
+    ]
+  },
+  "entite_1036": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      395,
+      409
+    ]
+  },
+  "entite_1037": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      106,
+      113
+    ]
+  },
+  "entite_1038": {
+    "label": "PER",
+    "text": "vu Madeleine",
+    "jalons": [
+      3,
+      15
+    ]
+  },
+  "entite_1039": {
+    "label": "LOC",
+    "text": "Dalmer",
+    "jalons": [
+      337,
+      343
+    ]
+  },
+  "entite_1040": {
+    "label": "LOC",
+    "text": "Dalmer",
+    "jalons": [
+      347,
+      353
+    ]
+  },
+  "entite_1041": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      232,
+      241
+    ]
+  },
+  "entite_1042": {
+    "label": "PER",
+    "text": "Pauvre Madeleine",
+    "jalons": [
+      8,
+      24
+    ]
+  },
+  "entite_1043": {
+    "label": "PER",
+    "text": "Chasser Madeleine",
+    "jalons": [
+      128,
+      145
+    ]
+  },
+  "entite_1044": {
+    "label": "PER",
+    "text": "Ernestine",
+    "jalons": [
+      485,
+      494
+    ]
+  },
+  "entite_1045": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      11,
+      25
+    ]
+  },
+  "entite_1046": {
+    "label": "LOC",
+    "text": "scène de la part de M. de Noirmont",
+    "jalons": [
+      374,
+      408
+    ]
+  },
+  "entite_1047": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      411,
+      415
+    ]
+  },
+  "entite_1048": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      435,
+      449
+    ]
+  },
+  "entite_1049": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      468,
+      474
+    ]
+  },
+  "entite_1050": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      199,
+      213
+    ]
+  },
+  "entite_1051": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      478,
+      487
+    ]
+  },
+  "entite_1052": {
+    "label": "LOC",
+    "text": "Gizy",
+    "jalons": [
+      503,
+      507
+    ]
+  },
+  "entite_1053": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      201,
+      208
+    ]
+  },
+  "entite_1054": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      287,
+      296
+    ]
+  },
+  "entite_1055": {
+    "label": "PER",
+    "text": "Jacques est",
+    "jalons": [
+      6,
+      17
+    ]
+  },
+  "entite_1056": {
+    "label": "MISC",
+    "text": "un brave homme qui avait ben soin de sa vieille tante",
+    "jalons": [
+      18,
+      71
+    ]
+  },
+  "entite_1057": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      306,
+      315
+    ]
+  },
+  "entite_1058": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      423,
+      430
+    ]
+  },
+  "entite_1059": {
+    "label": "PER",
+    "text": "D'ai",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_1060": {
+    "label": "LOC",
+    "text": "Jamais",
+    "jalons": [
+      84,
+      90
+    ]
+  },
+  "entite_1061": {
+    "label": "PER",
+    "text": "Jacques paraît",
+    "jalons": [
+      308,
+      322
+    ]
+  },
+  "entite_1062": {
+    "label": "PER",
+    "text": "Armand de Bréville",
+    "jalons": [
+      90,
+      108
+    ]
+  },
+  "entite_1063": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      270,
+      278
+    ]
+  },
+  "entite_1064": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      300,
+      308
+    ]
+  },
+  "entite_1065": {
+    "label": "MISC",
+    "text": "jouer de nous",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_1066": {
+    "label": "PER",
+    "text": "J'ai",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_1067": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      254,
+      263
+    ]
+  },
+  "entite_1068": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      423,
+      430
+    ]
+  },
+  "entite_1069": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      54,
+      63
+    ]
+  },
+  "entite_1070": {
+    "label": "PER",
+    "text": "Mais c'est M. de Noirmont",
+    "jalons": [
+      94,
+      119
+    ]
+  },
+  "entite_1071": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      207,
+      215
+    ]
+  },
+  "entite_1072": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      105,
+      114
+    ]
+  },
+  "entite_1073": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      325,
+      332
+    ]
+  },
+  "entite_1074": {
+    "label": "MISC",
+    "text": "eu la barbarie de vous",
+    "jalons": [
+      66,
+      88
+    ]
+  },
+  "entite_1075": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      395,
+      409
+    ]
+  },
+  "entite_1076": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      448,
+      454
+    ]
+  },
+  "entite_1077": {
+    "label": "PER",
+    "text": "Victor Dalmer",
+    "jalons": [
+      97,
+      110
+    ]
+  },
+  "entite_1078": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      165,
+      179
+    ]
+  },
+  "entite_1079": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      230,
+      235
+    ]
+  },
+  "entite_1080": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      242,
+      251
+    ]
+  },
+  "entite_1081": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      15,
+      23
+    ]
+  },
+  "entite_1082": {
+    "label": "PER",
+    "text": "M. de Noirmont s'inquiète de l'avenir de son beau-frère",
+    "jalons": [
+      25,
+      80
+    ]
+  },
+  "entite_1083": {
+    "label": "PER",
+    "text": "Ernestine",
+    "jalons": [
+      82,
+      91
+    ]
+  },
+  "entite_1084": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      263,
+      269
+    ]
+  },
+  "entite_1085": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      487,
+      496
+    ]
+  },
+  "entite_1086": {
+    "label": "PER",
+    "text": "M. de Bréville",
+    "jalons": [
+      170,
+      184
+    ]
+  },
+  "entite_1087": {
+    "label": "LOC",
+    "text": "Dalmer",
+    "jalons": [
+      339,
+      345
+    ]
+  },
+  "entite_1088": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      353,
+      367
+    ]
+  },
+  "entite_1089": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      466,
+      472
+    ]
+  },
+  "entite_1090": {
+    "label": "PER",
+    "text": "Ernestine lui",
+    "jalons": [
+      490,
+      503
+    ]
+  },
+  "entite_1091": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      179,
+      185
+    ]
+  },
+  "entite_1092": {
+    "label": "PER",
+    "text": "Victor lui",
+    "jalons": [
+      187,
+      197
+    ]
+  },
+  "entite_1093": {
+    "label": "LOC",
+    "text": "La conduite de",
+    "jalons": [
+      341,
+      355
+    ]
+  },
+  "entite_1094": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      455,
+      460
+    ]
+  },
+  "entite_1095": {
+    "label": "MISC",
+    "text": "J'étais chez Armand quand la personne qui lui",
+    "jalons": [
+      346,
+      391
+    ]
+  },
+  "entite_1096": {
+    "label": "ORG",
+    "text": "Sachant que j'arrivais de Brévil",
+    "jalons": [
+      480,
+      512
+    ]
+  },
+  "entite_1097": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      371,
+      377
+    ]
+  },
+  "entite_1098": {
+    "label": "PER",
+    "text": "M. de Noirmont il allait",
+    "jalons": [
+      24,
+      48
+    ]
+  },
+  "entite_1099": {
+    "label": "PER",
+    "text": "Si M. Armand se ruine",
+    "jalons": [
+      13,
+      34
+    ]
+  },
+  "entite_1100": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      203,
+      208
+    ]
+  },
+  "entite_1101": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      494,
+      501
+    ]
+  },
+  "entite_1102": {
+    "label": "PER",
+    "text": "Chéri Montrésor",
+    "jalons": [
+      94,
+      109
+    ]
+  },
+  "entite_1103": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      201,
+      207
+    ]
+  },
+  "entite_1104": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      222,
+      228
+    ]
+  },
+  "entite_1105": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      321,
+      327
+    ]
+  },
+  "entite_1106": {
+    "label": "LOC",
+    "text": "sorti de la mai",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_1107": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      81,
+      85
+    ]
+  },
+  "entite_1108": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      88,
+      96
+    ]
+  },
+  "entite_1109": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      427,
+      441
+    ]
+  },
+  "entite_1110": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      390,
+      399
+    ]
+  },
+  "entite_1111": {
+    "label": "LOC",
+    "text": "Allez dans le bois",
+    "jalons": [
+      441,
+      459
+    ]
+  },
+  "entite_1112": {
+    "label": "PER",
+    "text": "Victor se rend du côté du bois que Madeleine lui",
+    "jalons": [
+      55,
+      103
+    ]
+  },
+  "entite_1113": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      500,
+      504
+    ]
+  },
+  "entite_1114": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      304,
+      313
+    ]
+  },
+  "entite_1115": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      282,
+      291
+    ]
+  },
+  "entite_1116": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      20,
+      29
+    ]
+  },
+  "entite_1117": {
+    "label": "LOC",
+    "text": "Pardonnez-moi",
+    "jalons": [
+      499,
+      512
+    ]
+  },
+  "entite_1118": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      387,
+      396
+    ]
+  },
+  "entite_1119": {
+    "label": "PER",
+    "text": "Adie",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_1120": {
+    "label": "PER",
+    "text": "M. Victor",
+    "jalons": [
+      3,
+      12
+    ]
+  },
+  "entite_1121": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      44,
+      53
+    ]
+  },
+  "entite_1122": {
+    "label": "PER",
+    "text": "M. de",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_1123": {
+    "label": "LOC",
+    "text": "Noirmont",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_1124": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      140,
+      145
+    ]
+  },
+  "entite_1125": {
+    "label": "PER",
+    "text": "M. de Noirmont le laisse",
+    "jalons": [
+      456,
+      480
+    ]
+  },
+  "entite_1126": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      225,
+      231
+    ]
+  },
+  "entite_1127": {
+    "label": "PER",
+    "text": "Ernestine le",
+    "jalons": [
+      445,
+      457
+    ]
+  },
+  "entite_1128": {
+    "label": "PER",
+    "text": "Qu'avez-vous donc",
+    "jalons": [
+      470,
+      487
+    ]
+  },
+  "entite_1129": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      489,
+      498
+    ]
+  },
+  "entite_1130": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      503,
+      509
+    ]
+  },
+  "entite_1131": {
+    "label": "PER",
+    "text": "M. de Saint-Elme",
+    "jalons": [
+      150,
+      166
+    ]
+  },
+  "entite_1132": {
+    "label": "PER",
+    "text": "s'écrie Ernestine",
+    "jalons": [
+      185,
+      202
+    ]
+  },
+  "entite_1133": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      206,
+      212
+    ]
+  },
+  "entite_1134": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      221,
+      235
+    ]
+  },
+  "entite_1135": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      229,
+      237
+    ]
+  },
+  "entite_1136": {
+    "label": "PER",
+    "text": "M. de",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_1137": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      343,
+      349
+    ]
+  },
+  "entite_1138": {
+    "label": "PER",
+    "text": "Malgré cela",
+    "jalons": [
+      455,
+      466
+    ]
+  },
+  "entite_1139": {
+    "label": "PER",
+    "text": "Ernesti",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_1140": {
+    "label": "PER",
+    "text": "Enfin M. de Noirmont s'inquiète de la",
+    "jalons": [
+      176,
+      213
+    ]
+  },
+  "entite_1141": {
+    "label": "PER",
+    "text": "Voilà M. de Noirmont",
+    "jalons": [
+      34,
+      54
+    ]
+  },
+  "entite_1142": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      290,
+      296
+    ]
+  },
+  "entite_1143": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      307,
+      316
+    ]
+  },
+  "entite_1144": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      468,
+      477
+    ]
+  },
+  "entite_1145": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_1146": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      130,
+      136
+    ]
+  },
+  "entite_1147": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      165,
+      170
+    ]
+  },
+  "entite_1148": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      391,
+      397
+    ]
+  },
+  "entite_1149": {
+    "label": "LOC",
+    "text": "Mortagne",
+    "jalons": [
+      59,
+      67
+    ]
+  },
+  "entite_1150": {
+    "label": "PER",
+    "text": "M. de Tergenne y reviendrait",
+    "jalons": [
+      84,
+      112
+    ]
+  },
+  "entite_1151": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      231,
+      236
+    ]
+  },
+  "entite_1152": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      476,
+      484
+    ]
+  },
+  "entite_1153": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      310,
+      316
+    ]
+  },
+  "entite_1154": {
+    "label": "LOC",
+    "text": "Écoutez",
+    "jalons": [
+      442,
+      449
+    ]
+  },
+  "entite_1155": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      451,
+      457
+    ]
+  },
+  "entite_1156": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      313,
+      319
+    ]
+  },
+  "entite_1157": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      374,
+      388
+    ]
+  },
+  "entite_1158": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      122,
+      136
+    ]
+  },
+  "entite_1159": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      387,
+      393
+    ]
+  },
+  "entite_1160": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      497,
+      503
+    ]
+  },
+  "entite_1161": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      231,
+      236
+    ]
+  },
+  "entite_1162": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      238,
+      244
+    ]
+  },
+  "entite_1163": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      443,
+      457
+    ]
+  },
+  "entite_1164": {
+    "label": "PER",
+    "text": "de M. de Tergenne",
+    "jalons": [
+      488,
+      505
+    ]
+  },
+  "entite_1165": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      182,
+      187
+    ]
+  },
+  "entite_1166": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      203,
+      212
+    ]
+  },
+  "entite_1167": {
+    "label": "MISC",
+    "text": "sa jeunesse être le favori des belles",
+    "jalons": [
+      2,
+      39
+    ]
+  },
+  "entite_1168": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      108,
+      114
+    ]
+  },
+  "entite_1169": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      206,
+      216
+    ]
+  },
+  "entite_1170": {
+    "label": "PER",
+    "text": "Armand pense",
+    "jalons": [
+      263,
+      275
+    ]
+  },
+  "entite_1171": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      374,
+      379
+    ]
+  },
+  "entite_1172": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      78,
+      84
+    ]
+  },
+  "entite_1173": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      349,
+      363
+    ]
+  },
+  "entite_1174": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      409,
+      415
+    ]
+  },
+  "entite_1175": {
+    "label": "LOC",
+    "text": "Il",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_1176": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      288,
+      294
+    ]
+  },
+  "entite_1177": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      119,
+      133
+    ]
+  },
+  "entite_1178": {
+    "label": "LOC",
+    "text": "Noi",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_1179": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      154,
+      168
+    ]
+  },
+  "entite_1180": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      181,
+      195
+    ]
+  },
+  "entite_1181": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      292,
+      298
+    ]
+  },
+  "entite_1182": {
+    "label": "PER",
+    "text": "comte de Tergenne",
+    "jalons": [
+      241,
+      258
+    ]
+  },
+  "entite_1183": {
+    "label": "MISC",
+    "text": "M. de Noirmont et sa femme",
+    "jalons": [
+      143,
+      169
+    ]
+  },
+  "entite_1184": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      498,
+      503
+    ]
+  },
+  "entite_1185": {
+    "label": "PER",
+    "text": "M. Vic",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_1186": {
+    "label": "PER",
+    "text": "tor Dalmer",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_1187": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      14,
+      23
+    ]
+  },
+  "entite_1188": {
+    "label": "PER",
+    "text": "M. de Noirmont regarde autour de lui dans le salon",
+    "jalons": [
+      117,
+      167
+    ]
+  },
+  "entite_1189": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      485,
+      499
+    ]
+  },
+  "entite_1190": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      440,
+      445
+    ]
+  },
+  "entite_1191": {
+    "label": "PER",
+    "text": "me de Noirmont",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_1192": {
+    "label": "PER",
+    "text": "Armand",
+    "jalons": [
+      35,
+      41
+    ]
+  },
+  "entite_1193": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      196,
+      210
+    ]
+  },
+  "entite_1194": {
+    "label": "MISC",
+    "text": "Paris de tendres",
+    "jalons": [
+      37,
+      53
+    ]
+  },
+  "entite_1195": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      313,
+      327
+    ]
+  },
+  "entite_1196": {
+    "label": "LOC",
+    "text": "Samoncey",
+    "jalons": [
+      241,
+      249
+    ]
+  },
+  "entite_1197": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      297,
+      306
+    ]
+  },
+  "entite_1198": {
+    "label": "PER",
+    "text": "Jenny de Lucey.",
+    "jalons": [
+      490,
+      505
+    ]
+  },
+  "entite_1199": {
+    "label": "LOC",
+    "text": "Oui",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_1200": {
+    "label": "LOC",
+    "text": "J'eus",
+    "jalons": [
+      116,
+      121
+    ]
+  },
+  "entite_1201": {
+    "label": "LOC",
+    "text": "Lucey",
+    "jalons": [
+      201,
+      206
+    ]
+  },
+  "entite_1202": {
+    "label": "PER",
+    "text": "M. de Lucey",
+    "jalons": [
+      499,
+      510
+    ]
+  },
+  "entite_1203": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      233,
+      247
+    ]
+  },
+  "entite_1204": {
+    "label": "ORG",
+    "text": "Elle",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_1205": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      22,
+      28
+    ]
+  },
+  "entite_1206": {
+    "label": "PER",
+    "text": "Ernestine",
+    "jalons": [
+      56,
+      65
+    ]
+  },
+  "entite_1207": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      286,
+      292
+    ]
+  },
+  "entite_1208": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      64,
+      70
+    ]
+  },
+  "entite_1209": {
+    "label": "MISC",
+    "text": "Le retour de M. de Noirmont et de ses",
+    "jalons": [
+      57,
+      94
+    ]
+  },
+  "entite_1210": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      276,
+      282
+    ]
+  },
+  "entite_1211": {
+    "label": "LOC",
+    "text": "Le comte de Tergenne",
+    "jalons": [
+      285,
+      305
+    ]
+  },
+  "entite_1212": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      129,
+      135
+    ]
+  },
+  "entite_1213": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      155,
+      165
+    ]
+  },
+  "entite_1214": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      146,
+      160
+    ]
+  },
+  "entite_1215": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      54,
+      68
+    ]
+  },
+  "entite_1216": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      442,
+      456
+    ]
+  },
+  "entite_1217": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      289,
+      297
+    ]
+  },
+  "entite_1218": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      328,
+      342
+    ]
+  },
+  "entite_1219": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      203,
+      209
+    ]
+  },
+  "entite_1220": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      102,
+      116
+    ]
+  },
+  "entite_1221": {
+    "label": "LOC",
+    "text": "Danger de la",
+    "jalons": [
+      330,
+      342
+    ]
+  },
+  "entite_1222": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      127,
+      136
+    ]
+  },
+  "entite_1223": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      40,
+      49
+    ]
+  },
+  "entite_1224": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      68,
+      82
+    ]
+  },
+  "entite_1225": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      497,
+      511
+    ]
+  },
+  "entite_1226": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      354,
+      360
+    ]
+  },
+  "entite_1227": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      387,
+      401
+    ]
+  },
+  "entite_1228": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      216,
+      230
+    ]
+  },
+  "entite_1229": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      36,
+      50
+    ]
+  },
+  "entite_1230": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      417,
+      431
+    ]
+  },
+  "entite_1231": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      426,
+      431
+    ]
+  },
+  "entite_1232": {
+    "label": "PER",
+    "text": "Pou",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_1233": {
+    "label": "PER",
+    "text": "lui la terre de Bréville",
+    "jalons": [
+      2,
+      26
+    ]
+  },
+  "entite_1234": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      285,
+      299
+    ]
+  },
+  "entite_1235": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      157,
+      167
+    ]
+  },
+  "entite_1236": {
+    "label": "MISC",
+    "text": "Dans la soirée",
+    "jalons": [
+      170,
+      184
+    ]
+  },
+  "entite_1237": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      220,
+      228
+    ]
+  },
+  "entite_1238": {
+    "label": "PER",
+    "text": "Sophie fait",
+    "jalons": [
+      317,
+      328
+    ]
+  },
+  "entite_1239": {
+    "label": "PER",
+    "text": "de M. de Tergenne",
+    "jalons": [
+      459,
+      476
+    ]
+  },
+  "entite_1240": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      368,
+      382
+    ]
+  },
+  "entite_1241": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      437,
+      447
+    ]
+  },
+  "entite_1242": {
+    "label": "LOC",
+    "text": "Sophie",
+    "jalons": [
+      233,
+      239
+    ]
+  },
+  "entite_1243": {
+    "label": "LOC",
+    "text": "J'espère",
+    "jalons": [
+      241,
+      249
+    ]
+  },
+  "entite_1244": {
+    "label": "PER",
+    "text": "Sophie",
+    "jalons": [
+      59,
+      65
+    ]
+  },
+  "entite_1245": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      427,
+      441
+    ]
+  },
+  "entite_1246": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      493,
+      500
+    ]
+  },
+  "entite_1247": {
+    "label": "PER",
+    "text": "Sophie",
+    "jalons": [
+      161,
+      167
+    ]
+  },
+  "entite_1248": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      382,
+      391
+    ]
+  },
+  "entite_1249": {
+    "label": "LOC",
+    "text": "Sissonne",
+    "jalons": [
+      489,
+      497
+    ]
+  },
+  "entite_1250": {
+    "label": "MISC",
+    "text": "La jeune Emma, qui est folle de la danse",
+    "jalons": [
+      3,
+      43
+    ]
+  },
+  "entite_1251": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      164,
+      169
+    ]
+  },
+  "entite_1252": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      446,
+      460
+    ]
+  },
+  "entite_1253": {
+    "label": "MISC",
+    "text": "Saint-Elme de rentrer",
+    "jalons": [
+      18,
+      39
+    ]
+  },
+  "entite_1254": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      211,
+      225
+    ]
+  },
+  "entite_1255": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_1256": {
+    "label": "LOC",
+    "text": "Bagnères de Bigorre",
+    "jalons": [
+      115,
+      134
+    ]
+  },
+  "entite_1257": {
+    "label": "PER",
+    "text": "faire de l'éclat",
+    "jalons": [
+      34,
+      50
+    ]
+  },
+  "entite_1258": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      198,
+      212
+    ]
+  },
+  "entite_1259": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      365,
+      371
+    ]
+  },
+  "entite_1260": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      468,
+      478
+    ]
+  },
+  "entite_1261": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      81,
+      87
+    ]
+  },
+  "entite_1262": {
+    "label": "PER",
+    "text": "de M. de Tergenne",
+    "jalons": [
+      396,
+      413
+    ]
+  },
+  "entite_1263": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      445,
+      450
+    ]
+  },
+  "entite_1264": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      462,
+      467
+    ]
+  },
+  "entite_1265": {
+    "label": "PER",
+    "text": "s'écrie M. de Noirmont",
+    "jalons": [
+      470,
+      492
+    ]
+  },
+  "entite_1266": {
+    "label": "PER",
+    "text": "Armand",
+    "jalons": [
+      504,
+      510
+    ]
+  },
+  "entite_1267": {
+    "label": "LOC",
+    "text": "déjà",
+    "jalons": [
+      12,
+      16
+    ]
+  },
+  "entite_1268": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      31,
+      36
+    ]
+  },
+  "entite_1269": {
+    "label": "PER",
+    "text": "cher Armand",
+    "jalons": [
+      51,
+      62
+    ]
+  },
+  "entite_1270": {
+    "label": "PER",
+    "text": "Moi",
+    "jalons": [
+      165,
+      168
+    ]
+  },
+  "entite_1271": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      425,
+      430
+    ]
+  },
+  "entite_1272": {
+    "label": "LOC",
+    "text": "Hélas",
+    "jalons": [
+      200,
+      205
+    ]
+  },
+  "entite_1273": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      445,
+      455
+    ]
+  },
+  "entite_1274": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      195,
+      203
+    ]
+  },
+  "entite_1275": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      378,
+      392
+    ]
+  },
+  "entite_1276": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      112,
+      116
+    ]
+  },
+  "entite_1277": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      142,
+      156
+    ]
+  },
+  "entite_1278": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      322,
+      327
+    ]
+  },
+  "entite_1279": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      373,
+      387
+    ]
+  },
+  "entite_1280": {
+    "label": "PER",
+    "text": "M. Dalmer",
+    "jalons": [
+      133,
+      142
+    ]
+  },
+  "entite_1281": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      98,
+      112
+    ]
+  },
+  "entite_1282": {
+    "label": "LOC",
+    "text": "Mortagne",
+    "jalons": [
+      215,
+      223
+    ]
+  },
+  "entite_1283": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      63,
+      69
+    ]
+  },
+  "entite_1284": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      480,
+      489
+    ]
+  },
+  "entite_1285": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      61,
+      67
+    ]
+  },
+  "entite_1286": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      419,
+      428
+    ]
+  },
+  "entite_1287": {
+    "label": "LOC",
+    "text": "Bonne fille",
+    "jalons": [
+      252,
+      263
+    ]
+  },
+  "entite_1288": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      475,
+      485
+    ]
+  },
+  "entite_1289": {
+    "label": "PER",
+    "text": "Armand va",
+    "jalons": [
+      25,
+      34
+    ]
+  },
+  "entite_1290": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      303,
+      313
+    ]
+  },
+  "entite_1291": {
+    "label": "LOC",
+    "text": "Saint-Elme",
+    "jalons": [
+      329,
+      339
+    ]
+  },
+  "entite_1292": {
+    "label": "MISC",
+    "text": "atinée une lettre du comte",
+    "jalons": [
+      0,
+      26
+    ]
+  },
+  "entite_1293": {
+    "label": "LOC",
+    "text": "Sissonne",
+    "jalons": [
+      229,
+      237
+    ]
+  },
+  "entite_1294": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      250,
+      259
+    ]
+  },
+  "entite_1295": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      440,
+      444
+    ]
+  },
+  "entite_1296": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      14,
+      19
+    ]
+  },
+  "entite_1297": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      117,
+      122
+    ]
+  },
+  "entite_1298": {
+    "label": "MISC",
+    "text": "lorsque Saint-Elme le retient par le",
+    "jalons": [
+      0,
+      36
+    ]
+  },
+  "entite_1299": {
+    "label": "PER",
+    "text": "C'est bien M. de Tergenne",
+    "jalons": [
+      5,
+      30
+    ]
+  },
+  "entite_1300": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      436,
+      445
+    ]
+  },
+  "entite_1301": {
+    "label": "LOC",
+    "text": "la plaine de Gizy",
+    "jalons": [
+      186,
+      203
+    ]
+  },
+  "entite_1302": {
+    "label": "MISC",
+    "text": "Vous êtes Jacques",
+    "jalons": [
+      25,
+      42
+    ]
+  },
+  "entite_1303": {
+    "label": "PER",
+    "text": "de M. de Noirmont",
+    "jalons": [
+      142,
+      159
+    ]
+  },
+  "entite_1304": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      223,
+      231
+    ]
+  },
+  "entite_1305": {
+    "label": "MISC",
+    "text": "C'est madame de Noirmont qui me l'a dit",
+    "jalons": [
+      5,
+      44
+    ]
+  },
+  "entite_1306": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      225,
+      232
+    ]
+  },
+  "entite_1307": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      9,
+      14
+    ]
+  },
+  "entite_1308": {
+    "label": "LOC",
+    "text": "Montcornet",
+    "jalons": [
+      43,
+      53
+    ]
+  },
+  "entite_1309": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      100,
+      114
+    ]
+  },
+  "entite_1310": {
+    "label": "PER",
+    "text": "M. de Bréville",
+    "jalons": [
+      217,
+      231
+    ]
+  },
+  "entite_1311": {
+    "label": "LOC",
+    "text": "Oui",
+    "jalons": [
+      236,
+      239
+    ]
+  },
+  "entite_1312": {
+    "label": "LOC",
+    "text": "le marquis de Brévi",
+    "jalons": [
+      493,
+      512
+    ]
+  },
+  "entite_1313": {
+    "label": "MISC",
+    "text": "Pas tant le marquis que sa",
+    "jalons": [
+      8,
+      34
+    ]
+  },
+  "entite_1314": {
+    "label": "PER",
+    "text": "Jenny de Lucey",
+    "jalons": [
+      152,
+      166
+    ]
+  },
+  "entite_1315": {
+    "label": "PER",
+    "text": "le marquis de Bréville",
+    "jalons": [
+      21,
+      43
+    ]
+  },
+  "entite_1316": {
+    "label": "PER",
+    "text": "Jacques aime",
+    "jalons": [
+      185,
+      197
+    ]
+  },
+  "entite_1317": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      167,
+      176
+    ]
+  },
+  "entite_1318": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      292,
+      299
+    ]
+  },
+  "entite_1319": {
+    "label": "MISC",
+    "text": "Madeleine",
+    "jalons": [
+      318,
+      327
+    ]
+  },
+  "entite_1320": {
+    "label": "PER",
+    "text": "Jacques parle",
+    "jalons": [
+      122,
+      135
+    ]
+  },
+  "entite_1321": {
+    "label": "MISC",
+    "text": "Jacques ne parle plus de la jeune et belle Jenny",
+    "jalons": [
+      289,
+      337
+    ]
+  },
+  "entite_1322": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      435,
+      444
+    ]
+  },
+  "entite_1323": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      211,
+      218
+    ]
+  },
+  "entite_1324": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      214,
+      222
+    ]
+  },
+  "entite_1325": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      341,
+      355
+    ]
+  },
+  "entite_1326": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      232,
+      239
+    ]
+  },
+  "entite_1327": {
+    "label": "PER",
+    "text": "de Jacques",
+    "jalons": [
+      499,
+      509
+    ]
+  },
+  "entite_1328": {
+    "label": "MISC",
+    "text": "M. de Tergenne dans une chambre",
+    "jalons": [
+      50,
+      81
+    ]
+  },
+  "entite_1329": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      385,
+      391
+    ]
+  },
+  "entite_1330": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      114,
+      123
+    ]
+  },
+  "entite_1331": {
+    "label": "PER",
+    "text": "Madele",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_1332": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      150,
+      157
+    ]
+  },
+  "entite_1333": {
+    "label": "PER",
+    "text": "C'était Armand",
+    "jalons": [
+      195,
+      209
+    ]
+  },
+  "entite_1334": {
+    "label": "MISC",
+    "text": "La jeune fille passe le reste de la nuit dans la",
+    "jalons": [
+      311,
+      359
+    ]
+  },
+  "entite_1335": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      463,
+      470
+    ]
+  },
+  "entite_1336": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      490,
+      504
+    ]
+  },
+  "entite_1337": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      7,
+      16
+    ]
+  },
+  "entite_1338": {
+    "label": "PER",
+    "text": "Jacques est déjà sorti",
+    "jalons": [
+      20,
+      42
+    ]
+  },
+  "entite_1339": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      471,
+      480
+    ]
+  },
+  "entite_1340": {
+    "label": "MISC",
+    "text": "Jacques que je le remercie de",
+    "jalons": [
+      56,
+      85
+    ]
+  },
+  "entite_1341": {
+    "label": "PER",
+    "text": "Toujours Madeleine",
+    "jalons": [
+      348,
+      366
+    ]
+  },
+  "entite_1342": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      396,
+      405
+    ]
+  },
+  "entite_1343": {
+    "label": "PER",
+    "text": "M. de Bréville",
+    "jalons": [
+      113,
+      127
+    ]
+  },
+  "entite_1344": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      219,
+      225
+    ]
+  },
+  "entite_1345": {
+    "label": "LOC",
+    "text": "M. de Tergenne qui entre dans la",
+    "jalons": [
+      282,
+      314
+    ]
+  },
+  "entite_1346": {
+    "label": "PER",
+    "text": "M. de",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_1347": {
+    "label": "LOC",
+    "text": "Noirmont",
+    "jalons": [
+      1,
+      9
+    ]
+  },
+  "entite_1348": {
+    "label": "PER",
+    "text": "Ernestine",
+    "jalons": [
+      15,
+      24
+    ]
+  },
+  "entite_1349": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      332,
+      346
+    ]
+  },
+  "entite_1350": {
+    "label": "LOC",
+    "text": "Qu'import",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_1351": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      475,
+      489
+    ]
+  },
+  "entite_1352": {
+    "label": "MISC",
+    "text": "Voici bien les trois lettres que j'avais",
+    "jalons": [
+      108,
+      148
+    ]
+  },
+  "entite_1353": {
+    "label": "LOC",
+    "text": "Voyez",
+    "jalons": [
+      269,
+      274
+    ]
+  },
+  "entite_1354": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      288,
+      302
+    ]
+  },
+  "entite_1355": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      312,
+      326
+    ]
+  },
+  "entite_1356": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      260,
+      267
+    ]
+  },
+  "entite_1357": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      273,
+      287
+    ]
+  },
+  "entite_1358": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      338,
+      344
+    ]
+  },
+  "entite_1359": {
+    "label": "PER",
+    "text": "M. Armand se trouve mal",
+    "jalons": [
+      4,
+      27
+    ]
+  },
+  "entite_1360": {
+    "label": "PER",
+    "text": "Le jeune de Bréville",
+    "jalons": [
+      42,
+      62
+    ]
+  },
+  "entite_1361": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      352,
+      358
+    ]
+  },
+  "entite_1362": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      16,
+      30
+    ]
+  },
+  "entite_1363": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      75,
+      89
+    ]
+  },
+  "entite_1364": {
+    "label": "LOC",
+    "text": "Voici la",
+    "jalons": [
+      306,
+      314
+    ]
+  },
+  "entite_1365": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      375,
+      389
+    ]
+  },
+  "entite_1366": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      340,
+      354
+    ]
+  },
+  "entite_1367": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      50,
+      64
+    ]
+  },
+  "entite_1368": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      314,
+      328
+    ]
+  },
+  "entite_1369": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      31,
+      40
+    ]
+  },
+  "entite_1370": {
+    "label": "PER",
+    "text": "M. de No",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_1371": {
+    "label": "PER",
+    "text": "s'écrie Dufour",
+    "jalons": [
+      1,
+      15
+    ]
+  },
+  "entite_1372": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      240,
+      246
+    ]
+  },
+  "entite_1373": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      248,
+      257
+    ]
+  },
+  "entite_1374": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      218,
+      226
+    ]
+  },
+  "entite_1375": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      233,
+      247
+    ]
+  },
+  "entite_1376": {
+    "label": "MISC",
+    "text": "Sortons et fermons les portes de cette",
+    "jalons": [
+      456,
+      494
+    ]
+  },
+  "entite_1377": {
+    "label": "PER",
+    "text": "M. Dufour",
+    "jalons": [
+      109,
+      118
+    ]
+  },
+  "entite_1378": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      205,
+      212
+    ]
+  },
+  "entite_1379": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      315,
+      320
+    ]
+  },
+  "entite_1380": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      7,
+      21
+    ]
+  },
+  "entite_1381": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      100,
+      109
+    ]
+  },
+  "entite_1382": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      138,
+      145
+    ]
+  },
+  "entite_1383": {
+    "label": "PER",
+    "text": "M. de Noirmont et M. de Tergenne",
+    "jalons": [
+      188,
+      220
+    ]
+  },
+  "entite_1384": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      494,
+      502
+    ]
+  },
+  "entite_1385": {
+    "label": "LOC",
+    "text": "Madelein",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_1386": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      114,
+      120
+    ]
+  },
+  "entite_1387": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      257,
+      271
+    ]
+  },
+  "entite_1388": {
+    "label": "PER",
+    "text": "Madeleine seule",
+    "jalons": [
+      488,
+      503
+    ]
+  },
+  "entite_1389": {
+    "label": "LOC",
+    "text": "Madame",
+    "jalons": [
+      287,
+      293
+    ]
+  },
+  "entite_1390": {
+    "label": "LOC",
+    "text": "Ernestine",
+    "jalons": [
+      327,
+      336
+    ]
+  },
+  "entite_1391": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      13,
+      27
+    ]
+  },
+  "entite_1392": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      397,
+      403
+    ]
+  },
+  "entite_1393": {
+    "label": "PER",
+    "text": "de Jacques",
+    "jalons": [
+      493,
+      503
+    ]
+  },
+  "entite_1394": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      282,
+      288
+    ]
+  },
+  "entite_1395": {
+    "label": "MISC",
+    "text": "Madeleine et la serre dans",
+    "jalons": [
+      378,
+      404
+    ]
+  },
+  "entite_1396": {
+    "label": "LOC",
+    "text": "lmez-vous",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_1397": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      94,
+      108
+    ]
+  },
+  "entite_1398": {
+    "label": "PER",
+    "text": "Frédéric de Tergenne",
+    "jalons": [
+      316,
+      336
+    ]
+  },
+  "entite_1399": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      93,
+      100
+    ]
+  },
+  "entite_1400": {
+    "label": "PER",
+    "text": "Jacques ?",
+    "jalons": [
+      498,
+      507
+    ]
+  },
+  "entite_1401": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      342,
+      351
+    ]
+  },
+  "entite_1402": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      362,
+      369
+    ]
+  },
+  "entite_1403": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      396,
+      401
+    ]
+  },
+  "entite_1404": {
+    "label": "LOC",
+    "text": "Frédéric",
+    "jalons": [
+      153,
+      161
+    ]
+  },
+  "entite_1405": {
+    "label": "MISC",
+    "text": "Pauvre Jenny",
+    "jalons": [
+      370,
+      382
+    ]
+  },
+  "entite_1406": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      255,
+      262
+    ]
+  },
+  "entite_1407": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      292,
+      306
+    ]
+  },
+  "entite_1408": {
+    "label": "LOC",
+    "text": "Pardonnez-moi",
+    "jalons": [
+      337,
+      350
+    ]
+  },
+  "entite_1409": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      18,
+      27
+    ]
+  },
+  "entite_1410": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      122,
+      129
+    ]
+  },
+  "entite_1411": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      346,
+      355
+    ]
+  },
+  "entite_1412": {
+    "label": "PER",
+    "text": "demande Dufour",
+    "jalons": [
+      446,
+      460
+    ]
+  },
+  "entite_1413": {
+    "label": "PER",
+    "text": "Rien de bon",
+    "jalons": [
+      464,
+      475
+    ]
+  },
+  "entite_1414": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      484,
+      498
+    ]
+  },
+  "entite_1415": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      504,
+      511
+    ]
+  },
+  "entite_1416": {
+    "label": "LOC",
+    "text": "M. de Noirmont",
+    "jalons": [
+      296,
+      310
+    ]
+  },
+  "entite_1417": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      313,
+      327
+    ]
+  },
+  "entite_1418": {
+    "label": "MISC",
+    "text": "va s'asseoir près de la jeune fille",
+    "jalons": [
+      328,
+      363
+    ]
+  },
+  "entite_1419": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      422,
+      431
+    ]
+  },
+  "entite_1420": {
+    "label": "MISC",
+    "text": "s'occuper du reste de la société",
+    "jalons": [
+      20,
+      52
+    ]
+  },
+  "entite_1421": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      117,
+      131
+    ]
+  },
+  "entite_1422": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      502,
+      506
+    ]
+  },
+  "entite_1423": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      158,
+      162
+    ]
+  },
+  "entite_1424": {
+    "label": "LOC",
+    "text": "Armand",
+    "jalons": [
+      188,
+      194
+    ]
+  },
+  "entite_1425": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      475,
+      484
+    ]
+  },
+  "entite_1426": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      167,
+      181
+    ]
+  },
+  "entite_1427": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      291,
+      295
+    ]
+  },
+  "entite_1428": {
+    "label": "LOC",
+    "text": "Laon",
+    "jalons": [
+      334,
+      338
+    ]
+  },
+  "entite_1429": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      26,
+      35
+    ]
+  },
+  "entite_1430": {
+    "label": "PER",
+    "text": "Armand",
+    "jalons": [
+      493,
+      499
+    ]
+  },
+  "entite_1431": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_1432": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      145,
+      159
+    ]
+  },
+  "entite_1433": {
+    "label": "PER",
+    "text": "Victor et Dufour",
+    "jalons": [
+      161,
+      177
+    ]
+  },
+  "entite_1434": {
+    "label": "MISC",
+    "text": "se dirigent du côté de l'appartement du jeune de Bréville",
+    "jalons": [
+      178,
+      235
+    ]
+  },
+  "entite_1435": {
+    "label": "LOC",
+    "text": "L'odeur de la poudre",
+    "jalons": [
+      258,
+      278
+    ]
+  },
+  "entite_1436": {
+    "label": "MISC",
+    "text": "Ernestine en la",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_1437": {
+    "label": "LOC",
+    "text": "Montaigu",
+    "jalons": [
+      484,
+      492
+    ]
+  },
+  "entite_1438": {
+    "label": "LOC",
+    "text": "Adieu",
+    "jalons": [
+      494,
+      499
+    ]
+  },
+  "entite_1439": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      39,
+      53
+    ]
+  },
+  "entite_1440": {
+    "label": "LOC",
+    "text": "lui",
+    "jalons": [
+      505,
+      508
+    ]
+  },
+  "entite_1441": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      344,
+      358
+    ]
+  },
+  "entite_1442": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      415,
+      429
+    ]
+  },
+  "entite_1443": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      147,
+      161
+    ]
+  },
+  "entite_1444": {
+    "label": "PER",
+    "text": "Victor lui",
+    "jalons": [
+      433,
+      443
+    ]
+  },
+  "entite_1445": {
+    "label": "LOC",
+    "text": "fille du comte de Tergenne",
+    "jalons": [
+      62,
+      88
+    ]
+  },
+  "entite_1446": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      163,
+      177
+    ]
+  },
+  "entite_1447": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      118,
+      132
+    ]
+  },
+  "entite_1448": {
+    "label": "PER",
+    "text": "M. de Tergenne",
+    "jalons": [
+      381,
+      395
+    ]
+  },
+  "entite_1449": {
+    "label": "PER",
+    "text": "Je l'aurais",
+    "jalons": [
+      500,
+      511
+    ]
+  },
+  "entite_1450": {
+    "label": "MISC",
+    "text": "peinte en Diane",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_1451": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      44,
+      58
+    ]
+  },
+  "entite_1452": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      82,
+      90
+    ]
+  },
+  "entite_1453": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      153,
+      167
+    ]
+  },
+  "entite_1454": {
+    "label": "LOC",
+    "text": "Jacques",
+    "jalons": [
+      297,
+      304
+    ]
+  },
+  "entite_1455": {
+    "label": "PER",
+    "text": "Jacques voit",
+    "jalons": [
+      451,
+      463
+    ]
+  },
+  "entite_1456": {
+    "label": "MISC",
+    "text": "asse Madeleine en lui",
+    "jalons": [
+      0,
+      21
+    ]
+  },
+  "entite_1457": {
+    "label": "PER",
+    "text": "M. de Noirmont",
+    "jalons": [
+      420,
+      434
+    ]
+  },
+  "entite_1458": {
+    "label": "LOC",
+    "text": "de la faute de la",
+    "jalons": [
+      132,
+      149
+    ]
+  },
+  "entite_1459": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      228,
+      236
+    ]
+  },
+  "entite_1460": {
+    "label": "PER",
+    "text": "Victor et Dufour",
+    "jalons": [
+      238,
+      254
+    ]
+  },
+  "entite_1461": {
+    "label": "PER",
+    "text": "Mais Madeleine",
+    "jalons": [
+      287,
+      301
+    ]
+  },
+  "entite_1462": {
+    "label": "MISC",
+    "text": "J'ai coûté des larmes à Ernestine... je ne dois pas chercher à en faire",
+    "jalons": [
+      42,
+      113
+    ]
+  },
+  "entite_1463": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      376,
+      385
+    ]
+  },
+  "entite_1464": {
+    "label": "LOC",
+    "text": "Attendez",
+    "jalons": [
+      409,
+      417
+    ]
+  },
+  "entite_1465": {
+    "label": "MISC",
+    "text": "Madeleine va trouver son père et lui dit",
+    "jalons": [
+      429,
+      469
+    ]
+  },
+  "entite_1466": {
+    "label": "LOC",
+    "text": "Bréville",
+    "jalons": [
+      440,
+      448
+    ]
+  },
+  "entite_1467": {
+    "label": "LOC",
+    "text": "Dufour",
+    "jalons": [
+      453,
+      459
+    ]
+  },
+  "entite_1468": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      473,
+      478
+    ]
+  },
+  "entite_1469": {
+    "label": "LOC",
+    "text": "Madelein",
+    "jalons": [
+      504,
+      512
+    ]
+  }
+}
