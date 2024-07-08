@@ -8,6 +8,7 @@ import csv
 from flair.data import Sentence
 from flair.models import SequenceTagger
 import flair
+from itertools import chain
 # import torch
 
 
@@ -47,10 +48,9 @@ def stocker(chemin: str, contenu, is_json=False, verbose=False, delimiter: str =
         with open(chemin, "w", encoding='utf-8') as w:
             w.write(json.dumps(contenu, indent=2, ensure_ascii=False))
     else:
-        with open(chemin, 'w', newline='', encoding='utf-8') as w:
-            writer = csv.writer(
-                csvfile=w, delimiter=delimiter, quotechar=quotechar)
-            writer.writerows(entites_bio)
+        with open(chemin, mode='w', newline='', encoding='utf-8') as w:
+            writer = csv.writer(w, delimiter=delimiter, quotechar=quotechar)
+            writer.writerows(contenu)
     if verbose:
         print(f"  Output written in {chemin}")
 
@@ -74,12 +74,25 @@ def get_entity(entity_dict: dict) -> dict:
     """
     label: str = "O" if entity_dict["labels"] == [
     ] else entity_dict["labels"][0]["value"]
-
+    print(entity_dict)
     return {
         'label': label,
         'text': entity_dict["text"],
         'jalons': [entity_dict["start_pos"], entity_dict["end_pos"]]
     }
+
+
+def generate_bio_tags(entity: dict, sep: str = " ") -> list[list[str]]:
+    """generate bio tags (B/I) for potentially multiword entities.
+    """
+    words: list[str] = entity["text"].split(sep)
+    print(words)
+    bio_entity_list: list[list] = [
+        [words.pop(0), f"B-{entity['labels'][0]['value']}"]]
+    bio_entity_list.extend(
+        [[word, f"I-{entity['labels'][0]['value']}"] for word in words])
+    print(bio_entity_list)
+    return bio_entity_list
 
 
 def dico_resultats(text, tagger: SequenceTagger, chunk_size: int = 512):
@@ -90,7 +103,8 @@ def dico_resultats(text, tagger: SequenceTagger, chunk_size: int = 512):
         tagger.predict(sentence)
         all_ner_results.extend([get_entity(entity_dict=entity)
                                 for entity in sentence.to_dict(tag_type='ner')["entities"]])
-    return {f"entite_{i}" for i, ent in enumerate(all_ner_results)}
+        # print(all_ner_results)
+    return {f"entite_{i}": ent for i, ent in enumerate(all_ner_results)}
 
 
 def bio_flair(text, tagger: SequenceTagger, chunk_size: int = 512):
@@ -99,27 +113,10 @@ def bio_flair(text, tagger: SequenceTagger, chunk_size: int = 512):
     for chunk in chunks:
         sentence = Sentence(chunk)
         tagger.predict(sentence)
-        all_ner_results.extend([get_entity(entity_dict=entity)
-                                for entity in sentence.to_dict(tag_type='ner')["entities"]])
-
-    return
-
-
-def flair_ner(text, tagger, chunk_size=512):
-    chunks = chunk_text(text, chunk_size)
-    entities: dict[str, dict] = {}
-    i: int = 0
-    for chunk in chunks:
-        sentence = Sentence(chunk)
-        tagger.predict(sentence)
-        entities.extend([get_entity(entity_dict=entity)
-                        for entity in sentence.to_dict(tag_type='ner')["entities"]])
-        """
-        for entity in sentence.to_dict(tag_type='ner')["entities"]:
-            print(entity)
-            entities.append(get_entity(entity_dict=entity))
-        """
-    return entities
+        all_ner_results.extend(chain.from_iterable([generate_bio_tags(entity=entity)
+                               for entity in sentence.to_dict(tag_type='ner')["entities"]]))
+        print(all_ner_results)
+    return all_ner_results
 
 
 if __name__ == "__main__":
@@ -143,7 +140,9 @@ if __name__ == "__main__":
             nom_txt = re.split("/", path)[-1]
             path_ner = os.path.join(*dossiers, "NER")
             os.makedirs(path_ner, exist_ok=True)
-            path_output = f"{path_ner}/{nom_txt}_flair-{flair.__version__}.json"
+            path_output: str = f"{path_ner}/{nom_txt}_flair-{flair.__version__}.json"
+            path_output_bio: str = f"{path_ner}/{nom_txt}_flair-{flair.__version__}.bio"
+
             if os.path.exists(path_output) and not options.Force:
                 print("Already DONE : ", path_output)
                 continue
@@ -151,4 +150,8 @@ if __name__ == "__main__":
             texte = lire_fichier(path)
             # entites = flair_ner(texte, tagger)
             entites = dico_resultats(texte, tagger)
+            print(entites)
             stocker(path_output, entites, is_json=True)
+            bio_entites = bio_flair(text=texte, tagger=tagger)
+            print(bio_entites)
+            stocker(chemin=path_output_bio, contenu=bio_entites, is_json=False)

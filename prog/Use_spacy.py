@@ -57,6 +57,17 @@ def stocker(chemin, contenu, is_json=False, verbose=False):
     w.close()
 
 
+def chunk_text(text, chunk_size: int = 512) -> list[list]:
+    """Splits text into chunks of specified size."""
+    chunks = []
+    start = 0
+    while start < len(text):
+        end = start + chunk_size
+        chunks.append(text[start:end])
+        start += chunk_size
+    return chunks
+
+
 def dico_resultats(texte, nlp=""):
     nlp.max_length = 50000000  # or any large value, as long as you don't run out of RAM
     # nlp=spacy.load("fr_core_news_sm")):
@@ -81,7 +92,7 @@ def dico_resultats(texte, nlp=""):
     return (dico_resultats)
 
 
-def bio_spacy(texte, nlp=""):
+def bio_spacy(texte, nlp="") -> list[list]:
     nlp.max_length = 50000000  # or any large value, as long as you don't run out of RAM
     # nlp=spacy.load("fr_core_news_sm")):
     if nlp == "":
@@ -91,17 +102,18 @@ def bio_spacy(texte, nlp=""):
             cmd = "python3 -m spacy download fr_core_news_sm"
             os.system(cmd)
             nlp = spacy.load("fr_core_news_sm")
-
-    doc = nlp(texte)
-    liste_bio = []
-    i = 0
-    for ent in doc.ents:
-        liste_bio.append([doc[i].text, doc[i].ent_iob_, doc[i].ent_type_])
-        i = i + 1
-    return (liste_bio)
+    chunks: list = chunk_text(text=texte)
+    liste_bio: list = []
+    for chunk in chunks:
+        doc = nlp(chunk)
+        liste_bio.append([[doc[i].text, doc[i].ent_iob_, doc[i].ent_type_]
+                          for i, ent in enumerate(doc.ents)])
+        print(liste_bio)
+    return liste_bio
 
 
 if __name__ == "__main__":
+    do_json: bool = False
     # for modele in ["sm"]:
     for modele in ["sm", "md", "lg"]:
         # liste_subcorpus = glob.glob(f"{path_corpora}/*")
@@ -123,9 +135,9 @@ if __name__ == "__main__":
         nom_modele = f"spacy-{modele}"
 
         for subcorpus in liste_subcorpus:
-            print("  Processing %s" % subcorpus)
-            liste_txt = glob.glob("%s/*_REF/*.txt" % subcorpus)
-            liste_txt += glob.glob("%s/OCR/*/*.txt" % subcorpus)
+            print(f"  Processing {subcorpus}")
+            liste_txt = glob.glob(f"{subcorpus}/*_REF/*.txt")
+            liste_txt += glob.glob(f"{subcorpus}/OCR/*/*.txt")
             print("  nombre de fichiers txt trouvés :", len(liste_txt))
             for path in liste_txt:
                 dossiers = re.split("/", path)[:-1]
@@ -139,7 +151,7 @@ if __name__ == "__main__":
                 # Pour le format bio
                 path_output_bio = f"{path_ner}/{nom_txt}_{nom_modele}-{spacy.__version__}.bio"
                 print(path_output_bio)
-                exit()
+                # exit()
                 if os.path.exists(path_output) == True:
                     if options.Force == True:
                         print("  Recomputing :", path_output)
@@ -147,13 +159,21 @@ if __name__ == "__main__":
                         print("Already DONE : ", path_output)
                         continue
                 texte = lire_fichier(path)
-                entites = dico_resultats(texte, nlp)
-                stocker(path_output, entites, is_json=True)
+                if do_json:
+                    entites = dico_resultats(texte, nlp)
+                    stocker(path_output, entites, is_json=True)
 
                 # Pour le format bio
-                entites_bio = bio_spacy(texte, nlp)
-                with open(path_output_bio, 'w', newline='') as file:
-                    writer = csv.writer(file, delimiter=';', quotechar='|')
-                    writer.writerows(entites_bio)
+                entites_bio: list[list] = bio_spacy(texte, nlp)
+                concat_bio_path: str = f"{path_ner}/{nom_txt}_{nom_modele}-{spacy.__version__}_chunk_all.bio"
+                for i, ent in enumerate(entites_bio):
+                    path_output_bio = f"{path_ner}/{nom_txt}_{nom_modele}-{spacy.__version__}_chunk_{i}.bio"
+                    with open(path_output_bio, 'a', newline='') as file:
+                        writer = csv.writer(file, delimiter=';', quotechar='|')
+                        writer.writerows(ent)
+                    with open(concat_bio_path, "a",  newline='') as file:
+                        writer = csv.writer(file, delimiter=';', quotechar='|')
+                        writer.writerows(ent)
+
                     # writer.writerows([["Alice", 23], ["Bob", 27]])
             # Penser à comment lancer compute_distances
