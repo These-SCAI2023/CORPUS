@@ -98,11 +98,15 @@ def bio_spacy(texte, nlp="") -> list[list]:
             cmd = "python3 -m spacy download fr_core_news_sm"
             os.system(cmd)
             nlp = spacy.load("fr_core_news_sm")
-    chunks: list[str] = chunk_text(text=texte)
+    # chunks: list[str] = chunk_text(text=texte)
     # print(chunks)
-    print(len(chunks))
+    # print(len(chunks))
     # exit()
-    liste_bio: list = []
+    doc = nlp(texte)
+    liste_bio: list = [[doc[i].text, f"{doc[i].ent_iob_}{'-' if  doc[i].ent_iob_ != 'O' else ''}{doc[i].ent_type_}"
+                        ] for i, ent in enumerate(doc)]
+    print(liste_bio)
+    """
     for chunk in chunks:
         doc = nlp(chunk)
         print(f"doc: {doc}")
@@ -112,6 +116,7 @@ def bio_spacy(texte, nlp="") -> list[list]:
                           for i, ent in enumerate(doc)])
         print(liste_bio)
         # exit()
+    """
     return liste_bio
 
 
@@ -168,15 +173,16 @@ if __name__ == "__main__":
 
                 # Pour le format bio
                 entites_bio: list[list] = bio_spacy(texte, nlp)
-                concat_bio_path: str = f"{path_ner}/{nom_txt}_{nom_modele}-{spacy.__version__}_chunk_all.bio"
-                for i, ent in enumerate(entites_bio):
-                    path_output_bio = f"{path_ner}/{nom_txt}_{nom_modele}-{spacy.__version__}_chunk_{i}.bio"
-                    with open(path_output_bio, 'a', newline='') as file:
-                        writer = csv.writer(file, delimiter=';', quotechar='|')
-                        writer.writerows(ent)
-                    with open(concat_bio_path, "a",  newline='') as file:
-                        writer = csv.writer(file, delimiter=';', quotechar='|')
-                        writer.writerows(ent)
+                concat_bio_path: str = f"{path_ner}/{nom_txt}_{nom_modele}-{spacy.__version__}.bio"
+                # for ent in entites_bio:
+                #    print(ent)
+                # path_output_bio = f"{path_ner}/{nom_txt}_{nom_modele}-{spacy.__version__}_chunk_{i}.bio"
+                # with open(path_output_bio, 'a', #newline='') as file:
+                # writer = csv.writer(file, delimiter=';', quotechar='|')
+                # writer.writerows(ent)
+                with open(concat_bio_path, "w",  newline='') as file:
+                    writer = csv.writer(file, delimiter=' ', quotechar='|')
+                    writer.writerows(entites_bio)
 
                     # writer.writerows([["Alice", 23], ["Bob", 27]])
             # Penser à comment lancer compute_distances
