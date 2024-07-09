@@ -1,0 +1,6050 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Gallica  Salammbô",
+    "jalons": [
+      6,
+      23
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Gustave Flaubert  Source",
+    "jalons": [
+      29,
+      53
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Bibliothèque",
+    "jalons": [
+      71,
+      83
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      97,
+      103
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Gallica     Flaubert",
+    "jalons": [
+      109,
+      129
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Gustave",
+    "jalons": [
+      131,
+      138
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Auteur du texte",
+    "jalons": [
+      152,
+      167
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Gustave Flaubert",
+    "jalons": [
+      183,
+      199
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la",
+    "jalons": [
+      11,
+      104
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Les contenus de Gallica sont la propriété de la BnF au sens de",
+    "jalons": [
+      399,
+      461
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Bibliothè",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_11": {
+    "label": "ORG",
+    "text": "LIBRAIRIE DE MICH",
+    "jalons": [
+      495,
+      512
+    ]
+  },
+  "entite_12": {
+    "label": "ORG",
+    "text": "EL LÉVY FRÈRES",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_13": {
+    "label": "ORG",
+    "text": "Nouvelle Édition",
+    "jalons": [
+      75,
+      91
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "PARIS",
+    "jalons": [
+      156,
+      161
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "MICHEL LÉVY",
+    "jalons": [
+      252,
+      263
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "RUE VIVIENNE",
+    "jalons": [
+      292,
+      304
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Mégara",
+    "jalons": [
+      441,
+      447
+    ]
+  },
+  "entite_18": {
+    "label": "ORG",
+    "text": "faubourg de Carthage",
+    "jalons": [
+      449,
+      469
+    ]
+  },
+  "entite_19": {
+    "label": "ORG",
+    "text": "Hamilcar",
+    "jalons": [
+      491,
+      499
+    ]
+  },
+  "entite_20": {
+    "label": "ORG",
+    "text": "Les soldat",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Lusita",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "des Nègres et des fugitifs de Rome",
+    "jalons": [
+      22,
+      56
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Lune",
+    "jalons": [
+      459,
+      463
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      215,
+      223
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      279,
+      283
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      300,
+      308
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Les Mer",
+    "jalons": [
+      310,
+      317
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Lusitanien",
+    "jalons": [
+      498,
+      508
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Génies des fontaines, de la lumière",
+    "jalons": [
+      61,
+      96
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Giscon",
+    "jalons": [
+      499,
+      505
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "la Ré",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      152,
+      160
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "C'étaient les poissons de la famille Barca",
+    "jalons": [
+      344,
+      386
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "L'idée de comme",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Sivan",
+    "jalons": [
+      419,
+      424
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Tammouz",
+    "jalons": [
+      426,
+      433
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Eloul",
+    "jalons": [
+      435,
+      440
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Tischri",
+    "jalons": [
+      443,
+      450
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Schebar",
+    "jalons": [
+      452,
+      459
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "dieu des Sidoniens et père de sa famille",
+    "jalons": [
+      223,
+      263
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Tartessus et la guerre contre Masisabal  pour venger la reine des",
+    "jalons": [
+      331,
+      396
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "de la peur que leur",
+    "jalons": [
+      492,
+      511
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Libyen de",
+    "jalons": [
+      491,
+      500
+    ]
+  },
+  "entite_44": {
+    "label": "ORG",
+    "text": "Aux Grecs",
+    "jalons": [
+      501,
+      510
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Emportée par les souvenirs de Carthage",
+    "jalons": [
+      174,
+      212
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      270,
+      274
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      307,
+      312
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Libyen",
+    "jalons": [
+      499,
+      505
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Narr’ Havas",
+    "jalons": [
+      443,
+      454
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Italie",
+    "jalons": [
+      390,
+      396
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      59,
+      67
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "La République",
+    "jalons": [
+      123,
+      136
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "la rue de Khamon et la porte de Cirta",
+    "jalons": [
+      99,
+      136
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "la faveur de Melkarth et tout",
+    "jalons": [
+      26,
+      55
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "bas",
+    "jalons": [
+      56,
+      59
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      479,
+      487
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "Alors les Barbares",
+    "jalons": [
+      75,
+      93
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      290,
+      295
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "Gette opulence de la terre et ces inventions de la",
+    "jalons": [
+      281,
+      331
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Au",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "Romai",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      439,
+      443
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Des",
+    "jalons": [
+      506,
+      509
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      32,
+      36
+    ]
+  },
+  "entite_65": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      465,
+      473
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Enfin",
+    "jalons": [
+      476,
+      481
+    ]
+  },
+  "entite_67": {
+    "label": "LOC",
+    "text": "Soudain la ville",
+    "jalons": [
+      198,
+      214
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Souvent",
+    "jalons": [
+      494,
+      501
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "Déjà Narr",
+    "jalons": [
+      210,
+      219
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      389,
+      397
+    ]
+  },
+  "entite_71": {
+    "label": "LOC",
+    "text": "la République",
+    "jalons": [
+      488,
+      501
+    ]
+  },
+  "entite_72": {
+    "label": "LOC",
+    "text": "lus la route",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "au clair de lune",
+    "jalons": [
+      2,
+      18
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Baal-Kamon",
+    "jalons": [
+      189,
+      199
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Moloch",
+    "jalons": [
+      201,
+      207
+    ]
+  },
+  "entite_76": {
+    "label": "MISC",
+    "text": "Tanit et la Vénus des Grecs",
+    "jalons": [
+      227,
+      254
+    ]
+  },
+  "entite_77": {
+    "label": "MISC",
+    "text": "Carthage et d'appeler les Romains",
+    "jalons": [
+      470,
+      503
+    ]
+  },
+  "entite_78": {
+    "label": "LOC",
+    "text": "Hannon",
+    "jalons": [
+      2,
+      8
+    ]
+  },
+  "entite_79": {
+    "label": "MISC",
+    "text": "Dieux et de la République",
+    "jalons": [
+      289,
+      314
+    ]
+  },
+  "entite_80": {
+    "label": "MISC",
+    "text": "Gaulois et des Grecs",
+    "jalons": [
+      293,
+      313
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "L'idée lui",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_82": {
+    "label": "MISC",
+    "text": "es bouillies dans du vinaigre",
+    "jalons": [
+      0,
+      29
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "La Sicile",
+    "jalons": [
+      129,
+      138
+    ]
+  },
+  "entite_84": {
+    "label": "PER",
+    "text": "Hannon n'avai",
+    "jalons": [
+      499,
+      512
+    ]
+  },
+  "entite_85": {
+    "label": "MISC",
+    "text": "songes près des Dieux de Carthage! Il vous",
+    "jalons": [
+      3,
+      45
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "Pis",
+    "jalons": [
+      503,
+      506
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      50,
+      54
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "Baléares",
+    "jalons": [
+      493,
+      501
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "la rue de Satheb",
+    "jalons": [
+      351,
+      367
+    ]
+  },
+  "entite_90": {
+    "label": "LOC",
+    "text": "de Khamon",
+    "jalons": [
+      187,
+      196
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "Salammbô",
+    "jalons": [
+      374,
+      382
+    ]
+  },
+  "entite_92": {
+    "label": "MISC",
+    "text": "Anciens n’avaient pas eu le loi",
+    "jalons": [
+      41,
+      72
+    ]
+  },
+  "entite_93": {
+    "label": "LOC",
+    "text": "Hannon",
+    "jalons": [
+      312,
+      318
+    ]
+  },
+  "entite_94": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      299,
+      304
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "Reine de",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      460,
+      468
+    ]
+  },
+  "entite_97": {
+    "label": "MISC",
+    "text": "davres! Tu formes les perles au fond de la mer",
+    "jalons": [
+      0,
+      46
+    ]
+  },
+  "entite_98": {
+    "label": "LOC",
+    "text": "Chaudes",
+    "jalons": [
+      24,
+      31
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "Melkarth",
+    "jalons": [
+      429,
+      437
+    ]
+  },
+  "entite_100": {
+    "label": "LOC",
+    "text": "Taanach",
+    "jalons": [
+      317,
+      324
+    ]
+  },
+  "entite_101": {
+    "label": "MISC",
+    "text": "Salammbô adorait la Déesse en sa",
+    "jalons": [
+      43,
+      75
+    ]
+  },
+  "entite_102": {
+    "label": "PER",
+    "text": "Mais la Rabetna",
+    "jalons": [
+      321,
+      336
+    ]
+  },
+  "entite_103": {
+    "label": "MISC",
+    "text": "Afin de pénétrer dans les",
+    "jalons": [
+      254,
+      279
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      432,
+      440
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Tanit",
+    "jalons": [
+      274,
+      279
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Salammbà",
+    "jalons": [
+      303,
+      311
+    ]
+  },
+  "entite_107": {
+    "label": "MISC",
+    "text": "sé les portes de Baal-Khamon",
+    "jalons": [
+      0,
+      28
+    ]
+  },
+  "entite_108": {
+    "label": "PER",
+    "text": "Elle le sollicitait",
+    "jalons": [
+      32,
+      51
+    ]
+  },
+  "entite_109": {
+    "label": "MISC",
+    "text": "le Désir et la Nue, et du Désir et de la Nue sortit la Matière",
+    "jalons": [
+      421,
+      483
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Melkarth",
+    "jalons": [
+      490,
+      498
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "l'âme de Carthage",
+    "jalons": [
+      59,
+      76
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "Schahabarim",
+    "jalons": [
+      361,
+      372
+    ]
+  },
+  "entite_113": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      267,
+      272
+    ]
+  },
+  "entite_114": {
+    "label": "LOC",
+    "text": "DE CARTHAGE  Des gens de la",
+    "jalons": [
+      140,
+      167
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "La colline de l’Acropole",
+    "jalons": [
+      348,
+      372
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "de Byrsa",
+    "jalons": [
+      384,
+      392
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "C’étaient des",
+    "jalons": [
+      441,
+      454
+    ]
+  },
+  "entite_118": {
+    "label": "MISC",
+    "text": "et des chaînes de métal",
+    "jalons": [
+      0,
+      23
+    ]
+  },
+  "entite_119": {
+    "label": "LOC",
+    "text": "Mégara",
+    "jalons": [
+      305,
+      311
+    ]
+  },
+  "entite_120": {
+    "label": "PER",
+    "text": "Celui de Khamon",
+    "jalons": [
+      101,
+      116
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Tanit",
+    "jalons": [
+      246,
+      251
+    ]
+  },
+  "entite_122": {
+    "label": "ORG",
+    "text": "au Soleil",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_123": {
+    "label": "LOC",
+    "text": "derrière la ville",
+    "jalons": [
+      11,
+      28
+    ]
+  },
+  "entite_124": {
+    "label": "MISC",
+    "text": "Il arriva au bas des Mappales",
+    "jalons": [
+      7,
+      36
+    ]
+  },
+  "entite_125": {
+    "label": "LOC",
+    "text": "Salammbô",
+    "jalons": [
+      240,
+      248
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "la montagne des Eaux-Chaudes",
+    "jalons": [
+      7,
+      35
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "Au lieu de la",
+    "jalons": [
+      107,
+      120
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "déjà Tunis",
+    "jalons": [
+      120,
+      130
+    ]
+  },
+  "entite_129": {
+    "label": "MISC",
+    "text": "llée de toile",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "SALAM",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_131": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      177,
+      185
+    ]
+  },
+  "entite_132": {
+    "label": "MISC",
+    "text": "Alors les délégués des soldats et ceux du Grand",
+    "jalons": [
+      399,
+      446
+    ]
+  },
+  "entite_133": {
+    "label": "ORG",
+    "text": "le Génie de Carthage",
+    "jalons": [
+      488,
+      508
+    ]
+  },
+  "entite_134": {
+    "label": "MISC",
+    "text": "par les Dieux des Barbares",
+    "jalons": [
+      0,
+      26
+    ]
+  },
+  "entite_135": {
+    "label": "MISC",
+    "text": "Avec les démonstrations et la",
+    "jalons": [
+      28,
+      57
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      411,
+      419
+    ]
+  },
+  "entite_137": {
+    "label": "LOC",
+    "text": "Denys",
+    "jalons": [
+      110,
+      115
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Pyrrhus",
+    "jalons": [
+      117,
+      124
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "Les Numides",
+    "jalons": [
+      45,
+      56
+    ]
+  },
+  "entite_140": {
+    "label": "MISC",
+    "text": "Elle y rencontrait les Romains",
+    "jalons": [
+      144,
+      174
+    ]
+  },
+  "entite_141": {
+    "label": "LOC",
+    "text": "de la Tænia",
+    "jalons": [
+      439,
+      450
+    ]
+  },
+  "entite_142": {
+    "label": "PER",
+    "text": "Derrière lui",
+    "jalons": [
+      16,
+      28
+    ]
+  },
+  "entite_143": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      453,
+      461
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "Afrique",
+    "jalons": [
+      41,
+      48
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Méfiez",
+    "jalons": [
+      139,
+      145
+    ]
+  },
+  "entite_146": {
+    "label": "MISC",
+    "text": "les gens de Magdala, de Leptis",
+    "jalons": [
+      9,
+      39
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "d'Hécatompyle",
+    "jalons": [
+      41,
+      54
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "Baléares",
+    "jalons": [
+      502,
+      510
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "Zarxas",
+    "jalons": [
+      16,
+      22
+    ]
+  },
+  "entite_150": {
+    "label": "MISC",
+    "text": "Sauta comme un bateleur sur les épaules de",
+    "jalons": [
+      55,
+      97
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "Carthage la porte de Khamon",
+    "jalons": [
+      215,
+      242
+    ]
+  },
+  "entite_152": {
+    "label": "LOC",
+    "text": "Zarxas",
+    "jalons": [
+      491,
+      497
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "Zarxas",
+    "jalons": [
+      151,
+      157
+    ]
+  },
+  "entite_154": {
+    "label": "MISC",
+    "text": "peine de mort dans les armées",
+    "jalons": [
+      25,
+      54
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "Moloch de leur",
+    "jalons": [
+      488,
+      502
+    ]
+  },
+  "entite_156": {
+    "label": "MISC",
+    "text": "Alors les Africains",
+    "jalons": [
+      116,
+      135
+    ]
+  },
+  "entite_157": {
+    "label": "LOC",
+    "text": "Conseil",
+    "jalons": [
+      190,
+      197
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      339,
+      347
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Scissites",
+    "jalons": [
+      466,
+      475
+    ]
+  },
+  "entite_160": {
+    "label": "LOC",
+    "text": "l’intérieur de la ville",
+    "jalons": [
+      77,
+      100
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      277,
+      285
+    ]
+  },
+  "entite_162": {
+    "label": "MISC",
+    "text": "la planète de Chabar",
+    "jalons": [
+      439,
+      459
+    ]
+  },
+  "entite_163": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      391,
+      399
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "Mégara",
+    "jalons": [
+      264,
+      270
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Narr Havas",
+    "jalons": [
+      386,
+      396
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "La ville",
+    "jalons": [
+      116,
+      124
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Tanit",
+    "jalons": [
+      483,
+      488
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      144,
+      152
+    ]
+  },
+  "entite_169": {
+    "label": "LOC",
+    "text": "ES",
+    "jalons": [
+      356,
+      358
+    ]
+  },
+  "entite_170": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      508,
+      511
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      91,
+      99
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      413,
+      421
+    ]
+  },
+  "entite_173": {
+    "label": "LOC",
+    "text": "Tanit",
+    "jalons": [
+      503,
+      508
+    ]
+  },
+  "entite_174": {
+    "label": "LOC",
+    "text": "Au bas de Byrsa",
+    "jalons": [
+      422,
+      437
+    ]
+  },
+  "entite_175": {
+    "label": "LOC",
+    "text": "Syrie",
+    "jalons": [
+      367,
+      372
+    ]
+  },
+  "entite_176": {
+    "label": "LOC",
+    "text": "la ville de Maphug",
+    "jalons": [
+      379,
+      397
+    ]
+  },
+  "entite_177": {
+    "label": "LOC",
+    "text": "Grasse",
+    "jalons": [
+      282,
+      288
+    ]
+  },
+  "entite_178": {
+    "label": "MISC",
+    "text": "Pendant que Spen",
+    "jalons": [
+      496,
+      512
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "Puis Mâth",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "Tanit",
+    "jalons": [
+      131,
+      136
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Gela",
+    "jalons": [
+      277,
+      281
+    ]
+  },
+  "entite_182": {
+    "label": "MISC",
+    "text": "C'était là le manteau de la Déesse",
+    "jalons": [
+      11,
+      45
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "vaient libres dans l'enceinte de la Déesse",
+    "jalons": [
+      0,
+      42
+    ]
+  },
+  "entite_184": {
+    "label": "LOC",
+    "text": "la rue des Tanneurs",
+    "jalons": [
+      51,
+      70
+    ]
+  },
+  "entite_185": {
+    "label": "MISC",
+    "text": "C'est le voile de la Déesse",
+    "jalons": [
+      445,
+      472
+    ]
+  },
+  "entite_186": {
+    "label": "MISC",
+    "text": "Le voile de Ja Déesse!",
+    "jalons": [
+      480,
+      502
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "de Carthag",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Pour t'obéir",
+    "jalons": [
+      3,
+      15
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Taanach",
+    "jalons": [
+      431,
+      438
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "Kroûm",
+    "jalons": [
+      440,
+      445
+    ]
+  },
+  "entite_191": {
+    "label": "LOC",
+    "text": "Ewa",
+    "jalons": [
+      447,
+      450
+    ]
+  },
+  "entite_192": {
+    "label": "LOC",
+    "text": "Mi",
+    "jalons": [
+      452,
+      454
+    ]
+  },
+  "entite_193": {
+    "label": "PER",
+    "text": "Que Gurzil",
+    "jalons": [
+      418,
+      428
+    ]
+  },
+  "entite_194": {
+    "label": "PER",
+    "text": "Mâtho",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_195": {
+    "label": "LOC",
+    "text": "trésor de la République dans le temple de Mo",
+    "jalons": [
+      232,
+      276
+    ]
+  },
+  "entite_196": {
+    "label": "LOC",
+    "text": "Du fond des Mappales",
+    "jalons": [
+      79,
+      99
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "Les gardes de la Légion",
+    "jalons": [
+      94,
+      117
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_199": {
+    "label": "PER",
+    "text": "VI  HANNON",
+    "jalons": [
+      29,
+      39
+    ]
+  },
+  "entite_200": {
+    "label": "MISC",
+    "text": "Narr’ Havas entra",
+    "jalons": [
+      457,
+      474
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Narr’",
+    "jalons": [
+      371,
+      376
+    ]
+  },
+  "entite_202": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      378,
+      383
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      431,
+      439
+    ]
+  },
+  "entite_204": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      397,
+      402
+    ]
+  },
+  "entite_205": {
+    "label": "MISC",
+    "text": "Les autres",
+    "jalons": [
+      13,
+      23
+    ]
+  },
+  "entite_206": {
+    "label": "MISC",
+    "text": "Havas et Mâtho",
+    "jalons": [
+      175,
+      189
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      239,
+      247
+    ]
+  },
+  "entite_208": {
+    "label": "LOC",
+    "text": "Le vieux Caton",
+    "jalons": [
+      9,
+      23
+    ]
+  },
+  "entite_209": {
+    "label": "LOC",
+    "text": "Durant la dernière",
+    "jalons": [
+      212,
+      230
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      54,
+      59
+    ]
+  },
+  "entite_211": {
+    "label": "MISC",
+    "text": "Les Mangeurs-de-choses-immondes",
+    "jalons": [
+      411,
+      442
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      495,
+      503
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Chacun",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_214": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      499,
+      507
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      129,
+      137
+    ]
+  },
+  "entite_216": {
+    "label": "LOC",
+    "text": "Elles",
+    "jalons": [
+      504,
+      509
+    ]
+  },
+  "entite_217": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      142,
+      147
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "Narr Havas",
+    "jalons": [
+      219,
+      229
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      496,
+      504
+    ]
+  },
+  "entite_220": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      477,
+      482
+    ]
+  },
+  "entite_221": {
+    "label": "MISC",
+    "text": "arut sur l’autre bord du golfe",
+    "jalons": [
+      0,
+      30
+    ]
+  },
+  "entite_222": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      191,
+      199
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Déjà",
+    "jalons": [
+      201,
+      205
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      458,
+      466
+    ]
+  },
+  "entite_225": {
+    "label": "ORG",
+    "text": "bres du Conseil des Anciens",
+    "jalons": [
+      14,
+      41
+    ]
+  },
+  "entite_226": {
+    "label": "MISC",
+    "text": "réunion générale de tous les Riche",
+    "jalons": [
+      87,
+      121
+    ]
+  },
+  "entite_227": {
+    "label": "LOC",
+    "text": "Donc la force de Carthage",
+    "jalons": [
+      473,
+      498
+    ]
+  },
+  "entite_228": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_229": {
+    "label": "LOC",
+    "text": "Hann",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      498,
+      506
+    ]
+  },
+  "entite_231": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      401,
+      406
+    ]
+  },
+  "entite_233": {
+    "label": "LOC",
+    "text": "D'ailleurs",
+    "jalons": [
+      497,
+      507
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Souvent",
+    "jalons": [
+      409,
+      416
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "Giscon",
+    "jalons": [
+      365,
+      371
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      478,
+      483
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Mais la",
+    "jalons": [
+      185,
+      192
+    ]
+  },
+  "entite_238": {
+    "label": "MISC",
+    "text": "Puis la pensée de Salammbô l’obsédait",
+    "jalons": [
+      413,
+      450
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      210,
+      218
+    ]
+  },
+  "entite_240": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      348,
+      356
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "comme des boutons de corail",
+    "jalons": [
+      0,
+      27
+    ]
+  },
+  "entite_242": {
+    "label": "LOC",
+    "text": "Quelquefois",
+    "jalons": [
+      488,
+      499
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      239,
+      246
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "Il",
+    "jalons": [
+      506,
+      508
+    ]
+  },
+  "entite_245": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      167,
+      172
+    ]
+  },
+  "entite_246": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      369,
+      377
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "la montagne des Eaux",
+    "jalons": [
+      399,
+      419
+    ]
+  },
+  "entite_248": {
+    "label": "MISC",
+    "text": "ndre les Barbares un matin",
+    "jalons": [
+      0,
+      26
+    ]
+  },
+  "entite_249": {
+    "label": "LOC",
+    "text": "Les gardes de la Légion",
+    "jalons": [
+      166,
+      189
+    ]
+  },
+  "entite_250": {
+    "label": "LOC",
+    "text": "Spen",
+    "jalons": [
+      485,
+      489
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "Avec la pointe des",
+    "jalons": [
+      453,
+      471
+    ]
+  },
+  "entite_252": {
+    "label": "MISC",
+    "text": "Aussitôt la terre s’ébranla",
+    "jalons": [
+      451,
+      478
+    ]
+  },
+  "entite_253": {
+    "label": "LOC",
+    "text": "Déjà",
+    "jalons": [
+      389,
+      393
+    ]
+  },
+  "entite_254": {
+    "label": "LOC",
+    "text": "Hannon",
+    "jalons": [
+      44,
+      50
+    ]
+  },
+  "entite_255": {
+    "label": "LOC",
+    "text": "Les trois Juges de la ville",
+    "jalons": [
+      134,
+      161
+    ]
+  },
+  "entite_256": {
+    "label": "MISC",
+    "text": "Samnite, un Spartiate et un Cappadocien",
+    "jalons": [
+      31,
+      70
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "Hannon",
+    "jalons": [
+      93,
+      99
+    ]
+  },
+  "entite_258": {
+    "label": "ORG",
+    "text": "Deux",
+    "jalons": [
+      507,
+      511
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "Envoyez",
+    "jalons": [
+      422,
+      429
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      317,
+      322
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      428,
+      433
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "Radès",
+    "jalons": [
+      436,
+      441
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "Du haut de l’Acropole",
+    "jalons": [
+      443,
+      464
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "Salammbo",
+    "jalons": [
+      281,
+      289
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      250,
+      258
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "OEil de Khamon",
+    "jalons": [
+      253,
+      267
+    ]
+  },
+  "entite_267": {
+    "label": "LOC",
+    "text": "Eschmoün",
+    "jalons": [
+      98,
+      106
+    ]
+  },
+  "entite_268": {
+    "label": "LOC",
+    "text": "Kha",
+    "jalons": [
+      412,
+      415
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "Hamil",
+    "jalons": [
+      322,
+      327
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Melkarth",
+    "jalons": [
+      118,
+      126
+    ]
+  },
+  "entite_271": {
+    "label": "MISC",
+    "text": "Drepanum",
+    "jalons": [
+      309,
+      317
+    ]
+  },
+  "entite_272": {
+    "label": "LOC",
+    "text": "Syracuse",
+    "jalons": [
+      319,
+      327
+    ]
+  },
+  "entite_273": {
+    "label": "MISC",
+    "text": "Lilybée",
+    "jalons": [
+      329,
+      336
+    ]
+  },
+  "entite_274": {
+    "label": "LOC",
+    "text": "Etna",
+    "jalons": [
+      346,
+      350
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Puis",
+    "jalons": [
+      497,
+      501
+    ]
+  },
+  "entite_276": {
+    "label": "LOC",
+    "text": "Quelque",
+    "jalons": [
+      492,
+      499
+    ]
+  },
+  "entite_277": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      318,
+      326
+    ]
+  },
+  "entite_278": {
+    "label": "LOC",
+    "text": "La ville",
+    "jalons": [
+      329,
+      337
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "Istatten",
+    "jalons": [
+      316,
+      324
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Subeldia",
+    "jalons": [
+      326,
+      334
+    ]
+  },
+  "entite_281": {
+    "label": "LOC",
+    "text": "Hictamon",
+    "jalons": [
+      336,
+      344
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      271,
+      279
+    ]
+  },
+  "entite_283": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      498,
+      506
+    ]
+  },
+  "entite_284": {
+    "label": "LOC",
+    "text": "Salammbà",
+    "jalons": [
+      196,
+      204
+    ]
+  },
+  "entite_285": {
+    "label": "LOC",
+    "text": "Mégara",
+    "jalons": [
+      404,
+      410
+    ]
+  },
+  "entite_286": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      77,
+      85
+    ]
+  },
+  "entite_287": {
+    "label": "MISC",
+    "text": "les galeries de Kinisdo",
+    "jalons": [
+      25,
+      48
+    ]
+  },
+  "entite_288": {
+    "label": "LOC",
+    "text": "Sur les dalles",
+    "jalons": [
+      411,
+      425
+    ]
+  },
+  "entite_289": {
+    "label": "ORG",
+    "text": "Hamilcar",
+    "jalons": [
+      502,
+      510
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "’avança",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_291": {
+    "label": "MISC",
+    "text": "Enfin Hamilcar tira de",
+    "jalons": [
+      17,
+      39
+    ]
+  },
+  "entite_292": {
+    "label": "MISC",
+    "text": "ance de mes batailles",
+    "jalons": [
+      0,
+      21
+    ]
+  },
+  "entite_293": {
+    "label": "LOC",
+    "text": "Conseil",
+    "jalons": [
+      71,
+      78
+    ]
+  },
+  "entite_294": {
+    "label": "LOC",
+    "text": "Barca",
+    "jalons": [
+      482,
+      487
+    ]
+  },
+  "entite_295": {
+    "label": "LOC",
+    "text": "Hannon",
+    "jalons": [
+      213,
+      219
+    ]
+  },
+  "entite_296": {
+    "label": "LOC",
+    "text": "Éryx",
+    "jalons": [
+      487,
+      491
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "Baat-Baal",
+    "jalons": [
+      95,
+      104
+    ]
+  },
+  "entite_298": {
+    "label": "MISC",
+    "text": "Régulus",
+    "jalons": [
+      2,
+      9
+    ]
+  },
+  "entite_299": {
+    "label": "LOC",
+    "text": "Latium",
+    "jalons": [
+      500,
+      506
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "Mais Hamilcar",
+    "jalons": [
+      154,
+      167
+    ]
+  },
+  "entite_301": {
+    "label": "ORG",
+    "text": "Puis les Anciens",
+    "jalons": [
+      494,
+      510
+    ]
+  },
+  "entite_302": {
+    "label": "MISC",
+    "text": "Alors Magdassan",
+    "jalons": [
+      297,
+      312
+    ]
+  },
+  "entite_303": {
+    "label": "LOC",
+    "text": "Barca",
+    "jalons": [
+      399,
+      404
+    ]
+  },
+  "entite_304": {
+    "label": "MISC",
+    "text": "Grec ou un Latin",
+    "jalons": [
+      462,
+      478
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "Sardaigne",
+    "jalons": [
+      312,
+      321
+    ]
+  },
+  "entite_306": {
+    "label": "PER",
+    "text": "Tous lui",
+    "jalons": [
+      495,
+      503
+    ]
+  },
+  "entite_307": {
+    "label": "MISC",
+    "text": "la cendre de vos fils et la cendre des frères de vos",
+    "jalons": [
+      3,
+      55
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Gent du Conseil de Carthage",
+    "jalons": [
+      116,
+      143
+    ]
+  },
+  "entite_309": {
+    "label": "PER",
+    "text": "Hamilcar Barca",
+    "jalons": [
+      191,
+      205
+    ]
+  },
+  "entite_310": {
+    "label": "MISC",
+    "text": "Chef des Riches et Dominateur du peuple",
+    "jalons": [
+      226,
+      265
+    ]
+  },
+  "entite_311": {
+    "label": "LOC",
+    "text": "Sulfèt",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_312": {
+    "label": "PER",
+    "text": "Mais Hamilcar",
+    "jalons": [
+      3,
+      16
+    ]
+  },
+  "entite_313": {
+    "label": "MISC",
+    "text": "es curieux de voir le maitre",
+    "jalons": [
+      0,
+      28
+    ]
+  },
+  "entite_314": {
+    "label": "MISC",
+    "text": "Les Dieux",
+    "jalons": [
+      452,
+      461
+    ]
+  },
+  "entite_315": {
+    "label": "MISC",
+    "text": "l’accoutrement de la Déesse",
+    "jalons": [
+      0,
+      27
+    ]
+  },
+  "entite_316": {
+    "label": "PER",
+    "text": "OEil des Baalim",
+    "jalons": [
+      496,
+      511
+    ]
+  },
+  "entite_317": {
+    "label": "LOC",
+    "text": "Bois",
+    "jalons": [
+      404,
+      408
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      70,
+      78
+    ]
+  },
+  "entite_319": {
+    "label": "PER",
+    "text": "Ham",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Cejendant",
+    "jalons": [
+      65,
+      74
+    ]
+  },
+  "entite_321": {
+    "label": "LOC",
+    "text": "Colchide",
+    "jalons": [
+      131,
+      139
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "Schesbar",
+    "jalons": [
+      383,
+      391
+    ]
+  },
+  "entite_323": {
+    "label": "LOC",
+    "text": "Syracuse",
+    "jalons": [
+      393,
+      401
+    ]
+  },
+  "entite_324": {
+    "label": "LOC",
+    "text": "Elathia",
+    "jalons": [
+      403,
+      410
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      62,
+      70
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Harousch-Noir",
+    "jalons": [
+      193,
+      206
+    ]
+  },
+  "entite_327": {
+    "label": "MISC",
+    "text": "Les caravanes de la Gétulie et du Phazzana",
+    "jalons": [
+      387,
+      429
+    ]
+  },
+  "entite_328": {
+    "label": "LOC",
+    "text": "détourna",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Marazzana",
+    "jalons": [
+      149,
+      158
+    ]
+  },
+  "entite_330": {
+    "label": "LOC",
+    "text": "Abdalonim",
+    "jalons": [
+      376,
+      385
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "Kha",
+    "jalons": [
+      432,
+      435
+    ]
+  },
+  "entite_332": {
+    "label": "LOC",
+    "text": "Abdalonim",
+    "jalons": [
+      481,
+      490
+    ]
+  },
+  "entite_333": {
+    "label": "LOC",
+    "text": "SALAM",
+    "jalons": [
+      180,
+      185
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "OEil de Baal",
+    "jalons": [
+      464,
+      476
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "blé de Carthage",
+    "jalons": [
+      4,
+      19
+    ]
+  },
+  "entite_336": {
+    "label": "MISC",
+    "text": "isaient des monticules sur les dalles",
+    "jalons": [
+      0,
+      37
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      170,
+      178
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "OEil de Baal",
+    "jalons": [
+      104,
+      116
+    ]
+  },
+  "entite_339": {
+    "label": "PER",
+    "text": "Elles fulguraie",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_340": {
+    "label": "PER",
+    "text": "Afin de",
+    "jalons": [
+      135,
+      142
+    ]
+  },
+  "entite_341": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      328,
+      336
+    ]
+  },
+  "entite_342": {
+    "label": "LOC",
+    "text": "Abdalonim",
+    "jalons": [
+      20,
+      29
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Syra",
+    "jalons": [
+      135,
+      139
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Hamil",
+    "jalons": [
+      105,
+      110
+    ]
+  },
+  "entite_345": {
+    "label": "LOC",
+    "text": "OEil de Baal",
+    "jalons": [
+      330,
+      342
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "OEil de Baal",
+    "jalons": [
+      417,
+      429
+    ]
+  },
+  "entite_347": {
+    "label": "LOC",
+    "text": "SALAM",
+    "jalons": [
+      326,
+      331
+    ]
+  },
+  "entite_348": {
+    "label": "MISC",
+    "text": "Ceux de Mégara",
+    "jalons": [
+      75,
+      89
+    ]
+  },
+  "entite_349": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      116,
+      124
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      126,
+      134
+    ]
+  },
+  "entite_351": {
+    "label": "LOC",
+    "text": "Abdalonim",
+    "jalons": [
+      399,
+      408
+    ]
+  },
+  "entite_352": {
+    "label": "PER",
+    "text": "Hamilcar s'arrêta",
+    "jalons": [
+      74,
+      91
+    ]
+  },
+  "entite_353": {
+    "label": "LOC",
+    "text": "La pensée de",
+    "jalons": [
+      238,
+      250
+    ]
+  },
+  "entite_354": {
+    "label": "MISC",
+    "text": "assemblée des Riches",
+    "jalons": [
+      1,
+      21
+    ]
+  },
+  "entite_355": {
+    "label": "MISC",
+    "text": "Lumières des Baalim",
+    "jalons": [
+      76,
+      95
+    ]
+  },
+  "entite_356": {
+    "label": "LOC",
+    "text": "la majesté militaire de la Républiqu",
+    "jalons": [
+      476,
+      512
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Hannon",
+    "jalons": [
+      232,
+      238
+    ]
+  },
+  "entite_358": {
+    "label": "LOC",
+    "text": "la République",
+    "jalons": [
+      484,
+      497
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "IL",
+    "jalons": [
+      500,
+      502
+    ]
+  },
+  "entite_360": {
+    "label": "LOC",
+    "text": "Macar",
+    "jalons": [
+      375,
+      380
+    ]
+  },
+  "entite_361": {
+    "label": "LOC",
+    "text": "D'aill",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Salammbô",
+    "jalons": [
+      491,
+      499
+    ]
+  },
+  "entite_363": {
+    "label": "PER",
+    "text": "Hamilc",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_364": {
+    "label": "PER",
+    "text": "Narr Havas",
+    "jalons": [
+      222,
+      232
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      406,
+      411
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "la montagne des Eaux-Chaudes",
+    "jalons": [
+      185,
+      213
+    ]
+  },
+  "entite_367": {
+    "label": "LOC",
+    "text": "Hamil",
+    "jalons": [
+      495,
+      500
+    ]
+  },
+  "entite_368": {
+    "label": "MISC",
+    "text": "Dans les tentes et dans les",
+    "jalons": [
+      249,
+      276
+    ]
+  },
+  "entite_369": {
+    "label": "MISC",
+    "text": "était le troisième du mois de Tibby",
+    "jalons": [
+      1,
+      36
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "SALAMMBO",
+    "jalons": [
+      229,
+      237
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Macar",
+    "jalons": [
+      93,
+      98
+    ]
+  },
+  "entite_372": {
+    "label": "MISC",
+    "text": "Dès que le soleil",
+    "jalons": [
+      199,
+      216
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      115,
+      123
+    ]
+  },
+  "entite_374": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      217,
+      225
+    ]
+  },
+  "entite_375": {
+    "label": "LOC",
+    "text": "Spendius",
+    "jalons": [
+      499,
+      507
+    ]
+  },
+  "entite_376": {
+    "label": "LOC",
+    "text": "Barbares",
+    "jalons": [
+      493,
+      501
+    ]
+  },
+  "entite_377": {
+    "label": "PER",
+    "text": "Lés Indie",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_378": {
+    "label": "MISC",
+    "text": "Puis les Clinabares",
+    "jalons": [
+      430,
+      449
+    ]
+  },
+  "entite_379": {
+    "label": "MISC",
+    "text": "L'armée des Barbares",
+    "jalons": [
+      333,
+      353
+    ]
+  },
+  "entite_380": {
+    "label": "LOC",
+    "text": "Afin de mieux",
+    "jalons": [
+      496,
+      509
+    ]
+  },
+  "entite_381": {
+    "label": "LOC",
+    "text": "Fureur de Baal",
+    "jalons": [
+      378,
+      392
+    ]
+  },
+  "entite_382": {
+    "label": "LOC",
+    "text": "Merce",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_383": {
+    "label": "LOC",
+    "text": "Puis",
+    "jalons": [
+      411,
+      415
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      474,
+      482
+    ]
+  },
+  "entite_385": {
+    "label": "ORG",
+    "text": "l'armée de Spendiu",
+    "jalons": [
+      494,
+      512
+    ]
+  },
+  "entite_386": {
+    "label": "PER",
+    "text": "Mais Spendius",
+    "jalons": [
+      498,
+      511
+    ]
+  },
+  "entite_387": {
+    "label": "MISC",
+    "text": "der la nuit",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_388": {
+    "label": "LOC",
+    "text": "Hannon",
+    "jalons": [
+      342,
+      348
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      409,
+      417
+    ]
+  },
+  "entite_390": {
+    "label": "MISC",
+    "text": "Thouccaber et Utique",
+    "jalons": [
+      452,
+      472
+    ]
+  },
+  "entite_391": {
+    "label": "LOC",
+    "text": "Tigni",
+    "jalons": [
+      493,
+      498
+    ]
+  },
+  "entite_392": {
+    "label": "LOC",
+    "text": "Tesso",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "Zounghar",
+    "jalons": [
+      47,
+      55
+    ]
+  },
+  "entite_394": {
+    "label": "MISC",
+    "text": "Assouras",
+    "jalons": [
+      83,
+      91
+    ]
+  },
+  "entite_395": {
+    "label": "MISC",
+    "text": "Djeraado",
+    "jalons": [
+      134,
+      142
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "Les gens de la",
+    "jalons": [
+      221,
+      235
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      171,
+      179
+    ]
+  },
+  "entite_398": {
+    "label": "MISC",
+    "text": "Mais les Libyens et les Nomades",
+    "jalons": [
+      168,
+      199
+    ]
+  },
+  "entite_399": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      193,
+      201
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Du fond de Carthage",
+    "jalons": [
+      179,
+      198
+    ]
+  },
+  "entite_401": {
+    "label": "LOC",
+    "text": "Masgaba",
+    "jalons": [
+      224,
+      231
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "Fort de l'argent",
+    "jalons": [
+      310,
+      326
+    ]
+  },
+  "entite_403": {
+    "label": "PER",
+    "text": "Mais Narr Havas",
+    "jalons": [
+      426,
+      441
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "Cirtha",
+    "jalons": [
+      496,
+      502
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Annaba",
+    "jalons": [
+      471,
+      477
+    ]
+  },
+  "entite_406": {
+    "label": "LOC",
+    "text": "Numides",
+    "jalons": [
+      499,
+      506
+    ]
+  },
+  "entite_407": {
+    "label": "ORG",
+    "text": "Puis",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_408": {
+    "label": "MISC",
+    "text": "Gauloises et les Libyennes",
+    "jalons": [
+      246,
+      272
+    ]
+  },
+  "entite_409": {
+    "label": "MISC",
+    "text": "Ja protection de Cérès et de Proserpine",
+    "jalons": [
+      385,
+      424
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "Syracuse",
+    "jalons": [
+      51,
+      59
+    ]
+  },
+  "entite_411": {
+    "label": "MISC",
+    "text": "Les Scissites",
+    "jalons": [
+      61,
+      74
+    ]
+  },
+  "entite_412": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      252,
+      257
+    ]
+  },
+  "entite_413": {
+    "label": "MISC",
+    "text": "Malgré les rébellions de",
+    "jalons": [
+      412,
+      436
+    ]
+  },
+  "entite_414": {
+    "label": "LOC",
+    "text": "Monchar",
+    "jalons": [
+      287,
+      294
+    ]
+  },
+  "entite_415": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      493,
+      501
+    ]
+  },
+  "entite_416": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      142,
+      150
+    ]
+  },
+  "entite_417": {
+    "label": "LOC",
+    "text": "désespérant de la République",
+    "jalons": [
+      111,
+      139
+    ]
+  },
+  "entite_418": {
+    "label": "LOC",
+    "text": "D5E  des Grecs",
+    "jalons": [
+      458,
+      472
+    ]
+  },
+  "entite_419": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      20,
+      24
+    ]
+  },
+  "entite_420": {
+    "label": "MISC",
+    "text": "C’étaient les Ibériens de Mâtho, les Lusitaniens",
+    "jalons": [
+      160,
+      208
+    ]
+  },
+  "entite_421": {
+    "label": "LOC",
+    "text": "de Narr Havas",
+    "jalons": [
+      277,
+      290
+    ]
+  },
+  "entite_422": {
+    "label": "MISC",
+    "text": "les Gaulois, les Libyens",
+    "jalons": [
+      389,
+      413
+    ]
+  },
+  "entite_423": {
+    "label": "MISC",
+    "text": "Ainsi les Barbares",
+    "jalons": [
+      47,
+      65
+    ]
+  },
+  "entite_424": {
+    "label": "PER",
+    "text": "Les Me",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_425": {
+    "label": "LOC",
+    "text": "SALAMMBO",
+    "jalons": [
+      292,
+      300
+    ]
+  },
+  "entite_426": {
+    "label": "LOC",
+    "text": "L’excès de Leur",
+    "jalons": [
+      376,
+      391
+    ]
+  },
+  "entite_427": {
+    "label": "LOC",
+    "text": "Mercenair",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_428": {
+    "label": "MISC",
+    "text": "Mais Narr Havas levait le menton en signe de",
+    "jalons": [
+      210,
+      254
+    ]
+  },
+  "entite_429": {
+    "label": "MISC",
+    "text": "C’étaient les Riches",
+    "jalons": [
+      249,
+      269
+    ]
+  },
+  "entite_430": {
+    "label": "LOC",
+    "text": "Un des gardes de la Légion",
+    "jalons": [
+      116,
+      142
+    ]
+  },
+  "entite_431": {
+    "label": "PER",
+    "text": "Gette",
+    "jalons": [
+      490,
+      495
+    ]
+  },
+  "entite_432": {
+    "label": "MISC",
+    "text": "Les Carthaginois",
+    "jalons": [
+      43,
+      59
+    ]
+  },
+  "entite_433": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      484,
+      492
+    ]
+  },
+  "entite_434": {
+    "label": "MISC",
+    "text": "ie de se jeter dans les Barbares pour les con",
+    "jalons": [
+      0,
+      45
+    ]
+  },
+  "entite_435": {
+    "label": "MISC",
+    "text": "Carthage avait comme bondi de colère et de haine",
+    "jalons": [
+      351,
+      399
+    ]
+  },
+  "entite_436": {
+    "label": "PER",
+    "text": "es Mercenaires",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "de la Sicile",
+    "jalons": [
+      457,
+      469
+    ]
+  },
+  "entite_438": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      305,
+      313
+    ]
+  },
+  "entite_439": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      252,
+      257
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "Soleil",
+    "jalons": [
+      272,
+      278
+    ]
+  },
+  "entite_441": {
+    "label": "LOC",
+    "text": "D'ailleurs",
+    "jalons": [
+      280,
+      290
+    ]
+  },
+  "entite_442": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      47,
+      55
+    ]
+  },
+  "entite_443": {
+    "label": "LOC",
+    "text": "Baali",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_444": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      417,
+      425
+    ]
+  },
+  "entite_445": {
+    "label": "MISC",
+    "text": "Dans sa jeunesse",
+    "jalons": [
+      453,
+      469
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "Borsippa",
+    "jalons": [
+      3,
+      11
+    ]
+  },
+  "entite_447": {
+    "label": "MISC",
+    "text": "Pessinunte",
+    "jalons": [
+      54,
+      64
+    ]
+  },
+  "entite_448": {
+    "label": "MISC",
+    "text": "Éphèse",
+    "jalons": [
+      66,
+      72
+    ]
+  },
+  "entite_449": {
+    "label": "MISC",
+    "text": "abyrinthe de Lemnos et res- plendir le candélabre de Tarente",
+    "jalons": [
+      0,
+      60
+    ]
+  },
+  "entite_450": {
+    "label": "LOC",
+    "text": "Bélier la porte de la",
+    "jalons": [
+      74,
+      95
+    ]
+  },
+  "entite_451": {
+    "label": "LOC",
+    "text": "Rabetna",
+    "jalons": [
+      425,
+      432
+    ]
+  },
+  "entite_452": {
+    "label": "LOC",
+    "text": "Sa",
+    "jalons": [
+      434,
+      436
+    ]
+  },
+  "entite_453": {
+    "label": "LOC",
+    "text": "Tanit",
+    "jalons": [
+      154,
+      159
+    ]
+  },
+  "entite_454": {
+    "label": "MISC",
+    "text": "il ajouta que le salut de la République et de",
+    "jalons": [
+      234,
+      279
+    ]
+  },
+  "entite_455": {
+    "label": "PER",
+    "text": "Enfin Schahabarim lui",
+    "jalons": [
+      483,
+      504
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      503,
+      511
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "Conseil",
+    "jalons": [
+      329,
+      336
+    ]
+  },
+  "entite_458": {
+    "label": "MISC",
+    "text": "dans Mégara",
+    "jalons": [
+      1,
+      12
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "La porte de Malqua s’ouvrit",
+    "jalons": [
+      442,
+      469
+    ]
+  },
+  "entite_460": {
+    "label": "PER",
+    "text": "s'écria Schahabarim",
+    "jalons": [
+      491,
+      510
+    ]
+  },
+  "entite_461": {
+    "label": "LOC",
+    "text": "Schahabarim",
+    "jalons": [
+      497,
+      508
+    ]
+  },
+  "entite_462": {
+    "label": "LOC",
+    "text": "Schahabarim",
+    "jalons": [
+      497,
+      508
+    ]
+  },
+  "entite_463": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      493,
+      501
+    ]
+  },
+  "entite_464": {
+    "label": "ORG",
+    "text": "C'éta",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_465": {
+    "label": "LOC",
+    "text": "Sa",
+    "jalons": [
+      28,
+      30
+    ]
+  },
+  "entite_466": {
+    "label": "PER",
+    "text": "de Kinisdo",
+    "jalons": [
+      410,
+      420
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "Au",
+    "jalons": [
+      509,
+      511
+    ]
+  },
+  "entite_468": {
+    "label": "LOC",
+    "text": "L'horreur",
+    "jalons": [
+      492,
+      501
+    ]
+  },
+  "entite_469": {
+    "label": "MISC",
+    "text": "dans le dos",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_470": {
+    "label": "PER",
+    "text": "de Teves",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_471": {
+    "label": "LOC",
+    "text": "Chaudes",
+    "jalons": [
+      415,
+      422
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "Quelquefois",
+    "jalons": [
+      8,
+      19
+    ]
+  },
+  "entite_473": {
+    "label": "LOC",
+    "text": "L’esclave lui",
+    "jalons": [
+      473,
+      486
+    ]
+  },
+  "entite_474": {
+    "label": "LOC",
+    "text": "Parfois",
+    "jalons": [
+      184,
+      191
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      198,
+      206
+    ]
+  },
+  "entite_476": {
+    "label": "LOC",
+    "text": "Du haut de  la terrasse",
+    "jalons": [
+      25,
+      48
+    ]
+  },
+  "entite_477": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      506,
+      510
+    ]
+  },
+  "entite_478": {
+    "label": "LOC",
+    "text": "Mâtho la",
+    "jalons": [
+      502,
+      510
+    ]
+  },
+  "entite_479": {
+    "label": "LOC",
+    "text": "La pensée de Schahaba",
+    "jalons": [
+      486,
+      507
+    ]
+  },
+  "entite_480": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      126,
+      134
+    ]
+  },
+  "entite_481": {
+    "label": "ORG",
+    "text": "Le tonnerre",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      364,
+      372
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      1,
+      9
+    ]
+  },
+  "entite_484": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      86,
+      94
+    ]
+  },
+  "entite_485": {
+    "label": "LOC",
+    "text": "Sur les mont",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Hamilc",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_487": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      312,
+      320
+    ]
+  },
+  "entite_488": {
+    "label": "LOC",
+    "text": "Mégara",
+    "jalons": [
+      322,
+      328
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "Salammb",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_490": {
+    "label": "PER",
+    "text": "Mais le bas",
+    "jalons": [
+      457,
+      468
+    ]
+  },
+  "entite_491": {
+    "label": "LOC",
+    "text": "de la",
+    "jalons": [
+      469,
+      474
+    ]
+  },
+  "entite_492": {
+    "label": "LOC",
+    "text": "de la Déesse",
+    "jalons": [
+      343,
+      355
+    ]
+  },
+  "entite_493": {
+    "label": "LOC",
+    "text": "la vengeance de la patrie",
+    "jalons": [
+      475,
+      500
+    ]
+  },
+  "entite_494": {
+    "label": "MISC",
+    "text": "Elle avait peur de Giscon, et il lui semblait que des cris et des pas la",
+    "jalons": [
+      59,
+      131
+    ]
+  },
+  "entite_495": {
+    "label": "ORG",
+    "text": "SALAMMBO",
+    "jalons": [
+      501,
+      509
+    ]
+  },
+  "entite_496": {
+    "label": "MISC",
+    "text": "Le roi des Numides arriva dans la tente d'Hamil",
+    "jalons": [
+      411,
+      458
+    ]
+  },
+  "entite_497": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      135,
+      140
+    ]
+  },
+  "entite_498": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      364,
+      372
+    ]
+  },
+  "entite_499": {
+    "label": "PER",
+    "text": "Narr Havas",
+    "jalons": [
+      497,
+      507
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      433,
+      441
+    ]
+  },
+  "entite_501": {
+    "label": "PER",
+    "text": "Narr Havas",
+    "jalons": [
+      19,
+      29
+    ]
+  },
+  "entite_502": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      47,
+      52
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "Hamilcar",
+    "jalons": [
+      389,
+      397
+    ]
+  },
+  "entite_504": {
+    "label": "PER",
+    "text": "Enfin Hamilcar",
+    "jalons": [
+      355,
+      369
+    ]
+  },
+  "entite_505": {
+    "label": "ORG",
+    "text": "les Étrusque",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_506": {
+    "label": "MISC",
+    "text": "les Campaniens et les Brutiens",
+    "jalons": [
+      3,
+      33
+    ]
+  },
+  "entite_507": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      86,
+      94
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "Mais la",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_509": {
+    "label": "PER",
+    "text": "Les Mangeu",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_510": {
+    "label": "PER",
+    "text": "Devant lui",
+    "jalons": [
+      61,
+      71
+    ]
+  },
+  "entite_511": {
+    "label": "LOC",
+    "text": "C'était la main de Narr Havas",
+    "jalons": [
+      60,
+      89
+    ]
+  },
+  "entite_512": {
+    "label": "PER",
+    "text": "son de Narr",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_513": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      13,
+      18
+    ]
+  },
+  "entite_514": {
+    "label": "LOC",
+    "text": "Carthagi",
+    "jalons": [
+      210,
+      218
+    ]
+  },
+  "entite_515": {
+    "label": "MISC",
+    "text": "les provinces de Narr’ Havas",
+    "jalons": [
+      79,
+      107
+    ]
+  },
+  "entite_516": {
+    "label": "LOC",
+    "text": "Un marchand de Samos",
+    "jalons": [
+      427,
+      447
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "Hipponax",
+    "jalons": [
+      460,
+      468
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      509,
+      511
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      246,
+      251
+    ]
+  },
+  "entite_520": {
+    "label": "ORG",
+    "text": "Pourquoi donc les épargner",
+    "jalons": [
+      486,
+      512
+    ]
+  },
+  "entite_521": {
+    "label": "LOC",
+    "text": "Giscon",
+    "jalons": [
+      431,
+      437
+    ]
+  },
+  "entite_522": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      150,
+      158
+    ]
+  },
+  "entite_523": {
+    "label": "PER",
+    "text": "Ainsi",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_524": {
+    "label": "MISC",
+    "text": "les Dieux et la force de Carthage",
+    "jalons": [
+      1,
+      34
+    ]
+  },
+  "entite_525": {
+    "label": "LOC",
+    "text": "Hannon",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "Magdassan",
+    "jalons": [
+      74,
+      83
+    ]
+  },
+  "entite_527": {
+    "label": "MISC",
+    "text": "la bassesse des Anciens et la folie de",
+    "jalons": [
+      345,
+      383
+    ]
+  },
+  "entite_528": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      188,
+      196
+    ]
+  },
+  "entite_529": {
+    "label": "MISC",
+    "text": "Les Dieux",
+    "jalons": [
+      223,
+      232
+    ]
+  },
+  "entite_530": {
+    "label": "LOC",
+    "text": "Mais la porte de Malqua",
+    "jalons": [
+      354,
+      377
+    ]
+  },
+  "entite_531": {
+    "label": "LOC",
+    "text": "la porte de Ta",
+    "jalons": [
+      379,
+      393
+    ]
+  },
+  "entite_532": {
+    "label": "MISC",
+    "text": "Sur le seuil de Khamcn",
+    "jalons": [
+      205,
+      227
+    ]
+  },
+  "entite_533": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      240,
+      248
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "Cette grande Carthage",
+    "jalons": [
+      196,
+      217
+    ]
+  },
+  "entite_535": {
+    "label": "MISC",
+    "text": "n'étaient pas les Libyens des environs de Car",
+    "jalons": [
+      1,
+      46
+    ]
+  },
+  "entite_536": {
+    "label": "MISC",
+    "text": "ceux du Phazzana et de la Marmarique",
+    "jalons": [
+      202,
+      238
+    ]
+  },
+  "entite_537": {
+    "label": "LOC",
+    "text": "Caunes",
+    "jalons": [
+      2,
+      8
+    ]
+  },
+  "entite_538": {
+    "label": "LOC",
+    "text": "Tillabares",
+    "jalons": [
+      27,
+      37
+    ]
+  },
+  "entite_539": {
+    "label": "MISC",
+    "text": "Puis derrière les Numides, les Maurusiens et les  Gétules",
+    "jalons": [
+      424,
+      481
+    ]
+  },
+  "entite_540": {
+    "label": "MISC",
+    "text": "au delà de Taggir dans les forêts de",
+    "jalons": [
+      16,
+      52
+    ]
+  },
+  "entite_541": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      503,
+      511
+    ]
+  },
+  "entite_542": {
+    "label": "LOC",
+    "text": "Malqua",
+    "jalons": [
+      320,
+      326
+    ]
+  },
+  "entite_543": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      481,
+      489
+    ]
+  },
+  "entite_544": {
+    "label": "LOC",
+    "text": "Lac",
+    "jalons": [
+      279,
+      282
+    ]
+  },
+  "entite_545": {
+    "label": "LOC",
+    "text": "ans la direction de Tunis",
+    "jalons": [
+      0,
+      25
+    ]
+  },
+  "entite_546": {
+    "label": "LOC",
+    "text": "L’aque",
+    "jalons": [
+      439,
+      445
+    ]
+  },
+  "entite_547": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      470,
+      478
+    ]
+  },
+  "entite_548": {
+    "label": "MISC",
+    "text": "Enfin le treizième jour du mois de",
+    "jalons": [
+      214,
+      248
+    ]
+  },
+  "entite_549": {
+    "label": "LOC",
+    "text": "Schabar",
+    "jalons": [
+      249,
+      256
+    ]
+  },
+  "entite_550": {
+    "label": "LOC",
+    "text": "la porte de Kha",
+    "jalons": [
+      299,
+      314
+    ]
+  },
+  "entite_551": {
+    "label": "MISC",
+    "text": "Quand les Mercenaires",
+    "jalons": [
+      352,
+      373
+    ]
+  },
+  "entite_552": {
+    "label": "LOC",
+    "text": "Aussitôt",
+    "jalons": [
+      175,
+      183
+    ]
+  },
+  "entite_553": {
+    "label": "MISC",
+    "text": "mpirent la porte de Khamon et la porte de Tagaste",
+    "jalons": [
+      0,
+      49
+    ]
+  },
+  "entite_554": {
+    "label": "LOC",
+    "text": "L’assaut",
+    "jalons": [
+      503,
+      511
+    ]
+  },
+  "entite_555": {
+    "label": "LOC",
+    "text": "sur des gabares",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_556": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      433,
+      441
+    ]
+  },
+  "entite_557": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      351,
+      359
+    ]
+  },
+  "entite_558": {
+    "label": "LOC",
+    "text": "Cathage",
+    "jalons": [
+      466,
+      473
+    ]
+  },
+  "entite_559": {
+    "label": "MISC",
+    "text": "Afin de retenir dans la ville le génie des Dieux",
+    "jalons": [
+      50,
+      98
+    ]
+  },
+  "entite_560": {
+    "label": "MISC",
+    "text": "Geux de la Rabetna",
+    "jalons": [
+      29,
+      47
+    ]
+  },
+  "entite_561": {
+    "label": "MISC",
+    "text": "Les discours de Schahabarim",
+    "jalons": [
+      23,
+      50
+    ]
+  },
+  "entite_562": {
+    "label": "LOC",
+    "text": "Narr",
+    "jalons": [
+      103,
+      107
+    ]
+  },
+  "entite_563": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      109,
+      114
+    ]
+  },
+  "entite_564": {
+    "label": "MISC",
+    "text": "Alors le Suffète et l’esclave s’enfoncèrent dans un coin de la chambre",
+    "jalons": [
+      38,
+      108
+    ]
+  },
+  "entite_565": {
+    "label": "PER",
+    "text": "Enfin Hamilcar",
+    "jalons": [
+      78,
+      92
+    ]
+  },
+  "entite_566": {
+    "label": "MISC",
+    "text": "Les lions du temple de Moloch étaient de",
+    "jalons": [
+      301,
+      341
+    ]
+  },
+  "entite_567": {
+    "label": "MISC",
+    "text": "Alors les gens de Malqua se",
+    "jalons": [
+      416,
+      443
+    ]
+  },
+  "entite_568": {
+    "label": "PER",
+    "text": "es Mappales",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_569": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      311,
+      316
+    ]
+  },
+  "entite_570": {
+    "label": "MISC",
+    "text": "la Grèce et de l'Italie",
+    "jalons": [
+      456,
+      479
+    ]
+  },
+  "entite_571": {
+    "label": "PER",
+    "text": "de Démétrius Poliorcète",
+    "jalons": [
+      39,
+      62
+    ]
+  },
+  "entite_572": {
+    "label": "PER",
+    "text": "andis qu'ailleurs",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_573": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      501,
+      509
+    ]
+  },
+  "entite_574": {
+    "label": "PER",
+    "text": "Depuis",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_575": {
+    "label": "MISC",
+    "text": "la rue de Khamon jusqu’au Marché-aux",
+    "jalons": [
+      0,
+      36
+    ]
+  },
+  "entite_576": {
+    "label": "MISC",
+    "text": "les Numides, sur les bords du lac entre les Nègres, et du fond de la plaine",
+    "jalons": [
+      17,
+      92
+    ]
+  },
+  "entite_577": {
+    "label": "LOC",
+    "text": "Mâtho",
+    "jalons": [
+      193,
+      198
+    ]
+  },
+  "entite_578": {
+    "label": "MISC",
+    "text": "Alors les Cafthaginois",
+    "jalons": [
+      121,
+      143
+    ]
+  },
+  "entite_579": {
+    "label": "LOC",
+    "text": "Melkarth-Tyrien",
+    "jalons": [
+      279,
+      294
+    ]
+  },
+  "entite_580": {
+    "label": "MISC",
+    "text": "déjà contre la République",
+    "jalons": [
+      349,
+      374
+    ]
+  },
+  "entite_581": {
+    "label": "MISC",
+    "text": "s’agissait de la République elle",
+    "jalons": [
+      0,
+      32
+    ]
+  },
+  "entite_582": {
+    "label": "LOC",
+    "text": "Hannibal",
+    "jalons": [
+      378,
+      386
+    ]
+  },
+  "entite_583": {
+    "label": "MISC",
+    "text": "l'autre sur le dos",
+    "jalons": [
+      1,
+      19
+    ]
+  },
+  "entite_584": {
+    "label": "PER",
+    "text": "Hamilcar s'arrêta",
+    "jalons": [
+      492,
+      509
+    ]
+  },
+  "entite_585": {
+    "label": "LOC",
+    "text": "Hannibal",
+    "jalons": [
+      133,
+      141
+    ]
+  },
+  "entite_586": {
+    "label": "LOC",
+    "text": "Malheur",
+    "jalons": [
+      223,
+      230
+    ]
+  },
+  "entite_587": {
+    "label": "LOC",
+    "text": "Hami",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_588": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      274,
+      282
+    ]
+  },
+  "entite_589": {
+    "label": "LOC",
+    "text": "L'enfant",
+    "jalons": [
+      345,
+      353
+    ]
+  },
+  "entite_590": {
+    "label": "LOC",
+    "text": "Lamia",
+    "jalons": [
+      496,
+      501
+    ]
+  },
+  "entite_591": {
+    "label": "PER",
+    "text": "se de Cyrène",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_592": {
+    "label": "LOC",
+    "text": "la lumière de la",
+    "jalons": [
+      305,
+      321
+    ]
+  },
+  "entite_593": {
+    "label": "LOC",
+    "text": "Tanit",
+    "jalons": [
+      82,
+      87
+    ]
+  },
+  "entite_594": {
+    "label": "LOC",
+    "text": "Khamon",
+    "jalons": [
+      491,
+      497
+    ]
+  },
+  "entite_595": {
+    "label": "LOC",
+    "text": "Il",
+    "jalons": [
+      500,
+      502
+    ]
+  },
+  "entite_596": {
+    "label": "LOC",
+    "text": "Le pavillon de Melkarth",
+    "jalons": [
+      286,
+      309
+    ]
+  },
+  "entite_597": {
+    "label": "LOC",
+    "text": "Baal-Samin",
+    "jalons": [
+      365,
+      375
+    ]
+  },
+  "entite_598": {
+    "label": "LOC",
+    "text": "Baal-Peor",
+    "jalons": [
+      404,
+      413
+    ]
+  },
+  "entite_599": {
+    "label": "MISC",
+    "text": "Baal-Zeboub",
+    "jalons": [
+      438,
+      449
+    ]
+  },
+  "entite_600": {
+    "label": "LOC",
+    "text": "l'Iarbal de la Libye",
+    "jalons": [
+      13,
+      33
+    ]
+  },
+  "entite_601": {
+    "label": "LOC",
+    "text": "l’Adramme",
+    "jalons": [
+      35,
+      44
+    ]
+  },
+  "entite_602": {
+    "label": "LOC",
+    "text": "lech de la Chaldée",
+    "jalons": [
+      46,
+      64
+    ]
+  },
+  "entite_603": {
+    "label": "MISC",
+    "text": "le Kijun des Syriens",
+    "jalons": [
+      66,
+      86
+    ]
+  },
+  "entite_604": {
+    "label": "LOC",
+    "text": "Derceto",
+    "jalons": [
+      88,
+      95
+    ]
+  },
+  "entite_605": {
+    "label": "LOC",
+    "text": "Nebo",
+    "jalons": [
+      492,
+      496
+    ]
+  },
+  "entite_606": {
+    "label": "LOC",
+    "text": "génie de Mer",
+    "jalons": [
+      498,
+      510
+    ]
+  },
+  "entite_607": {
+    "label": "LOC",
+    "text": "Rahab",
+    "jalons": [
+      22,
+      27
+    ]
+  },
+  "entite_608": {
+    "label": "LOC",
+    "text": "la place de Khamon",
+    "jalons": [
+      74,
+      92
+    ]
+  },
+  "entite_609": {
+    "label": "MISC",
+    "text": "Enfin le Baal",
+    "jalons": [
+      456,
+      469
+    ]
+  },
+  "entite_610": {
+    "label": "LOC",
+    "text": "arriva",
+    "jalons": [
+      470,
+      476
+    ]
+  },
+  "entite_611": {
+    "label": "MISC",
+    "text": "Les prêtres de Khamon",
+    "jalons": [
+      155,
+      176
+    ]
+  },
+  "entite_612": {
+    "label": "PER",
+    "text": "es des Abaddirs",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_613": {
+    "label": "MISC",
+    "text": "Patæques et les Yidonim qui",
+    "jalons": [
+      230,
+      257
+    ]
+  },
+  "entite_614": {
+    "label": "LOC",
+    "text": "Tanit",
+    "jalons": [
+      184,
+      189
+    ]
+  },
+  "entite_615": {
+    "label": "LOC",
+    "text": "Schahabarim",
+    "jalons": [
+      467,
+      478
+    ]
+  },
+  "entite_616": {
+    "label": "PER",
+    "text": "Mais Schahabarim",
+    "jalons": [
+      58,
+      74
+    ]
+  },
+  "entite_617": {
+    "label": "LOC",
+    "text": "Baal",
+    "jalons": [
+      138,
+      142
+    ]
+  },
+  "entite_618": {
+    "label": "MISC",
+    "text": "Les Riches",
+    "jalons": [
+      358,
+      368
+    ]
+  },
+  "entite_619": {
+    "label": "MISC",
+    "text": "Enfin le gra",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_620": {
+    "label": "MISC",
+    "text": "Père et Mère",
+    "jalons": [
+      286,
+      298
+    ]
+  },
+  "entite_621": {
+    "label": "MISC",
+    "text": "Père et Fils",
+    "jalons": [
+      300,
+      312
+    ]
+  },
+  "entite_622": {
+    "label": "MISC",
+    "text": "Dieu et Déesse",
+    "jalons": [
+      314,
+      328
+    ]
+  },
+  "entite_623": {
+    "label": "MISC",
+    "text": "Déesse et Dieu!",
+    "jalons": [
+      330,
+      345
+    ]
+  },
+  "entite_624": {
+    "label": "LOC",
+    "text": "Baal",
+    "jalons": [
+      428,
+      432
+    ]
+  },
+  "entite_625": {
+    "label": "MISC",
+    "text": "Dans le",
+    "jalons": [
+      434,
+      441
+    ]
+  },
+  "entite_626": {
+    "label": "MISC",
+    "text": "Les pontifes de Moloch se promenaient sur la grande dalle",
+    "jalons": [
+      279,
+      336
+    ]
+  },
+  "entite_627": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      166,
+      174
+    ]
+  },
+  "entite_628": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      346,
+      354
+    ]
+  },
+  "entite_629": {
+    "label": "PER",
+    "text": "Afin de lui",
+    "jalons": [
+      158,
+      169
+    ]
+  },
+  "entite_630": {
+    "label": "MISC",
+    "text": "Narr’ Havas les épiait de",
+    "jalons": [
+      349,
+      374
+    ]
+  },
+  "entite_631": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      11,
+      19
+    ]
+  },
+  "entite_632": {
+    "label": "PER",
+    "text": "Narr Havas",
+    "jalons": [
+      494,
+      504
+    ]
+  },
+  "entite_633": {
+    "label": "MISC",
+    "text": "Puis il monta vers le palais de Salammbô",
+    "jalons": [
+      28,
+      68
+    ]
+  },
+  "entite_634": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      283,
+      291
+    ]
+  },
+  "entite_635": {
+    "label": "MISC",
+    "text": "Tanit la mort de     mme         SALAMMBO0",
+    "jalons": [
+      43,
+      85
+    ]
+  },
+  "entite_636": {
+    "label": "MISC",
+    "text": "la personne de Narr Havas comme un reflet de cette",
+    "jalons": [
+      273,
+      323
+    ]
+  },
+  "entite_637": {
+    "label": "PER",
+    "text": "Hamil",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_638": {
+    "label": "LOC",
+    "text": "la guerre de Sicile",
+    "jalons": [
+      137,
+      156
+    ]
+  },
+  "entite_639": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      300,
+      304
+    ]
+  },
+  "entite_640": {
+    "label": "MISC",
+    "text": "Mercenaires dans la Sardaigne",
+    "jalons": [
+      407,
+      436
+    ]
+  },
+  "entite_641": {
+    "label": "LOC",
+    "text": "Hiéron",
+    "jalons": [
+      19,
+      25
+    ]
+  },
+  "entite_642": {
+    "label": "LOC",
+    "text": "Syracuse",
+    "jalons": [
+      44,
+      52
+    ]
+  },
+  "entite_643": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      364,
+      372
+    ]
+  },
+  "entite_644": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      440,
+      445
+    ]
+  },
+  "entite_645": {
+    "label": "MISC",
+    "text": "Narr Havas qui sortait par la porte de Khamon avec",
+    "jalons": [
+      29,
+      79
+    ]
+  },
+  "entite_646": {
+    "label": "ORG",
+    "text": "Mais déjà les",
+    "jalons": [
+      135,
+      148
+    ]
+  },
+  "entite_647": {
+    "label": "LOC",
+    "text": "Sulfète",
+    "jalons": [
+      213,
+      220
+    ]
+  },
+  "entite_648": {
+    "label": "LOC",
+    "text": "venir des chevaux de la Cyrénaïque",
+    "jalons": [
+      274,
+      308
+    ]
+  },
+  "entite_649": {
+    "label": "LOC",
+    "text": "Mais de la",
+    "jalons": [
+      318,
+      328
+    ]
+  },
+  "entite_650": {
+    "label": "LOC",
+    "text": "Donc les",
+    "jalons": [
+      503,
+      511
+    ]
+  },
+  "entite_651": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      319,
+      327
+    ]
+  },
+  "entite_652": {
+    "label": "ORG",
+    "text": "Jusqu'au matin les Barb",
+    "jalons": [
+      489,
+      512
+    ]
+  },
+  "entite_653": {
+    "label": "LOC",
+    "text": "Sud",
+    "jalons": [
+      217,
+      220
+    ]
+  },
+  "entite_654": {
+    "label": "MISC",
+    "text": "Mais le soir du cinquième jour",
+    "jalons": [
+      217,
+      247
+    ]
+  },
+  "entite_655": {
+    "label": "LOC",
+    "text": "Mâ",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_656": {
+    "label": "LOC",
+    "text": "Alor",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_657": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      132,
+      137
+    ]
+  },
+  "entite_658": {
+    "label": "LOC",
+    "text": "Zarxas",
+    "jalons": [
+      196,
+      202
+    ]
+  },
+  "entite_659": {
+    "label": "LOC",
+    "text": "sommet de la montagne",
+    "jalons": [
+      4,
+      25
+    ]
+  },
+  "entite_660": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      394,
+      402
+    ]
+  },
+  "entite_661": {
+    "label": "LOC",
+    "text": "Barca",
+    "jalons": [
+      471,
+      476
+    ]
+  },
+  "entite_662": {
+    "label": "LOC",
+    "text": "Mercenaire",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_663": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      207,
+      212
+    ]
+  },
+  "entite_664": {
+    "label": "LOC",
+    "text": "Au haut de la",
+    "jalons": [
+      215,
+      228
+    ]
+  },
+  "entite_665": {
+    "label": "MISC",
+    "text": "Mercenaires Étrusques",
+    "jalons": [
+      437,
+      458
+    ]
+  },
+  "entite_666": {
+    "label": "MISC",
+    "text": "Libyens et Spartiates",
+    "jalons": [
+      460,
+      481
+    ]
+  },
+  "entite_667": {
+    "label": "MISC",
+    "text": "comme il lui fallait des hommes et qu’il",
+    "jalons": [
+      1,
+      41
+    ]
+  },
+  "entite_668": {
+    "label": "LOC",
+    "text": "Donc la guerre",
+    "jalons": [
+      430,
+      444
+    ]
+  },
+  "entite_669": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      310,
+      315
+    ]
+  },
+  "entite_670": {
+    "label": "LOC",
+    "text": "Narr",
+    "jalons": [
+      371,
+      375
+    ]
+  },
+  "entite_671": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      377,
+      382
+    ]
+  },
+  "entite_672": {
+    "label": "LOC",
+    "text": "Carthage porter la nouvelle de la",
+    "jalons": [
+      385,
+      418
+    ]
+  },
+  "entite_673": {
+    "label": "LOC",
+    "text": "Salammbô",
+    "jalons": [
+      489,
+      497
+    ]
+  },
+  "entite_674": {
+    "label": "ORG",
+    "text": "Elle le reçu",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_675": {
+    "label": "MISC",
+    "text": "Narr Havas lui annonça la défaite des Barbares",
+    "jalons": [
+      444,
+      490
+    ]
+  },
+  "entite_676": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      492,
+      496
+    ]
+  },
+  "entite_677": {
+    "label": "MISC",
+    "text": "Les clameurs de la ville",
+    "jalons": [
+      377,
+      401
+    ]
+  },
+  "entite_678": {
+    "label": "PER",
+    "text": "Narr Havas",
+    "jalons": [
+      11,
+      21
+    ]
+  },
+  "entite_679": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      220,
+      225
+    ]
+  },
+  "entite_680": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      276,
+      281
+    ]
+  },
+  "entite_681": {
+    "label": "PER",
+    "text": "Mais Narr",
+    "jalons": [
+      225,
+      234
+    ]
+  },
+  "entite_682": {
+    "label": "LOC",
+    "text": "Havas",
+    "jalons": [
+      236,
+      241
+    ]
+  },
+  "entite_683": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      54,
+      62
+    ]
+  },
+  "entite_684": {
+    "label": "LOC",
+    "text": "Hannon",
+    "jalons": [
+      351,
+      357
+    ]
+  },
+  "entite_685": {
+    "label": "LOC",
+    "text": "Souvent",
+    "jalons": [
+      493,
+      500
+    ]
+  },
+  "entite_686": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      143,
+      148
+    ]
+  },
+  "entite_687": {
+    "label": "LOC",
+    "text": "Hannon",
+    "jalons": [
+      153,
+      159
+    ]
+  },
+  "entite_688": {
+    "label": "PER",
+    "text": "Narr Havas",
+    "jalons": [
+      474,
+      484
+    ]
+  },
+  "entite_689": {
+    "label": "PER",
+    "text": "laine de Rha",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_690": {
+    "label": "PER",
+    "text": "Hannon le bord du Lac",
+    "jalons": [
+      19,
+      40
+    ]
+  },
+  "entite_691": {
+    "label": "ORG",
+    "text": "Havas assez",
+    "jalons": [
+      493,
+      504
+    ]
+  },
+  "entite_692": {
+    "label": "PER",
+    "text": "Mais Hannon",
+    "jalons": [
+      477,
+      488
+    ]
+  },
+  "entite_693": {
+    "label": "MISC",
+    "text": "Il cria de sonner les",
+    "jalons": [
+      26,
+      47
+    ]
+  },
+  "entite_694": {
+    "label": "LOC",
+    "text": "Sa",
+    "jalons": [
+      504,
+      506
+    ]
+  },
+  "entite_695": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      502,
+      510
+    ]
+  },
+  "entite_696": {
+    "label": "LOC",
+    "text": "Déjà",
+    "jalons": [
+      299,
+      303
+    ]
+  },
+  "entite_697": {
+    "label": "MISC",
+    "text": "dans l'air",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_698": {
+    "label": "LOC",
+    "text": "Sicca",
+    "jalons": [
+      269,
+      274
+    ]
+  },
+  "entite_699": {
+    "label": "LOC",
+    "text": "Hannon",
+    "jalons": [
+      211,
+      217
+    ]
+  },
+  "entite_700": {
+    "label": "ORG",
+    "text": "Mais les Mercena",
+    "jalons": [
+      496,
+      512
+    ]
+  },
+  "entite_701": {
+    "label": "PER",
+    "text": "Déjà Narr",
+    "jalons": [
+      285,
+      294
+    ]
+  },
+  "entite_702": {
+    "label": "MISC",
+    "text": "des Numides avait péri quand Barca",
+    "jalons": [
+      0,
+      34
+    ]
+  },
+  "entite_703": {
+    "label": "LOC",
+    "text": "Macar",
+    "jalons": [
+      294,
+      299
+    ]
+  },
+  "entite_704": {
+    "label": "LOC",
+    "text": "Tunis",
+    "jalons": [
+      303,
+      308
+    ]
+  },
+  "entite_705": {
+    "label": "LOC",
+    "text": "les cadavres des",
+    "jalons": [
+      16,
+      32
+    ]
+  },
+  "entite_706": {
+    "label": "PER",
+    "text": "Narr’ Havas",
+    "jalons": [
+      174,
+      185
+    ]
+  },
+  "entite_707": {
+    "label": "MISC",
+    "text": "Ah! l'Invincible! la Victoire! le Foudroyant! l'Hiron- delle",
+    "jalons": [
+      5,
+      65
+    ]
+  },
+  "entite_708": {
+    "label": "MISC",
+    "text": "Mercenaires sur la montagne des Eaux",
+    "jalons": [
+      176,
+      212
+    ]
+  },
+  "entite_709": {
+    "label": "LOC",
+    "text": "Chaudes",
+    "jalons": [
+      214,
+      221
+    ]
+  },
+  "entite_710": {
+    "label": "PER",
+    "text": "Narr Havas",
+    "jalons": [
+      7,
+      17
+    ]
+  },
+  "entite_711": {
+    "label": "LOC",
+    "text": "Cependant",
+    "jalons": [
+      19,
+      28
+    ]
+  },
+  "entite_712": {
+    "label": "LOC",
+    "text": "Cobus",
+    "jalons": [
+      215,
+      220
+    ]
+  },
+  "entite_713": {
+    "label": "MISC",
+    "text": "Un de ses Libyens se dévoua",
+    "jalons": [
+      76,
+      103
+    ]
+  },
+  "entite_714": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      253,
+      261
+    ]
+  },
+  "entite_715": {
+    "label": "LOC",
+    "text": "SA",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_716": {
+    "label": "MISC",
+    "text": "Enfin les deux",
+    "jalons": [
+      13,
+      27
+    ]
+  },
+  "entite_717": {
+    "label": "ORG",
+    "text": "Alors Hamilcar divisa",
+    "jalons": [
+      463,
+      484
+    ]
+  },
+  "entite_718": {
+    "label": "MISC",
+    "text": "Les Gaulois",
+    "jalons": [
+      155,
+      166
+    ]
+  },
+  "entite_719": {
+    "label": "LOC",
+    "text": "Carthaginois",
+    "jalons": [
+      498,
+      510
+    ]
+  },
+  "entite_720": {
+    "label": "LOC",
+    "text": "ue la Patrie",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_721": {
+    "label": "MISC",
+    "text": "Les Barbares",
+    "jalons": [
+      168,
+      180
+    ]
+  },
+  "entite_722": {
+    "label": "MISC",
+    "text": "Les gens de Carthage se",
+    "jalons": [
+      377,
+      400
+    ]
+  },
+  "entite_723": {
+    "label": "LOC",
+    "text": "L’éléphant",
+    "jalons": [
+      22,
+      32
+    ]
+  },
+  "entite_724": {
+    "label": "MISC",
+    "text": "Havas qui le",
+    "jalons": [
+      469,
+      481
+    ]
+  },
+  "entite_725": {
+    "label": "LOC",
+    "text": "Carthage",
+    "jalons": [
+      297,
+      305
+    ]
+  },
+  "entite_726": {
+    "label": "LOC",
+    "text": "La nouvelle de la",
+    "jalons": [
+      308,
+      325
+    ]
+  },
+  "entite_727": {
+    "label": "LOC",
+    "text": "Malqua",
+    "jalons": [
+      480,
+      486
+    ]
+  },
+  "entite_728": {
+    "label": "LOC",
+    "text": "Narr’",
+    "jalons": [
+      4,
+      9
+    ]
+  },
+  "entite_729": {
+    "label": "LOC",
+    "text": "Sur l'étendue de la plaine",
+    "jalons": [
+      292,
+      318
+    ]
+  },
+  "entite_730": {
+    "label": "MISC",
+    "text": "Dans un de ces amas",
+    "jalons": [
+      345,
+      364
+    ]
+  },
+  "entite_731": {
+    "label": "LOC",
+    "text": "Sur la terrasse du temple de Khamon",
+    "jalons": [
+      342,
+      377
+    ]
+  },
+  "entite_732": {
+    "label": "MISC",
+    "text": "les Anciens et les Riches",
+    "jalons": [
+      477,
+      502
+    ]
+  },
+  "entite_733": {
+    "label": "LOC",
+    "text": "Tanit",
+    "jalons": [
+      98,
+      103
+    ]
+  },
+  "entite_734": {
+    "label": "ORG",
+    "text": "ceux de Melkarth",
+    "jalons": [
+      489,
+      505
+    ]
+  },
+  "entite_735": {
+    "label": "PER",
+    "text": "Narr’ Havas",
+    "jalons": [
+      196,
+      207
+    ]
+  },
+  "entite_736": {
+    "label": "MISC",
+    "text": "Derrière Salammbô se développaient les prêtres de Tanit en robe de lin; les Anciens",
+    "jalons": [
+      290,
+      373
+    ]
+  },
+  "entite_737": {
+    "label": "LOC",
+    "text": "Moloch",
+    "jalons": [
+      83,
+      89
+    ]
+  },
+  "entite_738": {
+    "label": "PER",
+    "text": "Mais Salammbô",
+    "jalons": [
+      110,
+      123
+    ]
+  },
+  "entite_739": {
+    "label": "LOC",
+    "text": "de la rue de Sateb",
+    "jalons": [
+      448,
+      466
+    ]
+  },
+  "entite_740": {
+    "label": "PER",
+    "text": "de Boudès",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_741": {
+    "label": "LOC",
+    "text": "la rue de Sæpo",
+    "jalons": [
+      11,
+      25
+    ]
+  },
+  "entite_742": {
+    "label": "MISC",
+    "text": "Herbes et arriva sur la place de Kha",
+    "jalons": [
+      51,
+      87
+    ]
+  },
+  "entite_743": {
+    "label": "LOC",
+    "text": "Schahabarim",
+    "jalons": [
+      227,
+      238
+    ]
+  },
+  "entite_744": {
+    "label": "PER",
+    "text": "Alors",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_745": {
+    "label": "PER",
+    "text": "Narr Havas",
+    "jalons": [
+      4,
+      14
+    ]
+  },
+  "entite_746": {
+    "label": "MISC",
+    "text": "Sous les murs de Carthage",
+    "jalons": [
+      151,
+      176
+    ]
+  },
+  "entite_747": {
+    "label": "LOC",
+    "text": "Hamilcar",
+    "jalons": [
+      257,
+      265
+    ]
+  },
+  "entite_748": {
+    "label": "PER",
+    "text": "La Bataille du Macar",
+    "jalons": [
+      284,
+      304
+    ]
+  },
+  "entite_749": {
+    "label": "PER",
+    "text": "Ec Campagne",
+    "jalons": [
+      312,
+      323
+    ]
+  },
+  "entite_750": {
+    "label": "PER",
+    "text": "Le Serpent",
+    "jalons": [
+      339,
+      349
+    ]
+  },
+  "entite_751": {
+    "label": "PER",
+    "text": "Sous la Tente",
+    "jalons": [
+      367,
+      380
+    ]
+  },
+  "entite_752": {
+    "label": "PER",
+    "text": "L'Aqueduc",
+    "jalons": [
+      392,
+      401
+    ]
+  },
+  "entite_753": {
+    "label": "PER",
+    "text": "Moloch",
+    "jalons": [
+      419,
+      425
+    ]
+  },
+  "entite_754": {
+    "label": "LOC",
+    "text": "PARIS",
+    "jalons": [
+      434,
+      439
+    ]
+  },
+  "entite_755": {
+    "label": "ORG",
+    "text": "IMPRIMERIE DE J. CLAYE",
+    "jalons": [
+      443,
+      465
+    ]
+  }
+}

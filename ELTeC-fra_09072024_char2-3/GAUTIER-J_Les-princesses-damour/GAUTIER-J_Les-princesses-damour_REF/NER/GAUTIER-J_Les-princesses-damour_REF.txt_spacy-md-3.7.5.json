@@ -1,0 +1,6570 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      2,
+      3
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "DAÏMIO DE KAMA",
+    "jalons": [
+      8,
+      22
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Tokio",
+    "jalons": [
+      47,
+      52
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      243,
+      248
+    ]
+  },
+  "entite_4": {
+    "label": "ORG",
+    "text": "Tokio",
+    "jalons": [
+      582,
+      587
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      646,
+      652
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Kama-Koura",
+    "jalons": [
+      897,
+      907
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      1213,
+      1224
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "San-Daï",
+    "jalons": [
+      1264,
+      1271
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "San-Daï",
+    "jalons": [
+      1984,
+      1991
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Voyons",
+    "jalons": [
+      2366,
+      2372
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      2430,
+      2441
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      2447,
+      2453
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Votre Altesse le permet",
+    "jalons": [
+      2480,
+      2503
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "prince San-Daï",
+    "jalons": [
+      2520,
+      2534
+    ]
+  },
+  "entite_15": {
+    "label": "ORG",
+    "text": "Tokio",
+    "jalons": [
+      2537,
+      2542
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      2565,
+      2574
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "Le Champ des Roseaux !",
+    "jalons": [
+      2752,
+      2774
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "tirailla",
+    "jalons": [
+      2920,
+      2928
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      3053,
+      3059
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "refréna",
+    "jalons": [
+      3358,
+      3365
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      3672,
+      3681
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "du Japon",
+    "jalons": [
+      3798,
+      3806
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      3891,
+      3897
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Tokougava Hieyas",
+    "jalons": [
+      4053,
+      4069
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "Minamoto",
+    "jalons": [
+      4075,
+      4083
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Hieyas",
+    "jalons": [
+      4220,
+      4226
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Yédo",
+    "jalons": [
+      4515,
+      4519
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Décidément",
+    "jalons": [
+      4959,
+      4969
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      4984,
+      4990
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Celles",
+    "jalons": [
+      6215,
+      6221
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "Ma chère",
+    "jalons": [
+      6768,
+      6776
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "Yngui",
+    "jalons": [
+      6977,
+      6982
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Atsou Kimi",
+    "jalons": [
+      7008,
+      7018
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      7164,
+      7170
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "monseigneur",
+    "jalons": [
+      7270,
+      7281
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "Mon fils a trop d'esprit",
+    "jalons": [
+      7405,
+      7429
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      7543,
+      7549
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      7626,
+      7637
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      7643,
+      7649
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Kama-Koura",
+    "jalons": [
+      7686,
+      7696
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      8043,
+      8047
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "Altesse",
+    "jalons": [
+      8455,
+      8462
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      8468,
+      8474
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Allons",
+    "jalons": [
+      8560,
+      8566
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "II",
+    "jalons": [
+      8717,
+      8719
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "prince San-Daï",
+    "jalons": [
+      8793,
+      8807
+    ]
+  },
+  "entite_47": {
+    "label": "ORG",
+    "text": "Tokio",
+    "jalons": [
+      8849,
+      8854
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "gare de Simbassi",
+    "jalons": [
+      8888,
+      8904
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Arrêté",
+    "jalons": [
+      8907,
+      8913
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "San-Daï",
+    "jalons": [
+      8935,
+      8942
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "Crois-tu",
+    "jalons": [
+      9153,
+      9161
+    ]
+  },
+  "entite_52": {
+    "label": "MISC",
+    "text": "San-Daï",
+    "jalons": [
+      9247,
+      9254
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      9262,
+      9268
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "Vous êtes fatigué !",
+    "jalons": [
+      9382,
+      9401
+    ]
+  },
+  "entite_55": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      9410,
+      9416
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "See Chou",
+    "jalons": [
+      9813,
+      9821
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "Patience",
+    "jalons": [
+      9865,
+      9873
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Meng-Tze",
+    "jalons": [
+      9997,
+      10005
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      10223,
+      10229
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "Arrivant",
+    "jalons": [
+      10275,
+      10283
+    ]
+  },
+  "entite_61": {
+    "label": "ORG",
+    "text": "Tokio",
+    "jalons": [
+      10394,
+      10399
+    ]
+  },
+  "entite_62": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      10465,
+      10471
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      10897,
+      10903
+    ]
+  },
+  "entite_64": {
+    "label": "MISC",
+    "text": "Crua ! crua !",
+    "jalons": [
+      11013,
+      11026
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      11035,
+      11041
+    ]
+  },
+  "entite_66": {
+    "label": "ORG",
+    "text": "Allez !",
+    "jalons": [
+      11089,
+      11096
+    ]
+  },
+  "entite_67": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      11160,
+      11169
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "outa",
+    "jalons": [
+      11191,
+      11195
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      11297,
+      11306
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "avenue Mumamitci",
+    "jalons": [
+      11391,
+      11407
+    ]
+  },
+  "entite_71": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      11460,
+      11466
+    ]
+  },
+  "entite_72": {
+    "label": "LOC",
+    "text": "Inari",
+    "jalons": [
+      11700,
+      11705
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      11778,
+      11784
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "djinrichicha",
+    "jalons": [
+      11804,
+      11816
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Inari",
+    "jalons": [
+      11928,
+      11933
+    ]
+  },
+  "entite_76": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      12061,
+      12067
+    ]
+  },
+  "entite_77": {
+    "label": "LOC",
+    "text": "Inari",
+    "jalons": [
+      12599,
+      12604
+    ]
+  },
+  "entite_78": {
+    "label": "ORG",
+    "text": "Inari !",
+    "jalons": [
+      12607,
+      12614
+    ]
+  },
+  "entite_79": {
+    "label": "MISC",
+    "text": "Qu'avons-nous besoin d'être beaux",
+    "jalons": [
+      12687,
+      12720
+    ]
+  },
+  "entite_80": {
+    "label": "PER",
+    "text": "San-Daï",
+    "jalons": [
+      12774,
+      12781
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      13115,
+      13124
+    ]
+  },
+  "entite_82": {
+    "label": "MISC",
+    "text": "Un prodigieux brouhaha",
+    "jalons": [
+      13127,
+      13149
+    ]
+  },
+  "entite_83": {
+    "label": "MISC",
+    "text": "L'étrange château !",
+    "jalons": [
+      13565,
+      13584
+    ]
+  },
+  "entite_84": {
+    "label": "MISC",
+    "text": "San-Daï",
+    "jalons": [
+      13593,
+      13600
+    ]
+  },
+  "entite_85": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      13722,
+      13728
+    ]
+  },
+  "entite_86": {
+    "label": "MISC",
+    "text": "Kama-",
+    "jalons": [
+      13947,
+      13952
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "Yosi-Wara Daï-Mïozin",
+    "jalons": [
+      14626,
+      14646
+    ]
+  },
+  "entite_88": {
+    "label": "ORG",
+    "text": "Omon",
+    "jalons": [
+      14699,
+      14703
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "Cité d'Amour",
+    "jalons": [
+      14728,
+      14740
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "III \nLA CITÉ D'AMOUR \nÉtrange palais",
+    "jalons": [
+      14743,
+      14779
+    ]
+  },
+  "entite_91": {
+    "label": "MISC",
+    "text": "Pluie de Printemps",
+    "jalons": [
+      15106,
+      15124
+    ]
+  },
+  "entite_92": {
+    "label": "LOC",
+    "text": "Bois de Cerisiers",
+    "jalons": [
+      15133,
+      15150
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "Saule Vert",
+    "jalons": [
+      15159,
+      15169
+    ]
+  },
+  "entite_94": {
+    "label": "MISC",
+    "text": "Poupées",
+    "jalons": [
+      15410,
+      15417
+    ]
+  },
+  "entite_95": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      15429,
+      15435
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      15850,
+      15859
+    ]
+  },
+  "entite_97": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      15993,
+      15999
+    ]
+  },
+  "entite_98": {
+    "label": "MISC",
+    "text": "De gracieuses fillettes",
+    "jalons": [
+      16366,
+      16389
+    ]
+  },
+  "entite_99": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      16828,
+      16834
+    ]
+  },
+  "entite_100": {
+    "label": "MISC",
+    "text": "Nous sommes perdus cette fois, murmura l'étudiant",
+    "jalons": [
+      16915,
+      16964
+    ]
+  },
+  "entite_101": {
+    "label": "MISC",
+    "text": "San-Daï",
+    "jalons": [
+      17152,
+      17159
+    ]
+  },
+  "entite_102": {
+    "label": "MISC",
+    "text": "Sauvés ! \n",
+    "jalons": [
+      17217,
+      17227
+    ]
+  },
+  "entite_103": {
+    "label": "PER",
+    "text": "Sakia-Mouni",
+    "jalons": [
+      17482,
+      17493
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "Kavira-Vasta",
+    "jalons": [
+      17538,
+      17550
+    ]
+  },
+  "entite_105": {
+    "label": "PER",
+    "text": "Bouddha",
+    "jalons": [
+      18116,
+      18123
+    ]
+  },
+  "entite_106": {
+    "label": "MISC",
+    "text": "San-Daï",
+    "jalons": [
+      18194,
+      18201
+    ]
+  },
+  "entite_107": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      18300,
+      18306
+    ]
+  },
+  "entite_108": {
+    "label": "PER",
+    "text": "Mai-Dzourou",
+    "jalons": [
+      18436,
+      18447
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "Cigogne-Danseuse",
+    "jalons": [
+      18452,
+      18468
+    ]
+  },
+  "entite_110": {
+    "label": "MISC",
+    "text": "San-Daï",
+    "jalons": [
+      18648,
+      18655
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "la manche",
+    "jalons": [
+      19104,
+      19113
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "Hana-Dori",
+    "jalons": [
+      19345,
+      19354
+    ]
+  },
+  "entite_113": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      19376,
+      19388
+    ]
+  },
+  "entite_114": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      19395,
+      19399
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "Hana-Dori",
+    "jalons": [
+      19427,
+      19436
+    ]
+  },
+  "entite_116": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      19446,
+      19452
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "Japon",
+    "jalons": [
+      19489,
+      19494
+    ]
+  },
+  "entite_118": {
+    "label": "MISC",
+    "text": "Cigogne- \nDanseuse",
+    "jalons": [
+      19503,
+      19521
+    ]
+  },
+  "entite_119": {
+    "label": "LOC",
+    "text": "Kioto",
+    "jalons": [
+      20146,
+      20151
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "Fousi-Yama",
+    "jalons": [
+      20221,
+      20231
+    ]
+  },
+  "entite_121": {
+    "label": "MISC",
+    "text": "Belles du Matin",
+    "jalons": [
+      20329,
+      20344
+    ]
+  },
+  "entite_122": {
+    "label": "MISC",
+    "text": "Botan",
+    "jalons": [
+      20445,
+      20450
+    ]
+  },
+  "entite_123": {
+    "label": "MISC",
+    "text": "La Cigogne-Danseuse",
+    "jalons": [
+      20836,
+      20855
+    ]
+  },
+  "entite_124": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      20930,
+      20936
+    ]
+  },
+  "entite_125": {
+    "label": "PER",
+    "text": "Hana-Dori",
+    "jalons": [
+      21057,
+      21066
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      21218,
+      21230
+    ]
+  },
+  "entite_127": {
+    "label": "MISC",
+    "text": "Eh bien !",
+    "jalons": [
+      21786,
+      21795
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "La Cigogne",
+    "jalons": [
+      21899,
+      21909
+    ]
+  },
+  "entite_129": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      21935,
+      21941
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Hana-Dori",
+    "jalons": [
+      22042,
+      22051
+    ]
+  },
+  "entite_131": {
+    "label": "ORG",
+    "text": "Tokio",
+    "jalons": [
+      22136,
+      22141
+    ]
+  },
+  "entite_132": {
+    "label": "MISC",
+    "text": "San-Daï",
+    "jalons": [
+      22404,
+      22411
+    ]
+  },
+  "entite_133": {
+    "label": "PER",
+    "text": "Hana-Dori",
+    "jalons": [
+      22876,
+      22885
+    ]
+  },
+  "entite_134": {
+    "label": "MISC",
+    "text": "Kama-Koura",
+    "jalons": [
+      22930,
+      22940
+    ]
+  },
+  "entite_135": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      22996,
+      23002
+    ]
+  },
+  "entite_136": {
+    "label": "MISC",
+    "text": "La Cigogne",
+    "jalons": [
+      23065,
+      23075
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "prince San-Daï",
+    "jalons": [
+      23808,
+      23822
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Maisons Vertes",
+    "jalons": [
+      23914,
+      23928
+    ]
+  },
+  "entite_139": {
+    "label": "MISC",
+    "text": "La Cigogne-Danseuse",
+    "jalons": [
+      23990,
+      24009
+    ]
+  },
+  "entite_140": {
+    "label": "MISC",
+    "text": "Pareilles",
+    "jalons": [
+      24266,
+      24275
+    ]
+  },
+  "entite_141": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      24681,
+      24687
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      24755,
+      24761
+    ]
+  },
+  "entite_143": {
+    "label": "LOC",
+    "text": "Amérique",
+    "jalons": [
+      24767,
+      24775
+    ]
+  },
+  "entite_144": {
+    "label": "MISC",
+    "text": "Poupées",
+    "jalons": [
+      25311,
+      25318
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      25452,
+      25461
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "norimonos",
+    "jalons": [
+      25468,
+      25477
+    ]
+  },
+  "entite_147": {
+    "label": "MISC",
+    "text": "La Cigogne",
+    "jalons": [
+      26233,
+      26243
+    ]
+  },
+  "entite_148": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      26455,
+      26461
+    ]
+  },
+  "entite_149": {
+    "label": "MISC",
+    "text": "La Cigogne",
+    "jalons": [
+      26599,
+      26609
+    ]
+  },
+  "entite_150": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      26675,
+      26681
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "rez-de- \nchaussée",
+    "jalons": [
+      26718,
+      26735
+    ]
+  },
+  "entite_152": {
+    "label": "PER",
+    "text": "fucouzori",
+    "jalons": [
+      26976,
+      26985
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "IV",
+    "jalons": [
+      27903,
+      27905
+    ]
+  },
+  "entite_154": {
+    "label": "MISC",
+    "text": "Le jeune prince San-Daï",
+    "jalons": [
+      27924,
+      27947
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      28258,
+      28270
+    ]
+  },
+  "entite_156": {
+    "label": "PER",
+    "text": "Hana-Dori",
+    "jalons": [
+      28847,
+      28856
+    ]
+  },
+  "entite_157": {
+    "label": "LOC",
+    "text": "Cigogne-Danseuse",
+    "jalons": [
+      29057,
+      29073
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      29222,
+      29234
+    ]
+  },
+  "entite_159": {
+    "label": "MISC",
+    "text": "San-Daï",
+    "jalons": [
+      29627,
+      29634
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      30086,
+      30097
+    ]
+  },
+  "entite_161": {
+    "label": "MISC",
+    "text": "San-Daï",
+    "jalons": [
+      30250,
+      30257
+    ]
+  },
+  "entite_162": {
+    "label": "MISC",
+    "text": "Kama-Koura !",
+    "jalons": [
+      30300,
+      30312
+    ]
+  },
+  "entite_163": {
+    "label": "MISC",
+    "text": "L'Oiseau-Fleur",
+    "jalons": [
+      30314,
+      30328
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "oh oui",
+    "jalons": [
+      32340,
+      32346
+    ]
+  },
+  "entite_165": {
+    "label": "PER",
+    "text": "Hana-Dori",
+    "jalons": [
+      32475,
+      32484
+    ]
+  },
+  "entite_166": {
+    "label": "MISC",
+    "text": "Hélas !",
+    "jalons": [
+      32522,
+      32529
+    ]
+  },
+  "entite_167": {
+    "label": "MISC",
+    "text": "Pardonnez",
+    "jalons": [
+      32753,
+      32762
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "château de Kama-Koura",
+    "jalons": [
+      32854,
+      32875
+    ]
+  },
+  "entite_169": {
+    "label": "MISC",
+    "text": "Kama-Koura",
+    "jalons": [
+      33408,
+      33418
+    ]
+  },
+  "entite_170": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      33850,
+      33856
+    ]
+  },
+  "entite_171": {
+    "label": "PER",
+    "text": "Bouddha",
+    "jalons": [
+      33934,
+      33941
+    ]
+  },
+  "entite_172": {
+    "label": "MISC",
+    "text": "L'Oiseau-Fleur",
+    "jalons": [
+      34273,
+      34287
+    ]
+  },
+  "entite_173": {
+    "label": "MISC",
+    "text": "Mon seigneur",
+    "jalons": [
+      34422,
+      34434
+    ]
+  },
+  "entite_174": {
+    "label": "MISC",
+    "text": "Innocente !",
+    "jalons": [
+      35005,
+      35016
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "Prince",
+    "jalons": [
+      35110,
+      35116
+    ]
+  },
+  "entite_176": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      35286,
+      35298
+    ]
+  },
+  "entite_177": {
+    "label": "MISC",
+    "text": "Un joyau sans prix",
+    "jalons": [
+      35355,
+      35373
+    ]
+  },
+  "entite_178": {
+    "label": "LOC",
+    "text": "Immobile",
+    "jalons": [
+      35489,
+      35497
+    ]
+  },
+  "entite_179": {
+    "label": "MISC",
+    "text": "Est-ce vrai ?",
+    "jalons": [
+      35915,
+      35928
+    ]
+  },
+  "entite_180": {
+    "label": "PER",
+    "text": "Hana-Dori",
+    "jalons": [
+      36066,
+      36075
+    ]
+  },
+  "entite_181": {
+    "label": "PER",
+    "text": "Parle",
+    "jalons": [
+      36421,
+      36426
+    ]
+  },
+  "entite_182": {
+    "label": "ORG",
+    "text": "Tokio",
+    "jalons": [
+      37238,
+      37243
+    ]
+  },
+  "entite_183": {
+    "label": "LOC",
+    "text": "Maisons Vertes",
+    "jalons": [
+      37380,
+      37394
+    ]
+  },
+  "entite_184": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      37414,
+      37423
+    ]
+  },
+  "entite_185": {
+    "label": "MISC",
+    "text": "San-Daï",
+    "jalons": [
+      39645,
+      39652
+    ]
+  },
+  "entite_186": {
+    "label": "ORG",
+    "text": "Fousi",
+    "jalons": [
+      39937,
+      39942
+    ]
+  },
+  "entite_187": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      39990,
+      39994
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      40059,
+      40065
+    ]
+  },
+  "entite_189": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      40597,
+      40603
+    ]
+  },
+  "entite_190": {
+    "label": "MISC",
+    "text": "Eh bien !",
+    "jalons": [
+      40670,
+      40679
+    ]
+  },
+  "entite_191": {
+    "label": "MISC",
+    "text": "L'Oiseau",
+    "jalons": [
+      40770,
+      40778
+    ]
+  },
+  "entite_192": {
+    "label": "MISC",
+    "text": "Bah !",
+    "jalons": [
+      41055,
+      41060
+    ]
+  },
+  "entite_193": {
+    "label": "MISC",
+    "text": "Bah !",
+    "jalons": [
+      41061,
+      41066
+    ]
+  },
+  "entite_194": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      41112,
+      41118
+    ]
+  },
+  "entite_195": {
+    "label": "MISC",
+    "text": "La Cigogne",
+    "jalons": [
+      41141,
+      41151
+    ]
+  },
+  "entite_196": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      41450,
+      41456
+    ]
+  },
+  "entite_197": {
+    "label": "MISC",
+    "text": "L'Oiseau",
+    "jalons": [
+      41678,
+      41686
+    ]
+  },
+  "entite_198": {
+    "label": "MISC",
+    "text": "San-Daï",
+    "jalons": [
+      41743,
+      41750
+    ]
+  },
+  "entite_199": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      41780,
+      41786
+    ]
+  },
+  "entite_200": {
+    "label": "MISC",
+    "text": "Puissiez",
+    "jalons": [
+      41992,
+      42000
+    ]
+  },
+  "entite_201": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      42038,
+      42044
+    ]
+  },
+  "entite_202": {
+    "label": "MISC",
+    "text": "L'Oiseau",
+    "jalons": [
+      42178,
+      42186
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      42633,
+      42645
+    ]
+  },
+  "entite_204": {
+    "label": "PER",
+    "text": "Hana-Dori",
+    "jalons": [
+      42671,
+      42680
+    ]
+  },
+  "entite_205": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      42747,
+      42753
+    ]
+  },
+  "entite_206": {
+    "label": "MISC",
+    "text": "Vite !",
+    "jalons": [
+      43033,
+      43039
+    ]
+  },
+  "entite_207": {
+    "label": "MISC",
+    "text": "Cigogne- \nDanseuse",
+    "jalons": [
+      43218,
+      43236
+    ]
+  },
+  "entite_208": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      43253,
+      43259
+    ]
+  },
+  "entite_209": {
+    "label": "MISC",
+    "text": "D'innombrables petites coupes",
+    "jalons": [
+      43289,
+      43318
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "de France",
+    "jalons": [
+      43922,
+      43931
+    ]
+  },
+  "entite_211": {
+    "label": "LOC",
+    "text": "Oiseau-",
+    "jalons": [
+      44292,
+      44299
+    ]
+  },
+  "entite_212": {
+    "label": "MISC",
+    "text": "Première Entrevue",
+    "jalons": [
+      45328,
+      45345
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      45355,
+      45367
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "Kin-Rau",
+    "jalons": [
+      45492,
+      45499
+    ]
+  },
+  "entite_215": {
+    "label": "MISC",
+    "text": "Harousamé",
+    "jalons": [
+      45891,
+      45900
+    ]
+  },
+  "entite_216": {
+    "label": "PER",
+    "text": "Ô",
+    "jalons": [
+      46505,
+      46506
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "Komati",
+    "jalons": [
+      46901,
+      46907
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "Mourasaki",
+    "jalons": [
+      46961,
+      46970
+    ]
+  },
+  "entite_219": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      47064,
+      47070
+    ]
+  },
+  "entite_220": {
+    "label": "ORG",
+    "text": "Oiseau- \nFleur",
+    "jalons": [
+      47146,
+      47160
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "Ô",
+    "jalons": [
+      47490,
+      47491
+    ]
+  },
+  "entite_222": {
+    "label": "LOC",
+    "text": "Oukou",
+    "jalons": [
+      47647,
+      47652
+    ]
+  },
+  "entite_223": {
+    "label": "MISC",
+    "text": "Le traître !",
+    "jalons": [
+      47717,
+      47729
+    ]
+  },
+  "entite_224": {
+    "label": "MISC",
+    "text": "Car l'infidèle adoré",
+    "jalons": [
+      47778,
+      47798
+    ]
+  },
+  "entite_225": {
+    "label": "MISC",
+    "text": "Le ciel va vouloir",
+    "jalons": [
+      47800,
+      47818
+    ]
+  },
+  "entite_226": {
+    "label": "PER",
+    "text": "San-Dai",
+    "jalons": [
+      47833,
+      47840
+    ]
+  },
+  "entite_227": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      48028,
+      48040
+    ]
+  },
+  "entite_228": {
+    "label": "MISC",
+    "text": "La Cigogne",
+    "jalons": [
+      48360,
+      48370
+    ]
+  },
+  "entite_229": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      48445,
+      48451
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "Champagne",
+    "jalons": [
+      48522,
+      48531
+    ]
+  },
+  "entite_231": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      49130,
+      49136
+    ]
+  },
+  "entite_232": {
+    "label": "MISC",
+    "text": "Kama-Koura",
+    "jalons": [
+      49199,
+      49209
+    ]
+  },
+  "entite_233": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      49739,
+      49745
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      50387,
+      50399
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "coucher",
+    "jalons": [
+      50491,
+      50498
+    ]
+  },
+  "entite_236": {
+    "label": "PER",
+    "text": "Benten",
+    "jalons": [
+      51022,
+      51028
+    ]
+  },
+  "entite_237": {
+    "label": "MISC",
+    "text": "Poèmes de l'Oreiller",
+    "jalons": [
+      51444,
+      51464
+    ]
+  },
+  "entite_238": {
+    "label": "LOC",
+    "text": "Broc-d'Or",
+    "jalons": [
+      51598,
+      51607
+    ]
+  },
+  "entite_239": {
+    "label": "PER",
+    "text": "Hana-Dori",
+    "jalons": [
+      51658,
+      51667
+    ]
+  },
+  "entite_240": {
+    "label": "MISC",
+    "text": "Mon cher seigneur",
+    "jalons": [
+      52220,
+      52237
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "Broc-d'Or",
+    "jalons": [
+      52392,
+      52401
+    ]
+  },
+  "entite_242": {
+    "label": "LOC",
+    "text": "lune",
+    "jalons": [
+      52592,
+      52596
+    ]
+  },
+  "entite_243": {
+    "label": "PER",
+    "text": "VI \nLES",
+    "jalons": [
+      52739,
+      52746
+    ]
+  },
+  "entite_244": {
+    "label": "MISC",
+    "text": "DES MARCHANDES DE",
+    "jalons": [
+      52754,
+      52771
+    ]
+  },
+  "entite_245": {
+    "label": "ORG",
+    "text": "Oiseau- \nFleur",
+    "jalons": [
+      52837,
+      52851
+    ]
+  },
+  "entite_246": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      53259,
+      53265
+    ]
+  },
+  "entite_247": {
+    "label": "MISC",
+    "text": "cliquettement des hautes chaussures de bois",
+    "jalons": [
+      53719,
+      53762
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      53918,
+      53927
+    ]
+  },
+  "entite_249": {
+    "label": "PER",
+    "text": "jacassent",
+    "jalons": [
+      54109,
+      54118
+    ]
+  },
+  "entite_250": {
+    "label": "MISC",
+    "text": "L'Oiseau",
+    "jalons": [
+      54185,
+      54193
+    ]
+  },
+  "entite_251": {
+    "label": "PER",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      54425,
+      54437
+    ]
+  },
+  "entite_252": {
+    "label": "ORG",
+    "text": "Petite-",
+    "jalons": [
+      54439,
+      54446
+    ]
+  },
+  "entite_253": {
+    "label": "LOC",
+    "text": "Pourpre",
+    "jalons": [
+      54448,
+      54455
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      55434,
+      55446
+    ]
+  },
+  "entite_255": {
+    "label": "PER",
+    "text": "Tama-Koto",
+    "jalons": [
+      55565,
+      55574
+    ]
+  },
+  "entite_256": {
+    "label": "LOC",
+    "text": "Guitare-de- \nJade",
+    "jalons": [
+      55579,
+      55596
+    ]
+  },
+  "entite_257": {
+    "label": "PER",
+    "text": "Nari-Hira",
+    "jalons": [
+      55855,
+      55864
+    ]
+  },
+  "entite_258": {
+    "label": "MISC",
+    "text": "Ko-Tsio",
+    "jalons": [
+      56083,
+      56090
+    ]
+  },
+  "entite_259": {
+    "label": "PER",
+    "text": "Petit Papillon",
+    "jalons": [
+      56095,
+      56109
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "Vaca-Yanaghi",
+    "jalons": [
+      56114,
+      56126
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Jeune Saule",
+    "jalons": [
+      56131,
+      56142
+    ]
+  },
+  "entite_262": {
+    "label": "MISC",
+    "text": "La seconde",
+    "jalons": [
+      56423,
+      56433
+    ]
+  },
+  "entite_263": {
+    "label": "MISC",
+    "text": "Ko-",
+    "jalons": [
+      56939,
+      56942
+    ]
+  },
+  "entite_264": {
+    "label": "PER",
+    "text": "Mourasaki",
+    "jalons": [
+      56944,
+      56953
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "Yosi-Wara !",
+    "jalons": [
+      57060,
+      57071
+    ]
+  },
+  "entite_266": {
+    "label": "ORG",
+    "text": "Oiseau- \nFleur",
+    "jalons": [
+      57127,
+      57141
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "Guitare de Jade",
+    "jalons": [
+      57276,
+      57291
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "Nari-Hira",
+    "jalons": [
+      57319,
+      57328
+    ]
+  },
+  "entite_269": {
+    "label": "PER",
+    "text": "Benten",
+    "jalons": [
+      57431,
+      57437
+    ]
+  },
+  "entite_270": {
+    "label": "MISC",
+    "text": "Montrez-nous les cadeaux",
+    "jalons": [
+      57495,
+      57519
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Petit Papillon",
+    "jalons": [
+      57582,
+      57596
+    ]
+  },
+  "entite_272": {
+    "label": "MISC",
+    "text": "L'Oiseau-Fleur",
+    "jalons": [
+      57636,
+      57650
+    ]
+  },
+  "entite_273": {
+    "label": "MISC",
+    "text": "Comment !",
+    "jalons": [
+      57820,
+      57829
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "Ko- \nMourasaki",
+    "jalons": [
+      57970,
+      57984
+    ]
+  },
+  "entite_275": {
+    "label": "PER",
+    "text": "Le prince",
+    "jalons": [
+      57989,
+      57998
+    ]
+  },
+  "entite_276": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      58083,
+      58095
+    ]
+  },
+  "entite_277": {
+    "label": "MISC",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      58450,
+      58462
+    ]
+  },
+  "entite_278": {
+    "label": "MISC",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      58721,
+      58733
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "gaîne",
+    "jalons": [
+      58798,
+      58803
+    ]
+  },
+  "entite_280": {
+    "label": "PER",
+    "text": "Petit Papillon",
+    "jalons": [
+      59180,
+      59194
+    ]
+  },
+  "entite_281": {
+    "label": "MISC",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      59539,
+      59551
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      59690,
+      59699
+    ]
+  },
+  "entite_283": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      59766,
+      59770
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "Petit Papillon",
+    "jalons": [
+      59806,
+      59820
+    ]
+  },
+  "entite_285": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      59892,
+      59904
+    ]
+  },
+  "entite_286": {
+    "label": "MISC",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      59979,
+      59991
+    ]
+  },
+  "entite_287": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      60056,
+      60068
+    ]
+  },
+  "entite_288": {
+    "label": "MISC",
+    "text": "N'ayez pas de pareilles idées !",
+    "jalons": [
+      60135,
+      60166
+    ]
+  },
+  "entite_289": {
+    "label": "PER",
+    "text": "Jeune Saule",
+    "jalons": [
+      60175,
+      60186
+    ]
+  },
+  "entite_290": {
+    "label": "MISC",
+    "text": "Merci",
+    "jalons": [
+      60301,
+      60306
+    ]
+  },
+  "entite_291": {
+    "label": "MISC",
+    "text": "Petit Papillon",
+    "jalons": [
+      60379,
+      60393
+    ]
+  },
+  "entite_292": {
+    "label": "PER",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      60427,
+      60439
+    ]
+  },
+  "entite_293": {
+    "label": "MISC",
+    "text": "La Perle",
+    "jalons": [
+      60600,
+      60608
+    ]
+  },
+  "entite_294": {
+    "label": "LOC",
+    "text": "Guitare-de-Jade",
+    "jalons": [
+      60647,
+      60662
+    ]
+  },
+  "entite_295": {
+    "label": "MISC",
+    "text": "Jeune Saule",
+    "jalons": [
+      61004,
+      61015
+    ]
+  },
+  "entite_296": {
+    "label": "MISC",
+    "text": "BARBARE",
+    "jalons": [
+      61023,
+      61030
+    ]
+  },
+  "entite_297": {
+    "label": "MISC",
+    "text": "OCCIDENT",
+    "jalons": [
+      61033,
+      61041
+    ]
+  },
+  "entite_298": {
+    "label": "MISC",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      61054,
+      61066
+    ]
+  },
+  "entite_299": {
+    "label": "MISC",
+    "text": "La Perle",
+    "jalons": [
+      61072,
+      61080
+    ]
+  },
+  "entite_300": {
+    "label": "LOC",
+    "text": "Guitare-de-Jade",
+    "jalons": [
+      61147,
+      61162
+    ]
+  },
+  "entite_301": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      61653,
+      61659
+    ]
+  },
+  "entite_302": {
+    "label": "ORG",
+    "text": "Tokio",
+    "jalons": [
+      62030,
+      62035
+    ]
+  },
+  "entite_303": {
+    "label": "MISC",
+    "text": "Occidentaux",
+    "jalons": [
+      62335,
+      62346
+    ]
+  },
+  "entite_304": {
+    "label": "MISC",
+    "text": "Un soir",
+    "jalons": [
+      62431,
+      62438
+    ]
+  },
+  "entite_305": {
+    "label": "MISC",
+    "text": "La Perle",
+    "jalons": [
+      62457,
+      62465
+    ]
+  },
+  "entite_306": {
+    "label": "MISC",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      62659,
+      62671
+    ]
+  },
+  "entite_307": {
+    "label": "MISC",
+    "text": "La Perle",
+    "jalons": [
+      62796,
+      62804
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Occidental",
+    "jalons": [
+      63208,
+      63218
+    ]
+  },
+  "entite_309": {
+    "label": "MISC",
+    "text": "La Perle",
+    "jalons": [
+      63394,
+      63402
+    ]
+  },
+  "entite_310": {
+    "label": "MISC",
+    "text": "Si",
+    "jalons": [
+      63957,
+      63959
+    ]
+  },
+  "entite_311": {
+    "label": "MISC",
+    "text": "La Perle",
+    "jalons": [
+      64067,
+      64075
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "Occidental",
+    "jalons": [
+      64684,
+      64694
+    ]
+  },
+  "entite_313": {
+    "label": "MISC",
+    "text": "La Perle",
+    "jalons": [
+      65158,
+      65166
+    ]
+  },
+  "entite_314": {
+    "label": "MISC",
+    "text": "La Perle",
+    "jalons": [
+      65411,
+      65419
+    ]
+  },
+  "entite_315": {
+    "label": "MISC",
+    "text": "La Perle",
+    "jalons": [
+      65841,
+      65849
+    ]
+  },
+  "entite_316": {
+    "label": "MISC",
+    "text": "shogun Taïko-Sama !",
+    "jalons": [
+      65953,
+      65972
+    ]
+  },
+  "entite_317": {
+    "label": "PER",
+    "text": "Petit Papillon",
+    "jalons": [
+      66022,
+      66036
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      66272,
+      66284
+    ]
+  },
+  "entite_319": {
+    "label": "MISC",
+    "text": "La Perle",
+    "jalons": [
+      66287,
+      66295
+    ]
+  },
+  "entite_320": {
+    "label": "MISC",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      66396,
+      66408
+    ]
+  },
+  "entite_321": {
+    "label": "PER",
+    "text": "Guitare de Jade",
+    "jalons": [
+      66461,
+      66476
+    ]
+  },
+  "entite_322": {
+    "label": "PER",
+    "text": "Petit Papillon",
+    "jalons": [
+      66738,
+      66752
+    ]
+  },
+  "entite_323": {
+    "label": "MISC",
+    "text": "La Sarcelle de Soie",
+    "jalons": [
+      67192,
+      67211
+    ]
+  },
+  "entite_324": {
+    "label": "MISC",
+    "text": "Dites !",
+    "jalons": [
+      67238,
+      67245
+    ]
+  },
+  "entite_325": {
+    "label": "PER",
+    "text": "décria Petit Papillon",
+    "jalons": [
+      67256,
+      67277
+    ]
+  },
+  "entite_326": {
+    "label": "MISC",
+    "text": "La Sarcelle de Soie",
+    "jalons": [
+      67355,
+      67374
+    ]
+  },
+  "entite_327": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      67481,
+      67490
+    ]
+  },
+  "entite_328": {
+    "label": "MISC",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      67524,
+      67536
+    ]
+  },
+  "entite_329": {
+    "label": "PER",
+    "text": "Guitare de Jade",
+    "jalons": [
+      67618,
+      67633
+    ]
+  },
+  "entite_330": {
+    "label": "MISC",
+    "text": "Je suis curieuse de vous entendre",
+    "jalons": [
+      67688,
+      67721
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      67734,
+      67746
+    ]
+  },
+  "entite_332": {
+    "label": "MISC",
+    "text": "VIII",
+    "jalons": [
+      67749,
+      67753
+    ]
+  },
+  "entite_333": {
+    "label": "MISC",
+    "text": "POIDS DE L'OR",
+    "jalons": [
+      67758,
+      67771
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "Guitare de Jade",
+    "jalons": [
+      67844,
+      67859
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "Japon",
+    "jalons": [
+      67941,
+      67946
+    ]
+  },
+  "entite_336": {
+    "label": "LOC",
+    "text": "Sarcelle de Soie",
+    "jalons": [
+      68081,
+      68097
+    ]
+  },
+  "entite_337": {
+    "label": "PER",
+    "text": "Kaïdo",
+    "jalons": [
+      68379,
+      68384
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "États",
+    "jalons": [
+      68515,
+      68520
+    ]
+  },
+  "entite_339": {
+    "label": "PER",
+    "text": "Kaïdo",
+    "jalons": [
+      68713,
+      68718
+    ]
+  },
+  "entite_340": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      68758,
+      68767
+    ]
+  },
+  "entite_341": {
+    "label": "PER",
+    "text": "Sarcelle de Soie",
+    "jalons": [
+      68849,
+      68865
+    ]
+  },
+  "entite_342": {
+    "label": "PER",
+    "text": "outa",
+    "jalons": [
+      68962,
+      68966
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Kaïdo",
+    "jalons": [
+      69110,
+      69115
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Sarcelle de Soie",
+    "jalons": [
+      69237,
+      69253
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "prince de Satsouma",
+    "jalons": [
+      69878,
+      69896
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Sarcelle de Soie",
+    "jalons": [
+      69997,
+      70013
+    ]
+  },
+  "entite_347": {
+    "label": "LOC",
+    "text": "Satsouma",
+    "jalons": [
+      70210,
+      70218
+    ]
+  },
+  "entite_348": {
+    "label": "LOC",
+    "text": "Sarcelle de Soie",
+    "jalons": [
+      70372,
+      70388
+    ]
+  },
+  "entite_349": {
+    "label": "LOC",
+    "text": "Sarcelle de Soie",
+    "jalons": [
+      70672,
+      70688
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      70846,
+      70855
+    ]
+  },
+  "entite_351": {
+    "label": "MISC",
+    "text": "Les yeux troublés de pleurs",
+    "jalons": [
+      70946,
+      70973
+    ]
+  },
+  "entite_352": {
+    "label": "MISC",
+    "text": "Sarcelle de Soie",
+    "jalons": [
+      70975,
+      70991
+    ]
+  },
+  "entite_353": {
+    "label": "PER",
+    "text": "Kaïdo",
+    "jalons": [
+      71117,
+      71122
+    ]
+  },
+  "entite_354": {
+    "label": "PER",
+    "text": "Kaïdo",
+    "jalons": [
+      71603,
+      71608
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "Kaïdo",
+    "jalons": [
+      71757,
+      71762
+    ]
+  },
+  "entite_356": {
+    "label": "MISC",
+    "text": "Jeune Saule",
+    "jalons": [
+      71891,
+      71902
+    ]
+  },
+  "entite_357": {
+    "label": "MISC",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      72412,
+      72424
+    ]
+  },
+  "entite_358": {
+    "label": "PER",
+    "text": "Princesse Inconnue",
+    "jalons": [
+      72499,
+      72517
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      72550,
+      72559
+    ]
+  },
+  "entite_360": {
+    "label": "PER",
+    "text": "Vaca-Yanaghi",
+    "jalons": [
+      72910,
+      72922
+    ]
+  },
+  "entite_361": {
+    "label": "PER",
+    "text": "Guitare- \nde-Jade",
+    "jalons": [
+      72951,
+      72968
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Petit-Papillon",
+    "jalons": [
+      73160,
+      73174
+    ]
+  },
+  "entite_363": {
+    "label": "MISC",
+    "text": "L'Oiseau",
+    "jalons": [
+      73233,
+      73241
+    ]
+  },
+  "entite_364": {
+    "label": "MISC",
+    "text": "Jeune Saule",
+    "jalons": [
+      73275,
+      73286
+    ]
+  },
+  "entite_365": {
+    "label": "PER",
+    "text": "Idole",
+    "jalons": [
+      73396,
+      73401
+    ]
+  },
+  "entite_366": {
+    "label": "PER",
+    "text": "Jeune Saule",
+    "jalons": [
+      73596,
+      73607
+    ]
+  },
+  "entite_367": {
+    "label": "MISC",
+    "text": "Ko-Tsio",
+    "jalons": [
+      73637,
+      73644
+    ]
+  },
+  "entite_368": {
+    "label": "PER",
+    "text": "Petit Papillon",
+    "jalons": [
+      73927,
+      73941
+    ]
+  },
+  "entite_369": {
+    "label": "PER",
+    "text": "oïran",
+    "jalons": [
+      74038,
+      74043
+    ]
+  },
+  "entite_370": {
+    "label": "MISC",
+    "text": "Idole",
+    "jalons": [
+      74389,
+      74394
+    ]
+  },
+  "entite_371": {
+    "label": "MISC",
+    "text": "Ko-Tsio",
+    "jalons": [
+      74463,
+      74470
+    ]
+  },
+  "entite_372": {
+    "label": "LOC",
+    "text": "Voulez",
+    "jalons": [
+      74821,
+      74827
+    ]
+  },
+  "entite_373": {
+    "label": "PER",
+    "text": "Petit Papillon",
+    "jalons": [
+      74860,
+      74874
+    ]
+  },
+  "entite_374": {
+    "label": "MISC",
+    "text": "Jeune Saule",
+    "jalons": [
+      75000,
+      75011
+    ]
+  },
+  "entite_375": {
+    "label": "MISC",
+    "text": "Petit Papillon",
+    "jalons": [
+      75134,
+      75148
+    ]
+  },
+  "entite_376": {
+    "label": "PER",
+    "text": "Vaca-Yanaghi",
+    "jalons": [
+      75228,
+      75240
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      75247,
+      75259
+    ]
+  },
+  "entite_378": {
+    "label": "MISC",
+    "text": "Qu'on éloigne les kamélos",
+    "jalons": [
+      75264,
+      75289
+    ]
+  },
+  "entite_379": {
+    "label": "MISC",
+    "text": "Jeune Saule",
+    "jalons": [
+      75295,
+      75306
+    ]
+  },
+  "entite_380": {
+    "label": "MISC",
+    "text": "IX \nLA PRINCESSE INCONNUE",
+    "jalons": [
+      75457,
+      75482
+    ]
+  },
+  "entite_381": {
+    "label": "MISC",
+    "text": "Un soir",
+    "jalons": [
+      75486,
+      75493
+    ]
+  },
+  "entite_382": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      75646,
+      75655
+    ]
+  },
+  "entite_383": {
+    "label": "PER",
+    "text": "grande oïran",
+    "jalons": [
+      76502,
+      76514
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "Hikone",
+    "jalons": [
+      76581,
+      76587
+    ]
+  },
+  "entite_385": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      76749,
+      76758
+    ]
+  },
+  "entite_386": {
+    "label": "LOC",
+    "text": "Glaive-Noir",
+    "jalons": [
+      76775,
+      76786
+    ]
+  },
+  "entite_387": {
+    "label": "MISC",
+    "text": "Mystérieuse et triste",
+    "jalons": [
+      76813,
+      76834
+    ]
+  },
+  "entite_388": {
+    "label": "LOC",
+    "text": "Combien",
+    "jalons": [
+      76942,
+      76949
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "Hikone",
+    "jalons": [
+      76999,
+      77005
+    ]
+  },
+  "entite_390": {
+    "label": "MISC",
+    "text": "Un matin",
+    "jalons": [
+      77113,
+      77121
+    ]
+  },
+  "entite_391": {
+    "label": "LOC",
+    "text": "kamélos",
+    "jalons": [
+      77127,
+      77134
+    ]
+  },
+  "entite_392": {
+    "label": "ORG",
+    "text": "Glaive-Noir",
+    "jalons": [
+      77152,
+      77163
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "Cité-d'Amour",
+    "jalons": [
+      77277,
+      77289
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      77344,
+      77353
+    ]
+  },
+  "entite_395": {
+    "label": "MISC",
+    "text": "Glaive-Noir",
+    "jalons": [
+      78014,
+      78025
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      78066,
+      78075
+    ]
+  },
+  "entite_397": {
+    "label": "PER",
+    "text": "Jeune-Saule",
+    "jalons": [
+      78106,
+      78117
+    ]
+  },
+  "entite_398": {
+    "label": "PER",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      78293,
+      78305
+    ]
+  },
+  "entite_399": {
+    "label": "LOC",
+    "text": "Jeune-Saule",
+    "jalons": [
+      78393,
+      78404
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      78553,
+      78562
+    ]
+  },
+  "entite_401": {
+    "label": "MISC",
+    "text": "Glaive-Noir",
+    "jalons": [
+      79329,
+      79340
+    ]
+  },
+  "entite_402": {
+    "label": "PER",
+    "text": "Petit Papillon",
+    "jalons": [
+      79539,
+      79553
+    ]
+  },
+  "entite_403": {
+    "label": "MISC",
+    "text": "Le brave",
+    "jalons": [
+      79575,
+      79583
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      80044,
+      80056
+    ]
+  },
+  "entite_405": {
+    "label": "PER",
+    "text": "Jeune-Saule",
+    "jalons": [
+      80135,
+      80146
+    ]
+  },
+  "entite_406": {
+    "label": "LOC",
+    "text": "Château de Fusimi",
+    "jalons": [
+      80786,
+      80803
+    ]
+  },
+  "entite_407": {
+    "label": "MISC",
+    "text": "Gengi",
+    "jalons": [
+      80822,
+      80827
+    ]
+  },
+  "entite_408": {
+    "label": "MISC",
+    "text": "Ô !",
+    "jalons": [
+      80929,
+      80932
+    ]
+  },
+  "entite_409": {
+    "label": "MISC",
+    "text": "Nouvelle funeste !",
+    "jalons": [
+      80951,
+      80969
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "Nonchalamment",
+    "jalons": [
+      81736,
+      81749
+    ]
+  },
+  "entite_411": {
+    "label": "MISC",
+    "text": "Vous voilà debout",
+    "jalons": [
+      82191,
+      82208
+    ]
+  },
+  "entite_412": {
+    "label": "PER",
+    "text": "Nagato",
+    "jalons": [
+      82690,
+      82696
+    ]
+  },
+  "entite_413": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      82741,
+      82745
+    ]
+  },
+  "entite_414": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      83050,
+      83056
+    ]
+  },
+  "entite_415": {
+    "label": "LOC",
+    "text": "du Japon",
+    "jalons": [
+      83178,
+      83186
+    ]
+  },
+  "entite_416": {
+    "label": "MISC",
+    "text": "Le Shogun",
+    "jalons": [
+      83434,
+      83443
+    ]
+  },
+  "entite_417": {
+    "label": "ORG",
+    "text": "Shogun",
+    "jalons": [
+      83639,
+      83645
+    ]
+  },
+  "entite_418": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      83700,
+      83706
+    ]
+  },
+  "entite_419": {
+    "label": "PER",
+    "text": "Dieux",
+    "jalons": [
+      83819,
+      83824
+    ]
+  },
+  "entite_420": {
+    "label": "MISC",
+    "text": "Tokougava",
+    "jalons": [
+      83858,
+      83867
+    ]
+  },
+  "entite_421": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      83960,
+      83966
+    ]
+  },
+  "entite_422": {
+    "label": "ORG",
+    "text": "Shogun",
+    "jalons": [
+      84266,
+      84272
+    ]
+  },
+  "entite_423": {
+    "label": "MISC",
+    "text": "Quelle honte !",
+    "jalons": [
+      84430,
+      84444
+    ]
+  },
+  "entite_424": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      84530,
+      84536
+    ]
+  },
+  "entite_425": {
+    "label": "PER",
+    "text": "Notre Suzerain Matsudaira",
+    "jalons": [
+      84571,
+      84596
+    ]
+  },
+  "entite_426": {
+    "label": "PER",
+    "text": "Nagato",
+    "jalons": [
+      84625,
+      84631
+    ]
+  },
+  "entite_427": {
+    "label": "LOC",
+    "text": "Nakatsu",
+    "jalons": [
+      84769,
+      84776
+    ]
+  },
+  "entite_428": {
+    "label": "LOC",
+    "text": "Nokura",
+    "jalons": [
+      84783,
+      84789
+    ]
+  },
+  "entite_429": {
+    "label": "LOC",
+    "text": "Simonosaki",
+    "jalons": [
+      84819,
+      84829
+    ]
+  },
+  "entite_430": {
+    "label": "ORG",
+    "text": "Shogun",
+    "jalons": [
+      84961,
+      84967
+    ]
+  },
+  "entite_431": {
+    "label": "LOC",
+    "text": "Yédo",
+    "jalons": [
+      84999,
+      85003
+    ]
+  },
+  "entite_432": {
+    "label": "LOC",
+    "text": "Kioto",
+    "jalons": [
+      85007,
+      85012
+    ]
+  },
+  "entite_433": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      85112,
+      85118
+    ]
+  },
+  "entite_434": {
+    "label": "MISC",
+    "text": "In-no-Mya",
+    "jalons": [
+      85205,
+      85214
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      85216,
+      85217
+    ]
+  },
+  "entite_436": {
+    "label": "PER",
+    "text": "Nagato",
+    "jalons": [
+      85296,
+      85302
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "Kioto",
+    "jalons": [
+      85322,
+      85327
+    ]
+  },
+  "entite_438": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      85335,
+      85339
+    ]
+  },
+  "entite_439": {
+    "label": "LOC",
+    "text": "Fusimi",
+    "jalons": [
+      85606,
+      85612
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "château d'Hagi",
+    "jalons": [
+      85714,
+      85728
+    ]
+  },
+  "entite_441": {
+    "label": "ORG",
+    "text": "entr'ouverts",
+    "jalons": [
+      86160,
+      86172
+    ]
+  },
+  "entite_442": {
+    "label": "MISC",
+    "text": "Oh douleur !",
+    "jalons": [
+      86351,
+      86363
+    ]
+  },
+  "entite_443": {
+    "label": "PER",
+    "text": "Nagato",
+    "jalons": [
+      87141,
+      87147
+    ]
+  },
+  "entite_444": {
+    "label": "LOC",
+    "text": "du Japon",
+    "jalons": [
+      87556,
+      87564
+    ]
+  },
+  "entite_445": {
+    "label": "ORG",
+    "text": "Shogun",
+    "jalons": [
+      87577,
+      87583
+    ]
+  },
+  "entite_446": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      87676,
+      87682
+    ]
+  },
+  "entite_447": {
+    "label": "MISC",
+    "text": "Fils des Dieux",
+    "jalons": [
+      87837,
+      87851
+    ]
+  },
+  "entite_448": {
+    "label": "ORG",
+    "text": "Shogun",
+    "jalons": [
+      87878,
+      87884
+    ]
+  },
+  "entite_449": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      87919,
+      87923
+    ]
+  },
+  "entite_450": {
+    "label": "PER",
+    "text": "Dieux",
+    "jalons": [
+      88226,
+      88231
+    ]
+  },
+  "entite_451": {
+    "label": "PER",
+    "text": "Nagato",
+    "jalons": [
+      88356,
+      88362
+    ]
+  },
+  "entite_452": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      88436,
+      88442
+    ]
+  },
+  "entite_453": {
+    "label": "MISC",
+    "text": "Le Fils des Dieux",
+    "jalons": [
+      88776,
+      88793
+    ]
+  },
+  "entite_454": {
+    "label": "MISC",
+    "text": "Malheureuse !",
+    "jalons": [
+      88821,
+      88834
+    ]
+  },
+  "entite_455": {
+    "label": "LOC",
+    "text": "château de Fusimi",
+    "jalons": [
+      88995,
+      89012
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "Kioto",
+    "jalons": [
+      89039,
+      89044
+    ]
+  },
+  "entite_457": {
+    "label": "MISC",
+    "text": "Invisible",
+    "jalons": [
+      89559,
+      89568
+    ]
+  },
+  "entite_458": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      89861,
+      89865
+    ]
+  },
+  "entite_459": {
+    "label": "MISC",
+    "text": "En pleine nuit",
+    "jalons": [
+      90186,
+      90200
+    ]
+  },
+  "entite_460": {
+    "label": "MISC",
+    "text": "Oh ! \nl'extraordinaire spectacle !",
+    "jalons": [
+      90646,
+      90680
+    ]
+  },
+  "entite_461": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      91184,
+      91188
+    ]
+  },
+  "entite_462": {
+    "label": "PER",
+    "text": "Masuda",
+    "jalons": [
+      91852,
+      91858
+    ]
+  },
+  "entite_463": {
+    "label": "PER",
+    "text": "Kantoni Daï-Miojin",
+    "jalons": [
+      91980,
+      91998
+    ]
+  },
+  "entite_464": {
+    "label": "LOC",
+    "text": "le Japon",
+    "jalons": [
+      92028,
+      92036
+    ]
+  },
+  "entite_465": {
+    "label": "PER",
+    "text": "Kora Daï-Miozin",
+    "jalons": [
+      92067,
+      92082
+    ]
+  },
+  "entite_466": {
+    "label": "PER",
+    "text": "Zin-Sou",
+    "jalons": [
+      92110,
+      92117
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "Corée",
+    "jalons": [
+      92133,
+      92138
+    ]
+  },
+  "entite_468": {
+    "label": "PER",
+    "text": "Echigo",
+    "jalons": [
+      92178,
+      92184
+    ]
+  },
+  "entite_469": {
+    "label": "MISC",
+    "text": "Kounishi",
+    "jalons": [
+      92241,
+      92249
+    ]
+  },
+  "entite_470": {
+    "label": "PER",
+    "text": "Nagato",
+    "jalons": [
+      92473,
+      92479
+    ]
+  },
+  "entite_471": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      92711,
+      92717
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "chine",
+    "jalons": [
+      92797,
+      92802
+    ]
+  },
+  "entite_473": {
+    "label": "MISC",
+    "text": "Fukubara",
+    "jalons": [
+      93257,
+      93265
+    ]
+  },
+  "entite_474": {
+    "label": "MISC",
+    "text": "Lui !",
+    "jalons": [
+      93773,
+      93778
+    ]
+  },
+  "entite_475": {
+    "label": "PER",
+    "text": "Masuda",
+    "jalons": [
+      93856,
+      93862
+    ]
+  },
+  "entite_476": {
+    "label": "MISC",
+    "text": "Ô !",
+    "jalons": [
+      94397,
+      94400
+    ]
+  },
+  "entite_477": {
+    "label": "MISC",
+    "text": "La Ville sainte",
+    "jalons": [
+      94847,
+      94862
+    ]
+  },
+  "entite_478": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      94925,
+      94931
+    ]
+  },
+  "entite_479": {
+    "label": "ORG",
+    "text": "Shogun",
+    "jalons": [
+      94962,
+      94968
+    ]
+  },
+  "entite_480": {
+    "label": "MISC",
+    "text": "Tokougava",
+    "jalons": [
+      95044,
+      95053
+    ]
+  },
+  "entite_481": {
+    "label": "LOC",
+    "text": "Stotsubachi",
+    "jalons": [
+      95083,
+      95094
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "Echigen",
+    "jalons": [
+      95096,
+      95103
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "Kouvana",
+    "jalons": [
+      95105,
+      95112
+    ]
+  },
+  "entite_484": {
+    "label": "PER",
+    "text": "Aidzu",
+    "jalons": [
+      95114,
+      95119
+    ]
+  },
+  "entite_485": {
+    "label": "PER",
+    "text": "prince de Satsuma",
+    "jalons": [
+      95124,
+      95141
+    ]
+  },
+  "entite_486": {
+    "label": "PER",
+    "text": "Chikouzen",
+    "jalons": [
+      95178,
+      95187
+    ]
+  },
+  "entite_487": {
+    "label": "PER",
+    "text": "Dieux",
+    "jalons": [
+      95353,
+      95358
+    ]
+  },
+  "entite_488": {
+    "label": "PER",
+    "text": "Ô",
+    "jalons": [
+      95872,
+      95873
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "du Japon",
+    "jalons": [
+      95937,
+      95945
+    ]
+  },
+  "entite_490": {
+    "label": "PER",
+    "text": "Serrant",
+    "jalons": [
+      96175,
+      96182
+    ]
+  },
+  "entite_491": {
+    "label": "LOC",
+    "text": "Kounishi",
+    "jalons": [
+      96515,
+      96523
+    ]
+  },
+  "entite_492": {
+    "label": "LOC",
+    "text": "Kioto",
+    "jalons": [
+      96558,
+      96563
+    ]
+  },
+  "entite_493": {
+    "label": "LOC",
+    "text": "Nakada-Kiuri",
+    "jalons": [
+      96582,
+      96594
+    ]
+  },
+  "entite_494": {
+    "label": "PER",
+    "text": "prince de Chikousen",
+    "jalons": [
+      96610,
+      96629
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "Porte des Seigneurs",
+    "jalons": [
+      96728,
+      96747
+    ]
+  },
+  "entite_496": {
+    "label": "PER",
+    "text": "Aidzu de Kouvana",
+    "jalons": [
+      96809,
+      96825
+    ]
+  },
+  "entite_497": {
+    "label": "PER",
+    "text": "Aidzu",
+    "jalons": [
+      96913,
+      96918
+    ]
+  },
+  "entite_498": {
+    "label": "PER",
+    "text": "Kouvana",
+    "jalons": [
+      96925,
+      96932
+    ]
+  },
+  "entite_499": {
+    "label": "PER",
+    "text": "Amatératzu",
+    "jalons": [
+      97274,
+      97284
+    ]
+  },
+  "entite_500": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      97303,
+      97309
+    ]
+  },
+  "entite_501": {
+    "label": "PER",
+    "text": "prince de Satsuma",
+    "jalons": [
+      97949,
+      97966
+    ]
+  },
+  "entite_502": {
+    "label": "PER",
+    "text": "Aidzu",
+    "jalons": [
+      97992,
+      97997
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "Nagato",
+    "jalons": [
+      98017,
+      98023
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "Porte des Seigneurs",
+    "jalons": [
+      98067,
+      98086
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "Issé",
+    "jalons": [
+      98278,
+      98282
+    ]
+  },
+  "entite_506": {
+    "label": "MISC",
+    "text": "Idogava",
+    "jalons": [
+      98304,
+      98311
+    ]
+  },
+  "entite_507": {
+    "label": "ORG",
+    "text": "Nagato",
+    "jalons": [
+      98411,
+      98417
+    ]
+  },
+  "entite_508": {
+    "label": "PER",
+    "text": "caillée",
+    "jalons": [
+      98701,
+      98708
+    ]
+  },
+  "entite_509": {
+    "label": "MISC",
+    "text": "Ô ! \nl'héroïque et terrible épisode !",
+    "jalons": [
+      98753,
+      98790
+    ]
+  },
+  "entite_510": {
+    "label": "MISC",
+    "text": "Matabaï",
+    "jalons": [
+      98910,
+      98917
+    ]
+  },
+  "entite_511": {
+    "label": "MISC",
+    "text": "Matabaï",
+    "jalons": [
+      99134,
+      99141
+    ]
+  },
+  "entite_512": {
+    "label": "MISC",
+    "text": "Guerriers stupides et indignes",
+    "jalons": [
+      99364,
+      99394
+    ]
+  },
+  "entite_513": {
+    "label": "MISC",
+    "text": "Un grand frisson me parcourt",
+    "jalons": [
+      99636,
+      99664
+    ]
+  },
+  "entite_514": {
+    "label": "MISC",
+    "text": "Matabaï",
+    "jalons": [
+      99830,
+      99837
+    ]
+  },
+  "entite_515": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      100468,
+      100472
+    ]
+  },
+  "entite_516": {
+    "label": "PER",
+    "text": "Kouniski",
+    "jalons": [
+      100737,
+      100745
+    ]
+  },
+  "entite_517": {
+    "label": "PER",
+    "text": "Masuda",
+    "jalons": [
+      100803,
+      100809
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "Takatsu-Kasa",
+    "jalons": [
+      100831,
+      100843
+    ]
+  },
+  "entite_519": {
+    "label": "PER",
+    "text": "prince de Hikone",
+    "jalons": [
+      100860,
+      100876
+    ]
+  },
+  "entite_520": {
+    "label": "PER",
+    "text": "Nagato",
+    "jalons": [
+      100942,
+      100948
+    ]
+  },
+  "entite_521": {
+    "label": "LOC",
+    "text": "Hikone",
+    "jalons": [
+      100960,
+      100966
+    ]
+  },
+  "entite_522": {
+    "label": "LOC",
+    "text": "Echigo",
+    "jalons": [
+      101050,
+      101056
+    ]
+  },
+  "entite_523": {
+    "label": "PER",
+    "text": "Ogaki",
+    "jalons": [
+      101088,
+      101093
+    ]
+  },
+  "entite_524": {
+    "label": "MISC",
+    "text": "Jo-hi",
+    "jalons": [
+      101228,
+      101233
+    ]
+  },
+  "entite_525": {
+    "label": "MISC",
+    "text": "Jo-hi !",
+    "jalons": [
+      101236,
+      101243
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "du Japon",
+    "jalons": [
+      101410,
+      101418
+    ]
+  },
+  "entite_527": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      101465,
+      101469
+    ]
+  },
+  "entite_528": {
+    "label": "MISC",
+    "text": "Lui !",
+    "jalons": [
+      101876,
+      101881
+    ]
+  },
+  "entite_529": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      101891,
+      101895
+    ]
+  },
+  "entite_530": {
+    "label": "LOC",
+    "text": "Pavillon des Perles Rouges",
+    "jalons": [
+      101924,
+      101950
+    ]
+  },
+  "entite_531": {
+    "label": "MISC",
+    "text": "Lui, d'écrire encore pour que l'on sache la vérité",
+    "jalons": [
+      102135,
+      102185
+    ]
+  },
+  "entite_532": {
+    "label": "MISC",
+    "text": "L'Enfer !",
+    "jalons": [
+      102224,
+      102233
+    ]
+  },
+  "entite_533": {
+    "label": "MISC",
+    "text": "Terrassant ma douleur",
+    "jalons": [
+      103146,
+      103167
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "Hikone",
+    "jalons": [
+      103251,
+      103257
+    ]
+  },
+  "entite_535": {
+    "label": "MISC",
+    "text": "Venge",
+    "jalons": [
+      103499,
+      103504
+    ]
+  },
+  "entite_536": {
+    "label": "PER",
+    "text": "Me",
+    "jalons": [
+      103729,
+      103731
+    ]
+  },
+  "entite_537": {
+    "label": "MISC",
+    "text": "Cuirasse arrachée...",
+    "jalons": [
+      103845,
+      103865
+    ]
+  },
+  "entite_538": {
+    "label": "MISC",
+    "text": "Trois fleurs de cerisiers !",
+    "jalons": [
+      103932,
+      103959
+    ]
+  },
+  "entite_539": {
+    "label": "LOC",
+    "text": "Hikone",
+    "jalons": [
+      104387,
+      104393
+    ]
+  },
+  "entite_540": {
+    "label": "LOC",
+    "text": "Satsuma",
+    "jalons": [
+      104395,
+      104402
+    ]
+  },
+  "entite_541": {
+    "label": "PER",
+    "text": "Aidzu",
+    "jalons": [
+      104404,
+      104409
+    ]
+  },
+  "entite_542": {
+    "label": "LOC",
+    "text": "Hikone",
+    "jalons": [
+      104725,
+      104731
+    ]
+  },
+  "entite_543": {
+    "label": "PER",
+    "text": "Allais",
+    "jalons": [
+      105146,
+      105152
+    ]
+  },
+  "entite_544": {
+    "label": "LOC",
+    "text": "Hikone",
+    "jalons": [
+      105670,
+      105676
+    ]
+  },
+  "entite_545": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      105762,
+      105766
+    ]
+  },
+  "entite_546": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      106088,
+      106097
+    ]
+  },
+  "entite_547": {
+    "label": "LOC",
+    "text": "Hagi",
+    "jalons": [
+      106779,
+      106783
+    ]
+  },
+  "entite_548": {
+    "label": "PER",
+    "text": "Maître",
+    "jalons": [
+      106929,
+      106935
+    ]
+  },
+  "entite_549": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      107395,
+      107401
+    ]
+  },
+  "entite_550": {
+    "label": "PER",
+    "text": "Kioto",
+    "jalons": [
+      107435,
+      107440
+    ]
+  },
+  "entite_551": {
+    "label": "MISC",
+    "text": "Yeddo",
+    "jalons": [
+      107529,
+      107534
+    ]
+  },
+  "entite_552": {
+    "label": "ORG",
+    "text": "Tokio",
+    "jalons": [
+      107562,
+      107567
+    ]
+  },
+  "entite_553": {
+    "label": "MISC",
+    "text": "Nagato",
+    "jalons": [
+      107622,
+      107628
+    ]
+  },
+  "entite_554": {
+    "label": "LOC",
+    "text": "du Japon",
+    "jalons": [
+      107742,
+      107750
+    ]
+  },
+  "entite_555": {
+    "label": "PER",
+    "text": "Nagato",
+    "jalons": [
+      108225,
+      108231
+    ]
+  },
+  "entite_556": {
+    "label": "PER",
+    "text": "Ô",
+    "jalons": [
+      108288,
+      108289
+    ]
+  },
+  "entite_557": {
+    "label": "LOC",
+    "text": "Hikone",
+    "jalons": [
+      108664,
+      108670
+    ]
+  },
+  "entite_558": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      108684,
+      108688
+    ]
+  },
+  "entite_559": {
+    "label": "PER",
+    "text": "Viens",
+    "jalons": [
+      108843,
+      108848
+    ]
+  },
+  "entite_560": {
+    "label": "MISC",
+    "text": "Je suis libre !",
+    "jalons": [
+      109089,
+      109104
+    ]
+  },
+  "entite_561": {
+    "label": "LOC",
+    "text": "Cherchez",
+    "jalons": [
+      109236,
+      109244
+    ]
+  },
+  "entite_562": {
+    "label": "LOC",
+    "text": "Hikone",
+    "jalons": [
+      109489,
+      109495
+    ]
+  },
+  "entite_563": {
+    "label": "PER",
+    "text": "Ô",
+    "jalons": [
+      109717,
+      109718
+    ]
+  },
+  "entite_564": {
+    "label": "MISC",
+    "text": "Un long silence régna",
+    "jalons": [
+      109917,
+      109938
+    ]
+  },
+  "entite_565": {
+    "label": "PER",
+    "text": "Jeune Saule",
+    "jalons": [
+      109946,
+      109957
+    ]
+  },
+  "entite_566": {
+    "label": "MISC",
+    "text": "Jeune Saule roula",
+    "jalons": [
+      110123,
+      110140
+    ]
+  },
+  "entite_567": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      110212,
+      110224
+    ]
+  },
+  "entite_568": {
+    "label": "MISC",
+    "text": "vôtres",
+    "jalons": [
+      110558,
+      110564
+    ]
+  },
+  "entite_569": {
+    "label": "MISC",
+    "text": "X",
+    "jalons": [
+      110814,
+      110815
+    ]
+  },
+  "entite_570": {
+    "label": "MISC",
+    "text": "ÉVENTAIL DE RAYONS",
+    "jalons": [
+      110817,
+      110835
+    ]
+  },
+  "entite_571": {
+    "label": "MISC",
+    "text": "Mitzu-Vogi",
+    "jalons": [
+      110837,
+      110847
+    ]
+  },
+  "entite_572": {
+    "label": "ORG",
+    "text": "Éventail de Rayons",
+    "jalons": [
+      110849,
+      110867
+    ]
+  },
+  "entite_573": {
+    "label": "MISC",
+    "text": "Un jour",
+    "jalons": [
+      111343,
+      111350
+    ]
+  },
+  "entite_574": {
+    "label": "PER",
+    "text": "Éventail de Rayons",
+    "jalons": [
+      111545,
+      111563
+    ]
+  },
+  "entite_575": {
+    "label": "PER",
+    "text": "Éventail de Rayons",
+    "jalons": [
+      112007,
+      112025
+    ]
+  },
+  "entite_576": {
+    "label": "PER",
+    "text": "Noble",
+    "jalons": [
+      112196,
+      112201
+    ]
+  },
+  "entite_577": {
+    "label": "PER",
+    "text": "Éventail de Rayons",
+    "jalons": [
+      112638,
+      112656
+    ]
+  },
+  "entite_578": {
+    "label": "PER",
+    "text": "oïran",
+    "jalons": [
+      112943,
+      112948
+    ]
+  },
+  "entite_579": {
+    "label": "PER",
+    "text": "Éventail de Rayons",
+    "jalons": [
+      113206,
+      113224
+    ]
+  },
+  "entite_580": {
+    "label": "PER",
+    "text": "Éventail de Rayons",
+    "jalons": [
+      114940,
+      114958
+    ]
+  },
+  "entite_581": {
+    "label": "MISC",
+    "text": "Ko-",
+    "jalons": [
+      115318,
+      115321
+    ]
+  },
+  "entite_582": {
+    "label": "PER",
+    "text": "Mourasaki",
+    "jalons": [
+      115323,
+      115332
+    ]
+  },
+  "entite_583": {
+    "label": "MISC",
+    "text": "Jeune Saule",
+    "jalons": [
+      115462,
+      115473
+    ]
+  },
+  "entite_584": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      115592,
+      115604
+    ]
+  },
+  "entite_585": {
+    "label": "MISC",
+    "text": "XI \nPLEURS ET PARFUMS",
+    "jalons": [
+      115710,
+      115731
+    ]
+  },
+  "entite_586": {
+    "label": "MISC",
+    "text": "L'Oiseau-Fleur",
+    "jalons": [
+      115733,
+      115747
+    ]
+  },
+  "entite_587": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      115831,
+      115840
+    ]
+  },
+  "entite_588": {
+    "label": "MISC",
+    "text": "Kama-Koura",
+    "jalons": [
+      116055,
+      116065
+    ]
+  },
+  "entite_589": {
+    "label": "MISC",
+    "text": "Kama-",
+    "jalons": [
+      116294,
+      116299
+    ]
+  },
+  "entite_590": {
+    "label": "PER",
+    "text": "Le prince",
+    "jalons": [
+      116308,
+      116317
+    ]
+  },
+  "entite_591": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      116994,
+      117003
+    ]
+  },
+  "entite_592": {
+    "label": "MISC",
+    "text": "Le Seigneur Yamato",
+    "jalons": [
+      117051,
+      117069
+    ]
+  },
+  "entite_593": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      117350,
+      117356
+    ]
+  },
+  "entite_594": {
+    "label": "MISC",
+    "text": "Que veux-tu",
+    "jalons": [
+      117380,
+      117391
+    ]
+  },
+  "entite_595": {
+    "label": "MISC",
+    "text": "Gagnons du temps",
+    "jalons": [
+      117537,
+      117553
+    ]
+  },
+  "entite_596": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      118118,
+      118127
+    ]
+  },
+  "entite_597": {
+    "label": "MISC",
+    "text": "L'Oiseau",
+    "jalons": [
+      118318,
+      118326
+    ]
+  },
+  "entite_598": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      118481,
+      118490
+    ]
+  },
+  "entite_599": {
+    "label": "MISC",
+    "text": "Allons !",
+    "jalons": [
+      118533,
+      118541
+    ]
+  },
+  "entite_600": {
+    "label": "PER",
+    "text": "Kamélos",
+    "jalons": [
+      118753,
+      118760
+    ]
+  },
+  "entite_601": {
+    "label": "PER",
+    "text": "Kamélos",
+    "jalons": [
+      119098,
+      119105
+    ]
+  },
+  "entite_602": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      119187,
+      119199
+    ]
+  },
+  "entite_603": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      119535,
+      119544
+    ]
+  },
+  "entite_604": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      120031,
+      120040
+    ]
+  },
+  "entite_605": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      120864,
+      120876
+    ]
+  },
+  "entite_606": {
+    "label": "LOC",
+    "text": "Tsou-Yhé",
+    "jalons": [
+      120937,
+      120945
+    ]
+  },
+  "entite_607": {
+    "label": "MISC",
+    "text": "Natané",
+    "jalons": [
+      120980,
+      120986
+    ]
+  },
+  "entite_608": {
+    "label": "PER",
+    "text": "Janko",
+    "jalons": [
+      122495,
+      122500
+    ]
+  },
+  "entite_609": {
+    "label": "ORG",
+    "text": "kamouros",
+    "jalons": [
+      123226,
+      123234
+    ]
+  },
+  "entite_610": {
+    "label": "LOC",
+    "text": "onidori",
+    "jalons": [
+      123620,
+      123627
+    ]
+  },
+  "entite_611": {
+    "label": "LOC",
+    "text": "Assise",
+    "jalons": [
+      123630,
+      123636
+    ]
+  },
+  "entite_612": {
+    "label": "LOC",
+    "text": "manche",
+    "jalons": [
+      123942,
+      123948
+    ]
+  },
+  "entite_613": {
+    "label": "MISC",
+    "text": "Hélas !",
+    "jalons": [
+      124911,
+      124918
+    ]
+  },
+  "entite_614": {
+    "label": "MISC",
+    "text": "Princesse",
+    "jalons": [
+      124955,
+      124964
+    ]
+  },
+  "entite_615": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      125059,
+      125068
+    ]
+  },
+  "entite_616": {
+    "label": "LOC",
+    "text": "Maison Verte",
+    "jalons": [
+      125140,
+      125152
+    ]
+  },
+  "entite_617": {
+    "label": "LOC",
+    "text": "Cigogne-Danseuse",
+    "jalons": [
+      125183,
+      125199
+    ]
+  },
+  "entite_618": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      125303,
+      125309
+    ]
+  },
+  "entite_619": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      125405,
+      125414
+    ]
+  },
+  "entite_620": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      125465,
+      125477
+    ]
+  },
+  "entite_621": {
+    "label": "PER",
+    "text": "Ô",
+    "jalons": [
+      125557,
+      125558
+    ]
+  },
+  "entite_622": {
+    "label": "MISC",
+    "text": "Ô !",
+    "jalons": [
+      125573,
+      125576
+    ]
+  },
+  "entite_623": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      126250,
+      126256
+    ]
+  },
+  "entite_624": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      126333,
+      126342
+    ]
+  },
+  "entite_625": {
+    "label": "MISC",
+    "text": "délaya l'encre",
+    "jalons": [
+      126635,
+      126649
+    ]
+  },
+  "entite_626": {
+    "label": "MISC",
+    "text": "BARRIÈRE DE BAMBOUS VERTS",
+    "jalons": [
+      126797,
+      126822
+    ]
+  },
+  "entite_627": {
+    "label": "MISC",
+    "text": "Hara-Kiri",
+    "jalons": [
+      127035,
+      127044
+    ]
+  },
+  "entite_628": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      127202,
+      127208
+    ]
+  },
+  "entite_629": {
+    "label": "PER",
+    "text": "prince Sandaï",
+    "jalons": [
+      127234,
+      127247
+    ]
+  },
+  "entite_630": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      127605,
+      127611
+    ]
+  },
+  "entite_631": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      127730,
+      127739
+    ]
+  },
+  "entite_632": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      128501,
+      128507
+    ]
+  },
+  "entite_633": {
+    "label": "PER",
+    "text": "Sandaï",
+    "jalons": [
+      128679,
+      128685
+    ]
+  },
+  "entite_634": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      128761,
+      128765
+    ]
+  },
+  "entite_635": {
+    "label": "MISC",
+    "text": "Encore !",
+    "jalons": [
+      128904,
+      128912
+    ]
+  },
+  "entite_636": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      128921,
+      128927
+    ]
+  },
+  "entite_637": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      129260,
+      129264
+    ]
+  },
+  "entite_638": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      129288,
+      129294
+    ]
+  },
+  "entite_639": {
+    "label": "LOC",
+    "text": "Kama-Koura",
+    "jalons": [
+      129729,
+      129739
+    ]
+  },
+  "entite_640": {
+    "label": "MISC",
+    "text": "Où veux-tu",
+    "jalons": [
+      130477,
+      130487
+    ]
+  },
+  "entite_641": {
+    "label": "MISC",
+    "text": "Voilà des paroles sages",
+    "jalons": [
+      130745,
+      130768
+    ]
+  },
+  "entite_642": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      130789,
+      130795
+    ]
+  },
+  "entite_643": {
+    "label": "LOC",
+    "text": "Parcourir l'Empire",
+    "jalons": [
+      130942,
+      130960
+    ]
+  },
+  "entite_644": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      131621,
+      131627
+    ]
+  },
+  "entite_645": {
+    "label": "MISC",
+    "text": "Kama-Koura",
+    "jalons": [
+      131689,
+      131699
+    ]
+  },
+  "entite_646": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      131750,
+      131762
+    ]
+  },
+  "entite_647": {
+    "label": "MISC",
+    "text": "Pardonne-moi ;",
+    "jalons": [
+      131767,
+      131781
+    ]
+  },
+  "entite_648": {
+    "label": "PER",
+    "text": "Sandaï",
+    "jalons": [
+      131803,
+      131809
+    ]
+  },
+  "entite_649": {
+    "label": "PER",
+    "text": "Vois",
+    "jalons": [
+      131952,
+      131956
+    ]
+  },
+  "entite_650": {
+    "label": "LOC",
+    "text": "l'Empire",
+    "jalons": [
+      132201,
+      132209
+    ]
+  },
+  "entite_651": {
+    "label": "PER",
+    "text": "Béni",
+    "jalons": [
+      133030,
+      133034
+    ]
+  },
+  "entite_652": {
+    "label": "LOC",
+    "text": "Hara-Kiri",
+    "jalons": [
+      133043,
+      133052
+    ]
+  },
+  "entite_653": {
+    "label": "PER",
+    "text": "XIII \nÀ LA LANCE ROUILLÉE",
+    "jalons": [
+      133107,
+      133132
+    ]
+  },
+  "entite_654": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      133134,
+      133140
+    ]
+  },
+  "entite_655": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      133169,
+      133178
+    ]
+  },
+  "entite_656": {
+    "label": "MISC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      133211,
+      133223
+    ]
+  },
+  "entite_657": {
+    "label": "ORG",
+    "text": "Tokio",
+    "jalons": [
+      133262,
+      133267
+    ]
+  },
+  "entite_658": {
+    "label": "ORG",
+    "text": "Lance Rouillée",
+    "jalons": [
+      133391,
+      133405
+    ]
+  },
+  "entite_659": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      133777,
+      133783
+    ]
+  },
+  "entite_660": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      134066,
+      134072
+    ]
+  },
+  "entite_661": {
+    "label": "PER",
+    "text": "monseigneur",
+    "jalons": [
+      134339,
+      134350
+    ]
+  },
+  "entite_662": {
+    "label": "PER",
+    "text": "Rassurez",
+    "jalons": [
+      134969,
+      134977
+    ]
+  },
+  "entite_663": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      135010,
+      135016
+    ]
+  },
+  "entite_664": {
+    "label": "MISC",
+    "text": "Kama-Koura",
+    "jalons": [
+      135075,
+      135085
+    ]
+  },
+  "entite_665": {
+    "label": "LOC",
+    "text": "Braves",
+    "jalons": [
+      135200,
+      135206
+    ]
+  },
+  "entite_666": {
+    "label": "MISC",
+    "text": "Tenez",
+    "jalons": [
+      135293,
+      135298
+    ]
+  },
+  "entite_667": {
+    "label": "MISC",
+    "text": "Soshis",
+    "jalons": [
+      135512,
+      135518
+    ]
+  },
+  "entite_668": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      135606,
+      135612
+    ]
+  },
+  "entite_669": {
+    "label": "MISC",
+    "text": "Venez",
+    "jalons": [
+      135910,
+      135915
+    ]
+  },
+  "entite_670": {
+    "label": "PER",
+    "text": "Jo-i !",
+    "jalons": [
+      136560,
+      136566
+    ]
+  },
+  "entite_671": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      136632,
+      136638
+    ]
+  },
+  "entite_672": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      136673,
+      136679
+    ]
+  },
+  "entite_673": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      137416,
+      137420
+    ]
+  },
+  "entite_674": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      137529,
+      137535
+    ]
+  },
+  "entite_675": {
+    "label": "MISC",
+    "text": "Oï-Kantaro",
+    "jalons": [
+      137673,
+      137683
+    ]
+  },
+  "entite_676": {
+    "label": "ORG",
+    "text": "ministre Ito",
+    "jalons": [
+      137731,
+      137743
+    ]
+  },
+  "entite_677": {
+    "label": "LOC",
+    "text": "du Japon",
+    "jalons": [
+      137771,
+      137779
+    ]
+  },
+  "entite_678": {
+    "label": "LOC",
+    "text": "Kantaro",
+    "jalons": [
+      137800,
+      137807
+    ]
+  },
+  "entite_679": {
+    "label": "LOC",
+    "text": "Nishino",
+    "jalons": [
+      137973,
+      137980
+    ]
+  },
+  "entite_680": {
+    "label": "PER",
+    "text": "Mori",
+    "jalons": [
+      138042,
+      138046
+    ]
+  },
+  "entite_681": {
+    "label": "PER",
+    "text": "Koyamo",
+    "jalons": [
+      138155,
+      138161
+    ]
+  },
+  "entite_682": {
+    "label": "LOC",
+    "text": "Chine",
+    "jalons": [
+      138220,
+      138225
+    ]
+  },
+  "entite_683": {
+    "label": "PER",
+    "text": "Li-Hung-Tchang",
+    "jalons": [
+      138227,
+      138241
+    ]
+  },
+  "entite_684": {
+    "label": "LOC",
+    "text": "Sabouro",
+    "jalons": [
+      138286,
+      138293
+    ]
+  },
+  "entite_685": {
+    "label": "LOC",
+    "text": "Kantaro",
+    "jalons": [
+      138354,
+      138361
+    ]
+  },
+  "entite_686": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      138401,
+      138405
+    ]
+  },
+  "entite_687": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      138643,
+      138649
+    ]
+  },
+  "entite_688": {
+    "label": "MISC",
+    "text": "Oï-Kantaro",
+    "jalons": [
+      138701,
+      138711
+    ]
+  },
+  "entite_689": {
+    "label": "MISC",
+    "text": "Combien d'incendies",
+    "jalons": [
+      138893,
+      138912
+    ]
+  },
+  "entite_690": {
+    "label": "LOC",
+    "text": "Kantaro",
+    "jalons": [
+      138941,
+      138948
+    ]
+  },
+  "entite_691": {
+    "label": "PER",
+    "text": "Bouddha",
+    "jalons": [
+      139078,
+      139085
+    ]
+  },
+  "entite_692": {
+    "label": "LOC",
+    "text": "Shinto",
+    "jalons": [
+      139099,
+      139105
+    ]
+  },
+  "entite_693": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      139626,
+      139632
+    ]
+  },
+  "entite_694": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      140188,
+      140194
+    ]
+  },
+  "entite_695": {
+    "label": "PER",
+    "text": "Allez",
+    "jalons": [
+      140232,
+      140237
+    ]
+  },
+  "entite_696": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      140380,
+      140386
+    ]
+  },
+  "entite_697": {
+    "label": "MISC",
+    "text": "Kama-",
+    "jalons": [
+      140469,
+      140474
+    ]
+  },
+  "entite_698": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      141096,
+      141100
+    ]
+  },
+  "entite_699": {
+    "label": "LOC",
+    "text": "Yosi-Wara",
+    "jalons": [
+      141223,
+      141232
+    ]
+  },
+  "entite_700": {
+    "label": "LOC",
+    "text": "Kantaro",
+    "jalons": [
+      141382,
+      141389
+    ]
+  },
+  "entite_701": {
+    "label": "PER",
+    "text": "Écartant",
+    "jalons": [
+      141826,
+      141834
+    ]
+  },
+  "entite_702": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      141846,
+      141852
+    ]
+  },
+  "entite_703": {
+    "label": "MISC",
+    "text": "Le brave",
+    "jalons": [
+      141937,
+      141945
+    ]
+  },
+  "entite_704": {
+    "label": "MISC",
+    "text": "Un parfum, distingué et doux",
+    "jalons": [
+      142117,
+      142145
+    ]
+  },
+  "entite_705": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      142408,
+      142412
+    ]
+  },
+  "entite_706": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      142998,
+      143004
+    ]
+  },
+  "entite_707": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      143762,
+      143768
+    ]
+  },
+  "entite_708": {
+    "label": "LOC",
+    "text": "Regardez",
+    "jalons": [
+      144001,
+      144009
+    ]
+  },
+  "entite_709": {
+    "label": "LOC",
+    "text": "Kantaro",
+    "jalons": [
+      144380,
+      144387
+    ]
+  },
+  "entite_710": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      144483,
+      144489
+    ]
+  },
+  "entite_711": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      144665,
+      144671
+    ]
+  },
+  "entite_712": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      145221,
+      145225
+    ]
+  },
+  "entite_713": {
+    "label": "PER",
+    "text": "Ako",
+    "jalons": [
+      145283,
+      145286
+    ]
+  },
+  "entite_714": {
+    "label": "PER",
+    "text": "Ako",
+    "jalons": [
+      145345,
+      145348
+    ]
+  },
+  "entite_715": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      145361,
+      145367
+    ]
+  },
+  "entite_716": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      145862,
+      145868
+    ]
+  },
+  "entite_717": {
+    "label": "LOC",
+    "text": "Ako",
+    "jalons": [
+      146182,
+      146185
+    ]
+  },
+  "entite_718": {
+    "label": "LOC",
+    "text": "Kantaro",
+    "jalons": [
+      146276,
+      146283
+    ]
+  },
+  "entite_719": {
+    "label": "LOC",
+    "text": "Uyéno",
+    "jalons": [
+      146458,
+      146463
+    ]
+  },
+  "entite_720": {
+    "label": "MISC",
+    "text": "Moi !",
+    "jalons": [
+      146587,
+      146592
+    ]
+  },
+  "entite_721": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      146868,
+      146874
+    ]
+  },
+  "entite_722": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      146924,
+      146928
+    ]
+  },
+  "entite_723": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      147256,
+      147262
+    ]
+  },
+  "entite_724": {
+    "label": "LOC",
+    "text": "Japon",
+    "jalons": [
+      147335,
+      147340
+    ]
+  },
+  "entite_725": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      147471,
+      147477
+    ]
+  },
+  "entite_726": {
+    "label": "MISC",
+    "text": "Voyageons",
+    "jalons": [
+      147546,
+      147555
+    ]
+  },
+  "entite_727": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      147880,
+      147886
+    ]
+  },
+  "entite_728": {
+    "label": "LOC",
+    "text": "Kantaro",
+    "jalons": [
+      148118,
+      148125
+    ]
+  },
+  "entite_729": {
+    "label": "LOC",
+    "text": "porte des Nobles",
+    "jalons": [
+      148184,
+      148200
+    ]
+  },
+  "entite_730": {
+    "label": "LOC",
+    "text": "temple de Shiba",
+    "jalons": [
+      148214,
+      148229
+    ]
+  },
+  "entite_731": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      148349,
+      148355
+    ]
+  },
+  "entite_732": {
+    "label": "MISC",
+    "text": "Ouf !",
+    "jalons": [
+      148653,
+      148658
+    ]
+  },
+  "entite_733": {
+    "label": "MISC",
+    "text": "Me voilà joli !",
+    "jalons": [
+      148985,
+      149000
+    ]
+  },
+  "entite_734": {
+    "label": "LOC",
+    "text": "Kantaro",
+    "jalons": [
+      149268,
+      149275
+    ]
+  },
+  "entite_735": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      149358,
+      149364
+    ]
+  },
+  "entite_736": {
+    "label": "MISC",
+    "text": "Tiens",
+    "jalons": [
+      149514,
+      149519
+    ]
+  },
+  "entite_737": {
+    "label": "PER",
+    "text": "XIV",
+    "jalons": [
+      149703,
+      149706
+    ]
+  },
+  "entite_738": {
+    "label": "MISC",
+    "text": "Une lourde jonque",
+    "jalons": [
+      149723,
+      149740
+    ]
+  },
+  "entite_739": {
+    "label": "LOC",
+    "text": "mer intérieure",
+    "jalons": [
+      149845,
+      149859
+    ]
+  },
+  "entite_740": {
+    "label": "LOC",
+    "text": "Oï-Kantaro",
+    "jalons": [
+      149922,
+      149932
+    ]
+  },
+  "entite_741": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      150036,
+      150042
+    ]
+  },
+  "entite_742": {
+    "label": "ORG",
+    "text": "Tokio",
+    "jalons": [
+      150162,
+      150167
+    ]
+  },
+  "entite_743": {
+    "label": "LOC",
+    "text": "Kantaro",
+    "jalons": [
+      150494,
+      150501
+    ]
+  },
+  "entite_744": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      150547,
+      150553
+    ]
+  },
+  "entite_745": {
+    "label": "LOC",
+    "text": "Ako",
+    "jalons": [
+      150968,
+      150971
+    ]
+  },
+  "entite_746": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      151072,
+      151078
+    ]
+  },
+  "entite_747": {
+    "label": "LOC",
+    "text": "Ako",
+    "jalons": [
+      151148,
+      151151
+    ]
+  },
+  "entite_748": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      151534,
+      151540
+    ]
+  },
+  "entite_749": {
+    "label": "PER",
+    "text": "Secrètement",
+    "jalons": [
+      151805,
+      151816
+    ]
+  },
+  "entite_750": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      151842,
+      151848
+    ]
+  },
+  "entite_751": {
+    "label": "PER",
+    "text": "Ako",
+    "jalons": [
+      151904,
+      151907
+    ]
+  },
+  "entite_752": {
+    "label": "MISC",
+    "text": "Kama-Koura",
+    "jalons": [
+      151931,
+      151941
+    ]
+  },
+  "entite_753": {
+    "label": "LOC",
+    "text": "Oï-Kantaro",
+    "jalons": [
+      152327,
+      152337
+    ]
+  },
+  "entite_754": {
+    "label": "MISC",
+    "text": "Allons !",
+    "jalons": [
+      152614,
+      152622
+    ]
+  },
+  "entite_755": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      152671,
+      152677
+    ]
+  },
+  "entite_756": {
+    "label": "MISC",
+    "text": "Le brave",
+    "jalons": [
+      152711,
+      152719
+    ]
+  },
+  "entite_757": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      152962,
+      152968
+    ]
+  },
+  "entite_758": {
+    "label": "PER",
+    "text": "Ronines",
+    "jalons": [
+      153120,
+      153127
+    ]
+  },
+  "entite_759": {
+    "label": "LOC",
+    "text": "Colline",
+    "jalons": [
+      153504,
+      153511
+    ]
+  },
+  "entite_760": {
+    "label": "ORG",
+    "text": "Tokio",
+    "jalons": [
+      153575,
+      153580
+    ]
+  },
+  "entite_761": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      153592,
+      153598
+    ]
+  },
+  "entite_762": {
+    "label": "MISC",
+    "text": "Feuille d'Or",
+    "jalons": [
+      153684,
+      153696
+    ]
+  },
+  "entite_763": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      153789,
+      153795
+    ]
+  },
+  "entite_764": {
+    "label": "PER",
+    "text": "Mikado",
+    "jalons": [
+      153852,
+      153858
+    ]
+  },
+  "entite_765": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      153969,
+      153975
+    ]
+  },
+  "entite_766": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      155021,
+      155027
+    ]
+  },
+  "entite_767": {
+    "label": "LOC",
+    "text": "Ako",
+    "jalons": [
+      155180,
+      155183
+    ]
+  },
+  "entite_768": {
+    "label": "MISC",
+    "text": "Distraitement",
+    "jalons": [
+      155200,
+      155213
+    ]
+  },
+  "entite_769": {
+    "label": "LOC",
+    "text": "Oï-Kantaro",
+    "jalons": [
+      155274,
+      155284
+    ]
+  },
+  "entite_770": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      155891,
+      155897
+    ]
+  },
+  "entite_771": {
+    "label": "ORG",
+    "text": "Oï-Kantaro",
+    "jalons": [
+      156148,
+      156158
+    ]
+  },
+  "entite_772": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      156396,
+      156402
+    ]
+  },
+  "entite_773": {
+    "label": "PER",
+    "text": "Rassurez",
+    "jalons": [
+      157794,
+      157802
+    ]
+  },
+  "entite_774": {
+    "label": "PER",
+    "text": "Rosée de l'Aube",
+    "jalons": [
+      158404,
+      158419
+    ]
+  },
+  "entite_775": {
+    "label": "PER",
+    "text": "Ako",
+    "jalons": [
+      158445,
+      158448
+    ]
+  },
+  "entite_776": {
+    "label": "LOC",
+    "text": "Kantaro",
+    "jalons": [
+      158686,
+      158693
+    ]
+  },
+  "entite_777": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      158706,
+      158712
+    ]
+  },
+  "entite_778": {
+    "label": "MISC",
+    "text": "CEINTURE DE",
+    "jalons": [
+      160294,
+      160305
+    ]
+  },
+  "entite_779": {
+    "label": "MISC",
+    "text": "L'Oiseau-Fleur",
+    "jalons": [
+      160670,
+      160684
+    ]
+  },
+  "entite_780": {
+    "label": "PER",
+    "text": "Tâche",
+    "jalons": [
+      161200,
+      161205
+    ]
+  },
+  "entite_781": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      161276,
+      161285
+    ]
+  },
+  "entite_782": {
+    "label": "PER",
+    "text": "Le prince",
+    "jalons": [
+      161374,
+      161383
+    ]
+  },
+  "entite_783": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      161467,
+      161473
+    ]
+  },
+  "entite_784": {
+    "label": "MISC",
+    "text": "Chère folle",
+    "jalons": [
+      161704,
+      161715
+    ]
+  },
+  "entite_785": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      161754,
+      161760
+    ]
+  },
+  "entite_786": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      162188,
+      162197
+    ]
+  },
+  "entite_787": {
+    "label": "MISC",
+    "text": "L'Oiseau-Fleur",
+    "jalons": [
+      162302,
+      162316
+    ]
+  },
+  "entite_788": {
+    "label": "PER",
+    "text": "Ko-Mourasaki",
+    "jalons": [
+      162476,
+      162488
+    ]
+  },
+  "entite_789": {
+    "label": "PER",
+    "text": "Jeune Saule",
+    "jalons": [
+      162550,
+      162561
+    ]
+  },
+  "entite_790": {
+    "label": "PER",
+    "text": "kamélos",
+    "jalons": [
+      162879,
+      162886
+    ]
+  },
+  "entite_791": {
+    "label": "PER",
+    "text": "Hana-Dori",
+    "jalons": [
+      163046,
+      163055
+    ]
+  },
+  "entite_792": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      163188,
+      163197
+    ]
+  },
+  "entite_793": {
+    "label": "PER",
+    "text": "Benten",
+    "jalons": [
+      163261,
+      163267
+    ]
+  },
+  "entite_794": {
+    "label": "PER",
+    "text": "Laisse",
+    "jalons": [
+      163588,
+      163594
+    ]
+  },
+  "entite_795": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      163610,
+      163622
+    ]
+  },
+  "entite_796": {
+    "label": "PER",
+    "text": "kamélos",
+    "jalons": [
+      163788,
+      163795
+    ]
+  },
+  "entite_797": {
+    "label": "MISC",
+    "text": "Cigogne-Danseuse",
+    "jalons": [
+      163911,
+      163927
+    ]
+  },
+  "entite_798": {
+    "label": "LOC",
+    "text": "rez-de-",
+    "jalons": [
+      163985,
+      163992
+    ]
+  },
+  "entite_799": {
+    "label": "PER",
+    "text": "Stansiro",
+    "jalons": [
+      164014,
+      164022
+    ]
+  },
+  "entite_800": {
+    "label": "PER",
+    "text": "Descendez",
+    "jalons": [
+      164088,
+      164097
+    ]
+  },
+  "entite_801": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      164200,
+      164209
+    ]
+  },
+  "entite_802": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      164393,
+      164402
+    ]
+  },
+  "entite_803": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      164471,
+      164483
+    ]
+  },
+  "entite_804": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      164699,
+      164708
+    ]
+  },
+  "entite_805": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      164770,
+      164776
+    ]
+  },
+  "entite_806": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      164893,
+      164905
+    ]
+  },
+  "entite_807": {
+    "label": "PER",
+    "text": "Noble princesse d'Ako",
+    "jalons": [
+      164966,
+      164987
+    ]
+  },
+  "entite_808": {
+    "label": "MISC",
+    "text": "Un vieux seigneur",
+    "jalons": [
+      165059,
+      165076
+    ]
+  },
+  "entite_809": {
+    "label": "PER",
+    "text": "Yamato",
+    "jalons": [
+      165350,
+      165356
+    ]
+  },
+  "entite_810": {
+    "label": "LOC",
+    "text": "Oiseau-Fleur",
+    "jalons": [
+      165534,
+      165546
+    ]
+  },
+  "entite_811": {
+    "label": "PER",
+    "text": "Ako",
+    "jalons": [
+      165782,
+      165785
+    ]
+  },
+  "entite_812": {
+    "label": "MISC",
+    "text": "Trop minutieuse",
+    "jalons": [
+      165876,
+      165891
+    ]
+  },
+  "entite_813": {
+    "label": "MISC",
+    "text": "Yamato",
+    "jalons": [
+      165932,
+      165938
+    ]
+  },
+  "entite_814": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      165941,
+      165950
+    ]
+  },
+  "entite_815": {
+    "label": "PER",
+    "text": "Ako",
+    "jalons": [
+      166244,
+      166247
+    ]
+  },
+  "entite_816": {
+    "label": "LOC",
+    "text": "Rosée de l'Aube",
+    "jalons": [
+      166434,
+      166449
+    ]
+  },
+  "entite_817": {
+    "label": "LOC",
+    "text": "Broc d'Or",
+    "jalons": [
+      166452,
+      166461
+    ]
+  },
+  "entite_818": {
+    "label": "PER",
+    "text": "Ronines",
+    "jalons": [
+      167048,
+      167055
+    ]
+  },
+  "entite_819": {
+    "label": "MISC",
+    "text": "Juillet 1864",
+    "jalons": [
+      167116,
+      167128
+    ]
+  },
+  "entite_820": {
+    "label": "PER",
+    "text": "Braves",
+    "jalons": [
+      167137,
+      167143
+    ]
+  }
+}

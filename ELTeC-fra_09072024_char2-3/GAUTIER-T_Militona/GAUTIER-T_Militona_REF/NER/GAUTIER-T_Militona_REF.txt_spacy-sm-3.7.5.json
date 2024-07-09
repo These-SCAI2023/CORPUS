@@ -1,0 +1,11842 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      2,
+      3
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Espagne",
+    "jalons": [
+      70,
+      77
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "rue San-Bernardo",
+    "jalons": [
+      189,
+      205
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      251,
+      257
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      931,
+      937
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      941,
+      948
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Don",
+    "jalons": [
+      972,
+      975
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      986,
+      993
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      1274,
+      1280
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      1318,
+      1327
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "los Rios",
+    "jalons": [
+      1339,
+      1347
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Doña Feliciana Vasquez de",
+    "jalons": [
+      1372,
+      1397
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "los Rios",
+    "jalons": [
+      1398,
+      1406
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      1493,
+      1499
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      1834,
+      1840
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Pourvu",
+    "jalons": [
+      2166,
+      2172
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Bellini",
+    "jalons": [
+      2304,
+      2311
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "alguazil",
+    "jalons": [
+      2445,
+      2453
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Telle",
+    "jalons": [
+      2495,
+      2500
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      2538,
+      2544
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      2588,
+      2597
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      2994,
+      3000
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      3110,
+      3116
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Manille",
+    "jalons": [
+      3173,
+      3180
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      3326,
+      3335
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      3371,
+      3377
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      3813,
+      3818
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Souvenirs",
+    "jalons": [
+      3820,
+      3829
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Regrets",
+    "jalons": [
+      3833,
+      3840
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Petits Braconniers",
+    "jalons": [
+      3846,
+      3864
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Don Juan",
+    "jalons": [
+      3866,
+      3874
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "Haydée",
+    "jalons": [
+      3878,
+      3884
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "Mina",
+    "jalons": [
+      3886,
+      3890
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Brenda",
+    "jalons": [
+      3894,
+      3900
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "conquête d'Égypte",
+    "jalons": [
+      4146,
+      4163
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Esméralda",
+    "jalons": [
+      4193,
+      4202
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Phébus",
+    "jalons": [
+      4240,
+      4246
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      4559,
+      4564
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Spa",
+    "jalons": [
+      4928,
+      4931
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Feliciana pour les arts",
+    "jalons": [
+      5043,
+      5066
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Feliciana Vasquez",
+    "jalons": [
+      5073,
+      5090
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Geronimo Vasquez",
+    "jalons": [
+      5290,
+      5306
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "de Russie",
+    "jalons": [
+      5434,
+      5443
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "damas",
+    "jalons": [
+      5462,
+      5467
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Perse",
+    "jalons": [
+      5482,
+      5487
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "la Chine",
+    "jalons": [
+      5506,
+      5514
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "gaine",
+    "jalons": [
+      5531,
+      5536
+    ]
+  },
+  "entite_47": {
+    "label": "MISC",
+    "text": "tableaux noirâtres d'Orrente",
+    "jalons": [
+      5601,
+      5629
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Menendez",
+    "jalons": [
+      5636,
+      5644
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Doña Feliciana",
+    "jalons": [
+      6003,
+      6017
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Angleterre",
+    "jalons": [
+      6384,
+      6394
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Gibraltar",
+    "jalons": [
+      6448,
+      6457
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "valenciennes",
+    "jalons": [
+      6577,
+      6589
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      6895,
+      6904
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "Allemande",
+    "jalons": [
+      6942,
+      6951
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Française",
+    "jalons": [
+      6959,
+      6968
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "du Nord",
+    "jalons": [
+      6983,
+      6990
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "Espagnole",
+    "jalons": [
+      7138,
+      7147
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "rigodon",
+    "jalons": [
+      7366,
+      7373
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "Scribe",
+    "jalons": [
+      7591,
+      7597
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "théâtre del Principe",
+    "jalons": [
+      7602,
+      7622
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "théâtre del Circo",
+    "jalons": [
+      7683,
+      7700
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Prado",
+    "jalons": [
+      7732,
+      7737
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      7801,
+      7806
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      7829,
+      7838
+    ]
+  },
+  "entite_65": {
+    "label": "LOC",
+    "text": "los Rios",
+    "jalons": [
+      7850,
+      7858
+    ]
+  },
+  "entite_66": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      7952,
+      7958
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      8132,
+      8138
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      8262,
+      8271
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      8334,
+      8340
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      8344,
+      8351
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      8675,
+      8684
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      8860,
+      8869
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      9016,
+      9022
+    ]
+  },
+  "entite_74": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      9215,
+      9219
+    ]
+  },
+  "entite_75": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      9232,
+      9238
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      9264,
+      9273
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      9422,
+      9431
+    ]
+  },
+  "entite_78": {
+    "label": "LOC",
+    "text": "Espagne",
+    "jalons": [
+      9496,
+      9503
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "marquise de Benavidès",
+    "jalons": [
+      9758,
+      9779
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      9836,
+      9842
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      9957,
+      9966
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "Voulez",
+    "jalons": [
+      10143,
+      10149
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      10448,
+      10454
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Esméralda",
+    "jalons": [
+      10491,
+      10500
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      10587,
+      10596
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      10658,
+      10667
+    ]
+  },
+  "entite_87": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      10842,
+      10851
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      11249,
+      11255
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "Alcala",
+    "jalons": [
+      11349,
+      11355
+    ]
+  },
+  "entite_90": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      11446,
+      11450
+    ]
+  },
+  "entite_91": {
+    "label": "ORG",
+    "text": "Arroyo d'Abrunigal",
+    "jalons": [
+      11685,
+      11703
+    ]
+  },
+  "entite_92": {
+    "label": "LOC",
+    "text": "Gaviria",
+    "jalons": [
+      11751,
+      11758
+    ]
+  },
+  "entite_93": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      11949,
+      11953
+    ]
+  },
+  "entite_94": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      12092,
+      12098
+    ]
+  },
+  "entite_95": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      12144,
+      12153
+    ]
+  },
+  "entite_96": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      12232,
+      12238
+    ]
+  },
+  "entite_97": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      12513,
+      12519
+    ]
+  },
+  "entite_98": {
+    "label": "LOC",
+    "text": "Espagnols",
+    "jalons": [
+      12571,
+      12580
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "Romain",
+    "jalons": [
+      12811,
+      12817
+    ]
+  },
+  "entite_100": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      13088,
+      13094
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      13105,
+      13111
+    ]
+  },
+  "entite_102": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      13117,
+      13126
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "Gaviria",
+    "jalons": [
+      13227,
+      13234
+    ]
+  },
+  "entite_104": {
+    "label": "MISC",
+    "text": "Partez",
+    "jalons": [
+      13349,
+      13355
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Benavidès",
+    "jalons": [
+      13469,
+      13478
+    ]
+  },
+  "entite_106": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      13534,
+      13540
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      13607,
+      13616
+    ]
+  },
+  "entite_108": {
+    "label": "ORG",
+    "text": "San-Bernardo",
+    "jalons": [
+      13818,
+      13830
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      13859,
+      13863
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Desengaño",
+    "jalons": [
+      13979,
+      13988
+    ]
+  },
+  "entite_111": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      14224,
+      14230
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "San-Luis",
+    "jalons": [
+      14313,
+      14321
+    ]
+  },
+  "entite_113": {
+    "label": "LOC",
+    "text": "rue Fuencarral",
+    "jalons": [
+      14326,
+      14340
+    ]
+  },
+  "entite_114": {
+    "label": "LOC",
+    "text": "rue Ortaleza",
+    "jalons": [
+      14347,
+      14359
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "Caballero de Gracia",
+    "jalons": [
+      14391,
+      14410
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "rue d'Alcala",
+    "jalons": [
+      14455,
+      14467
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      14677,
+      14682
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      14686,
+      14693
+    ]
+  },
+  "entite_119": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      14708,
+      14714
+    ]
+  },
+  "entite_120": {
+    "label": "PER",
+    "text": "Philippe IV",
+    "jalons": [
+      15507,
+      15518
+    ]
+  },
+  "entite_121": {
+    "label": "PER",
+    "text": "Manuel Godoy",
+    "jalons": [
+      15665,
+      15677
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      15781,
+      15786
+    ]
+  },
+  "entite_123": {
+    "label": "LOC",
+    "text": "Alcala",
+    "jalons": [
+      16115,
+      16121
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "Cybèle",
+    "jalons": [
+      16150,
+      16156
+    ]
+  },
+  "entite_125": {
+    "label": "PER",
+    "text": "Charles III",
+    "jalons": [
+      16208,
+      16219
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      16715,
+      16721
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "Espagnols",
+    "jalons": [
+      16773,
+      16782
+    ]
+  },
+  "entite_128": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      17407,
+      17413
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      17882,
+      17888
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      18283,
+      18289
+    ]
+  },
+  "entite_131": {
+    "label": "PER",
+    "text": "Juan Tenorio",
+    "jalons": [
+      18325,
+      18337
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "Juan de Marana",
+    "jalons": [
+      18348,
+      18362
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "Taureaux",
+    "jalons": [
+      18398,
+      18406
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "Luca Blanco",
+    "jalons": [
+      18451,
+      18462
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "Montès",
+    "jalons": [
+      18478,
+      18484
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      18997,
+      19003
+    ]
+  },
+  "entite_137": {
+    "label": "LOC",
+    "text": "manola",
+    "jalons": [
+      19016,
+      19022
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      19574,
+      19580
+    ]
+  },
+  "entite_139": {
+    "label": "LOC",
+    "text": "salon du Prado",
+    "jalons": [
+      19750,
+      19764
+    ]
+  },
+  "entite_140": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      19816,
+      19822
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "Alcachofa",
+    "jalons": [
+      19849,
+      19858
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "place de Lavapiès",
+    "jalons": [
+      19925,
+      19942
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      20110,
+      20119
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "grand-peine",
+    "jalons": [
+      20183,
+      20194
+    ]
+  },
+  "entite_145": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      20518,
+      20524
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "porte d'",
+    "jalons": [
+      20566,
+      20574
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "Alcala",
+    "jalons": [
+      20574,
+      20580
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "Espagne",
+    "jalons": [
+      20709,
+      20716
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "piéton",
+    "jalons": [
+      20813,
+      20819
+    ]
+  },
+  "entite_150": {
+    "label": "PER",
+    "text": "Astracan",
+    "jalons": [
+      21684,
+      21692
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "manche",
+    "jalons": [
+      21766,
+      21772
+    ]
+  },
+  "entite_152": {
+    "label": "LOC",
+    "text": "fouet",
+    "jalons": [
+      21776,
+      21781
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "Alcala",
+    "jalons": [
+      21926,
+      21932
+    ]
+  },
+  "entite_154": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      22149,
+      22155
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "Taureaux",
+    "jalons": [
+      22230,
+      22238
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "Castille",
+    "jalons": [
+      22498,
+      22506
+    ]
+  },
+  "entite_157": {
+    "label": "LOC",
+    "text": "Espagne",
+    "jalons": [
+      22588,
+      22595
+    ]
+  },
+  "entite_158": {
+    "label": "MISC",
+    "text": "Pelona",
+    "jalons": [
+      22603,
+      22609
+    ]
+  },
+  "entite_159": {
+    "label": "MISC",
+    "text": "Blasia",
+    "jalons": [
+      22618,
+      22624
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "Michel",
+    "jalons": [
+      22667,
+      22673
+    ]
+  },
+  "entite_161": {
+    "label": "PER",
+    "text": "Godichon",
+    "jalons": [
+      22683,
+      22691
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "Paul de Kock",
+    "jalons": [
+      22726,
+      22738
+    ]
+  },
+  "entite_163": {
+    "label": "MISC",
+    "text": "Caprices",
+    "jalons": [
+      23070,
+      23078
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      23549,
+      23555
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      24409,
+      24415
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "Taureaux",
+    "jalons": [
+      24584,
+      24592
+    ]
+  },
+  "entite_167": {
+    "label": "ORG",
+    "text": "manola",
+    "jalons": [
+      24678,
+      24684
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      24883,
+      24889
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      25054,
+      25060
+    ]
+  },
+  "entite_170": {
+    "label": "ORG",
+    "text": "manola",
+    "jalons": [
+      25109,
+      25115
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Notre-Dame",
+    "jalons": [
+      25601,
+      25611
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "Gaviria",
+    "jalons": [
+      26194,
+      26201
+    ]
+  },
+  "entite_173": {
+    "label": "PER",
+    "text": "Arroyo",
+    "jalons": [
+      26232,
+      26238
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      26312,
+      26321
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "chulos",
+    "jalons": [
+      26414,
+      26420
+    ]
+  },
+  "entite_176": {
+    "label": "ORG",
+    "text": "banderilleros",
+    "jalons": [
+      26422,
+      26435
+    ]
+  },
+  "entite_177": {
+    "label": "LOC",
+    "text": "Séville",
+    "jalons": [
+      27583,
+      27590
+    ]
+  },
+  "entite_178": {
+    "label": "PER",
+    "text": "Hercule",
+    "jalons": [
+      28215,
+      28222
+    ]
+  },
+  "entite_179": {
+    "label": "LOC",
+    "text": "sortija",
+    "jalons": [
+      28381,
+      28388
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      28989,
+      28994
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Opéra",
+    "jalons": [
+      29050,
+      29055
+    ]
+  },
+  "entite_182": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      29068,
+      29075
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      29477,
+      29484
+    ]
+  },
+  "entite_184": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      29643,
+      29650
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "Andalou",
+    "jalons": [
+      29945,
+      29952
+    ]
+  },
+  "entite_186": {
+    "label": "MISC",
+    "text": "Votre Grâce",
+    "jalons": [
+      30530,
+      30541
+    ]
+  },
+  "entite_187": {
+    "label": "LOC",
+    "text": "Mazpule",
+    "jalons": [
+      30655,
+      30662
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Lizaso",
+    "jalons": [
+      30807,
+      30813
+    ]
+  },
+  "entite_189": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      30982,
+      30989
+    ]
+  },
+  "entite_190": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      31234,
+      31241
+    ]
+  },
+  "entite_191": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      31430,
+      31437
+    ]
+  },
+  "entite_192": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      31974,
+      31981
+    ]
+  },
+  "entite_193": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      32687,
+      32694
+    ]
+  },
+  "entite_194": {
+    "label": "PER",
+    "text": "Zapata de Grenade",
+    "jalons": [
+      33535,
+      33552
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Zapata",
+    "jalons": [
+      33554,
+      33560
+    ]
+  },
+  "entite_196": {
+    "label": "ORG",
+    "text": "Cardillac",
+    "jalons": [
+      33565,
+      33574
+    ]
+  },
+  "entite_197": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      33829,
+      33836
+    ]
+  },
+  "entite_198": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      34199,
+      34206
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "Pepé Illo",
+    "jalons": [
+      34446,
+      34455
+    ]
+  },
+  "entite_200": {
+    "label": "PER",
+    "text": "Romero",
+    "jalons": [
+      34460,
+      34466
+    ]
+  },
+  "entite_201": {
+    "label": "PER",
+    "text": "José Candido",
+    "jalons": [
+      34471,
+      34483
+    ]
+  },
+  "entite_202": {
+    "label": "LOC",
+    "text": "Sainte-Hermandad",
+    "jalons": [
+      34576,
+      34592
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      34965,
+      34971
+    ]
+  },
+  "entite_204": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      35691,
+      35697
+    ]
+  },
+  "entite_205": {
+    "label": "LOC",
+    "text": "nacre",
+    "jalons": [
+      36073,
+      36078
+    ]
+  },
+  "entite_206": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      36639,
+      36644
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      36651,
+      36658
+    ]
+  },
+  "entite_208": {
+    "label": "LOC",
+    "text": "l'Espagne",
+    "jalons": [
+      36749,
+      36758
+    ]
+  },
+  "entite_209": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      36872,
+      36878
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      37326,
+      37332
+    ]
+  },
+  "entite_211": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      37864,
+      37870
+    ]
+  },
+  "entite_212": {
+    "label": "PER",
+    "text": "califourchon",
+    "jalons": [
+      37986,
+      37998
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Barahona",
+    "jalons": [
+      38107,
+      38115
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      38168,
+      38175
+    ]
+  },
+  "entite_215": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      39060,
+      39068
+    ]
+  },
+  "entite_216": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      39099,
+      39106
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      39193,
+      39200
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      39254,
+      39262
+    ]
+  },
+  "entite_219": {
+    "label": "MISC",
+    "text": "Tu sais",
+    "jalons": [
+      39283,
+      39290
+    ]
+  },
+  "entite_220": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      39491,
+      39497
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      39499,
+      39507
+    ]
+  },
+  "entite_222": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      39750,
+      39756
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      39760,
+      39767
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      39817,
+      39823
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      40139,
+      40145
+    ]
+  },
+  "entite_226": {
+    "label": "LOC",
+    "text": "Señorita",
+    "jalons": [
+      40235,
+      40243
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      40282,
+      40288
+    ]
+  },
+  "entite_228": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      40419,
+      40425
+    ]
+  },
+  "entite_229": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      40506,
+      40512
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      40537,
+      40545
+    ]
+  },
+  "entite_231": {
+    "label": "PER",
+    "text": "Heureusement Juancho",
+    "jalons": [
+      40668,
+      40688
+    ]
+  },
+  "entite_232": {
+    "label": "PER",
+    "text": "grommela",
+    "jalons": [
+      40706,
+      40714
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "madame",
+    "jalons": [
+      40812,
+      40818
+    ]
+  },
+  "entite_234": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      41284,
+      41291
+    ]
+  },
+  "entite_235": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      41602,
+      41609
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      41667,
+      41673
+    ]
+  },
+  "entite_237": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      41680,
+      41688
+    ]
+  },
+  "entite_238": {
+    "label": "ORG",
+    "text": "Fais ton fier",
+    "jalons": [
+      42601,
+      42614
+    ]
+  },
+  "entite_239": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      42771,
+      42778
+    ]
+  },
+  "entite_240": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      42806,
+      42813
+    ]
+  },
+  "entite_241": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      43125,
+      43132
+    ]
+  },
+  "entite_242": {
+    "label": "PER",
+    "text": "Van Amburg",
+    "jalons": [
+      43464,
+      43474
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      44223,
+      44231
+    ]
+  },
+  "entite_244": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      44355,
+      44363
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      44405,
+      44411
+    ]
+  },
+  "entite_246": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      44818,
+      44824
+    ]
+  },
+  "entite_247": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      44859,
+      44866
+    ]
+  },
+  "entite_248": {
+    "label": "PER",
+    "text": "creusa",
+    "jalons": [
+      45044,
+      45050
+    ]
+  },
+  "entite_249": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      45410,
+      45417
+    ]
+  },
+  "entite_250": {
+    "label": "PER",
+    "text": "Juancho de ma vie",
+    "jalons": [
+      45469,
+      45486
+    ]
+  },
+  "entite_251": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      45488,
+      45495
+    ]
+  },
+  "entite_252": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      45509,
+      45516
+    ]
+  },
+  "entite_253": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      45573,
+      45581
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      45706,
+      45713
+    ]
+  },
+  "entite_255": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      46032,
+      46039
+    ]
+  },
+  "entite_256": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      46247,
+      46254
+    ]
+  },
+  "entite_257": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      46295,
+      46303
+    ]
+  },
+  "entite_258": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      47076,
+      47083
+    ]
+  },
+  "entite_259": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      47587,
+      47594
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      47761,
+      47769
+    ]
+  },
+  "entite_261": {
+    "label": "MISC",
+    "text": "Aïe !",
+    "jalons": [
+      47820,
+      47825
+    ]
+  },
+  "entite_262": {
+    "label": "MISC",
+    "text": "Hélas !",
+    "jalons": [
+      47837,
+      47844
+    ]
+  },
+  "entite_263": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      47940,
+      47947
+    ]
+  },
+  "entite_264": {
+    "label": "PER",
+    "text": "Fuera",
+    "jalons": [
+      48118,
+      48123
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "Ceuta",
+    "jalons": [
+      48210,
+      48215
+    ]
+  },
+  "entite_266": {
+    "label": "PER",
+    "text": "Boucher",
+    "jalons": [
+      48244,
+      48251
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      48394,
+      48401
+    ]
+  },
+  "entite_268": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      48977,
+      48985
+    ]
+  },
+  "entite_269": {
+    "label": "PER",
+    "text": "Montès de Chiclana",
+    "jalons": [
+      49215,
+      49233
+    ]
+  },
+  "entite_270": {
+    "label": "PER",
+    "text": "saint Hubert",
+    "jalons": [
+      49414,
+      49426
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      49529,
+      49536
+    ]
+  },
+  "entite_272": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      49646,
+      49653
+    ]
+  },
+  "entite_273": {
+    "label": "MISC",
+    "text": "Arjona",
+    "jalons": [
+      49729,
+      49735
+    ]
+  },
+  "entite_274": {
+    "label": "LOC",
+    "text": "Chiclanero",
+    "jalons": [
+      49742,
+      49752
+    ]
+  },
+  "entite_275": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      49789,
+      49795
+    ]
+  },
+  "entite_276": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      49843,
+      49847
+    ]
+  },
+  "entite_277": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      49897,
+      49905
+    ]
+  },
+  "entite_278": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      50054,
+      50060
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      50260,
+      50266
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      50355,
+      50361
+    ]
+  },
+  "entite_281": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      50496,
+      50502
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      50674,
+      50680
+    ]
+  },
+  "entite_283": {
+    "label": "PER",
+    "text": "Juan",
+    "jalons": [
+      50804,
+      50808
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      51266,
+      51274
+    ]
+  },
+  "entite_285": {
+    "label": "ORG",
+    "text": "manola",
+    "jalons": [
+      51384,
+      51390
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      51422,
+      51429
+    ]
+  },
+  "entite_287": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      51616,
+      51622
+    ]
+  },
+  "entite_288": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      51846,
+      51854
+    ]
+  },
+  "entite_289": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      52199,
+      52207
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "Puerto",
+    "jalons": [
+      52505,
+      52511
+    ]
+  },
+  "entite_291": {
+    "label": "PER",
+    "text": "« Bon",
+    "jalons": [
+      52581,
+      52586
+    ]
+  },
+  "entite_292": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      52595,
+      52601
+    ]
+  },
+  "entite_293": {
+    "label": "LOC",
+    "text": "Prado",
+    "jalons": [
+      52626,
+      52631
+    ]
+  },
+  "entite_294": {
+    "label": "PER",
+    "text": "Bellini",
+    "jalons": [
+      52803,
+      52810
+    ]
+  },
+  "entite_295": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      52898,
+      52904
+    ]
+  },
+  "entite_296": {
+    "label": "LOC",
+    "text": "Prado",
+    "jalons": [
+      52960,
+      52965
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      53114,
+      53120
+    ]
+  },
+  "entite_298": {
+    "label": "ORG",
+    "text": "manola",
+    "jalons": [
+      53274,
+      53280
+    ]
+  },
+  "entite_299": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      53445,
+      53451
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      53506,
+      53513
+    ]
+  },
+  "entite_301": {
+    "label": "MISC",
+    "text": "don Quichotte de la Manche",
+    "jalons": [
+      53625,
+      53651
+    ]
+  },
+  "entite_302": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      53731,
+      53740
+    ]
+  },
+  "entite_303": {
+    "label": "MISC",
+    "text": "Feliciana et la jeune",
+    "jalons": [
+      54107,
+      54128
+    ]
+  },
+  "entite_304": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      54477,
+      54483
+    ]
+  },
+  "entite_305": {
+    "label": "PER",
+    "text": "Feliciana Vasquez de los Rios",
+    "jalons": [
+      54548,
+      54577
+    ]
+  },
+  "entite_306": {
+    "label": "LOC",
+    "text": "du Nord",
+    "jalons": [
+      55109,
+      55116
+    ]
+  },
+  "entite_307": {
+    "label": "PER",
+    "text": "Péralta",
+    "jalons": [
+      55413,
+      55420
+    ]
+  },
+  "entite_308": {
+    "label": "PER",
+    "text": "Pedro Jiménès",
+    "jalons": [
+      55427,
+      55440
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "nacre",
+    "jalons": [
+      56006,
+      56011
+    ]
+  },
+  "entite_310": {
+    "label": "LOC",
+    "text": "Arabie",
+    "jalons": [
+      56127,
+      56133
+    ]
+  },
+  "entite_311": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      56329,
+      56335
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      56591,
+      56597
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      56658,
+      56663
+    ]
+  },
+  "entite_314": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      56670,
+      56677
+    ]
+  },
+  "entite_315": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      56696,
+      56702
+    ]
+  },
+  "entite_316": {
+    "label": "LOC",
+    "text": "San-Joachim",
+    "jalons": [
+      56802,
+      56813
+    ]
+  },
+  "entite_317": {
+    "label": "LOC",
+    "text": "San-Gerimon",
+    "jalons": [
+      56817,
+      56828
+    ]
+  },
+  "entite_318": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      57063,
+      57069
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      57527,
+      57533
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Prado",
+    "jalons": [
+      57671,
+      57676
+    ]
+  },
+  "entite_321": {
+    "label": "LOC",
+    "text": "San-Juan",
+    "jalons": [
+      57714,
+      57722
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      57753,
+      57759
+    ]
+  },
+  "entite_323": {
+    "label": "LOC",
+    "text": "los Desamparados",
+    "jalons": [
+      57842,
+      57858
+    ]
+  },
+  "entite_324": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      57956,
+      57962
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      58295,
+      58301
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Espagnols",
+    "jalons": [
+      58343,
+      58352
+    ]
+  },
+  "entite_327": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      58562,
+      58568
+    ]
+  },
+  "entite_328": {
+    "label": "LOC",
+    "text": "place de Lavapiès",
+    "jalons": [
+      58729,
+      58746
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "rue del Povar",
+    "jalons": [
+      58765,
+      58778
+    ]
+  },
+  "entite_330": {
+    "label": "LOC",
+    "text": "Santa-Inès",
+    "jalons": [
+      58791,
+      58801
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "las Damas",
+    "jalons": [
+      58812,
+      58821
+    ]
+  },
+  "entite_332": {
+    "label": "LOC",
+    "text": "San-Lorenzo",
+    "jalons": [
+      58828,
+      58839
+    ]
+  },
+  "entite_333": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      58855,
+      58861
+    ]
+  },
+  "entite_334": {
+    "label": "MISC",
+    "text": "Dépité",
+    "jalons": [
+      59229,
+      59235
+    ]
+  },
+  "entite_335": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      59262,
+      59268
+    ]
+  },
+  "entite_336": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      59288,
+      59294
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      59695,
+      59701
+    ]
+  },
+  "entite_338": {
+    "label": "ORG",
+    "text": "manola",
+    "jalons": [
+      59936,
+      59942
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "fontaine de Lavapiès",
+    "jalons": [
+      60024,
+      60044
+    ]
+  },
+  "entite_340": {
+    "label": "LOC",
+    "text": "Prado",
+    "jalons": [
+      60067,
+      60072
+    ]
+  },
+  "entite_341": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      60098,
+      60104
+    ]
+  },
+  "entite_342": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      60368,
+      60374
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "rue del Povar",
+    "jalons": [
+      60483,
+      60496
+    ]
+  },
+  "entite_344": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      60858,
+      60865
+    ]
+  },
+  "entite_345": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      60900,
+      60906
+    ]
+  },
+  "entite_346": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      60933,
+      60940
+    ]
+  },
+  "entite_347": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      60943,
+      60951
+    ]
+  },
+  "entite_348": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      61045,
+      61052
+    ]
+  },
+  "entite_349": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      61354,
+      61360
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "obélisque du Deux-Mai",
+    "jalons": [
+      61402,
+      61423
+    ]
+  },
+  "entite_351": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      61428,
+      61434
+    ]
+  },
+  "entite_352": {
+    "label": "PER",
+    "text": "Doña Feliciana",
+    "jalons": [
+      61506,
+      61520
+    ]
+  },
+  "entite_353": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      61748,
+      61754
+    ]
+  },
+  "entite_354": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      61949,
+      61955
+    ]
+  },
+  "entite_355": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      62140,
+      62146
+    ]
+  },
+  "entite_356": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      62706,
+      62712
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Reviens",
+    "jalons": [
+      62804,
+      62811
+    ]
+  },
+  "entite_358": {
+    "label": "LOC",
+    "text": "le havane",
+    "jalons": [
+      62926,
+      62935
+    ]
+  },
+  "entite_359": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      62984,
+      62990
+    ]
+  },
+  "entite_360": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      63026,
+      63035
+    ]
+  },
+  "entite_361": {
+    "label": "MISC",
+    "text": "Mon Dieu",
+    "jalons": [
+      63122,
+      63130
+    ]
+  },
+  "entite_362": {
+    "label": "PER",
+    "text": "Bellini",
+    "jalons": [
+      63177,
+      63184
+    ]
+  },
+  "entite_363": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      63229,
+      63241
+    ]
+  },
+  "entite_364": {
+    "label": "PER",
+    "text": "Rosa",
+    "jalons": [
+      63521,
+      63525
+    ]
+  },
+  "entite_365": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      64004,
+      64013
+    ]
+  },
+  "entite_366": {
+    "label": "MISC",
+    "text": "Sarah",
+    "jalons": [
+      64111,
+      64116
+    ]
+  },
+  "entite_367": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      64163,
+      64169
+    ]
+  },
+  "entite_368": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      64399,
+      64407
+    ]
+  },
+  "entite_369": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      64464,
+      64470
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      64473,
+      64481
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      64555,
+      64561
+    ]
+  },
+  "entite_372": {
+    "label": "LOC",
+    "text": "S",
+    "jalons": [
+      65075,
+      65076
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "Espagnols",
+    "jalons": [
+      65851,
+      65860
+    ]
+  },
+  "entite_374": {
+    "label": "MISC",
+    "text": "Arabes",
+    "jalons": [
+      65872,
+      65878
+    ]
+  },
+  "entite_375": {
+    "label": "LOC",
+    "text": "chambre de Militona",
+    "jalons": [
+      66276,
+      66295
+    ]
+  },
+  "entite_376": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      66641,
+      66649
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      66819,
+      66826
+    ]
+  },
+  "entite_378": {
+    "label": "PER",
+    "text": "saint Joseph",
+    "jalons": [
+      66903,
+      66915
+    ]
+  },
+  "entite_379": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      67106,
+      67112
+    ]
+  },
+  "entite_380": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      67262,
+      67270
+    ]
+  },
+  "entite_381": {
+    "label": "PER",
+    "text": "saint Antoine",
+    "jalons": [
+      67666,
+      67679
+    ]
+  },
+  "entite_382": {
+    "label": "PER",
+    "text": "Notre-Dame",
+    "jalons": [
+      67958,
+      67968
+    ]
+  },
+  "entite_383": {
+    "label": "LOC",
+    "text": "Deux-Mai",
+    "jalons": [
+      68064,
+      68072
+    ]
+  },
+  "entite_384": {
+    "label": "PER",
+    "text": "Daoiz",
+    "jalons": [
+      68091,
+      68096
+    ]
+  },
+  "entite_385": {
+    "label": "PER",
+    "text": "Velarde",
+    "jalons": [
+      68100,
+      68107
+    ]
+  },
+  "entite_386": {
+    "label": "PER",
+    "text": "Goya",
+    "jalons": [
+      68137,
+      68141
+    ]
+  },
+  "entite_387": {
+    "label": "MISC",
+    "text": "Pâques",
+    "jalons": [
+      68432,
+      68438
+    ]
+  },
+  "entite_388": {
+    "label": "LOC",
+    "text": "Telle",
+    "jalons": [
+      68450,
+      68455
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "chambre de Militona",
+    "jalons": [
+      68465,
+      68484
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Angleterre",
+    "jalons": [
+      68983,
+      68993
+    ]
+  },
+  "entite_391": {
+    "label": "LOC",
+    "text": "Espagne",
+    "jalons": [
+      69039,
+      69046
+    ]
+  },
+  "entite_392": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      69359,
+      69367
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      69670,
+      69677
+    ]
+  },
+  "entite_394": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      69872,
+      69879
+    ]
+  },
+  "entite_395": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      70008,
+      70015
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "Luca",
+    "jalons": [
+      70286,
+      70290
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "San-Isidro",
+    "jalons": [
+      70340,
+      70350
+    ]
+  },
+  "entite_398": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      70369,
+      70376
+    ]
+  },
+  "entite_399": {
+    "label": "MISC",
+    "text": "Un coup sec",
+    "jalons": [
+      70754,
+      70765
+    ]
+  },
+  "entite_400": {
+    "label": "PER",
+    "text": "judas grillé",
+    "jalons": [
+      70907,
+      70919
+    ]
+  },
+  "entite_401": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      71039,
+      71046
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      71120,
+      71127
+    ]
+  },
+  "entite_403": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      71152,
+      71159
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      71722,
+      71730
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      71949,
+      71957
+    ]
+  },
+  "entite_406": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      72167,
+      72174
+    ]
+  },
+  "entite_407": {
+    "label": "PER",
+    "text": "Non",
+    "jalons": [
+      72233,
+      72236
+    ]
+  },
+  "entite_408": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      72293,
+      72301
+    ]
+  },
+  "entite_409": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      72440,
+      72447
+    ]
+  },
+  "entite_410": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      72516,
+      72524
+    ]
+  },
+  "entite_411": {
+    "label": "LOC",
+    "text": "frac",
+    "jalons": [
+      72862,
+      72866
+    ]
+  },
+  "entite_412": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      72871,
+      72878
+    ]
+  },
+  "entite_413": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      73119,
+      73121
+    ]
+  },
+  "entite_414": {
+    "label": "LOC",
+    "text": "jardin de Las Delicias",
+    "jalons": [
+      73347,
+      73369
+    ]
+  },
+  "entite_415": {
+    "label": "PER",
+    "text": "Ai-je",
+    "jalons": [
+      73410,
+      73415
+    ]
+  },
+  "entite_416": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      73444,
+      73451
+    ]
+  },
+  "entite_417": {
+    "label": "PER",
+    "text": "Non",
+    "jalons": [
+      73530,
+      73533
+    ]
+  },
+  "entite_418": {
+    "label": "PER",
+    "text": "Faudra",
+    "jalons": [
+      73774,
+      73780
+    ]
+  },
+  "entite_419": {
+    "label": "PER",
+    "text": "Ferez",
+    "jalons": [
+      73891,
+      73896
+    ]
+  },
+  "entite_420": {
+    "label": "PER",
+    "text": "Luca",
+    "jalons": [
+      73968,
+      73972
+    ]
+  },
+  "entite_421": {
+    "label": "PER",
+    "text": "Ginès",
+    "jalons": [
+      74045,
+      74050
+    ]
+  },
+  "entite_422": {
+    "label": "MISC",
+    "text": "croyez",
+    "jalons": [
+      74102,
+      74108
+    ]
+  },
+  "entite_423": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      74357,
+      74365
+    ]
+  },
+  "entite_424": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      75020,
+      75027
+    ]
+  },
+  "entite_425": {
+    "label": "ORG",
+    "text": "Retournons maintenant",
+    "jalons": [
+      75287,
+      75308
+    ]
+  },
+  "entite_426": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      75318,
+      75324
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "Bellini",
+    "jalons": [
+      75397,
+      75404
+    ]
+  },
+  "entite_428": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      75448,
+      75457
+    ]
+  },
+  "entite_429": {
+    "label": "ORG",
+    "text": "manola",
+    "jalons": [
+      75628,
+      75634
+    ]
+  },
+  "entite_430": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      75898,
+      75906
+    ]
+  },
+  "entite_431": {
+    "label": "LOC",
+    "text": "rue d'",
+    "jalons": [
+      75932,
+      75938
+    ]
+  },
+  "entite_432": {
+    "label": "LOC",
+    "text": "Alcala",
+    "jalons": [
+      75938,
+      75944
+    ]
+  },
+  "entite_433": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      76026,
+      76032
+    ]
+  },
+  "entite_434": {
+    "label": "LOC",
+    "text": "douro promis",
+    "jalons": [
+      76149,
+      76161
+    ]
+  },
+  "entite_435": {
+    "label": "PER",
+    "text": "Cavalier",
+    "jalons": [
+      76166,
+      76174
+    ]
+  },
+  "entite_436": {
+    "label": "LOC",
+    "text": "rue del Povar",
+    "jalons": [
+      76211,
+      76224
+    ]
+  },
+  "entite_437": {
+    "label": "MISC",
+    "text": "IV",
+    "jalons": [
+      76333,
+      76335
+    ]
+  },
+  "entite_438": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      76406,
+      76412
+    ]
+  },
+  "entite_439": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      76460,
+      76468
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      76826,
+      76831
+    ]
+  },
+  "entite_441": {
+    "label": "LOC",
+    "text": "Taureaux",
+    "jalons": [
+      77234,
+      77242
+    ]
+  },
+  "entite_442": {
+    "label": "ORG",
+    "text": "Rastro",
+    "jalons": [
+      77254,
+      77260
+    ]
+  },
+  "entite_443": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      77509,
+      77515
+    ]
+  },
+  "entite_444": {
+    "label": "LOC",
+    "text": "avala",
+    "jalons": [
+      77525,
+      77530
+    ]
+  },
+  "entite_445": {
+    "label": "LOC",
+    "text": "Rastro",
+    "jalons": [
+      77594,
+      77600
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "Temple de Madrid",
+    "jalons": [
+      77619,
+      77635
+    ]
+  },
+  "entite_447": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      78426,
+      78432
+    ]
+  },
+  "entite_448": {
+    "label": "LOC",
+    "text": "Rastro",
+    "jalons": [
+      78443,
+      78449
+    ]
+  },
+  "entite_449": {
+    "label": "LOC",
+    "text": "Rastro",
+    "jalons": [
+      78490,
+      78496
+    ]
+  },
+  "entite_450": {
+    "label": "LOC",
+    "text": "Figurez",
+    "jalons": [
+      78498,
+      78505
+    ]
+  },
+  "entite_451": {
+    "label": "PER",
+    "text": "picador",
+    "jalons": [
+      79317,
+      79324
+    ]
+  },
+  "entite_452": {
+    "label": "PER",
+    "text": "Rabelais",
+    "jalons": [
+      79465,
+      79473
+    ]
+  },
+  "entite_453": {
+    "label": "PER",
+    "text": "Balzac",
+    "jalons": [
+      79477,
+      79483
+    ]
+  },
+  "entite_454": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      79807,
+      79813
+    ]
+  },
+  "entite_455": {
+    "label": "MISC",
+    "text": "red San-Luis",
+    "jalons": [
+      79964,
+      79976
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "rue del Barquillo",
+    "jalons": [
+      79981,
+      79998
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "place Santa-Ana",
+    "jalons": [
+      80005,
+      80020
+    ]
+  },
+  "entite_458": {
+    "label": "LOC",
+    "text": "d'Espagne",
+    "jalons": [
+      80148,
+      80157
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      80373,
+      80379
+    ]
+  },
+  "entite_460": {
+    "label": "LOC",
+    "text": "Venise",
+    "jalons": [
+      80424,
+      80430
+    ]
+  },
+  "entite_461": {
+    "label": "PER",
+    "text": "Lavapiès",
+    "jalons": [
+      80621,
+      80629
+    ]
+  },
+  "entite_462": {
+    "label": "LOC",
+    "text": "rue del Povar",
+    "jalons": [
+      80845,
+      80858
+    ]
+  },
+  "entite_463": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      80943,
+      80949
+    ]
+  },
+  "entite_464": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      81320,
+      81326
+    ]
+  },
+  "entite_465": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      81354,
+      81362
+    ]
+  },
+  "entite_466": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      81622,
+      81629
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      81655,
+      81662
+    ]
+  },
+  "entite_468": {
+    "label": "LOC",
+    "text": "Cirque",
+    "jalons": [
+      81776,
+      81782
+    ]
+  },
+  "entite_469": {
+    "label": "LOC",
+    "text": "Pourvu",
+    "jalons": [
+      81912,
+      81918
+    ]
+  },
+  "entite_470": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      82008,
+      82015
+    ]
+  },
+  "entite_471": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      82219,
+      82226
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      82246,
+      82253
+    ]
+  },
+  "entite_473": {
+    "label": "LOC",
+    "text": "Séville",
+    "jalons": [
+      82256,
+      82263
+    ]
+  },
+  "entite_474": {
+    "label": "LOC",
+    "text": "Séville",
+    "jalons": [
+      82268,
+      82275
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      82278,
+      82284
+    ]
+  },
+  "entite_476": {
+    "label": "LOC",
+    "text": "Ronda",
+    "jalons": [
+      83048,
+      83053
+    ]
+  },
+  "entite_477": {
+    "label": "MISC",
+    "text": "Gibraltar !",
+    "jalons": [
+      83155,
+      83166
+    ]
+  },
+  "entite_478": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      83179,
+      83187
+    ]
+  },
+  "entite_479": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      83268,
+      83274
+    ]
+  },
+  "entite_480": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      83356,
+      83363
+    ]
+  },
+  "entite_481": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      83454,
+      83462
+    ]
+  },
+  "entite_482": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      83478,
+      83485
+    ]
+  },
+  "entite_483": {
+    "label": "MISC",
+    "text": "Cirque",
+    "jalons": [
+      83609,
+      83615
+    ]
+  },
+  "entite_484": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      83806,
+      83813
+    ]
+  },
+  "entite_485": {
+    "label": "LOC",
+    "text": "Taureaux",
+    "jalons": [
+      84019,
+      84027
+    ]
+  },
+  "entite_486": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      84179,
+      84186
+    ]
+  },
+  "entite_487": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      84578,
+      84586
+    ]
+  },
+  "entite_488": {
+    "label": "LOC",
+    "text": "Notre-Dame",
+    "jalons": [
+      84826,
+      84836
+    ]
+  },
+  "entite_489": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      84897,
+      84903
+    ]
+  },
+  "entite_490": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      84905,
+      84913
+    ]
+  },
+  "entite_491": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      85003,
+      85010
+    ]
+  },
+  "entite_492": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      85184,
+      85192
+    ]
+  },
+  "entite_493": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      85319,
+      85327
+    ]
+  },
+  "entite_494": {
+    "label": "LOC",
+    "text": "l'Espagne",
+    "jalons": [
+      85535,
+      85544
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "Montès",
+    "jalons": [
+      85872,
+      85878
+    ]
+  },
+  "entite_496": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      86631,
+      86639
+    ]
+  },
+  "entite_497": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      86783,
+      86789
+    ]
+  },
+  "entite_498": {
+    "label": "PER",
+    "text": "Circo",
+    "jalons": [
+      86867,
+      86872
+    ]
+  },
+  "entite_499": {
+    "label": "PER",
+    "text": "del Principe",
+    "jalons": [
+      86876,
+      86888
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "Mayor",
+    "jalons": [
+      87215,
+      87220
+    ]
+  },
+  "entite_501": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      87247,
+      87253
+    ]
+  },
+  "entite_502": {
+    "label": "LOC",
+    "text": "Rastro",
+    "jalons": [
+      87278,
+      87284
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      87401,
+      87410
+    ]
+  },
+  "entite_504": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      87422,
+      87428
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "Benavidès",
+    "jalons": [
+      87667,
+      87676
+    ]
+  },
+  "entite_506": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      87919,
+      87928
+    ]
+  },
+  "entite_507": {
+    "label": "LOC",
+    "text": "Ronconi",
+    "jalons": [
+      88008,
+      88015
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "théâtre del Circo",
+    "jalons": [
+      88019,
+      88036
+    ]
+  },
+  "entite_509": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      88138,
+      88145
+    ]
+  },
+  "entite_510": {
+    "label": "LOC",
+    "text": "Prado",
+    "jalons": [
+      88265,
+      88270
+    ]
+  },
+  "entite_511": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      88694,
+      88702
+    ]
+  },
+  "entite_512": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      88752,
+      88758
+    ]
+  },
+  "entite_513": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      89037,
+      89043
+    ]
+  },
+  "entite_514": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      89070,
+      89077
+    ]
+  },
+  "entite_515": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      89237,
+      89245
+    ]
+  },
+  "entite_516": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      89592,
+      89599
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      89609,
+      89615
+    ]
+  },
+  "entite_518": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      90011,
+      90019
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      90041,
+      90047
+    ]
+  },
+  "entite_520": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      90223,
+      90231
+    ]
+  },
+  "entite_521": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      90367,
+      90373
+    ]
+  },
+  "entite_522": {
+    "label": "LOC",
+    "text": "manola",
+    "jalons": [
+      90437,
+      90443
+    ]
+  },
+  "entite_523": {
+    "label": "LOC",
+    "text": "Perico",
+    "jalons": [
+      90446,
+      90452
+    ]
+  },
+  "entite_524": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      90701,
+      90709
+    ]
+  },
+  "entite_525": {
+    "label": "LOC",
+    "text": "Pourvu",
+    "jalons": [
+      90832,
+      90838
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      90865,
+      90871
+    ]
+  },
+  "entite_527": {
+    "label": "LOC",
+    "text": "Valencien",
+    "jalons": [
+      90929,
+      90938
+    ]
+  },
+  "entite_528": {
+    "label": "LOC",
+    "text": "Cirque",
+    "jalons": [
+      91194,
+      91200
+    ]
+  },
+  "entite_529": {
+    "label": "PER",
+    "text": "Éteignez",
+    "jalons": [
+      91355,
+      91363
+    ]
+  },
+  "entite_530": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      91493,
+      91501
+    ]
+  },
+  "entite_531": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      91613,
+      91619
+    ]
+  },
+  "entite_532": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      91732,
+      91740
+    ]
+  },
+  "entite_533": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      91743,
+      91749
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "Éloignez",
+    "jalons": [
+      91977,
+      91985
+    ]
+  },
+  "entite_535": {
+    "label": "LOC",
+    "text": "San-Isidro",
+    "jalons": [
+      92088,
+      92098
+    ]
+  },
+  "entite_536": {
+    "label": "PER",
+    "text": "Merci",
+    "jalons": [
+      92152,
+      92157
+    ]
+  },
+  "entite_537": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      92176,
+      92182
+    ]
+  },
+  "entite_538": {
+    "label": "LOC",
+    "text": "sereno",
+    "jalons": [
+      92218,
+      92224
+    ]
+  },
+  "entite_539": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      92301,
+      92307
+    ]
+  },
+  "entite_540": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      92893,
+      92901
+    ]
+  },
+  "entite_541": {
+    "label": "LOC",
+    "text": "Colombe",
+    "jalons": [
+      93276,
+      93283
+    ]
+  },
+  "entite_542": {
+    "label": "PER",
+    "text": "Pinçant",
+    "jalons": [
+      93410,
+      93417
+    ]
+  },
+  "entite_543": {
+    "label": "LOC",
+    "text": "Faire",
+    "jalons": [
+      93446,
+      93451
+    ]
+  },
+  "entite_544": {
+    "label": "PER",
+    "text": "Ta lampe",
+    "jalons": [
+      93479,
+      93487
+    ]
+  },
+  "entite_545": {
+    "label": "PER",
+    "text": "jambon \nQui devant la chambre",
+    "jalons": [
+      93689,
+      93718
+    ]
+  },
+  "entite_546": {
+    "label": "MISC",
+    "text": "Braille",
+    "jalons": [
+      93734,
+      93741
+    ]
+  },
+  "entite_547": {
+    "label": "MISC",
+    "text": "Allons !",
+    "jalons": [
+      93805,
+      93813
+    ]
+  },
+  "entite_548": {
+    "label": "LOC",
+    "text": "Poltrons",
+    "jalons": [
+      94011,
+      94019
+    ]
+  },
+  "entite_549": {
+    "label": "LOC",
+    "text": "Sortez",
+    "jalons": [
+      94045,
+      94051
+    ]
+  },
+  "entite_550": {
+    "label": "ORG",
+    "text": "J'écrive des croix",
+    "jalons": [
+      94149,
+      94167
+    ]
+  },
+  "entite_551": {
+    "label": "MISC",
+    "text": "Qu'ils s'avancent !",
+    "jalons": [
+      94182,
+      94201
+    ]
+  },
+  "entite_552": {
+    "label": "ORG",
+    "text": "Corps du Christ !",
+    "jalons": [
+      94387,
+      94404
+    ]
+  },
+  "entite_553": {
+    "label": "PER",
+    "text": "Dis",
+    "jalons": [
+      94495,
+      94498
+    ]
+  },
+  "entite_554": {
+    "label": "PER",
+    "text": "Satan",
+    "jalons": [
+      94541,
+      94546
+    ]
+  },
+  "entite_555": {
+    "label": "MISC",
+    "text": "Fenêtre aveugle ! \n",
+    "jalons": [
+      94611,
+      94630
+    ]
+  },
+  "entite_556": {
+    "label": "MISC",
+    "text": "Des chiens excitant les abois !",
+    "jalons": [
+      94699,
+      94730
+    ]
+  },
+  "entite_557": {
+    "label": "PER",
+    "text": "Fou",
+    "jalons": [
+      94839,
+      94842
+    ]
+  },
+  "entite_558": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      94912,
+      94918
+    ]
+  },
+  "entite_559": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      94989,
+      94997
+    ]
+  },
+  "entite_560": {
+    "label": "PER",
+    "text": "Matamore",
+    "jalons": [
+      95103,
+      95111
+    ]
+  },
+  "entite_561": {
+    "label": "LOC",
+    "text": "Spavento",
+    "jalons": [
+      95117,
+      95125
+    ]
+  },
+  "entite_562": {
+    "label": "LOC",
+    "text": "Fracasse",
+    "jalons": [
+      95127,
+      95135
+    ]
+  },
+  "entite_563": {
+    "label": "LOC",
+    "text": "Tranchemontagne",
+    "jalons": [
+      95139,
+      95154
+    ]
+  },
+  "entite_564": {
+    "label": "PER",
+    "text": "Don Andrès",
+    "jalons": [
+      95256,
+      95266
+    ]
+  },
+  "entite_565": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      95399,
+      95406
+    ]
+  },
+  "entite_566": {
+    "label": "MISC",
+    "text": "Bon !",
+    "jalons": [
+      95411,
+      95416
+    ]
+  },
+  "entite_567": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      95435,
+      95441
+    ]
+  },
+  "entite_568": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      95473,
+      95480
+    ]
+  },
+  "entite_569": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      95569,
+      95575
+    ]
+  },
+  "entite_570": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      95959,
+      95965
+    ]
+  },
+  "entite_571": {
+    "label": "LOC",
+    "text": "Pas",
+    "jalons": [
+      96035,
+      96038
+    ]
+  },
+  "entite_572": {
+    "label": "MISC",
+    "text": "Eh bien !",
+    "jalons": [
+      96083,
+      96092
+    ]
+  },
+  "entite_573": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      96137,
+      96144
+    ]
+  },
+  "entite_574": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      96239,
+      96245
+    ]
+  },
+  "entite_575": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      96361,
+      96367
+    ]
+  },
+  "entite_576": {
+    "label": "LOC",
+    "text": "Séville",
+    "jalons": [
+      96430,
+      96437
+    ]
+  },
+  "entite_577": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      96460,
+      96465
+    ]
+  },
+  "entite_578": {
+    "label": "PER",
+    "text": "Lecour",
+    "jalons": [
+      96565,
+      96571
+    ]
+  },
+  "entite_579": {
+    "label": "PER",
+    "text": "Boucher",
+    "jalons": [
+      96575,
+      96582
+    ]
+  },
+  "entite_580": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      96585,
+      96592
+    ]
+  },
+  "entite_581": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      96990,
+      96996
+    ]
+  },
+  "entite_582": {
+    "label": "LOC",
+    "text": "Tantôt",
+    "jalons": [
+      97016,
+      97022
+    ]
+  },
+  "entite_583": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      97188,
+      97194
+    ]
+  },
+  "entite_584": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      97306,
+      97313
+    ]
+  },
+  "entite_585": {
+    "label": "LOC",
+    "text": "San-Lucar",
+    "jalons": [
+      97527,
+      97536
+    ]
+  },
+  "entite_586": {
+    "label": "LOC",
+    "text": "Potro de Cordoue",
+    "jalons": [
+      97541,
+      97557
+    ]
+  },
+  "entite_587": {
+    "label": "LOC",
+    "text": "Albaycin de Grenade",
+    "jalons": [
+      97564,
+      97583
+    ]
+  },
+  "entite_588": {
+    "label": "PER",
+    "text": "Triana",
+    "jalons": [
+      97600,
+      97606
+    ]
+  },
+  "entite_589": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      97926,
+      97933
+    ]
+  },
+  "entite_590": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      97969,
+      97975
+    ]
+  },
+  "entite_591": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      98131,
+      98137
+    ]
+  },
+  "entite_592": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      98268,
+      98275
+    ]
+  },
+  "entite_593": {
+    "label": "PER",
+    "text": "V \n",
+    "jalons": [
+      98422,
+      98425
+    ]
+  },
+  "entite_594": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      98425,
+      98432
+    ]
+  },
+  "entite_595": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      98496,
+      98502
+    ]
+  },
+  "entite_596": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      98789,
+      98797
+    ]
+  },
+  "entite_597": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      99179,
+      99185
+    ]
+  },
+  "entite_598": {
+    "label": "PER",
+    "text": "Heureusement Juancho",
+    "jalons": [
+      99255,
+      99275
+    ]
+  },
+  "entite_599": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      99394,
+      99400
+    ]
+  },
+  "entite_600": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      99488,
+      99494
+    ]
+  },
+  "entite_601": {
+    "label": "LOC",
+    "text": "sereno",
+    "jalons": [
+      99540,
+      99546
+    ]
+  },
+  "entite_602": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      99588,
+      99596
+    ]
+  },
+  "entite_603": {
+    "label": "PER",
+    "text": "Rembrandt",
+    "jalons": [
+      100152,
+      100161
+    ]
+  },
+  "entite_604": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      100489,
+      100497
+    ]
+  },
+  "entite_605": {
+    "label": "MISC",
+    "text": "Douleur",
+    "jalons": [
+      100529,
+      100536
+    ]
+  },
+  "entite_606": {
+    "label": "LOC",
+    "text": "sereno",
+    "jalons": [
+      100590,
+      100596
+    ]
+  },
+  "entite_607": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      100679,
+      100685
+    ]
+  },
+  "entite_608": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      100706,
+      100710
+    ]
+  },
+  "entite_609": {
+    "label": "LOC",
+    "text": "Montons",
+    "jalons": [
+      101128,
+      101135
+    ]
+  },
+  "entite_610": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      101153,
+      101161
+    ]
+  },
+  "entite_611": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      101375,
+      101383
+    ]
+  },
+  "entite_612": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      101650,
+      101658
+    ]
+  },
+  "entite_613": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      101748,
+      101754
+    ]
+  },
+  "entite_614": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      101914,
+      101922
+    ]
+  },
+  "entite_615": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      102147,
+      102155
+    ]
+  },
+  "entite_616": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      102285,
+      102292
+    ]
+  },
+  "entite_617": {
+    "label": "MISC",
+    "text": "violences du torero",
+    "jalons": [
+      102380,
+      102399
+    ]
+  },
+  "entite_618": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      102772,
+      102778
+    ]
+  },
+  "entite_619": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      102903,
+      102911
+    ]
+  },
+  "entite_620": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      102962,
+      102969
+    ]
+  },
+  "entite_621": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      103180,
+      103186
+    ]
+  },
+  "entite_622": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      103586,
+      103593
+    ]
+  },
+  "entite_623": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      103628,
+      103636
+    ]
+  },
+  "entite_624": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      103665,
+      103672
+    ]
+  },
+  "entite_625": {
+    "label": "LOC",
+    "text": "Pouvais",
+    "jalons": [
+      103869,
+      103876
+    ]
+  },
+  "entite_626": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      103921,
+      103929
+    ]
+  },
+  "entite_627": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      103983,
+      103990
+    ]
+  },
+  "entite_628": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      104071,
+      104075
+    ]
+  },
+  "entite_629": {
+    "label": "PER",
+    "text": "N'",
+    "jalons": [
+      104203,
+      104205
+    ]
+  },
+  "entite_630": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      104289,
+      104295
+    ]
+  },
+  "entite_631": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      104610,
+      104617
+    ]
+  },
+  "entite_632": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      104630,
+      104638
+    ]
+  },
+  "entite_633": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      104886,
+      104892
+    ]
+  },
+  "entite_634": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      104995,
+      105001
+    ]
+  },
+  "entite_635": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      105138,
+      105145
+    ]
+  },
+  "entite_636": {
+    "label": "LOC",
+    "text": "Notre-Dame de Séville",
+    "jalons": [
+      105229,
+      105250
+    ]
+  },
+  "entite_637": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      105299,
+      105306
+    ]
+  },
+  "entite_638": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      105399,
+      105407
+    ]
+  },
+  "entite_639": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      105757,
+      105763
+    ]
+  },
+  "entite_640": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      105798,
+      105806
+    ]
+  },
+  "entite_641": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      106101,
+      106107
+    ]
+  },
+  "entite_642": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      106261,
+      106270
+    ]
+  },
+  "entite_643": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      106355,
+      106364
+    ]
+  },
+  "entite_644": {
+    "label": "LOC",
+    "text": "Espagne",
+    "jalons": [
+      106465,
+      106472
+    ]
+  },
+  "entite_645": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      106594,
+      106603
+    ]
+  },
+  "entite_646": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      106638,
+      106644
+    ]
+  },
+  "entite_647": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      107007,
+      107013
+    ]
+  },
+  "entite_648": {
+    "label": "LOC",
+    "text": "Prado",
+    "jalons": [
+      107060,
+      107065
+    ]
+  },
+  "entite_649": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      107082,
+      107091
+    ]
+  },
+  "entite_650": {
+    "label": "LOC",
+    "text": "Prado",
+    "jalons": [
+      107161,
+      107166
+    ]
+  },
+  "entite_651": {
+    "label": "LOC",
+    "text": "Prado",
+    "jalons": [
+      107441,
+      107446
+    ]
+  },
+  "entite_652": {
+    "label": "LOC",
+    "text": "Récollets",
+    "jalons": [
+      107471,
+      107480
+    ]
+  },
+  "entite_653": {
+    "label": "LOC",
+    "text": "Atocha",
+    "jalons": [
+      107494,
+      107500
+    ]
+  },
+  "entite_654": {
+    "label": "LOC",
+    "text": "rue d'Alcala",
+    "jalons": [
+      107570,
+      107582
+    ]
+  },
+  "entite_655": {
+    "label": "LOC",
+    "text": "rue de San-Geronimo",
+    "jalons": [
+      107589,
+      107608
+    ]
+  },
+  "entite_656": {
+    "label": "LOC",
+    "text": "Salon",
+    "jalons": [
+      107635,
+      107640
+    ]
+  },
+  "entite_657": {
+    "label": "LOC",
+    "text": "boulevard de Gand",
+    "jalons": [
+      107875,
+      107892
+    ]
+  },
+  "entite_658": {
+    "label": "LOC",
+    "text": "place de la Concorde",
+    "jalons": [
+      107939,
+      107959
+    ]
+  },
+  "entite_659": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      108131,
+      108138
+    ]
+  },
+  "entite_660": {
+    "label": "LOC",
+    "text": "Bruxelles",
+    "jalons": [
+      108145,
+      108154
+    ]
+  },
+  "entite_661": {
+    "label": "LOC",
+    "text": "col arrondi",
+    "jalons": [
+      108450,
+      108461
+    ]
+  },
+  "entite_662": {
+    "label": "LOC",
+    "text": "Cordoue",
+    "jalons": [
+      108602,
+      108609
+    ]
+  },
+  "entite_663": {
+    "label": "PER",
+    "text": "Murillo",
+    "jalons": [
+      108757,
+      108764
+    ]
+  },
+  "entite_664": {
+    "label": "LOC",
+    "text": "Beaudrand",
+    "jalons": [
+      108833,
+      108842
+    ]
+  },
+  "entite_665": {
+    "label": "LOC",
+    "text": "Salon",
+    "jalons": [
+      108866,
+      108871
+    ]
+  },
+  "entite_666": {
+    "label": "LOC",
+    "text": "Prado",
+    "jalons": [
+      109223,
+      109228
+    ]
+  },
+  "entite_667": {
+    "label": "LOC",
+    "text": "Opéra",
+    "jalons": [
+      109461,
+      109466
+    ]
+  },
+  "entite_668": {
+    "label": "LOC",
+    "text": "Musée de peinture",
+    "jalons": [
+      109593,
+      109610
+    ]
+  },
+  "entite_669": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      109751,
+      109760
+    ]
+  },
+  "entite_670": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      109811,
+      109823
+    ]
+  },
+  "entite_671": {
+    "label": "PER",
+    "text": "Feliciana Vasquez de los Rios",
+    "jalons": [
+      110041,
+      110070
+    ]
+  },
+  "entite_672": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      110171,
+      110180
+    ]
+  },
+  "entite_673": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      110196,
+      110202
+    ]
+  },
+  "entite_674": {
+    "label": "LOC",
+    "text": "Salon",
+    "jalons": [
+      110278,
+      110283
+    ]
+  },
+  "entite_675": {
+    "label": "LOC",
+    "text": "Salon",
+    "jalons": [
+      110372,
+      110377
+    ]
+  },
+  "entite_676": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      110431,
+      110437
+    ]
+  },
+  "entite_677": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      110449,
+      110456
+    ]
+  },
+  "entite_678": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      110470,
+      110482
+    ]
+  },
+  "entite_679": {
+    "label": "LOC",
+    "text": "Grande-Bretagne",
+    "jalons": [
+      110571,
+      110586
+    ]
+  },
+  "entite_680": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      110733,
+      110742
+    ]
+  },
+  "entite_681": {
+    "label": "MISC",
+    "text": "le Vicaire",
+    "jalons": [
+      110775,
+      110785
+    ]
+  },
+  "entite_682": {
+    "label": "LOC",
+    "text": "Wakefield",
+    "jalons": [
+      110789,
+      110798
+    ]
+  },
+  "entite_683": {
+    "label": "LOC",
+    "text": "théâtre del Circo",
+    "jalons": [
+      110935,
+      110952
+    ]
+  },
+  "entite_684": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      111095,
+      111104
+    ]
+  },
+  "entite_685": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      111139,
+      111145
+    ]
+  },
+  "entite_686": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      111178,
+      111186
+    ]
+  },
+  "entite_687": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      111305,
+      111311
+    ]
+  },
+  "entite_688": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      111315,
+      111322
+    ]
+  },
+  "entite_689": {
+    "label": "LOC",
+    "text": "VI",
+    "jalons": [
+      111361,
+      111363
+    ]
+  },
+  "entite_690": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      111416,
+      111422
+    ]
+  },
+  "entite_691": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      111621,
+      111633
+    ]
+  },
+  "entite_692": {
+    "label": "LOC",
+    "text": "Prado",
+    "jalons": [
+      111958,
+      111963
+    ]
+  },
+  "entite_693": {
+    "label": "PER",
+    "text": "Don Geronimo",
+    "jalons": [
+      111966,
+      111978
+    ]
+  },
+  "entite_694": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      112034,
+      112040
+    ]
+  },
+  "entite_695": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      112155,
+      112161
+    ]
+  },
+  "entite_696": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      112276,
+      112282
+    ]
+  },
+  "entite_697": {
+    "label": "LOC",
+    "text": "Manzanares",
+    "jalons": [
+      112504,
+      112514
+    ]
+  },
+  "entite_698": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      112569,
+      112575
+    ]
+  },
+  "entite_699": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      112789,
+      112795
+    ]
+  },
+  "entite_700": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      112907,
+      112915
+    ]
+  },
+  "entite_701": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      113197,
+      113203
+    ]
+  },
+  "entite_702": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      113311,
+      113317
+    ]
+  },
+  "entite_703": {
+    "label": "LOC",
+    "text": "place de Lavapiès",
+    "jalons": [
+      113610,
+      113627
+    ]
+  },
+  "entite_704": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      113632,
+      113636
+    ]
+  },
+  "entite_705": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      113656,
+      113664
+    ]
+  },
+  "entite_706": {
+    "label": "PER",
+    "text": "Quels",
+    "jalons": [
+      113727,
+      113732
+    ]
+  },
+  "entite_707": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      113755,
+      113761
+    ]
+  },
+  "entite_708": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      113765,
+      113772
+    ]
+  },
+  "entite_709": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      113917,
+      113925
+    ]
+  },
+  "entite_710": {
+    "label": "PER",
+    "text": "Pourriez",
+    "jalons": [
+      113946,
+      113954
+    ]
+  },
+  "entite_711": {
+    "label": "LOC",
+    "text": "nègre",
+    "jalons": [
+      114039,
+      114044
+    ]
+  },
+  "entite_712": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      114205,
+      114209
+    ]
+  },
+  "entite_713": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      114313,
+      114322
+    ]
+  },
+  "entite_714": {
+    "label": "PER",
+    "text": "Vos",
+    "jalons": [
+      114327,
+      114330
+    ]
+  },
+  "entite_715": {
+    "label": "LOC",
+    "text": "d'Espagne",
+    "jalons": [
+      114642,
+      114651
+    ]
+  },
+  "entite_716": {
+    "label": "PER",
+    "text": "Don Geronimo",
+    "jalons": [
+      114791,
+      114803
+    ]
+  },
+  "entite_717": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      114865,
+      114871
+    ]
+  },
+  "entite_718": {
+    "label": "MISC",
+    "text": "Un gilet de piqué anglais jaune",
+    "jalons": [
+      114894,
+      114925
+    ]
+  },
+  "entite_719": {
+    "label": "LOC",
+    "text": "Blanc",
+    "jalons": [
+      115118,
+      115123
+    ]
+  },
+  "entite_720": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      115239,
+      115245
+    ]
+  },
+  "entite_721": {
+    "label": "MISC",
+    "text": "Le procès-verbal",
+    "jalons": [
+      115281,
+      115297
+    ]
+  },
+  "entite_722": {
+    "label": "PER",
+    "text": "M. de Salcedo",
+    "jalons": [
+      115633,
+      115646
+    ]
+  },
+  "entite_723": {
+    "label": "LOC",
+    "text": "sereno",
+    "jalons": [
+      115746,
+      115752
+    ]
+  },
+  "entite_724": {
+    "label": "PER",
+    "text": "menton rond",
+    "jalons": [
+      115769,
+      115780
+    ]
+  },
+  "entite_725": {
+    "label": "PER",
+    "text": "M.",
+    "jalons": [
+      115856,
+      115858
+    ]
+  },
+  "entite_726": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      115862,
+      115869
+    ]
+  },
+  "entite_727": {
+    "label": "LOC",
+    "text": "Pas",
+    "jalons": [
+      115889,
+      115892
+    ]
+  },
+  "entite_728": {
+    "label": "PER",
+    "text": "conviction don Geronimo",
+    "jalons": [
+      115926,
+      115949
+    ]
+  },
+  "entite_729": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      115985,
+      115991
+    ]
+  },
+  "entite_730": {
+    "label": "MISC",
+    "text": "Argus",
+    "jalons": [
+      116132,
+      116137
+    ]
+  },
+  "entite_731": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      116258,
+      116264
+    ]
+  },
+  "entite_732": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      116378,
+      116389
+    ]
+  },
+  "entite_733": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      116393,
+      116403
+    ]
+  },
+  "entite_734": {
+    "label": "PER",
+    "text": "Don Geronimo remercia",
+    "jalons": [
+      116471,
+      116492
+    ]
+  },
+  "entite_735": {
+    "label": "LOC",
+    "text": "rue del Povar",
+    "jalons": [
+      116682,
+      116695
+    ]
+  },
+  "entite_736": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      116718,
+      116727
+    ]
+  },
+  "entite_737": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      117152,
+      117161
+    ]
+  },
+  "entite_738": {
+    "label": "PER",
+    "text": "Don Geronimo",
+    "jalons": [
+      117163,
+      117175
+    ]
+  },
+  "entite_739": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      117282,
+      117292
+    ]
+  },
+  "entite_740": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      117298,
+      117309
+    ]
+  },
+  "entite_741": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      117370,
+      117376
+    ]
+  },
+  "entite_742": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      117474,
+      117480
+    ]
+  },
+  "entite_743": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      117588,
+      117597
+    ]
+  },
+  "entite_744": {
+    "label": "LOC",
+    "text": "los Rios",
+    "jalons": [
+      117609,
+      117617
+    ]
+  },
+  "entite_745": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      117810,
+      117816
+    ]
+  },
+  "entite_746": {
+    "label": "LOC",
+    "text": "rue d'",
+    "jalons": [
+      117835,
+      117841
+    ]
+  },
+  "entite_747": {
+    "label": "LOC",
+    "text": "Alcala",
+    "jalons": [
+      117841,
+      117847
+    ]
+  },
+  "entite_748": {
+    "label": "LOC",
+    "text": "Peligros",
+    "jalons": [
+      117874,
+      117882
+    ]
+  },
+  "entite_749": {
+    "label": "LOC",
+    "text": "Peligros",
+    "jalons": [
+      118021,
+      118029
+    ]
+  },
+  "entite_750": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      118060,
+      118066
+    ]
+  },
+  "entite_751": {
+    "label": "LOC",
+    "text": "rue de la Cruz",
+    "jalons": [
+      118228,
+      118242
+    ]
+  },
+  "entite_752": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      118428,
+      118434
+    ]
+  },
+  "entite_753": {
+    "label": "PER",
+    "text": "Manzanilla",
+    "jalons": [
+      118503,
+      118513
+    ]
+  },
+  "entite_754": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      118643,
+      118649
+    ]
+  },
+  "entite_755": {
+    "label": "LOC",
+    "text": "Rastro",
+    "jalons": [
+      118672,
+      118678
+    ]
+  },
+  "entite_756": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      118943,
+      118949
+    ]
+  },
+  "entite_757": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      119047,
+      119053
+    ]
+  },
+  "entite_758": {
+    "label": "LOC",
+    "text": "Rastro",
+    "jalons": [
+      119240,
+      119246
+    ]
+  },
+  "entite_759": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      119361,
+      119367
+    ]
+  },
+  "entite_760": {
+    "label": "PER",
+    "text": "Don Geronimo",
+    "jalons": [
+      119837,
+      119849
+    ]
+  },
+  "entite_761": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      120067,
+      120076
+    ]
+  },
+  "entite_762": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      120367,
+      120373
+    ]
+  },
+  "entite_763": {
+    "label": "PER",
+    "text": "M. Salcedo",
+    "jalons": [
+      120472,
+      120482
+    ]
+  },
+  "entite_764": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      120686,
+      120692
+    ]
+  },
+  "entite_765": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      120808,
+      120813
+    ]
+  },
+  "entite_766": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      120917,
+      120928
+    ]
+  },
+  "entite_767": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      120932,
+      120942
+    ]
+  },
+  "entite_768": {
+    "label": "MISC",
+    "text": "O tempora !",
+    "jalons": [
+      121112,
+      121123
+    ]
+  },
+  "entite_769": {
+    "label": "MISC",
+    "text": "O mores !",
+    "jalons": [
+      121139,
+      121148
+    ]
+  },
+  "entite_770": {
+    "label": "MISC",
+    "text": "Qu'on ne s'étonne pas d'entendre deux alguazils parler latin",
+    "jalons": [
+      121150,
+      121210
+    ]
+  },
+  "entite_771": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      121213,
+      121224
+    ]
+  },
+  "entite_772": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      121255,
+      121265
+    ]
+  },
+  "entite_773": {
+    "label": "PER",
+    "text": "Renvoyer",
+    "jalons": [
+      121332,
+      121340
+    ]
+  },
+  "entite_774": {
+    "label": "PER",
+    "text": "Andrès de Salcedo",
+    "jalons": [
+      121980,
+      121997
+    ]
+  },
+  "entite_775": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      122259,
+      122270
+    ]
+  },
+  "entite_776": {
+    "label": "LOC",
+    "text": "Covachuelo",
+    "jalons": [
+      122277,
+      122287
+    ]
+  },
+  "entite_777": {
+    "label": "LOC",
+    "text": "Covachuelo",
+    "jalons": [
+      122290,
+      122300
+    ]
+  },
+  "entite_778": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      122544,
+      122551
+    ]
+  },
+  "entite_779": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      122677,
+      122688
+    ]
+  },
+  "entite_780": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      123071,
+      123082
+    ]
+  },
+  "entite_781": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      123184,
+      123194
+    ]
+  },
+  "entite_782": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      123223,
+      123229
+    ]
+  },
+  "entite_783": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      123493,
+      123504
+    ]
+  },
+  "entite_784": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      123516,
+      123526
+    ]
+  },
+  "entite_785": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      123707,
+      123711
+    ]
+  },
+  "entite_786": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      124121,
+      124128
+    ]
+  },
+  "entite_787": {
+    "label": "MISC",
+    "text": "le muchacho",
+    "jalons": [
+      124190,
+      124201
+    ]
+  },
+  "entite_788": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      124404,
+      124415
+    ]
+  },
+  "entite_789": {
+    "label": "LOC",
+    "text": "Calle-Mayor",
+    "jalons": [
+      124453,
+      124464
+    ]
+  },
+  "entite_790": {
+    "label": "LOC",
+    "text": "Rastro",
+    "jalons": [
+      124503,
+      124509
+    ]
+  },
+  "entite_791": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      124592,
+      124603
+    ]
+  },
+  "entite_792": {
+    "label": "LOC",
+    "text": "Calle-Mayor",
+    "jalons": [
+      124944,
+      124955
+    ]
+  },
+  "entite_793": {
+    "label": "LOC",
+    "text": "Covachuelo",
+    "jalons": [
+      124958,
+      124968
+    ]
+  },
+  "entite_794": {
+    "label": "LOC",
+    "text": "Rastro",
+    "jalons": [
+      124991,
+      124997
+    ]
+  },
+  "entite_795": {
+    "label": "PER",
+    "text": "Andrès de Salcedo",
+    "jalons": [
+      125160,
+      125177
+    ]
+  },
+  "entite_796": {
+    "label": "LOC",
+    "text": "Argamasilla",
+    "jalons": [
+      125647,
+      125658
+    ]
+  },
+  "entite_797": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      125662,
+      125672
+    ]
+  },
+  "entite_798": {
+    "label": "MISC",
+    "text": "Espartero",
+    "jalons": [
+      126125,
+      126134
+    ]
+  },
+  "entite_799": {
+    "label": "PER",
+    "text": "comte de Montemolin",
+    "jalons": [
+      126141,
+      126160
+    ]
+  },
+  "entite_800": {
+    "label": "LOC",
+    "text": "Aragon",
+    "jalons": [
+      126258,
+      126264
+    ]
+  },
+  "entite_801": {
+    "label": "LOC",
+    "text": "Catalogne",
+    "jalons": [
+      126271,
+      126280
+    ]
+  },
+  "entite_802": {
+    "label": "LOC",
+    "text": "L'Espagne",
+    "jalons": [
+      126360,
+      126369
+    ]
+  },
+  "entite_803": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      126486,
+      126497
+    ]
+  },
+  "entite_804": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      126501,
+      126511
+    ]
+  },
+  "entite_805": {
+    "label": "LOC",
+    "text": "Avez",
+    "jalons": [
+      126788,
+      126792
+    ]
+  },
+  "entite_806": {
+    "label": "MISC",
+    "text": "Le majo",
+    "jalons": [
+      126913,
+      126920
+    ]
+  },
+  "entite_807": {
+    "label": "LOC",
+    "text": "théâtre del Circo",
+    "jalons": [
+      127007,
+      127024
+    ]
+  },
+  "entite_808": {
+    "label": "LOC",
+    "text": "Bourse",
+    "jalons": [
+      127060,
+      127066
+    ]
+  },
+  "entite_809": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      127077,
+      127088
+    ]
+  },
+  "entite_810": {
+    "label": "LOC",
+    "text": "place de Lavapiès",
+    "jalons": [
+      127158,
+      127175
+    ]
+  },
+  "entite_811": {
+    "label": "LOC",
+    "text": "Covachuelo",
+    "jalons": [
+      127329,
+      127339
+    ]
+  },
+  "entite_812": {
+    "label": "LOC",
+    "text": "Argus",
+    "jalons": [
+      127784,
+      127789
+    ]
+  },
+  "entite_813": {
+    "label": "MISC",
+    "text": "Lilla Burello",
+    "jalons": [
+      127916,
+      127929
+    ]
+  },
+  "entite_814": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      128035,
+      128046
+    ]
+  },
+  "entite_815": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      128050,
+      128060
+    ]
+  },
+  "entite_816": {
+    "label": "MISC",
+    "text": "Nous l'ignorons",
+    "jalons": [
+      128246,
+      128261
+    ]
+  },
+  "entite_817": {
+    "label": "PER",
+    "text": "Diable",
+    "jalons": [
+      128468,
+      128474
+    ]
+  },
+  "entite_818": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      128512,
+      128516
+    ]
+  },
+  "entite_819": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      128592,
+      128600
+    ]
+  },
+  "entite_820": {
+    "label": "PER",
+    "text": "Geronimo Vasquez",
+    "jalons": [
+      128718,
+      128734
+    ]
+  },
+  "entite_821": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      128894,
+      128900
+    ]
+  },
+  "entite_822": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      128904,
+      128911
+    ]
+  },
+  "entite_823": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      129015,
+      129021
+    ]
+  },
+  "entite_824": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      129041,
+      129053
+    ]
+  },
+  "entite_825": {
+    "label": "PER",
+    "text": "Lui",
+    "jalons": [
+      129065,
+      129068
+    ]
+  },
+  "entite_826": {
+    "label": "MISC",
+    "text": "Un garçon si doux",
+    "jalons": [
+      129123,
+      129140
+    ]
+  },
+  "entite_827": {
+    "label": "PER",
+    "text": "Brutus",
+    "jalons": [
+      129213,
+      129219
+    ]
+  },
+  "entite_828": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      129550,
+      129556
+    ]
+  },
+  "entite_829": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      130018,
+      130027
+    ]
+  },
+  "entite_830": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      130214,
+      130220
+    ]
+  },
+  "entite_831": {
+    "label": "PER",
+    "text": "Bellini",
+    "jalons": [
+      130340,
+      130347
+    ]
+  },
+  "entite_832": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      130475,
+      130481
+    ]
+  },
+  "entite_833": {
+    "label": "PER",
+    "text": "Sevilla",
+    "jalons": [
+      130590,
+      130597
+    ]
+  },
+  "entite_834": {
+    "label": "LOC",
+    "text": "Rodriguez",
+    "jalons": [
+      130600,
+      130609
+    ]
+  },
+  "entite_835": {
+    "label": "LOC",
+    "text": "Chiclanero",
+    "jalons": [
+      130614,
+      130624
+    ]
+  },
+  "entite_836": {
+    "label": "LOC",
+    "text": "Arjona",
+    "jalons": [
+      130627,
+      130633
+    ]
+  },
+  "entite_837": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      130812,
+      130820
+    ]
+  },
+  "entite_838": {
+    "label": "LOC",
+    "text": "Rastro",
+    "jalons": [
+      130866,
+      130872
+    ]
+  },
+  "entite_839": {
+    "label": "PER",
+    "text": "Veste",
+    "jalons": [
+      130942,
+      130947
+    ]
+  },
+  "entite_840": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      131073,
+      131084
+    ]
+  },
+  "entite_841": {
+    "label": "LOC",
+    "text": "Covachuelo",
+    "jalons": [
+      131091,
+      131101
+    ]
+  },
+  "entite_842": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      131151,
+      131157
+    ]
+  },
+  "entite_843": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      131422,
+      131432
+    ]
+  },
+  "entite_844": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      131488,
+      131499
+    ]
+  },
+  "entite_845": {
+    "label": "LOC",
+    "text": "Pauvres",
+    "jalons": [
+      131572,
+      131579
+    ]
+  },
+  "entite_846": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      131729,
+      131736
+    ]
+  },
+  "entite_847": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      131799,
+      131805
+    ]
+  },
+  "entite_848": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      132173,
+      132180
+    ]
+  },
+  "entite_849": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      132266,
+      132274
+    ]
+  },
+  "entite_850": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      132689,
+      132696
+    ]
+  },
+  "entite_851": {
+    "label": "LOC",
+    "text": "Afrique",
+    "jalons": [
+      132867,
+      132874
+    ]
+  },
+  "entite_852": {
+    "label": "LOC",
+    "text": "Ceuta",
+    "jalons": [
+      132878,
+      132883
+    ]
+  },
+  "entite_853": {
+    "label": "MISC",
+    "text": "Melilla",
+    "jalons": [
+      132889,
+      132896
+    ]
+  },
+  "entite_854": {
+    "label": "MISC",
+    "text": "cheval de Cordoue",
+    "jalons": [
+      132955,
+      132972
+    ]
+  },
+  "entite_855": {
+    "label": "PER",
+    "text": "Caravanchel",
+    "jalons": [
+      133581,
+      133592
+    ]
+  },
+  "entite_856": {
+    "label": "LOC",
+    "text": "pont de Ségovie",
+    "jalons": [
+      133605,
+      133620
+    ]
+  },
+  "entite_857": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      133726,
+      133732
+    ]
+  },
+  "entite_858": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      133755,
+      133763
+    ]
+  },
+  "entite_859": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      133993,
+      134001
+    ]
+  },
+  "entite_860": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      134283,
+      134290
+    ]
+  },
+  "entite_861": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      134527,
+      134534
+    ]
+  },
+  "entite_862": {
+    "label": "LOC",
+    "text": "rue del Povar",
+    "jalons": [
+      134547,
+      134560
+    ]
+  },
+  "entite_863": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      134574,
+      134582
+    ]
+  },
+  "entite_864": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      134772,
+      134780
+    ]
+  },
+  "entite_865": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      134841,
+      134848
+    ]
+  },
+  "entite_866": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      134985,
+      134993
+    ]
+  },
+  "entite_867": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      135560,
+      135568
+    ]
+  },
+  "entite_868": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      135866,
+      135873
+    ]
+  },
+  "entite_869": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      136183,
+      136191
+    ]
+  },
+  "entite_870": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      136619,
+      136626
+    ]
+  },
+  "entite_871": {
+    "label": "PER",
+    "text": "Albacète",
+    "jalons": [
+      137510,
+      137518
+    ]
+  },
+  "entite_872": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      137688,
+      137695
+    ]
+  },
+  "entite_873": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      137903,
+      137911
+    ]
+  },
+  "entite_874": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      138052,
+      138056
+    ]
+  },
+  "entite_875": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      138529,
+      138535
+    ]
+  },
+  "entite_876": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      138575,
+      138583
+    ]
+  },
+  "entite_877": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      138681,
+      138688
+    ]
+  },
+  "entite_878": {
+    "label": "MISC",
+    "text": "Vengeance",
+    "jalons": [
+      139050,
+      139059
+    ]
+  },
+  "entite_879": {
+    "label": "MISC",
+    "text": "Justice",
+    "jalons": [
+      139082,
+      139089
+    ]
+  },
+  "entite_880": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      139115,
+      139122
+    ]
+  },
+  "entite_881": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      139202,
+      139209
+    ]
+  },
+  "entite_882": {
+    "label": "PER",
+    "text": "Méduse",
+    "jalons": [
+      139225,
+      139231
+    ]
+  },
+  "entite_883": {
+    "label": "LOC",
+    "text": "Notre-Dame d'Almudena",
+    "jalons": [
+      140020,
+      140041
+    ]
+  },
+  "entite_884": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      140213,
+      140219
+    ]
+  },
+  "entite_885": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      140447,
+      140454
+    ]
+  },
+  "entite_886": {
+    "label": "LOC",
+    "text": "ais",
+    "jalons": [
+      140496,
+      140499
+    ]
+  },
+  "entite_887": {
+    "label": "LOC",
+    "text": "serrure",
+    "jalons": [
+      140571,
+      140578
+    ]
+  },
+  "entite_888": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      140581,
+      140589
+    ]
+  },
+  "entite_889": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      140608,
+      140614
+    ]
+  },
+  "entite_890": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      140682,
+      140689
+    ]
+  },
+  "entite_891": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      140714,
+      140721
+    ]
+  },
+  "entite_892": {
+    "label": "LOC",
+    "text": "Gaviria",
+    "jalons": [
+      140939,
+      140946
+    ]
+  },
+  "entite_893": {
+    "label": "LOC",
+    "text": "Colmenar",
+    "jalons": [
+      140953,
+      140961
+    ]
+  },
+  "entite_894": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      140964,
+      140971
+    ]
+  },
+  "entite_895": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      141105,
+      141111
+    ]
+  },
+  "entite_896": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      141134,
+      141142
+    ]
+  },
+  "entite_897": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      141254,
+      141261
+    ]
+  },
+  "entite_898": {
+    "label": "MISC",
+    "text": "Grand Dieu",
+    "jalons": [
+      141435,
+      141445
+    ]
+  },
+  "entite_899": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      141609,
+      141616
+    ]
+  },
+  "entite_900": {
+    "label": "PER",
+    "text": "Sorcière",
+    "jalons": [
+      141761,
+      141769
+    ]
+  },
+  "entite_901": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      142001,
+      142007
+    ]
+  },
+  "entite_902": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      142243,
+      142250
+    ]
+  },
+  "entite_903": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      142573,
+      142579
+    ]
+  },
+  "entite_904": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      143119,
+      143127
+    ]
+  },
+  "entite_905": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      143378,
+      143384
+    ]
+  },
+  "entite_906": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      143541,
+      143548
+    ]
+  },
+  "entite_907": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      143901,
+      143908
+    ]
+  },
+  "entite_908": {
+    "label": "LOC",
+    "text": "Jure",
+    "jalons": [
+      144034,
+      144038
+    ]
+  },
+  "entite_909": {
+    "label": "LOC",
+    "text": "Monte-Sagrado",
+    "jalons": [
+      144063,
+      144076
+    ]
+  },
+  "entite_910": {
+    "label": "LOC",
+    "text": "Notre-Dame del Pilar",
+    "jalons": [
+      144095,
+      144115
+    ]
+  },
+  "entite_911": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      144245,
+      144251
+    ]
+  },
+  "entite_912": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      144288,
+      144296
+    ]
+  },
+  "entite_913": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      144468,
+      144474
+    ]
+  },
+  "entite_914": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      144508,
+      144516
+    ]
+  },
+  "entite_915": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      144623,
+      144630
+    ]
+  },
+  "entite_916": {
+    "label": "MISC",
+    "text": "Eh bien !",
+    "jalons": [
+      144816,
+      144825
+    ]
+  },
+  "entite_917": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      145074,
+      145081
+    ]
+  },
+  "entite_918": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      145108,
+      145116
+    ]
+  },
+  "entite_919": {
+    "label": "MISC",
+    "text": "Que m'importe ?",
+    "jalons": [
+      145298,
+      145313
+    ]
+  },
+  "entite_920": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      145380,
+      145386
+    ]
+  },
+  "entite_921": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      145597,
+      145605
+    ]
+  },
+  "entite_922": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      145616,
+      145622
+    ]
+  },
+  "entite_923": {
+    "label": "PER",
+    "text": "Dominguez",
+    "jalons": [
+      145715,
+      145724
+    ]
+  },
+  "entite_924": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      145845,
+      145853
+    ]
+  },
+  "entite_925": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      145856,
+      145864
+    ]
+  },
+  "entite_926": {
+    "label": "PER",
+    "text": "Dominguez",
+    "jalons": [
+      146040,
+      146049
+    ]
+  },
+  "entite_927": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      146196,
+      146203
+    ]
+  },
+  "entite_928": {
+    "label": "LOC",
+    "text": "soignez-le bien",
+    "jalons": [
+      146222,
+      146237
+    ]
+  },
+  "entite_929": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      146461,
+      146468
+    ]
+  },
+  "entite_930": {
+    "label": "LOC",
+    "text": "place de Lavapiès",
+    "jalons": [
+      146741,
+      146758
+    ]
+  },
+  "entite_931": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      146790,
+      146796
+    ]
+  },
+  "entite_932": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      146895,
+      146903
+    ]
+  },
+  "entite_933": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      146992,
+      147003
+    ]
+  },
+  "entite_934": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      147007,
+      147017
+    ]
+  },
+  "entite_935": {
+    "label": "LOC",
+    "text": "rue del Povar",
+    "jalons": [
+      147146,
+      147159
+    ]
+  },
+  "entite_936": {
+    "label": "PER",
+    "text": "M. de Salcedo",
+    "jalons": [
+      147178,
+      147191
+    ]
+  },
+  "entite_937": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      147231,
+      147243
+    ]
+  },
+  "entite_938": {
+    "label": "PER",
+    "text": "Lavapiès",
+    "jalons": [
+      147325,
+      147333
+    ]
+  },
+  "entite_939": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      147446,
+      147455
+    ]
+  },
+  "entite_940": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      147899,
+      147905
+    ]
+  },
+  "entite_941": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      147997,
+      148006
+    ]
+  },
+  "entite_942": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      148050,
+      148056
+    ]
+  },
+  "entite_943": {
+    "label": "PER",
+    "text": "Volontiers",
+    "jalons": [
+      148061,
+      148071
+    ]
+  },
+  "entite_944": {
+    "label": "MISC",
+    "text": "VIII",
+    "jalons": [
+      148134,
+      148138
+    ]
+  },
+  "entite_945": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      148197,
+      148205
+    ]
+  },
+  "entite_946": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      148207,
+      148213
+    ]
+  },
+  "entite_947": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      148428,
+      148437
+    ]
+  },
+  "entite_948": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      148439,
+      148451
+    ]
+  },
+  "entite_949": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      149011,
+      149019
+    ]
+  },
+  "entite_950": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      149102,
+      149108
+    ]
+  },
+  "entite_951": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      149153,
+      149162
+    ]
+  },
+  "entite_952": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      149221,
+      149229
+    ]
+  },
+  "entite_953": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      149488,
+      149495
+    ]
+  },
+  "entite_954": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      149561,
+      149567
+    ]
+  },
+  "entite_955": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      149655,
+      149663
+    ]
+  },
+  "entite_956": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      150567,
+      150575
+    ]
+  },
+  "entite_957": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      150610,
+      150616
+    ]
+  },
+  "entite_958": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      150896,
+      150905
+    ]
+  },
+  "entite_959": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      150907,
+      150913
+    ]
+  },
+  "entite_960": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      151217,
+      151225
+    ]
+  },
+  "entite_961": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      151512,
+      151518
+    ]
+  },
+  "entite_962": {
+    "label": "LOC",
+    "text": "Bah",
+    "jalons": [
+      151535,
+      151538
+    ]
+  },
+  "entite_963": {
+    "label": "MISC",
+    "text": "Vous êtes vive et preste",
+    "jalons": [
+      152064,
+      152088
+    ]
+  },
+  "entite_964": {
+    "label": "PER",
+    "text": "Jacob",
+    "jalons": [
+      152171,
+      152176
+    ]
+  },
+  "entite_965": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      152200,
+      152208
+    ]
+  },
+  "entite_966": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      152336,
+      152342
+    ]
+  },
+  "entite_967": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      152385,
+      152393
+    ]
+  },
+  "entite_968": {
+    "label": "PER",
+    "text": "Allons",
+    "jalons": [
+      152438,
+      152444
+    ]
+  },
+  "entite_969": {
+    "label": "LOC",
+    "text": "l'Espagne",
+    "jalons": [
+      152711,
+      152720
+    ]
+  },
+  "entite_970": {
+    "label": "LOC",
+    "text": "Taureaux",
+    "jalons": [
+      153287,
+      153295
+    ]
+  },
+  "entite_971": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      153359,
+      153364
+    ]
+  },
+  "entite_972": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      153672,
+      153680
+    ]
+  },
+  "entite_973": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      154057,
+      154065
+    ]
+  },
+  "entite_974": {
+    "label": "PER",
+    "text": "Cirque",
+    "jalons": [
+      154188,
+      154194
+    ]
+  },
+  "entite_975": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      154355,
+      154362
+    ]
+  },
+  "entite_976": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      154583,
+      154589
+    ]
+  },
+  "entite_977": {
+    "label": "LOC",
+    "text": "Aragon",
+    "jalons": [
+      155215,
+      155221
+    ]
+  },
+  "entite_978": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      155417,
+      155424
+    ]
+  },
+  "entite_979": {
+    "label": "LOC",
+    "text": "l'Espagne",
+    "jalons": [
+      155590,
+      155599
+    ]
+  },
+  "entite_980": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      155974,
+      155981
+    ]
+  },
+  "entite_981": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      156467,
+      156474
+    ]
+  },
+  "entite_982": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      156706,
+      156713
+    ]
+  },
+  "entite_983": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      156938,
+      156945
+    ]
+  },
+  "entite_984": {
+    "label": "PER",
+    "text": "Pas",
+    "jalons": [
+      156969,
+      156972
+    ]
+  },
+  "entite_985": {
+    "label": "PER",
+    "text": "Andrès de Salcedo",
+    "jalons": [
+      157154,
+      157171
+    ]
+  },
+  "entite_986": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      157368,
+      157376
+    ]
+  },
+  "entite_987": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      157407,
+      157413
+    ]
+  },
+  "entite_988": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      157516,
+      157524
+    ]
+  },
+  "entite_989": {
+    "label": "LOC",
+    "text": "Pourriez",
+    "jalons": [
+      157585,
+      157593
+    ]
+  },
+  "entite_990": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      158030,
+      158036
+    ]
+  },
+  "entite_991": {
+    "label": "PER",
+    "text": "Geronimo Vasquez de los Rios",
+    "jalons": [
+      158100,
+      158128
+    ]
+  },
+  "entite_992": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      158394,
+      158403
+    ]
+  },
+  "entite_993": {
+    "label": "ORG",
+    "text": "ANDRÈS",
+    "jalons": [
+      158408,
+      158414
+    ]
+  },
+  "entite_994": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      158709,
+      158718
+    ]
+  },
+  "entite_995": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      158746,
+      158752
+    ]
+  },
+  "entite_996": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      158772,
+      158780
+    ]
+  },
+  "entite_997": {
+    "label": "LOC",
+    "text": "Argamasilla",
+    "jalons": [
+      158821,
+      158832
+    ]
+  },
+  "entite_998": {
+    "label": "LOC",
+    "text": "Covachuelo",
+    "jalons": [
+      158839,
+      158849
+    ]
+  },
+  "entite_999": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      158859,
+      158866
+    ]
+  },
+  "entite_1000": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      158899,
+      158905
+    ]
+  },
+  "entite_1001": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      159067,
+      159075
+    ]
+  },
+  "entite_1002": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      159423,
+      159431
+    ]
+  },
+  "entite_1003": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      159591,
+      159597
+    ]
+  },
+  "entite_1004": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      159739,
+      159747
+    ]
+  },
+  "entite_1005": {
+    "label": "PER",
+    "text": "Don Geronimo",
+    "jalons": [
+      159771,
+      159783
+    ]
+  },
+  "entite_1006": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      159808,
+      159814
+    ]
+  },
+  "entite_1007": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      159876,
+      159881
+    ]
+  },
+  "entite_1008": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      159883,
+      159892
+    ]
+  },
+  "entite_1009": {
+    "label": "PER",
+    "text": "IX \nFeliciana",
+    "jalons": [
+      159923,
+      159936
+    ]
+  },
+  "entite_1010": {
+    "label": "LOC",
+    "text": "Victoria",
+    "jalons": [
+      160284,
+      160292
+    ]
+  },
+  "entite_1011": {
+    "label": "ORG",
+    "text": "Alcroft",
+    "jalons": [
+      160323,
+      160330
+    ]
+  },
+  "entite_1012": {
+    "label": "LOC",
+    "text": "Edwards",
+    "jalons": [
+      160428,
+      160435
+    ]
+  },
+  "entite_1013": {
+    "label": "LOC",
+    "text": "Prado",
+    "jalons": [
+      160515,
+      160520
+    ]
+  },
+  "entite_1014": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      160568,
+      160574
+    ]
+  },
+  "entite_1015": {
+    "label": "MISC",
+    "text": "Ho !",
+    "jalons": [
+      160579,
+      160583
+    ]
+  },
+  "entite_1016": {
+    "label": "LOC",
+    "text": "Australie",
+    "jalons": [
+      160641,
+      160650
+    ]
+  },
+  "entite_1017": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      160708,
+      160715
+    ]
+  },
+  "entite_1018": {
+    "label": "PER",
+    "text": "Parlez",
+    "jalons": [
+      160790,
+      160796
+    ]
+  },
+  "entite_1019": {
+    "label": "MISC",
+    "text": "Edwards",
+    "jalons": [
+      160810,
+      160817
+    ]
+  },
+  "entite_1020": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      160823,
+      160832
+    ]
+  },
+  "entite_1021": {
+    "label": "MISC",
+    "text": "No !",
+    "jalons": [
+      160876,
+      160880
+    ]
+  },
+  "entite_1022": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      160988,
+      160997
+    ]
+  },
+  "entite_1023": {
+    "label": "PER",
+    "text": "Sir Edwards",
+    "jalons": [
+      160999,
+      161010
+    ]
+  },
+  "entite_1024": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      161058,
+      161064
+    ]
+  },
+  "entite_1025": {
+    "label": "ORG",
+    "text": "Albion",
+    "jalons": [
+      161924,
+      161930
+    ]
+  },
+  "entite_1026": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      161999,
+      162008
+    ]
+  },
+  "entite_1027": {
+    "label": "MISC",
+    "text": "high life",
+    "jalons": [
+      162251,
+      162260
+    ]
+  },
+  "entite_1028": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      162370,
+      162376
+    ]
+  },
+  "entite_1029": {
+    "label": "LOC",
+    "text": "Edwards",
+    "jalons": [
+      162382,
+      162389
+    ]
+  },
+  "entite_1030": {
+    "label": "PER",
+    "text": "sir Edwards",
+    "jalons": [
+      162598,
+      162609
+    ]
+  },
+  "entite_1031": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      162647,
+      162655
+    ]
+  },
+  "entite_1032": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      162797,
+      162803
+    ]
+  },
+  "entite_1033": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      162933,
+      162942
+    ]
+  },
+  "entite_1034": {
+    "label": "PER",
+    "text": "Mlle Vasquez",
+    "jalons": [
+      163009,
+      163021
+    ]
+  },
+  "entite_1035": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      163428,
+      163437
+    ]
+  },
+  "entite_1036": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      163833,
+      163839
+    ]
+  },
+  "entite_1037": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      163903,
+      163909
+    ]
+  },
+  "entite_1038": {
+    "label": "PER",
+    "text": "filet noir brodés",
+    "jalons": [
+      164119,
+      164136
+    ]
+  },
+  "entite_1039": {
+    "label": "PER",
+    "text": "Mademoiselle",
+    "jalons": [
+      164334,
+      164346
+    ]
+  },
+  "entite_1040": {
+    "label": "PER",
+    "text": "Sir Edwards",
+    "jalons": [
+      164575,
+      164586
+    ]
+  },
+  "entite_1041": {
+    "label": "LOC",
+    "text": "Feliciana",
+    "jalons": [
+      164610,
+      164619
+    ]
+  },
+  "entite_1042": {
+    "label": "ORG",
+    "text": "Moreen foundation",
+    "jalons": [
+      164828,
+      164845
+    ]
+  },
+  "entite_1043": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      164916,
+      164928
+    ]
+  },
+  "entite_1044": {
+    "label": "LOC",
+    "text": "rue del Povar",
+    "jalons": [
+      165073,
+      165086
+    ]
+  },
+  "entite_1045": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      165123,
+      165132
+    ]
+  },
+  "entite_1046": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      165256,
+      165263
+    ]
+  },
+  "entite_1047": {
+    "label": "PER",
+    "text": "M.",
+    "jalons": [
+      165459,
+      165461
+    ]
+  },
+  "entite_1048": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      165465,
+      165472
+    ]
+  },
+  "entite_1049": {
+    "label": "MISC",
+    "text": "Feliciana d'un air de dégoût",
+    "jalons": [
+      165552,
+      165580
+    ]
+  },
+  "entite_1050": {
+    "label": "LOC",
+    "text": "Étudier",
+    "jalons": [
+      165585,
+      165592
+    ]
+  },
+  "entite_1051": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      165671,
+      165678
+    ]
+  },
+  "entite_1052": {
+    "label": "LOC",
+    "text": "Temple",
+    "jalons": [
+      165754,
+      165760
+    ]
+  },
+  "entite_1053": {
+    "label": "MISC",
+    "text": "Cheapside",
+    "jalons": [
+      165769,
+      165778
+    ]
+  },
+  "entite_1054": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      165894,
+      165906
+    ]
+  },
+  "entite_1055": {
+    "label": "ORG",
+    "text": "Feliciana",
+    "jalons": [
+      166012,
+      166021
+    ]
+  },
+  "entite_1056": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      166124,
+      166133
+    ]
+  },
+  "entite_1057": {
+    "label": "LOC",
+    "text": "Edwards",
+    "jalons": [
+      166430,
+      166437
+    ]
+  },
+  "entite_1058": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      166570,
+      166582
+    ]
+  },
+  "entite_1059": {
+    "label": "PER",
+    "text": "Gente de paz",
+    "jalons": [
+      166597,
+      166609
+    ]
+  },
+  "entite_1060": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      166659,
+      166666
+    ]
+  },
+  "entite_1061": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      166709,
+      166716
+    ]
+  },
+  "entite_1062": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      166740,
+      166746
+    ]
+  },
+  "entite_1063": {
+    "label": "LOC",
+    "text": "Edwards",
+    "jalons": [
+      166819,
+      166826
+    ]
+  },
+  "entite_1064": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      166860,
+      166872
+    ]
+  },
+  "entite_1065": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      166883,
+      166892
+    ]
+  },
+  "entite_1066": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      167124,
+      167130
+    ]
+  },
+  "entite_1067": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      167381,
+      167387
+    ]
+  },
+  "entite_1068": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      167801,
+      167809
+    ]
+  },
+  "entite_1069": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      167859,
+      167871
+    ]
+  },
+  "entite_1070": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      167984,
+      167991
+    ]
+  },
+  "entite_1071": {
+    "label": "PER",
+    "text": "Mlle Vasquez",
+    "jalons": [
+      168015,
+      168027
+    ]
+  },
+  "entite_1072": {
+    "label": "MISC",
+    "text": "La señora",
+    "jalons": [
+      168345,
+      168354
+    ]
+  },
+  "entite_1073": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      168391,
+      168399
+    ]
+  },
+  "entite_1074": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      168431,
+      168440
+    ]
+  },
+  "entite_1075": {
+    "label": "LOC",
+    "text": "Décidément",
+    "jalons": [
+      168602,
+      168612
+    ]
+  },
+  "entite_1076": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      168690,
+      168698
+    ]
+  },
+  "entite_1077": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      168902,
+      168911
+    ]
+  },
+  "entite_1078": {
+    "label": "PER",
+    "text": "Feliciana Vasquez de los Rios",
+    "jalons": [
+      168924,
+      168953
+    ]
+  },
+  "entite_1079": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      169012,
+      169020
+    ]
+  },
+  "entite_1080": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      169103,
+      169111
+    ]
+  },
+  "entite_1081": {
+    "label": "ORG",
+    "text": "manola",
+    "jalons": [
+      169137,
+      169143
+    ]
+  },
+  "entite_1082": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      169352,
+      169360
+    ]
+  },
+  "entite_1083": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      169373,
+      169379
+    ]
+  },
+  "entite_1084": {
+    "label": "MISC",
+    "text": "Eh bien !",
+    "jalons": [
+      169457,
+      169466
+    ]
+  },
+  "entite_1085": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      169467,
+      169473
+    ]
+  },
+  "entite_1086": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      169479,
+      169487
+    ]
+  },
+  "entite_1087": {
+    "label": "PER",
+    "text": "Assez",
+    "jalons": [
+      169606,
+      169611
+    ]
+  },
+  "entite_1088": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      169627,
+      169633
+    ]
+  },
+  "entite_1089": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      169742,
+      169751
+    ]
+  },
+  "entite_1090": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      169951,
+      169959
+    ]
+  },
+  "entite_1091": {
+    "label": "PER",
+    "text": "Mlle Vasquez",
+    "jalons": [
+      170055,
+      170067
+    ]
+  },
+  "entite_1092": {
+    "label": "LOC",
+    "text": "Edwards",
+    "jalons": [
+      170094,
+      170101
+    ]
+  },
+  "entite_1093": {
+    "label": "MISC",
+    "text": "It is a very pretty girl",
+    "jalons": [
+      170134,
+      170158
+    ]
+  },
+  "entite_1094": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      170173,
+      170182
+    ]
+  },
+  "entite_1095": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      170206,
+      170212
+    ]
+  },
+  "entite_1096": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      170281,
+      170285
+    ]
+  },
+  "entite_1097": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      170305,
+      170313
+    ]
+  },
+  "entite_1098": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      170458,
+      170464
+    ]
+  },
+  "entite_1099": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      170552,
+      170560
+    ]
+  },
+  "entite_1100": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      170604,
+      170612
+    ]
+  },
+  "entite_1101": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      170705,
+      170714
+    ]
+  },
+  "entite_1102": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      170942,
+      170951
+    ]
+  },
+  "entite_1103": {
+    "label": "PER",
+    "text": "Sir Edwards",
+    "jalons": [
+      171242,
+      171253
+    ]
+  },
+  "entite_1104": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      171369,
+      171376
+    ]
+  },
+  "entite_1105": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      171467,
+      171476
+    ]
+  },
+  "entite_1106": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      171677,
+      171683
+    ]
+  },
+  "entite_1107": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      171742,
+      171750
+    ]
+  },
+  "entite_1108": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      171867,
+      171876
+    ]
+  },
+  "entite_1109": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      172002,
+      172010
+    ]
+  },
+  "entite_1110": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      172241,
+      172247
+    ]
+  },
+  "entite_1111": {
+    "label": "PER",
+    "text": "Repêcher",
+    "jalons": [
+      172576,
+      172584
+    ]
+  },
+  "entite_1112": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      172674,
+      172678
+    ]
+  },
+  "entite_1113": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      172834,
+      172840
+    ]
+  },
+  "entite_1114": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      172944,
+      172953
+    ]
+  },
+  "entite_1115": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      173015,
+      173023
+    ]
+  },
+  "entite_1116": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      173346,
+      173352
+    ]
+  },
+  "entite_1117": {
+    "label": "PER",
+    "text": "Ho",
+    "jalons": [
+      173532,
+      173534
+    ]
+  },
+  "entite_1118": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      173588,
+      173595
+    ]
+  },
+  "entite_1119": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      173684,
+      173692
+    ]
+  },
+  "entite_1120": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      173880,
+      173888
+    ]
+  },
+  "entite_1121": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      173945,
+      173951
+    ]
+  },
+  "entite_1122": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      174103,
+      174112
+    ]
+  },
+  "entite_1123": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      174476,
+      174482
+    ]
+  },
+  "entite_1124": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      174693,
+      174701
+    ]
+  },
+  "entite_1125": {
+    "label": "PER",
+    "text": "Mademoiselle",
+    "jalons": [
+      174962,
+      174974
+    ]
+  },
+  "entite_1126": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      174990,
+      174998
+    ]
+  },
+  "entite_1127": {
+    "label": "PER",
+    "text": "Certainement",
+    "jalons": [
+      175058,
+      175070
+    ]
+  },
+  "entite_1128": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      175537,
+      175545
+    ]
+  },
+  "entite_1129": {
+    "label": "MISC",
+    "text": "Vous l'auriez laissé mourir",
+    "jalons": [
+      175726,
+      175753
+    ]
+  },
+  "entite_1130": {
+    "label": "PER",
+    "text": "Allons",
+    "jalons": [
+      175945,
+      175951
+    ]
+  },
+  "entite_1131": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      175953,
+      175962
+    ]
+  },
+  "entite_1132": {
+    "label": "PER",
+    "text": "conciliant Geronimo",
+    "jalons": [
+      176052,
+      176071
+    ]
+  },
+  "entite_1133": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      176106,
+      176112
+    ]
+  },
+  "entite_1134": {
+    "label": "PER",
+    "text": "martel",
+    "jalons": [
+      176209,
+      176215
+    ]
+  },
+  "entite_1135": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      176314,
+      176323
+    ]
+  },
+  "entite_1136": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      176374,
+      176382
+    ]
+  },
+  "entite_1137": {
+    "label": "ORG",
+    "text": "Allons-nous-en",
+    "jalons": [
+      176626,
+      176640
+    ]
+  },
+  "entite_1138": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      176808,
+      176814
+    ]
+  },
+  "entite_1139": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      176826,
+      176834
+    ]
+  },
+  "entite_1140": {
+    "label": "PER",
+    "text": "Feliciana Vasquez de los Rios",
+    "jalons": [
+      176853,
+      176882
+    ]
+  },
+  "entite_1141": {
+    "label": "PER",
+    "text": "Mme Andrès",
+    "jalons": [
+      176910,
+      176920
+    ]
+  },
+  "entite_1142": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      176924,
+      176931
+    ]
+  },
+  "entite_1143": {
+    "label": "MISC",
+    "text": "Comment !",
+    "jalons": [
+      177023,
+      177032
+    ]
+  },
+  "entite_1144": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      177041,
+      177049
+    ]
+  },
+  "entite_1145": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      177064,
+      177070
+    ]
+  },
+  "entite_1146": {
+    "label": "LOC",
+    "text": "Chimères",
+    "jalons": [
+      177248,
+      177256
+    ]
+  },
+  "entite_1147": {
+    "label": "PER",
+    "text": "continua Geronimo",
+    "jalons": [
+      177311,
+      177328
+    ]
+  },
+  "entite_1148": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      177367,
+      177373
+    ]
+  },
+  "entite_1149": {
+    "label": "MISC",
+    "text": "Ho !",
+    "jalons": [
+      177390,
+      177394
+    ]
+  },
+  "entite_1150": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      177424,
+      177431
+    ]
+  },
+  "entite_1151": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      177442,
+      177450
+    ]
+  },
+  "entite_1152": {
+    "label": "LOC",
+    "text": "manche",
+    "jalons": [
+      177458,
+      177464
+    ]
+  },
+  "entite_1153": {
+    "label": "PER",
+    "text": "Vos",
+    "jalons": [
+      177567,
+      177570
+    ]
+  },
+  "entite_1154": {
+    "label": "PER",
+    "text": "Geronimo",
+    "jalons": [
+      177615,
+      177623
+    ]
+  },
+  "entite_1155": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      177660,
+      177666
+    ]
+  },
+  "entite_1156": {
+    "label": "PER",
+    "text": "Mlle Vasquez",
+    "jalons": [
+      177727,
+      177739
+    ]
+  },
+  "entite_1157": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      177772,
+      177781
+    ]
+  },
+  "entite_1158": {
+    "label": "PER",
+    "text": "Adieu",
+    "jalons": [
+      177858,
+      177863
+    ]
+  },
+  "entite_1159": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      177890,
+      177896
+    ]
+  },
+  "entite_1160": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      177916,
+      177924
+    ]
+  },
+  "entite_1161": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      178006,
+      178015
+    ]
+  },
+  "entite_1162": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      178020,
+      178025
+    ]
+  },
+  "entite_1163": {
+    "label": "LOC",
+    "text": "Edwards",
+    "jalons": [
+      178042,
+      178049
+    ]
+  },
+  "entite_1164": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      178076,
+      178083
+    ]
+  },
+  "entite_1165": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      178328,
+      178337
+    ]
+  },
+  "entite_1166": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      178464,
+      178468
+    ]
+  },
+  "entite_1167": {
+    "label": "LOC",
+    "text": "Espagnole",
+    "jalons": [
+      178553,
+      178562
+    ]
+  },
+  "entite_1168": {
+    "label": "LOC",
+    "text": "Espagnole",
+    "jalons": [
+      178587,
+      178596
+    ]
+  },
+  "entite_1169": {
+    "label": "PER",
+    "text": "lord Byron",
+    "jalons": [
+      178694,
+      178704
+    ]
+  },
+  "entite_1170": {
+    "label": "LOC",
+    "text": "du Nord",
+    "jalons": [
+      178733,
+      178740
+    ]
+  },
+  "entite_1171": {
+    "label": "LOC",
+    "text": "Indienne",
+    "jalons": [
+      178792,
+      178800
+    ]
+  },
+  "entite_1172": {
+    "label": "LOC",
+    "text": "Italienne",
+    "jalons": [
+      178806,
+      178815
+    ]
+  },
+  "entite_1173": {
+    "label": "LOC",
+    "text": "Espagnole",
+    "jalons": [
+      178823,
+      178832
+    ]
+  },
+  "entite_1174": {
+    "label": "LOC",
+    "text": "Espagnole",
+    "jalons": [
+      178849,
+      178858
+    ]
+  },
+  "entite_1175": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      179079,
+      179088
+    ]
+  },
+  "entite_1176": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      179133,
+      179140
+    ]
+  },
+  "entite_1177": {
+    "label": "LOC",
+    "text": "Almack",
+    "jalons": [
+      179153,
+      179159
+    ]
+  },
+  "entite_1178": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      179235,
+      179241
+    ]
+  },
+  "entite_1179": {
+    "label": "LOC",
+    "text": "Calcutta",
+    "jalons": [
+      179326,
+      179334
+    ]
+  },
+  "entite_1180": {
+    "label": "LOC",
+    "text": "cap de Bonne-Espérance",
+    "jalons": [
+      179341,
+      179363
+    ]
+  },
+  "entite_1181": {
+    "label": "LOC",
+    "text": "Tels",
+    "jalons": [
+      179406,
+      179410
+    ]
+  },
+  "entite_1182": {
+    "label": "LOC",
+    "text": "Edwards",
+    "jalons": [
+      179464,
+      179471
+    ]
+  },
+  "entite_1183": {
+    "label": "PER",
+    "text": "Mlle Vasquez",
+    "jalons": [
+      179488,
+      179500
+    ]
+  },
+  "entite_1184": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      179526,
+      179535
+    ]
+  },
+  "entite_1185": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      179687,
+      179693
+    ]
+  },
+  "entite_1186": {
+    "label": "LOC",
+    "text": "Edwards",
+    "jalons": [
+      179878,
+      179885
+    ]
+  },
+  "entite_1187": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      179887,
+      179896
+    ]
+  },
+  "entite_1188": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      179978,
+      179984
+    ]
+  },
+  "entite_1189": {
+    "label": "LOC",
+    "text": "Edwards",
+    "jalons": [
+      180034,
+      180041
+    ]
+  },
+  "entite_1190": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      180100,
+      180106
+    ]
+  },
+  "entite_1191": {
+    "label": "PER",
+    "text": "Sir Edwards",
+    "jalons": [
+      180110,
+      180121
+    ]
+  },
+  "entite_1192": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      180138,
+      180145
+    ]
+  },
+  "entite_1193": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      180163,
+      180170
+    ]
+  },
+  "entite_1194": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      180262,
+      180269
+    ]
+  },
+  "entite_1195": {
+    "label": "MISC",
+    "text": "waterproof",
+    "jalons": [
+      180270,
+      180280
+    ]
+  },
+  "entite_1196": {
+    "label": "MISC",
+    "text": "mackintosh !",
+    "jalons": [
+      180284,
+      180296
+    ]
+  },
+  "entite_1197": {
+    "label": "PER",
+    "text": "Mlle Feliciana",
+    "jalons": [
+      180561,
+      180575
+    ]
+  },
+  "entite_1198": {
+    "label": "LOC",
+    "text": "los Rios",
+    "jalons": [
+      180587,
+      180595
+    ]
+  },
+  "entite_1199": {
+    "label": "PER",
+    "text": "Wegwood",
+    "jalons": [
+      180651,
+      180658
+    ]
+  },
+  "entite_1200": {
+    "label": "LOC",
+    "text": "Hyde-Park",
+    "jalons": [
+      180740,
+      180749
+    ]
+  },
+  "entite_1201": {
+    "label": "MISC",
+    "text": "four in hand",
+    "jalons": [
+      180785,
+      180797
+    ]
+  },
+  "entite_1202": {
+    "label": "LOC",
+    "text": "théâtre de la Reine",
+    "jalons": [
+      180811,
+      180830
+    ]
+  },
+  "entite_1203": {
+    "label": "LOC",
+    "text": "Laissons",
+    "jalons": [
+      181129,
+      181137
+    ]
+  },
+  "entite_1204": {
+    "label": "LOC",
+    "text": "rue del Povar",
+    "jalons": [
+      181217,
+      181230
+    ]
+  },
+  "entite_1205": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      181241,
+      181247
+    ]
+  },
+  "entite_1206": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      181251,
+      181259
+    ]
+  },
+  "entite_1207": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      181297,
+      181306
+    ]
+  },
+  "entite_1208": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      181311,
+      181323
+    ]
+  },
+  "entite_1209": {
+    "label": "LOC",
+    "text": "Edwards",
+    "jalons": [
+      181334,
+      181341
+    ]
+  },
+  "entite_1210": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      181366,
+      181372
+    ]
+  },
+  "entite_1211": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      182130,
+      182138
+    ]
+  },
+  "entite_1212": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      182172,
+      182178
+    ]
+  },
+  "entite_1213": {
+    "label": "ORG",
+    "text": "X",
+    "jalons": [
+      182181,
+      182182
+    ]
+  },
+  "entite_1214": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      182225,
+      182232
+    ]
+  },
+  "entite_1215": {
+    "label": "LOC",
+    "text": "chambre de Militona",
+    "jalons": [
+      182304,
+      182323
+    ]
+  },
+  "entite_1216": {
+    "label": "PER",
+    "text": "Hierro",
+    "jalons": [
+      182499,
+      182505
+    ]
+  },
+  "entite_1217": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      182585,
+      182591
+    ]
+  },
+  "entite_1218": {
+    "label": "LOC",
+    "text": "Sierra de Guadarrama",
+    "jalons": [
+      182939,
+      182959
+    ]
+  },
+  "entite_1219": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      183447,
+      183454
+    ]
+  },
+  "entite_1220": {
+    "label": "LOC",
+    "text": "Gaza",
+    "jalons": [
+      183535,
+      183539
+    ]
+  },
+  "entite_1221": {
+    "label": "PER",
+    "text": "Samson",
+    "jalons": [
+      183553,
+      183559
+    ]
+  },
+  "entite_1222": {
+    "label": "MISC",
+    "text": "Castillan",
+    "jalons": [
+      184283,
+      184292
+    ]
+  },
+  "entite_1223": {
+    "label": "LOC",
+    "text": "Manchègue",
+    "jalons": [
+      184336,
+      184345
+    ]
+  },
+  "entite_1224": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      184976,
+      184983
+    ]
+  },
+  "entite_1225": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      186273,
+      186277
+    ]
+  },
+  "entite_1226": {
+    "label": "PER",
+    "text": "Luca",
+    "jalons": [
+      186409,
+      186413
+    ]
+  },
+  "entite_1227": {
+    "label": "PER",
+    "text": "Ginès",
+    "jalons": [
+      186427,
+      186432
+    ]
+  },
+  "entite_1228": {
+    "label": "PER",
+    "text": "Main",
+    "jalons": [
+      186566,
+      186570
+    ]
+  },
+  "entite_1229": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      186666,
+      186673
+    ]
+  },
+  "entite_1230": {
+    "label": "LOC",
+    "text": "jaillir",
+    "jalons": [
+      186735,
+      186742
+    ]
+  },
+  "entite_1231": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      186858,
+      186866
+    ]
+  },
+  "entite_1232": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      187120,
+      187124
+    ]
+  },
+  "entite_1233": {
+    "label": "LOC",
+    "text": "Espagne",
+    "jalons": [
+      187574,
+      187581
+    ]
+  },
+  "entite_1234": {
+    "label": "LOC",
+    "text": "Sévillanes",
+    "jalons": [
+      187780,
+      187790
+    ]
+  },
+  "entite_1235": {
+    "label": "LOC",
+    "text": "Madrilènes",
+    "jalons": [
+      187795,
+      187805
+    ]
+  },
+  "entite_1236": {
+    "label": "LOC",
+    "text": "Grenadines",
+    "jalons": [
+      187812,
+      187822
+    ]
+  },
+  "entite_1237": {
+    "label": "PER",
+    "text": "Pauvre Rosaura",
+    "jalons": [
+      188154,
+      188168
+    ]
+  },
+  "entite_1238": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      188493,
+      188497
+    ]
+  },
+  "entite_1239": {
+    "label": "PER",
+    "text": "Notre-Dame",
+    "jalons": [
+      188591,
+      188601
+    ]
+  },
+  "entite_1240": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      188641,
+      188645
+    ]
+  },
+  "entite_1241": {
+    "label": "MISC",
+    "text": "mon Dieu !",
+    "jalons": [
+      188646,
+      188656
+    ]
+  },
+  "entite_1242": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      188661,
+      188665
+    ]
+  },
+  "entite_1243": {
+    "label": "MISC",
+    "text": "Militona !",
+    "jalons": [
+      188821,
+      188831
+    ]
+  },
+  "entite_1244": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      189262,
+      189268
+    ]
+  },
+  "entite_1245": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      189272,
+      189280
+    ]
+  },
+  "entite_1246": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      189586,
+      189592
+    ]
+  },
+  "entite_1247": {
+    "label": "MISC",
+    "text": "Mes pauvres",
+    "jalons": [
+      190152,
+      190163
+    ]
+  },
+  "entite_1248": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      190193,
+      190200
+    ]
+  },
+  "entite_1249": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      190570,
+      190577
+    ]
+  },
+  "entite_1250": {
+    "label": "LOC",
+    "text": "hercule d'Ocaña",
+    "jalons": [
+      191123,
+      191138
+    ]
+  },
+  "entite_1251": {
+    "label": "PER",
+    "text": "Bernard de Carpio",
+    "jalons": [
+      191183,
+      191200
+    ]
+  },
+  "entite_1252": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      191293,
+      191300
+    ]
+  },
+  "entite_1253": {
+    "label": "LOC",
+    "text": "San Agustin",
+    "jalons": [
+      191665,
+      191676
+    ]
+  },
+  "entite_1254": {
+    "label": "LOC",
+    "text": "Alcobendas",
+    "jalons": [
+      191688,
+      191698
+    ]
+  },
+  "entite_1255": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      191745,
+      191752
+    ]
+  },
+  "entite_1256": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      191969,
+      191976
+    ]
+  },
+  "entite_1257": {
+    "label": "MISC",
+    "text": "posada de San Agustin",
+    "jalons": [
+      192091,
+      192112
+    ]
+  },
+  "entite_1258": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      192503,
+      192510
+    ]
+  },
+  "entite_1259": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      193074,
+      193080
+    ]
+  },
+  "entite_1260": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      193489,
+      193496
+    ]
+  },
+  "entite_1261": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      193662,
+      193668
+    ]
+  },
+  "entite_1262": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      193672,
+      193679
+    ]
+  },
+  "entite_1263": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      193788,
+      193795
+    ]
+  },
+  "entite_1264": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      193853,
+      193859
+    ]
+  },
+  "entite_1265": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      193917,
+      193928
+    ]
+  },
+  "entite_1266": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      193932,
+      193942
+    ]
+  },
+  "entite_1267": {
+    "label": "PER",
+    "text": "Oreste",
+    "jalons": [
+      193948,
+      193954
+    ]
+  },
+  "entite_1268": {
+    "label": "PER",
+    "text": "Pylade",
+    "jalons": [
+      193961,
+      193967
+    ]
+  },
+  "entite_1269": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      194038,
+      194045
+    ]
+  },
+  "entite_1270": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      194259,
+      194269
+    ]
+  },
+  "entite_1271": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      194273,
+      194284
+    ]
+  },
+  "entite_1272": {
+    "label": "LOC",
+    "text": "Taureaux",
+    "jalons": [
+      194472,
+      194480
+    ]
+  },
+  "entite_1273": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      194610,
+      194621
+    ]
+  },
+  "entite_1274": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      194667,
+      194677
+    ]
+  },
+  "entite_1275": {
+    "label": "LOC",
+    "text": "Sois",
+    "jalons": [
+      194870,
+      194874
+    ]
+  },
+  "entite_1276": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      194896,
+      194906
+    ]
+  },
+  "entite_1277": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      195065,
+      195072
+    ]
+  },
+  "entite_1278": {
+    "label": "MISC",
+    "text": "le Cirque",
+    "jalons": [
+      195101,
+      195110
+    ]
+  },
+  "entite_1279": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      195307,
+      195318
+    ]
+  },
+  "entite_1280": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      195322,
+      195332
+    ]
+  },
+  "entite_1281": {
+    "label": "LOC",
+    "text": "Covachuelo",
+    "jalons": [
+      195377,
+      195387
+    ]
+  },
+  "entite_1282": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      195469,
+      195476
+    ]
+  },
+  "entite_1283": {
+    "label": "PER",
+    "text": "Juancho haussa",
+    "jalons": [
+      195511,
+      195525
+    ]
+  },
+  "entite_1284": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      195756,
+      195763
+    ]
+  },
+  "entite_1285": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      195963,
+      195970
+    ]
+  },
+  "entite_1286": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      196484,
+      196491
+    ]
+  },
+  "entite_1287": {
+    "label": "MISC",
+    "text": "Diable !",
+    "jalons": [
+      196688,
+      196696
+    ]
+  },
+  "entite_1288": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      196704,
+      196715
+    ]
+  },
+  "entite_1289": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      196719,
+      196729
+    ]
+  },
+  "entite_1290": {
+    "label": "LOC",
+    "text": "Tentons",
+    "jalons": [
+      196776,
+      196783
+    ]
+  },
+  "entite_1291": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      197149,
+      197159
+    ]
+  },
+  "entite_1292": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      197167,
+      197174
+    ]
+  },
+  "entite_1293": {
+    "label": "LOC",
+    "text": "Camarade",
+    "jalons": [
+      197230,
+      197238
+    ]
+  },
+  "entite_1294": {
+    "label": "PER",
+    "text": "Sortez",
+    "jalons": [
+      197383,
+      197389
+    ]
+  },
+  "entite_1295": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      197704,
+      197711
+    ]
+  },
+  "entite_1296": {
+    "label": "PER",
+    "text": "Argamasilla",
+    "jalons": [
+      197813,
+      197824
+    ]
+  },
+  "entite_1297": {
+    "label": "PER",
+    "text": "Covachuelo",
+    "jalons": [
+      197831,
+      197841
+    ]
+  },
+  "entite_1298": {
+    "label": "PER",
+    "text": "Andres",
+    "jalons": [
+      198143,
+      198149
+    ]
+  },
+  "entite_1299": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      199126,
+      199130
+    ]
+  },
+  "entite_1300": {
+    "label": "LOC",
+    "text": "Venise",
+    "jalons": [
+      199260,
+      199266
+    ]
+  },
+  "entite_1301": {
+    "label": "LOC",
+    "text": "théâtre del Circo",
+    "jalons": [
+      199297,
+      199314
+    ]
+  },
+  "entite_1302": {
+    "label": "LOC",
+    "text": "Telles",
+    "jalons": [
+      199527,
+      199533
+    ]
+  },
+  "entite_1303": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      199595,
+      199602
+    ]
+  },
+  "entite_1304": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      199620,
+      199626
+    ]
+  },
+  "entite_1305": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      199704,
+      199712
+    ]
+  },
+  "entite_1306": {
+    "label": "PER",
+    "text": "Sir Edwards",
+    "jalons": [
+      199936,
+      199947
+    ]
+  },
+  "entite_1307": {
+    "label": "PER",
+    "text": "Feliciana Vasquez de los Rios",
+    "jalons": [
+      200024,
+      200053
+    ]
+  },
+  "entite_1308": {
+    "label": "PER",
+    "text": "don Geronimo",
+    "jalons": [
+      200056,
+      200068
+    ]
+  },
+  "entite_1309": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      200165,
+      200172
+    ]
+  },
+  "entite_1310": {
+    "label": "PER",
+    "text": "M. Biétry",
+    "jalons": [
+      200357,
+      200366
+    ]
+  },
+  "entite_1311": {
+    "label": "LOC",
+    "text": "Lahore",
+    "jalons": [
+      200397,
+      200403
+    ]
+  },
+  "entite_1312": {
+    "label": "PER",
+    "text": "sir Edwards",
+    "jalons": [
+      200436,
+      200447
+    ]
+  },
+  "entite_1313": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      200577,
+      200586
+    ]
+  },
+  "entite_1314": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      200623,
+      200631
+    ]
+  },
+  "entite_1315": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      200768,
+      200774
+    ]
+  },
+  "entite_1316": {
+    "label": "MISC",
+    "text": "ouvrage de Dieu",
+    "jalons": [
+      200856,
+      200871
+    ]
+  },
+  "entite_1317": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      201351,
+      201355
+    ]
+  },
+  "entite_1318": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      201390,
+      201396
+    ]
+  },
+  "entite_1319": {
+    "label": "LOC",
+    "text": "Pourvu",
+    "jalons": [
+      201792,
+      201798
+    ]
+  },
+  "entite_1320": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      201872,
+      201879
+    ]
+  },
+  "entite_1321": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      201956,
+      201960
+    ]
+  },
+  "entite_1322": {
+    "label": "LOC",
+    "text": "Aldonza",
+    "jalons": [
+      201993,
+      202000
+    ]
+  },
+  "entite_1323": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      202022,
+      202030
+    ]
+  },
+  "entite_1324": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      202053,
+      202060
+    ]
+  },
+  "entite_1325": {
+    "label": "PER",
+    "text": "M. de Salcedo",
+    "jalons": [
+      202119,
+      202132
+    ]
+  },
+  "entite_1326": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      202228,
+      202235
+    ]
+  },
+  "entite_1327": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      202266,
+      202272
+    ]
+  },
+  "entite_1328": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      202333,
+      202340
+    ]
+  },
+  "entite_1329": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      202517,
+      202524
+    ]
+  },
+  "entite_1330": {
+    "label": "PER",
+    "text": "Heureusement Andrès",
+    "jalons": [
+      202571,
+      202590
+    ]
+  },
+  "entite_1331": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      203275,
+      203282
+    ]
+  },
+  "entite_1332": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      203642,
+      203646
+    ]
+  },
+  "entite_1333": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      203760,
+      203767
+    ]
+  },
+  "entite_1334": {
+    "label": "LOC",
+    "text": "l'Andalousie",
+    "jalons": [
+      203840,
+      203852
+    ]
+  },
+  "entite_1335": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      203918,
+      203924
+    ]
+  },
+  "entite_1336": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      203927,
+      203935
+    ]
+  },
+  "entite_1337": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      203983,
+      203990
+    ]
+  },
+  "entite_1338": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      204094,
+      204102
+    ]
+  },
+  "entite_1339": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      204288,
+      204297
+    ]
+  },
+  "entite_1340": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      204392,
+      204401
+    ]
+  },
+  "entite_1341": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      204434,
+      204442
+    ]
+  },
+  "entite_1342": {
+    "label": "MISC",
+    "text": "XI \n",
+    "jalons": [
+      204478,
+      204482
+    ]
+  },
+  "entite_1343": {
+    "label": "LOC",
+    "text": "couvent de Santo-Domingo",
+    "jalons": [
+      204503,
+      204527
+    ]
+  },
+  "entite_1344": {
+    "label": "LOC",
+    "text": "Antequerula de Grenade",
+    "jalons": [
+      204551,
+      204573
+    ]
+  },
+  "entite_1345": {
+    "label": "PER",
+    "text": "Alhambra",
+    "jalons": [
+      205557,
+      205565
+    ]
+  },
+  "entite_1346": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      206919,
+      206926
+    ]
+  },
+  "entite_1347": {
+    "label": "LOC",
+    "text": "d'Espagne",
+    "jalons": [
+      207020,
+      207029
+    ]
+  },
+  "entite_1348": {
+    "label": "LOC",
+    "text": "Darro",
+    "jalons": [
+      207307,
+      207312
+    ]
+  },
+  "entite_1349": {
+    "label": "MISC",
+    "text": "Arabes",
+    "jalons": [
+      207392,
+      207398
+    ]
+  },
+  "entite_1350": {
+    "label": "MISC",
+    "text": "Coran",
+    "jalons": [
+      207558,
+      207563
+    ]
+  },
+  "entite_1351": {
+    "label": "LOC",
+    "text": "l'Andalousie",
+    "jalons": [
+      207901,
+      207913
+    ]
+  },
+  "entite_1352": {
+    "label": "LOC",
+    "text": "Grenade tocador",
+    "jalons": [
+      208091,
+      208106
+    ]
+  },
+  "entite_1353": {
+    "label": "LOC",
+    "text": "Espagnols",
+    "jalons": [
+      208261,
+      208270
+    ]
+  },
+  "entite_1354": {
+    "label": "LOC",
+    "text": "media-naranja",
+    "jalons": [
+      208296,
+      208309
+    ]
+  },
+  "entite_1355": {
+    "label": "LOC",
+    "text": "Genil",
+    "jalons": [
+      208851,
+      208856
+    ]
+  },
+  "entite_1356": {
+    "label": "LOC",
+    "text": "bonds",
+    "jalons": [
+      208885,
+      208890
+    ]
+  },
+  "entite_1357": {
+    "label": "LOC",
+    "text": "Sierra",
+    "jalons": [
+      208898,
+      208904
+    ]
+  },
+  "entite_1358": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      208940,
+      208947
+    ]
+  },
+  "entite_1359": {
+    "label": "LOC",
+    "text": "Darro",
+    "jalons": [
+      208954,
+      208959
+    ]
+  },
+  "entite_1360": {
+    "label": "MISC",
+    "text": "Vega",
+    "jalons": [
+      208992,
+      208996
+    ]
+  },
+  "entite_1361": {
+    "label": "LOC",
+    "text": "Sierra-Nevada",
+    "jalons": [
+      209126,
+      209139
+    ]
+  },
+  "entite_1362": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      209375,
+      209382
+    ]
+  },
+  "entite_1363": {
+    "label": "PER",
+    "text": "Mme Andrès",
+    "jalons": [
+      209865,
+      209875
+    ]
+  },
+  "entite_1364": {
+    "label": "LOC",
+    "text": "Salcedo",
+    "jalons": [
+      209879,
+      209886
+    ]
+  },
+  "entite_1365": {
+    "label": "MISC",
+    "text": "Militona",
+    "jalons": [
+      209891,
+      209899
+    ]
+  },
+  "entite_1366": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      210033,
+      210039
+    ]
+  },
+  "entite_1367": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      210070,
+      210076
+    ]
+  },
+  "entite_1368": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      210109,
+      210116
+    ]
+  },
+  "entite_1369": {
+    "label": "PER",
+    "text": "Feliciana",
+    "jalons": [
+      210183,
+      210192
+    ]
+  },
+  "entite_1370": {
+    "label": "LOC",
+    "text": "Edwards",
+    "jalons": [
+      210209,
+      210216
+    ]
+  },
+  "entite_1371": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      210219,
+      210226
+    ]
+  },
+  "entite_1372": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      210389,
+      210397
+    ]
+  },
+  "entite_1373": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      210470,
+      210476
+    ]
+  },
+  "entite_1374": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      210549,
+      210555
+    ]
+  },
+  "entite_1375": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      211040,
+      211048
+    ]
+  },
+  "entite_1376": {
+    "label": "PER",
+    "text": "vierge",
+    "jalons": [
+      211579,
+      211585
+    ]
+  },
+  "entite_1377": {
+    "label": "PER",
+    "text": "Mme de Salcedo",
+    "jalons": [
+      211860,
+      211874
+    ]
+  },
+  "entite_1378": {
+    "label": "PER",
+    "text": "Rien",
+    "jalons": [
+      212361,
+      212365
+    ]
+  },
+  "entite_1379": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      212394,
+      212400
+    ]
+  },
+  "entite_1380": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      212407,
+      212415
+    ]
+  },
+  "entite_1381": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      212462,
+      212469
+    ]
+  },
+  "entite_1382": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      212809,
+      212816
+    ]
+  },
+  "entite_1383": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      212844,
+      212852
+    ]
+  },
+  "entite_1384": {
+    "label": "ORG",
+    "text": "Generalife",
+    "jalons": [
+      213230,
+      213240
+    ]
+  },
+  "entite_1385": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      213247,
+      213253
+    ]
+  },
+  "entite_1386": {
+    "label": "PER",
+    "text": "Mme de Salcedo",
+    "jalons": [
+      213256,
+      213270
+    ]
+  },
+  "entite_1387": {
+    "label": "LOC",
+    "text": "Zoraïde",
+    "jalons": [
+      213366,
+      213373
+    ]
+  },
+  "entite_1388": {
+    "label": "LOC",
+    "text": "Chaîne-des-Cœurs",
+    "jalons": [
+      213380,
+      213396
+    ]
+  },
+  "entite_1389": {
+    "label": "PER",
+    "text": "Jette",
+    "jalons": [
+      213615,
+      213620
+    ]
+  },
+  "entite_1390": {
+    "label": "PER",
+    "text": "Alhambra",
+    "jalons": [
+      213719,
+      213727
+    ]
+  },
+  "entite_1391": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      213732,
+      213740
+    ]
+  },
+  "entite_1392": {
+    "label": "LOC",
+    "text": "Generalife",
+    "jalons": [
+      213892,
+      213902
+    ]
+  },
+  "entite_1393": {
+    "label": "PER",
+    "text": "Alhambra",
+    "jalons": [
+      213999,
+      214007
+    ]
+  },
+  "entite_1394": {
+    "label": "PER",
+    "text": "M.",
+    "jalons": [
+      214166,
+      214168
+    ]
+  },
+  "entite_1395": {
+    "label": "PER",
+    "text": "Mme de Salcedo",
+    "jalons": [
+      214172,
+      214186
+    ]
+  },
+  "entite_1396": {
+    "label": "LOC",
+    "text": "Derrière",
+    "jalons": [
+      214331,
+      214339
+    ]
+  },
+  "entite_1397": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      214789,
+      214796
+    ]
+  },
+  "entite_1398": {
+    "label": "LOC",
+    "text": "Grenade",
+    "jalons": [
+      214825,
+      214832
+    ]
+  },
+  "entite_1399": {
+    "label": "MISC",
+    "text": "Troglodytes des Gitanos",
+    "jalons": [
+      214861,
+      214884
+    ]
+  },
+  "entite_1400": {
+    "label": "LOC",
+    "text": "Monte-Sagrado",
+    "jalons": [
+      214923,
+      214936
+    ]
+  },
+  "entite_1401": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      215144,
+      215152
+    ]
+  },
+  "entite_1402": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      215452,
+      215458
+    ]
+  },
+  "entite_1403": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      215462,
+      215470
+    ]
+  },
+  "entite_1404": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      215919,
+      215926
+    ]
+  },
+  "entite_1405": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      216017,
+      216025
+    ]
+  },
+  "entite_1406": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      216563,
+      216570
+    ]
+  },
+  "entite_1407": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      216756,
+      216764
+    ]
+  },
+  "entite_1408": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      217039,
+      217046
+    ]
+  },
+  "entite_1409": {
+    "label": "PER",
+    "text": "Mme de Salcedo",
+    "jalons": [
+      217156,
+      217170
+    ]
+  },
+  "entite_1410": {
+    "label": "ORG",
+    "text": "Generalife",
+    "jalons": [
+      217248,
+      217258
+    ]
+  },
+  "entite_1411": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      217307,
+      217313
+    ]
+  },
+  "entite_1412": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      217349,
+      217356
+    ]
+  },
+  "entite_1413": {
+    "label": "LOC",
+    "text": "Amérique",
+    "jalons": [
+      217631,
+      217639
+    ]
+  },
+  "entite_1414": {
+    "label": "LOC",
+    "text": "Lima",
+    "jalons": [
+      217644,
+      217648
+    ]
+  },
+  "entite_1415": {
+    "label": "LOC",
+    "text": "Puerto de Santa Maria",
+    "jalons": [
+      217696,
+      217717
+    ]
+  },
+  "entite_1416": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      217720,
+      217726
+    ]
+  },
+  "entite_1417": {
+    "label": "LOC",
+    "text": "Cadix",
+    "jalons": [
+      217760,
+      217765
+    ]
+  },
+  "entite_1418": {
+    "label": "LOC",
+    "text": "Manille",
+    "jalons": [
+      217820,
+      217827
+    ]
+  },
+  "entite_1419": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      217924,
+      217932
+    ]
+  },
+  "entite_1420": {
+    "label": "LOC",
+    "text": "Cadix",
+    "jalons": [
+      218116,
+      218121
+    ]
+  },
+  "entite_1421": {
+    "label": "LOC",
+    "text": "Puerto",
+    "jalons": [
+      218124,
+      218130
+    ]
+  },
+  "entite_1422": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      218710,
+      218716
+    ]
+  },
+  "entite_1423": {
+    "label": "LOC",
+    "text": "Militona",
+    "jalons": [
+      218720,
+      218728
+    ]
+  },
+  "entite_1424": {
+    "label": "LOC",
+    "text": "Puerto",
+    "jalons": [
+      218916,
+      218922
+    ]
+  },
+  "entite_1425": {
+    "label": "PER",
+    "text": "Levez",
+    "jalons": [
+      218925,
+      218930
+    ]
+  },
+  "entite_1426": {
+    "label": "LOC",
+    "text": "Cadix",
+    "jalons": [
+      218955,
+      218960
+    ]
+  },
+  "entite_1427": {
+    "label": "PER",
+    "text": "Byron",
+    "jalons": [
+      219046,
+      219051
+    ]
+  },
+  "entite_1428": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      219228,
+      219236
+    ]
+  },
+  "entite_1429": {
+    "label": "ORG",
+    "text": "Alameda",
+    "jalons": [
+      219291,
+      219298
+    ]
+  },
+  "entite_1430": {
+    "label": "PER",
+    "text": "col assujetti",
+    "jalons": [
+      219442,
+      219455
+    ]
+  },
+  "entite_1431": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      219902,
+      219910
+    ]
+  },
+  "entite_1432": {
+    "label": "LOC",
+    "text": "Française",
+    "jalons": [
+      220002,
+      220011
+    ]
+  },
+  "entite_1433": {
+    "label": "LOC",
+    "text": "Anglaise",
+    "jalons": [
+      220015,
+      220023
+    ]
+  },
+  "entite_1434": {
+    "label": "LOC",
+    "text": "la Péninsule",
+    "jalons": [
+      220108,
+      220120
+    ]
+  },
+  "entite_1435": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      220249,
+      220254
+    ]
+  },
+  "entite_1436": {
+    "label": "LOC",
+    "text": "l'Andalousie",
+    "jalons": [
+      220350,
+      220362
+    ]
+  },
+  "entite_1437": {
+    "label": "MISC",
+    "text": "auberge de Vista-Alegre",
+    "jalons": [
+      220412,
+      220435
+    ]
+  },
+  "entite_1438": {
+    "label": "LOC",
+    "text": "Puerto de Santa Maria",
+    "jalons": [
+      220686,
+      220707
+    ]
+  },
+  "entite_1439": {
+    "label": "PER",
+    "text": "Xérès de la Frontera",
+    "jalons": [
+      220714,
+      220734
+    ]
+  },
+  "entite_1440": {
+    "label": "LOC",
+    "text": "Montés",
+    "jalons": [
+      221228,
+      221234
+    ]
+  },
+  "entite_1441": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      221299,
+      221305
+    ]
+  },
+  "entite_1442": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      221309,
+      221317
+    ]
+  },
+  "entite_1443": {
+    "label": "LOC",
+    "text": "garnie de jais",
+    "jalons": [
+      221422,
+      221436
+    ]
+  },
+  "entite_1444": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      221975,
+      221981
+    ]
+  },
+  "entite_1445": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      222037,
+      222045
+    ]
+  },
+  "entite_1446": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      222161,
+      222168
+    ]
+  },
+  "entite_1447": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      222440,
+      222446
+    ]
+  },
+  "entite_1448": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      222474,
+      222481
+    ]
+  },
+  "entite_1449": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      222600,
+      222605
+    ]
+  },
+  "entite_1450": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      222613,
+      222620
+    ]
+  },
+  "entite_1451": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      222629,
+      222635
+    ]
+  },
+  "entite_1452": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      222697,
+      222701
+    ]
+  },
+  "entite_1453": {
+    "label": "MISC",
+    "text": "Mon ami",
+    "jalons": [
+      222784,
+      222791
+    ]
+  },
+  "entite_1454": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      222813,
+      222821
+    ]
+  },
+  "entite_1455": {
+    "label": "LOC",
+    "text": "Que veux-tu",
+    "jalons": [
+      222945,
+      222956
+    ]
+  },
+  "entite_1456": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      222980,
+      222986
+    ]
+  },
+  "entite_1457": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      223087,
+      223094
+    ]
+  },
+  "entite_1458": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      223418,
+      223425
+    ]
+  },
+  "entite_1459": {
+    "label": "PER",
+    "text": "Achille",
+    "jalons": [
+      223502,
+      223509
+    ]
+  },
+  "entite_1460": {
+    "label": "PER",
+    "text": "Roland",
+    "jalons": [
+      223516,
+      223522
+    ]
+  },
+  "entite_1461": {
+    "label": "MISC",
+    "text": "Cid Campeador",
+    "jalons": [
+      223910,
+      223923
+    ]
+  },
+  "entite_1462": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      224172,
+      224179
+    ]
+  },
+  "entite_1463": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      224348,
+      224355
+    ]
+  },
+  "entite_1464": {
+    "label": "PER",
+    "text": "Tudieu",
+    "jalons": [
+      224660,
+      224666
+    ]
+  },
+  "entite_1465": {
+    "label": "LOC",
+    "text": "Andrès",
+    "jalons": [
+      224675,
+      224681
+    ]
+  },
+  "entite_1466": {
+    "label": "LOC",
+    "text": "Montès",
+    "jalons": [
+      224683,
+      224689
+    ]
+  },
+  "entite_1467": {
+    "label": "LOC",
+    "text": "Chiclanero",
+    "jalons": [
+      224694,
+      224704
+    ]
+  },
+  "entite_1468": {
+    "label": "LOC",
+    "text": "Arjona",
+    "jalons": [
+      224706,
+      224712
+    ]
+  },
+  "entite_1469": {
+    "label": "LOC",
+    "text": "Labi",
+    "jalons": [
+      224714,
+      224718
+    ]
+  },
+  "entite_1470": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      224760,
+      224767
+    ]
+  },
+  "entite_1471": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      224868,
+      224875
+    ]
+  },
+  "entite_1472": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      224978,
+      224986
+    ]
+  },
+  "entite_1473": {
+    "label": "PER",
+    "text": "Andrès",
+    "jalons": [
+      225032,
+      225038
+    ]
+  },
+  "entite_1474": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      225138,
+      225145
+    ]
+  },
+  "entite_1475": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      225231,
+      225238
+    ]
+  },
+  "entite_1476": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      225734,
+      225741
+    ]
+  },
+  "entite_1477": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      225775,
+      225783
+    ]
+  },
+  "entite_1478": {
+    "label": "PER",
+    "text": "Militona",
+    "jalons": [
+      226095,
+      226103
+    ]
+  },
+  "entite_1479": {
+    "label": "PER",
+    "text": "Juancho",
+    "jalons": [
+      226198,
+      226205
+    ]
+  }
+}
