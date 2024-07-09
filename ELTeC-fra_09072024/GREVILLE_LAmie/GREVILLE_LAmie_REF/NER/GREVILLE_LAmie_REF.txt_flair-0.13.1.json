@@ -1,0 +1,4794 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Monsieur Paul Brécart a l'honneur de vous faire part de",
+    "jalons": [
+      5,
+      60
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Claire Langé",
+    "jalons": [
+      91,
+      103
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Saint-Martin-les-Mines",
+    "jalons": [
+      108,
+      130
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Larmes de",
+    "jalons": [
+      74,
+      83
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      289,
+      296
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      132,
+      139
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      236,
+      243
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      41,
+      46
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "dans quelques rues des Batignolles ou de l'île Saint-Louis",
+    "jalons": [
+      48,
+      106
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "La salle",
+    "jalons": [
+      503,
+      511
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      291,
+      296
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "M. Frogé",
+    "jalons": [
+      358,
+      366
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      274,
+      279
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      257,
+      264
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "de la Seine",
+    "jalons": [
+      3,
+      14
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      143,
+      150
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Bonsoir",
+    "jalons": [
+      174,
+      181
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      223,
+      230
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Bonsoir",
+    "jalons": [
+      223,
+      230
+    ]
+  },
+  "entite_19": {
+    "label": "ORG",
+    "text": "Elle",
+    "jalons": [
+      507,
+      511
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Sébastien",
+    "jalons": [
+      33,
+      42
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Isabelle",
+    "jalons": [
+      68,
+      76
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Camille ! Ils",
+    "jalons": [
+      498,
+      511
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Sébastien",
+    "jalons": [
+      390,
+      399
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Sébastien",
+    "jalons": [
+      240,
+      249
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      295,
+      302
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "M. Frogé",
+    "jalons": [
+      485,
+      493
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      24,
+      31
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      35,
+      40
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      393,
+      400
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      101,
+      106
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "d'autres trouvent dans la musique de quoi",
+    "jalons": [
+      8,
+      49
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "de Camille",
+    "jalons": [
+      10,
+      20
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "la petite ville de Saint-Martin-les-Mines",
+    "jalons": [
+      215,
+      256
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      251,
+      258
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Dans la petite ville de Saint-Martin",
+    "jalons": [
+      72,
+      108
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Camille Frogé",
+    "jalons": [
+      32,
+      45
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      299,
+      304
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Saint-Germain",
+    "jalons": [
+      422,
+      435
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "Gustave Mirmont",
+    "jalons": [
+      140,
+      155
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      466,
+      473
+    ]
+  },
+  "entite_41": {
+    "label": "ORG",
+    "text": "Cami",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      450,
+      455
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Madame Frogé",
+    "jalons": [
+      360,
+      372
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      15,
+      22
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Brécart",
+    "jalons": [
+      178,
+      185
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Saint-Martin",
+    "jalons": [
+      240,
+      252
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      123,
+      128
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      383,
+      390
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Saint-Martin",
+    "jalons": [
+      311,
+      323
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      327,
+      334
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      104,
+      109
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      318,
+      323
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "Louvois",
+    "jalons": [
+      451,
+      458
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      39,
+      46
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Louvois",
+    "jalons": [
+      146,
+      153
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      266,
+      273
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "la clarté de la lune",
+    "jalons": [
+      453,
+      473
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Camille s'approcha",
+    "jalons": [
+      491,
+      509
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Près de la porte",
+    "jalons": [
+      301,
+      317
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      476,
+      483
+    ]
+  },
+  "entite_61": {
+    "label": "ORG",
+    "text": "de l'hôtel Louvois",
+    "jalons": [
+      492,
+      510
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      122,
+      127
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      121,
+      128
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      168,
+      175
+    ]
+  },
+  "entite_65": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      233,
+      240
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      298,
+      303
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Certes",
+    "jalons": [
+      379,
+      385
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "Paul Brécart",
+    "jalons": [
+      495,
+      507
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      136,
+      141
+    ]
+  },
+  "entite_70": {
+    "label": "MISC",
+    "text": "lle croyait à l'influence mauvaise de la chair sur l'esprit",
+    "jalons": [
+      0,
+      59
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "de Paul",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_72": {
+    "label": "MISC",
+    "text": "cessa de la hanter",
+    "jalons": [
+      1,
+      19
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      78,
+      85
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      441,
+      448
+    ]
+  },
+  "entite_75": {
+    "label": "MISC",
+    "text": "cessa d'éviter le quartier Louvois",
+    "jalons": [
+      1,
+      35
+    ]
+  },
+  "entite_76": {
+    "label": "LOC",
+    "text": "Richelieu",
+    "jalons": [
+      101,
+      110
+    ]
+  },
+  "entite_77": {
+    "label": "MISC",
+    "text": "Camille",
+    "jalons": [
+      40,
+      47
+    ]
+  },
+  "entite_78": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      322,
+      328
+    ]
+  },
+  "entite_79": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      420,
+      427
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      45,
+      52
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "M. Félix Brécart",
+    "jalons": [
+      243,
+      259
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      378,
+      385
+    ]
+  },
+  "entite_83": {
+    "label": "MISC",
+    "text": "ères de famille !  Elle promenait de",
+    "jalons": [
+      0,
+      36
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      157,
+      162
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      173,
+      180
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "Rue de Rivoli",
+    "jalons": [
+      202,
+      215
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      494,
+      499
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      104,
+      111
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "Viens de bonne",
+    "jalons": [
+      355,
+      369
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      15,
+      22
+    ]
+  },
+  "entite_91": {
+    "label": "MISC",
+    "text": "Dans les idées de la tante Belle",
+    "jalons": [
+      314,
+      346
+    ]
+  },
+  "entite_92": {
+    "label": "LOC",
+    "text": "Dimanche",
+    "jalons": [
+      410,
+      418
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "Claire Brécart",
+    "jalons": [
+      480,
+      494
+    ]
+  },
+  "entite_94": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      163,
+      168
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "Saint-Cloud",
+    "jalons": [
+      500,
+      511
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      44,
+      51
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      504,
+      511
+    ]
+  },
+  "entite_98": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      387,
+      394
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      24,
+      31
+    ]
+  },
+  "entite_100": {
+    "label": "MISC",
+    "text": "Tu es une Romaine",
+    "jalons": [
+      33,
+      50
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "Toujou",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_102": {
+    "label": "MISC",
+    "text": "Camille en scrutant le visage de la jeune",
+    "jalons": [
+      0,
+      41
+    ]
+  },
+  "entite_103": {
+    "label": "PER",
+    "text": "Camille baissa",
+    "jalons": [
+      14,
+      28
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "Toujours",
+    "jalons": [
+      86,
+      94
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      153,
+      160
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      45,
+      52
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Paul Brécart",
+    "jalons": [
+      133,
+      145
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      3,
+      10
+    ]
+  },
+  "entite_109": {
+    "label": "MISC",
+    "text": "Claire en poussant la jeune fille",
+    "jalons": [
+      32,
+      65
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      301,
+      308
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      467,
+      473
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      350,
+      357
+    ]
+  },
+  "entite_113": {
+    "label": "PER",
+    "text": "demanda Camille",
+    "jalons": [
+      54,
+      69
+    ]
+  },
+  "entite_114": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      414,
+      421
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "Claire",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "Paul et moi",
+    "jalons": [
+      93,
+      104
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "Guillaume Tell",
+    "jalons": [
+      135,
+      149
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      300,
+      307
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      472,
+      479
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "J'admire",
+    "jalons": [
+      187,
+      195
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      45,
+      51
+    ]
+  },
+  "entite_122": {
+    "label": "PER",
+    "text": "Paul Brécart",
+    "jalons": [
+      264,
+      276
+    ]
+  },
+  "entite_123": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      463,
+      470
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      69,
+      76
+    ]
+  },
+  "entite_125": {
+    "label": "LOC",
+    "text": "Meilleurs",
+    "jalons": [
+      338,
+      347
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      362,
+      369
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      93,
+      100
+    ]
+  },
+  "entite_128": {
+    "label": "PER",
+    "text": "Camille dans le blanc des yeux",
+    "jalons": [
+      47,
+      77
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      100,
+      107
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      389,
+      395
+    ]
+  },
+  "entite_131": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      397,
+      404
+    ]
+  },
+  "entite_132": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      401,
+      408
+    ]
+  },
+  "entite_133": {
+    "label": "MISC",
+    "text": "l'aide des bras et des épaules de",
+    "jalons": [
+      1,
+      34
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "Paul se rapprocha de la fenêtre",
+    "jalons": [
+      51,
+      82
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "la musique de sa",
+    "jalons": [
+      20,
+      36
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "Fais-moi de la",
+    "jalons": [
+      240,
+      254
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      493,
+      500
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      139,
+      146
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      466,
+      473
+    ]
+  },
+  "entite_140": {
+    "label": "LOC",
+    "text": "L'idée de voir",
+    "jalons": [
+      485,
+      499
+    ]
+  },
+  "entite_141": {
+    "label": "LOC",
+    "text": "Bréca",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      1,
+      8
+    ]
+  },
+  "entite_143": {
+    "label": "LOC",
+    "text": "La Seine",
+    "jalons": [
+      477,
+      485
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "Bengale",
+    "jalons": [
+      387,
+      394
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      399,
+      404
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "Seine",
+    "jalons": [
+      366,
+      371
+    ]
+  },
+  "entite_147": {
+    "label": "PER",
+    "text": "Paul Brécart",
+    "jalons": [
+      496,
+      508
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "Camille de mille",
+    "jalons": [
+      7,
+      23
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      479,
+      486
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "Toujours",
+    "jalons": [
+      493,
+      501
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      199,
+      205
+    ]
+  },
+  "entite_152": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      163,
+      170
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      225,
+      232
+    ]
+  },
+  "entite_154": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      374,
+      381
+    ]
+  },
+  "entite_155": {
+    "label": "PER",
+    "text": "Paul alluma",
+    "jalons": [
+      447,
+      458
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      434,
+      440
+    ]
+  },
+  "entite_157": {
+    "label": "PER",
+    "text": "J'ai pitié d'elle",
+    "jalons": [
+      22,
+      39
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      264,
+      269
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      321,
+      328
+    ]
+  },
+  "entite_160": {
+    "label": "LOC",
+    "text": "Saint-Martin",
+    "jalons": [
+      403,
+      415
+    ]
+  },
+  "entite_161": {
+    "label": "PER",
+    "text": "Claire garda",
+    "jalons": [
+      415,
+      427
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      496,
+      500
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "si Camille",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "Gustave Mirmont",
+    "jalons": [
+      444,
+      459
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Sébastien",
+    "jalons": [
+      456,
+      465
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      498,
+      500
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      157,
+      164
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      340,
+      347
+    ]
+  },
+  "entite_169": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      239,
+      246
+    ]
+  },
+  "entite_170": {
+    "label": "ORG",
+    "text": "celui de Mirmont",
+    "jalons": [
+      467,
+      483
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      282,
+      287
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      349,
+      354
+    ]
+  },
+  "entite_173": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      386,
+      392
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Claire Laugé",
+    "jalons": [
+      394,
+      406
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "Madame Claire Brécart",
+    "jalons": [
+      478,
+      499
+    ]
+  },
+  "entite_176": {
+    "label": "MISC",
+    "text": "l'héritier de toute la gloire de son papa et de toutes les",
+    "jalons": [
+      27,
+      85
+    ]
+  },
+  "entite_177": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      287,
+      292
+    ]
+  },
+  "entite_178": {
+    "label": "PER",
+    "text": "Sébastien et Camille",
+    "jalons": [
+      472,
+      492
+    ]
+  },
+  "entite_179": {
+    "label": "LOC",
+    "text": "Sébastien",
+    "jalons": [
+      495,
+      504
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "Saint-Martin",
+    "jalons": [
+      213,
+      225
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      320,
+      327
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      197,
+      204
+    ]
+  },
+  "entite_183": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      401,
+      408
+    ]
+  },
+  "entite_184": {
+    "label": "LOC",
+    "text": "qui lui",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_185": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      288,
+      295
+    ]
+  },
+  "entite_186": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      246,
+      253
+    ]
+  },
+  "entite_187": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      171,
+      178
+    ]
+  },
+  "entite_188": {
+    "label": "LOC",
+    "text": "Ca",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      425,
+      432
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      434,
+      441
+    ]
+  },
+  "entite_191": {
+    "label": "MISC",
+    "text": "dans les dentelles de son corsage",
+    "jalons": [
+      1,
+      34
+    ]
+  },
+  "entite_192": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      144,
+      151
+    ]
+  },
+  "entite_193": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      172,
+      177
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "la fente de la porte de la",
+    "jalons": [
+      195,
+      221
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Gustave Mirmont",
+    "jalons": [
+      303,
+      318
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "M. Mirmont",
+    "jalons": [
+      462,
+      472
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "de la Providence",
+    "jalons": [
+      22,
+      38
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      128,
+      135
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      422,
+      429
+    ]
+  },
+  "entite_200": {
+    "label": "LOC",
+    "text": "Fort bien",
+    "jalons": [
+      106,
+      115
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      279,
+      286
+    ]
+  },
+  "entite_202": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      234,
+      241
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      254,
+      261
+    ]
+  },
+  "entite_204": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      485,
+      492
+    ]
+  },
+  "entite_205": {
+    "label": "LOC",
+    "text": "Moi",
+    "jalons": [
+      497,
+      500
+    ]
+  },
+  "entite_206": {
+    "label": "LOC",
+    "text": "Mirmon",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "Bonsoir",
+    "jalons": [
+      162,
+      169
+    ]
+  },
+  "entite_208": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      490,
+      497
+    ]
+  },
+  "entite_209": {
+    "label": "MISC",
+    "text": "l'autre des deux",
+    "jalons": [
+      19,
+      35
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      198,
+      205
+    ]
+  },
+  "entite_211": {
+    "label": "MISC",
+    "text": "Saint-Louis et dans les environs de la place des Vosges que",
+    "jalons": [
+      308,
+      367
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      95,
+      101
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      181,
+      186
+    ]
+  },
+  "entite_214": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      290,
+      297
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      51,
+      56
+    ]
+  },
+  "entite_216": {
+    "label": "MISC",
+    "text": "ser les yeux et de les relever en plein sur",
+    "jalons": [
+      0,
+      43
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "Paul Brécart",
+    "jalons": [
+      80,
+      92
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      21,
+      28
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      486,
+      491
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "Rien",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "Madame Brécart",
+    "jalons": [
+      417,
+      431
+    ]
+  },
+  "entite_222": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      40,
+      45
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Frogé",
+    "jalons": [
+      500,
+      505
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      224,
+      229
+    ]
+  },
+  "entite_225": {
+    "label": "PER",
+    "text": "Claude Bernard",
+    "jalons": [
+      414,
+      428
+    ]
+  },
+  "entite_226": {
+    "label": "PER",
+    "text": "celles de Berthelot",
+    "jalons": [
+      430,
+      449
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "d'Émile Zola",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      73,
+      80
+    ]
+  },
+  "entite_229": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      365,
+      372
+    ]
+  },
+  "entite_230": {
+    "label": "MISC",
+    "text": "Tour du Monde",
+    "jalons": [
+      114,
+      127
+    ]
+  },
+  "entite_231": {
+    "label": "PER",
+    "text": "Paul n'avait pas",
+    "jalons": [
+      139,
+      155
+    ]
+  },
+  "entite_232": {
+    "label": "MISC",
+    "text": "l'air de se douter de son malheur",
+    "jalons": [
+      156,
+      189
+    ]
+  },
+  "entite_233": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      504,
+      511
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      207,
+      214
+    ]
+  },
+  "entite_235": {
+    "label": "PER",
+    "text": "Struve",
+    "jalons": [
+      95,
+      101
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      181,
+      188
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      490,
+      497
+    ]
+  },
+  "entite_238": {
+    "label": "MISC",
+    "text": "yeux de Camille",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      397,
+      404
+    ]
+  },
+  "entite_240": {
+    "label": "PER",
+    "text": "Paul ajouta",
+    "jalons": [
+      494,
+      505
+    ]
+  },
+  "entite_241": {
+    "label": "PER",
+    "text": "Gustave Mirmont",
+    "jalons": [
+      458,
+      473
+    ]
+  },
+  "entite_242": {
+    "label": "LOC",
+    "text": "les lumières de la",
+    "jalons": [
+      414,
+      432
+    ]
+  },
+  "entite_243": {
+    "label": "ORG",
+    "text": "La jeune",
+    "jalons": [
+      501,
+      509
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "la porte",
+    "jalons": [
+      494,
+      502
+    ]
+  },
+  "entite_245": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      48,
+      55
+    ]
+  },
+  "entite_246": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      219,
+      226
+    ]
+  },
+  "entite_247": {
+    "label": "PER",
+    "text": "Il lui",
+    "jalons": [
+      6,
+      12
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "la petite ville de Saint-Martin",
+    "jalons": [
+      134,
+      165
+    ]
+  },
+  "entite_249": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      255,
+      262
+    ]
+  },
+  "entite_250": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      207,
+      213
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      105,
+      112
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "Camille garda",
+    "jalons": [
+      292,
+      305
+    ]
+  },
+  "entite_253": {
+    "label": "PER",
+    "text": "Clai",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_254": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      329,
+      336
+    ]
+  },
+  "entite_255": {
+    "label": "MISC",
+    "text": "Parlons de toi",
+    "jalons": [
+      441,
+      455
+    ]
+  },
+  "entite_256": {
+    "label": "MISC",
+    "text": "Laugé qui avait reçu l'aveu du jeune homme et lui",
+    "jalons": [
+      364,
+      413
+    ]
+  },
+  "entite_257": {
+    "label": "PER",
+    "text": "de Joseph Prudhomme",
+    "jalons": [
+      40,
+      59
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      246,
+      253
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      270,
+      277
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "Paul Brécart",
+    "jalons": [
+      407,
+      419
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      501,
+      507
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      195,
+      202
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "Jamais",
+    "jalons": [
+      468,
+      474
+    ]
+  },
+  "entite_264": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      23,
+      30
+    ]
+  },
+  "entite_265": {
+    "label": "PER",
+    "text": "Claire",
+    "jalons": [
+      70,
+      76
+    ]
+  },
+  "entite_266": {
+    "label": "MISC",
+    "text": "La présence de Paul ne la",
+    "jalons": [
+      391,
+      416
+    ]
+  },
+  "entite_267": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      197,
+      203
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      490,
+      494
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "Certes",
+    "jalons": [
+      223,
+      229
+    ]
+  },
+  "entite_270": {
+    "label": "MISC",
+    "text": "Claire le mari que Dieu et les hommes lui",
+    "jalons": [
+      380,
+      421
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Claire ramenait sans cesse",
+    "jalons": [
+      14,
+      40
+    ]
+  },
+  "entite_272": {
+    "label": "PER",
+    "text": "de Claire",
+    "jalons": [
+      11,
+      20
+    ]
+  },
+  "entite_273": {
+    "label": "PER",
+    "text": "Claire n'avait",
+    "jalons": [
+      22,
+      36
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "Paul chez lui",
+    "jalons": [
+      367,
+      380
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      331,
+      338
+    ]
+  },
+  "entite_276": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      400,
+      407
+    ]
+  },
+  "entite_277": {
+    "label": "PER",
+    "text": "Certes",
+    "jalons": [
+      470,
+      476
+    ]
+  },
+  "entite_278": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      202,
+      209
+    ]
+  },
+  "entite_279": {
+    "label": "MISC",
+    "text": "Camille qui faisait à Claire des homélies sur le devoir en",
+    "jalons": [
+      37,
+      95
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Tant de",
+    "jalons": [
+      166,
+      173
+    ]
+  },
+  "entite_281": {
+    "label": "PER",
+    "text": "Gustave Mirmont",
+    "jalons": [
+      160,
+      175
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      175,
+      182
+    ]
+  },
+  "entite_283": {
+    "label": "PER",
+    "text": "jouir de la présence de Paul Brécart",
+    "jalons": [
+      1,
+      37
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "Paul Brécart",
+    "jalons": [
+      443,
+      455
+    ]
+  },
+  "entite_285": {
+    "label": "MISC",
+    "text": "yeux de Camille et mettait sur",
+    "jalons": [
+      35,
+      65
+    ]
+  },
+  "entite_286": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      22,
+      29
+    ]
+  },
+  "entite_287": {
+    "label": "PER",
+    "text": "afin de pousser Camille",
+    "jalons": [
+      0,
+      23
+    ]
+  },
+  "entite_288": {
+    "label": "LOC",
+    "text": "Camill",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_289": {
+    "label": "MISC",
+    "text": "Camille un jour en",
+    "jalons": [
+      11,
+      29
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      260,
+      266
+    ]
+  },
+  "entite_291": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      393,
+      400
+    ]
+  },
+  "entite_292": {
+    "label": "PER",
+    "text": "Paul",
+    "jalons": [
+      392,
+      396
+    ]
+  },
+  "entite_293": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      404,
+      411
+    ]
+  },
+  "entite_294": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      400,
+      407
+    ]
+  },
+  "entite_295": {
+    "label": "LOC",
+    "text": "Paul",
+    "jalons": [
+      420,
+      424
+    ]
+  },
+  "entite_296": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      449,
+      455
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "Dors",
+    "jalons": [
+      408,
+      412
+    ]
+  },
+  "entite_298": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      76,
+      83
+    ]
+  },
+  "entite_299": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      237,
+      244
+    ]
+  },
+  "entite_300": {
+    "label": "LOC",
+    "text": "Mai",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_301": {
+    "label": "LOC",
+    "text": "Croyez-moi",
+    "jalons": [
+      55,
+      65
+    ]
+  },
+  "entite_302": {
+    "label": "PER",
+    "text": "Paul pensa",
+    "jalons": [
+      460,
+      470
+    ]
+  },
+  "entite_303": {
+    "label": "LOC",
+    "text": "Brécart",
+    "jalons": [
+      197,
+      204
+    ]
+  },
+  "entite_304": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      334,
+      341
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      444,
+      452
+    ]
+  },
+  "entite_306": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      340,
+      348
+    ]
+  },
+  "entite_307": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      126,
+      131
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      126,
+      132
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      176,
+      183
+    ]
+  },
+  "entite_310": {
+    "label": "PER",
+    "text": "elle aimait",
+    "jalons": [
+      1,
+      12
+    ]
+  },
+  "entite_311": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      355,
+      362
+    ]
+  },
+  "entite_312": {
+    "label": "PER",
+    "text": "Claire",
+    "jalons": [
+      38,
+      44
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      464,
+      471
+    ]
+  },
+  "entite_314": {
+    "label": "PER",
+    "text": "Camille toussa",
+    "jalons": [
+      119,
+      133
+    ]
+  },
+  "entite_315": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      208,
+      214
+    ]
+  },
+  "entite_316": {
+    "label": "LOC",
+    "text": "Bonsoir",
+    "jalons": [
+      346,
+      353
+    ]
+  },
+  "entite_317": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      355,
+      361
+    ]
+  },
+  "entite_318": {
+    "label": "PER",
+    "text": "Claire se leva",
+    "jalons": [
+      494,
+      508
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      173,
+      178
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      130,
+      136
+    ]
+  },
+  "entite_321": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      260,
+      267
+    ]
+  },
+  "entite_322": {
+    "label": "MISC",
+    "text": "sa jeunesse et dans",
+    "jalons": [
+      1,
+      20
+    ]
+  },
+  "entite_323": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_324": {
+    "label": "LOC",
+    "text": "Bois",
+    "jalons": [
+      323,
+      327
+    ]
+  },
+  "entite_325": {
+    "label": "ORG",
+    "text": "Elle se",
+    "jalons": [
+      504,
+      511
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      157,
+      163
+    ]
+  },
+  "entite_327": {
+    "label": "PER",
+    "text": "Madame Laugé",
+    "jalons": [
+      343,
+      355
+    ]
+  },
+  "entite_328": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      70,
+      76
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      412,
+      419
+    ]
+  },
+  "entite_330": {
+    "label": "PER",
+    "text": "Camille resta",
+    "jalons": [
+      147,
+      160
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      166,
+      172
+    ]
+  },
+  "entite_332": {
+    "label": "MISC",
+    "text": "Elle avait sur le cœur la dernière visite de Camille",
+    "jalons": [
+      175,
+      227
+    ]
+  },
+  "entite_333": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      44,
+      51
+    ]
+  },
+  "entite_334": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      96,
+      103
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      408,
+      414
+    ]
+  },
+  "entite_336": {
+    "label": "PER",
+    "text": "Paul n'avait",
+    "jalons": [
+      292,
+      304
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      158,
+      164
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      354,
+      361
+    ]
+  },
+  "entite_339": {
+    "label": "PER",
+    "text": "Déjà souffra",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_340": {
+    "label": "PER",
+    "text": "Claire",
+    "jalons": [
+      499,
+      505
+    ]
+  },
+  "entite_341": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      192,
+      199
+    ]
+  },
+  "entite_342": {
+    "label": "MISC",
+    "text": "C'est Camille",
+    "jalons": [
+      484,
+      497
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Qu'elle",
+    "jalons": [
+      502,
+      509
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Bonsoir",
+    "jalons": [
+      334,
+      341
+    ]
+  },
+  "entite_345": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      429,
+      436
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      438,
+      446
+    ]
+  },
+  "entite_347": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      165,
+      172
+    ]
+  },
+  "entite_348": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      484,
+      491
+    ]
+  },
+  "entite_349": {
+    "label": "PER",
+    "text": "Gustave Mirmont",
+    "jalons": [
+      193,
+      208
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      424,
+      431
+    ]
+  },
+  "entite_351": {
+    "label": "PER",
+    "text": "ui lui",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_352": {
+    "label": "PER",
+    "text": "Camille s'ennuyait",
+    "jalons": [
+      168,
+      186
+    ]
+  },
+  "entite_353": {
+    "label": "LOC",
+    "text": "Saint-Martin",
+    "jalons": [
+      496,
+      508
+    ]
+  },
+  "entite_354": {
+    "label": "PER",
+    "text": "Paul de",
+    "jalons": [
+      335,
+      342
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "Certes",
+    "jalons": [
+      486,
+      492
+    ]
+  },
+  "entite_356": {
+    "label": "PER",
+    "text": "Paul célibataire",
+    "jalons": [
+      494,
+      510
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      168,
+      175
+    ]
+  },
+  "entite_358": {
+    "label": "LOC",
+    "text": "la voix de Mirmont dans le",
+    "jalons": [
+      262,
+      288
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      296,
+      303
+    ]
+  },
+  "entite_360": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      448,
+      455
+    ]
+  },
+  "entite_361": {
+    "label": "LOC",
+    "text": "Dieu de la",
+    "jalons": [
+      469,
+      479
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Le",
+    "jalons": [
+      509,
+      511
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "Mi",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_364": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      81,
+      88
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      413,
+      420
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      404,
+      411
+    ]
+  },
+  "entite_367": {
+    "label": "LOC",
+    "text": "de Camille",
+    "jalons": [
+      447,
+      457
+    ]
+  },
+  "entite_368": {
+    "label": "LOC",
+    "text": "de la beauté de la jeune fille",
+    "jalons": [
+      49,
+      79
+    ]
+  },
+  "entite_369": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      196,
+      203
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      370,
+      377
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Mademoiselle",
+    "jalons": [
+      175,
+      187
+    ]
+  },
+  "entite_372": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      417,
+      424
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      308,
+      315
+    ]
+  },
+  "entite_374": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      442,
+      449
+    ]
+  },
+  "entite_375": {
+    "label": "LOC",
+    "text": "Celui-ci",
+    "jalons": [
+      451,
+      459
+    ]
+  },
+  "entite_376": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      132,
+      139
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      218,
+      225
+    ]
+  },
+  "entite_378": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      161,
+      168
+    ]
+  },
+  "entite_379": {
+    "label": "ORG",
+    "text": "Mirmont de cette",
+    "jalons": [
+      494,
+      510
+    ]
+  },
+  "entite_380": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      199,
+      206
+    ]
+  },
+  "entite_381": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      191,
+      198
+    ]
+  },
+  "entite_382": {
+    "label": "MISC",
+    "text": "Mirmont n'était pas de ceux qui",
+    "jalons": [
+      481,
+      512
+    ]
+  },
+  "entite_383": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      120,
+      127
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "Mademoiselle",
+    "jalons": [
+      454,
+      466
+    ]
+  },
+  "entite_385": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      404,
+      411
+    ]
+  },
+  "entite_386": {
+    "label": "LOC",
+    "text": "continua Mirmon",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_387": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_388": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      472,
+      479
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      183,
+      190
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      464,
+      471
+    ]
+  },
+  "entite_391": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      324,
+      331
+    ]
+  },
+  "entite_392": {
+    "label": "PER",
+    "text": "Claire",
+    "jalons": [
+      116,
+      122
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      420,
+      427
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      480,
+      486
+    ]
+  },
+  "entite_395": {
+    "label": "PER",
+    "text": "Elle n'osait",
+    "jalons": [
+      489,
+      501
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      208,
+      215
+    ]
+  },
+  "entite_397": {
+    "label": "PER",
+    "text": "Paul le sacrifice de Mirmont",
+    "jalons": [
+      330,
+      358
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "Paul",
+    "jalons": [
+      372,
+      376
+    ]
+  },
+  "entite_399": {
+    "label": "PER",
+    "text": "Paul Brécart",
+    "jalons": [
+      104,
+      116
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      182,
+      189
+    ]
+  },
+  "entite_401": {
+    "label": "LOC",
+    "text": "Châtelet",
+    "jalons": [
+      488,
+      496
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "Devant la",
+    "jalons": [
+      499,
+      508
+    ]
+  },
+  "entite_403": {
+    "label": "PER",
+    "text": "Camille monta l'escalier",
+    "jalons": [
+      391,
+      415
+    ]
+  },
+  "entite_404": {
+    "label": "MISC",
+    "text": "Elle allait voir Paul et le voir",
+    "jalons": [
+      5,
+      37
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      9,
+      16
+    ]
+  },
+  "entite_406": {
+    "label": "MISC",
+    "text": "belle et pleine de mérite",
+    "jalons": [
+      1,
+      26
+    ]
+  },
+  "entite_407": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      264,
+      271
+    ]
+  },
+  "entite_408": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      394,
+      400
+    ]
+  },
+  "entite_409": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      470,
+      477
+    ]
+  },
+  "entite_410": {
+    "label": "ORG",
+    "text": "Elle",
+    "jalons": [
+      506,
+      510
+    ]
+  },
+  "entite_411": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      390,
+      397
+    ]
+  },
+  "entite_412": {
+    "label": "PER",
+    "text": "Camille était si belle",
+    "jalons": [
+      2,
+      24
+    ]
+  },
+  "entite_413": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      330,
+      336
+    ]
+  },
+  "entite_414": {
+    "label": "MISC",
+    "text": "aussitôt dans le devoir et la raison",
+    "jalons": [
+      4,
+      40
+    ]
+  },
+  "entite_415": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      108,
+      115
+    ]
+  },
+  "entite_416": {
+    "label": "LOC",
+    "text": "Pourqu",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_417": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      463,
+      470
+    ]
+  },
+  "entite_418": {
+    "label": "PER",
+    "text": "Claire que vous aimez",
+    "jalons": [
+      234,
+      255
+    ]
+  },
+  "entite_419": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      495,
+      501
+    ]
+  },
+  "entite_420": {
+    "label": "MISC",
+    "text": "quelque bonté de votre",
+    "jalons": [
+      0,
+      22
+    ]
+  },
+  "entite_421": {
+    "label": "LOC",
+    "text": "Mademoiselle",
+    "jalons": [
+      98,
+      110
+    ]
+  },
+  "entite_422": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      496,
+      503
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      176,
+      182
+    ]
+  },
+  "entite_424": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      255,
+      262
+    ]
+  },
+  "entite_425": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      261,
+      268
+    ]
+  },
+  "entite_426": {
+    "label": "PER",
+    "text": "Camille frémit",
+    "jalons": [
+      13,
+      27
+    ]
+  },
+  "entite_427": {
+    "label": "MISC",
+    "text": "C'est Claire qui me donnera de vos",
+    "jalons": [
+      434,
+      468
+    ]
+  },
+  "entite_428": {
+    "label": "LOC",
+    "text": "l'âme de Claire",
+    "jalons": [
+      494,
+      509
+    ]
+  },
+  "entite_429": {
+    "label": "LOC",
+    "text": "Boulogne",
+    "jalons": [
+      120,
+      128
+    ]
+  },
+  "entite_430": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      325,
+      331
+    ]
+  },
+  "entite_431": {
+    "label": "ORG",
+    "text": "Le cœur de Claire",
+    "jalons": [
+      494,
+      511
+    ]
+  },
+  "entite_432": {
+    "label": "MISC",
+    "text": "Toute la joie du passé, la confiance et la sécurité de l'avenir",
+    "jalons": [
+      246,
+      309
+    ]
+  },
+  "entite_433": {
+    "label": "LOC",
+    "text": "Boulogne",
+    "jalons": [
+      84,
+      92
+    ]
+  },
+  "entite_434": {
+    "label": "PER",
+    "text": "Gustave Mirmont",
+    "jalons": [
+      203,
+      218
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      461,
+      468
+    ]
+  },
+  "entite_436": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      181,
+      188
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      441,
+      448
+    ]
+  },
+  "entite_438": {
+    "label": "MISC",
+    "text": "Dans un landau de la compagnie",
+    "jalons": [
+      184,
+      214
+    ]
+  },
+  "entite_439": {
+    "label": "PER",
+    "text": "Paul Brécart",
+    "jalons": [
+      404,
+      416
+    ]
+  },
+  "entite_440": {
+    "label": "PER",
+    "text": "Gustave Mirmont",
+    "jalons": [
+      196,
+      211
+    ]
+  },
+  "entite_441": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      224,
+      229
+    ]
+  },
+  "entite_442": {
+    "label": "LOC",
+    "text": "Marais",
+    "jalons": [
+      89,
+      95
+    ]
+  },
+  "entite_443": {
+    "label": "LOC",
+    "text": "la Seine",
+    "jalons": [
+      105,
+      113
+    ]
+  },
+  "entite_444": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      474,
+      479
+    ]
+  },
+  "entite_445": {
+    "label": "LOC",
+    "text": "Saint-Louis",
+    "jalons": [
+      486,
+      497
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      100,
+      107
+    ]
+  },
+  "entite_447": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      242,
+      248
+    ]
+  },
+  "entite_448": {
+    "label": "LOC",
+    "text": "L'amertume de la",
+    "jalons": [
+      396,
+      412
+    ]
+  },
+  "entite_449": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      428,
+      435
+    ]
+  },
+  "entite_450": {
+    "label": "MISC",
+    "text": "Elle aimait la vie",
+    "jalons": [
+      67,
+      85
+    ]
+  },
+  "entite_451": {
+    "label": "LOC",
+    "text": "Isabelle",
+    "jalons": [
+      300,
+      308
+    ]
+  },
+  "entite_452": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      471,
+      478
+    ]
+  },
+  "entite_453": {
+    "label": "LOC",
+    "text": "Sébastien",
+    "jalons": [
+      215,
+      224
+    ]
+  },
+  "entite_454": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      470,
+      475
+    ]
+  },
+  "entite_455": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      347,
+      352
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      431,
+      436
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "Ca",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_458": {
+    "label": "PER",
+    "text": "Sébastien la",
+    "jalons": [
+      26,
+      38
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      328,
+      335
+    ]
+  },
+  "entite_460": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      262,
+      269
+    ]
+  },
+  "entite_461": {
+    "label": "LOC",
+    "text": "Isabelle",
+    "jalons": [
+      245,
+      253
+    ]
+  },
+  "entite_462": {
+    "label": "PER",
+    "text": "Camille se",
+    "jalons": [
+      274,
+      284
+    ]
+  },
+  "entite_463": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      45,
+      52
+    ]
+  },
+  "entite_464": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      115,
+      120
+    ]
+  },
+  "entite_465": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      373,
+      380
+    ]
+  },
+  "entite_466": {
+    "label": "PER",
+    "text": "Madame Frogé",
+    "jalons": [
+      46,
+      58
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      287,
+      294
+    ]
+  },
+  "entite_468": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      232,
+      239
+    ]
+  },
+  "entite_469": {
+    "label": "PER",
+    "text": "Gustave Mirmont",
+    "jalons": [
+      225,
+      240
+    ]
+  },
+  "entite_470": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      284,
+      291
+    ]
+  },
+  "entite_471": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      450,
+      457
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      194,
+      201
+    ]
+  },
+  "entite_473": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      376,
+      383
+    ]
+  },
+  "entite_474": {
+    "label": "LOC",
+    "text": "Sébastien",
+    "jalons": [
+      389,
+      398
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      137,
+      144
+    ]
+  },
+  "entite_476": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      420,
+      427
+    ]
+  },
+  "entite_477": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      452,
+      459
+    ]
+  },
+  "entite_478": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      29,
+      36
+    ]
+  },
+  "entite_479": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      25,
+      32
+    ]
+  },
+  "entite_480": {
+    "label": "MISC",
+    "text": "Camille à ses vieux",
+    "jalons": [
+      3,
+      22
+    ]
+  },
+  "entite_481": {
+    "label": "LOC",
+    "text": "Sébastien",
+    "jalons": [
+      218,
+      227
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      374,
+      381
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "Écoute",
+    "jalons": [
+      52,
+      58
+    ]
+  },
+  "entite_484": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      60,
+      67
+    ]
+  },
+  "entite_485": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      34,
+      41
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Sais-tu",
+    "jalons": [
+      245,
+      252
+    ]
+  },
+  "entite_487": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      254,
+      259
+    ]
+  },
+  "entite_488": {
+    "label": "LOC",
+    "text": "Saint-Martin",
+    "jalons": [
+      326,
+      338
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      383,
+      388
+    ]
+  },
+  "entite_490": {
+    "label": "MISC",
+    "text": "Pénélope à toutes les dames de l'endroit",
+    "jalons": [
+      1,
+      41
+    ]
+  },
+  "entite_491": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      487,
+      492
+    ]
+  },
+  "entite_492": {
+    "label": "PER",
+    "text": "Claire revoyait",
+    "jalons": [
+      32,
+      47
+    ]
+  },
+  "entite_493": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      334,
+      339
+    ]
+  },
+  "entite_494": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      342,
+      347
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      462,
+      467
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      115,
+      120
+    ]
+  },
+  "entite_497": {
+    "label": "MISC",
+    "text": "L'image de Camille",
+    "jalons": [
+      208,
+      226
+    ]
+  },
+  "entite_498": {
+    "label": "PER",
+    "text": "Camille avait",
+    "jalons": [
+      58,
+      71
+    ]
+  },
+  "entite_499": {
+    "label": "LOC",
+    "text": "Afin de",
+    "jalons": [
+      450,
+      457
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "Dis-moi",
+    "jalons": [
+      93,
+      100
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "Félix",
+    "jalons": [
+      102,
+      107
+    ]
+  },
+  "entite_502": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      51,
+      58
+    ]
+  },
+  "entite_503": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      233,
+      240
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      313,
+      320
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      502,
+      509
+    ]
+  },
+  "entite_506": {
+    "label": "PER",
+    "text": "Claire sourit",
+    "jalons": [
+      54,
+      67
+    ]
+  },
+  "entite_507": {
+    "label": "MISC",
+    "text": "J'ai eu l'honneur",
+    "jalons": [
+      55,
+      72
+    ]
+  },
+  "entite_508": {
+    "label": "PER",
+    "text": "adame Brécart",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_509": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      257,
+      264
+    ]
+  },
+  "entite_510": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      318,
+      324
+    ]
+  },
+  "entite_511": {
+    "label": "PER",
+    "text": "Claire éprouva",
+    "jalons": [
+      296,
+      310
+    ]
+  },
+  "entite_512": {
+    "label": "LOC",
+    "text": "D'ailleurs",
+    "jalons": [
+      476,
+      486
+    ]
+  },
+  "entite_513": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      198,
+      205
+    ]
+  },
+  "entite_514": {
+    "label": "LOC",
+    "text": "Jamais",
+    "jalons": [
+      498,
+      504
+    ]
+  },
+  "entite_515": {
+    "label": "PER",
+    "text": "Claire",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_516": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      247,
+      254
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      102,
+      109
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      372,
+      379
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      422,
+      428
+    ]
+  },
+  "entite_520": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      99,
+      106
+    ]
+  },
+  "entite_521": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      227,
+      234
+    ]
+  },
+  "entite_522": {
+    "label": "PER",
+    "text": "interrompit Camille",
+    "jalons": [
+      9,
+      28
+    ]
+  },
+  "entite_523": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      150,
+      157
+    ]
+  },
+  "entite_524": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      40,
+      47
+    ]
+  },
+  "entite_525": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      106,
+      113
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      227,
+      234
+    ]
+  },
+  "entite_527": {
+    "label": "PER",
+    "text": "Camille t'aimait",
+    "jalons": [
+      423,
+      439
+    ]
+  },
+  "entite_528": {
+    "label": "ORG",
+    "text": "Pauvre Claire !",
+    "jalons": [
+      489,
+      504
+    ]
+  },
+  "entite_529": {
+    "label": "PER",
+    "text": "Paul en",
+    "jalons": [
+      2,
+      9
+    ]
+  },
+  "entite_530": {
+    "label": "PER",
+    "text": "sayer de s'en",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_531": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      504,
+      511
+    ]
+  },
+  "entite_532": {
+    "label": "PER",
+    "text": "Mais Camille",
+    "jalons": [
+      367,
+      379
+    ]
+  },
+  "entite_533": {
+    "label": "LOC",
+    "text": "Claire",
+    "jalons": [
+      76,
+      82
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      144,
+      151
+    ]
+  },
+  "entite_535": {
+    "label": "LOC",
+    "text": "Sébastien",
+    "jalons": [
+      316,
+      325
+    ]
+  },
+  "entite_536": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      222,
+      227
+    ]
+  },
+  "entite_537": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      340,
+      347
+    ]
+  },
+  "entite_538": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      246,
+      251
+    ]
+  },
+  "entite_539": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      365,
+      372
+    ]
+  },
+  "entite_540": {
+    "label": "PER",
+    "text": "Sébastien ? s'écria Isabelle",
+    "jalons": [
+      17,
+      45
+    ]
+  },
+  "entite_541": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      386,
+      393
+    ]
+  },
+  "entite_542": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      2,
+      8
+    ]
+  },
+  "entite_543": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      340,
+      347
+    ]
+  },
+  "entite_544": {
+    "label": "LOC",
+    "text": "Sébastien",
+    "jalons": [
+      142,
+      151
+    ]
+  },
+  "entite_545": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      187,
+      192
+    ]
+  },
+  "entite_546": {
+    "label": "LOC",
+    "text": "Pleine de colè",
+    "jalons": [
+      498,
+      512
+    ]
+  },
+  "entite_547": {
+    "label": "PER",
+    "text": "Claire Laugé",
+    "jalons": [
+      38,
+      50
+    ]
+  },
+  "entite_548": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      85,
+      92
+    ]
+  },
+  "entite_549": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      372,
+      379
+    ]
+  },
+  "entite_550": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      448,
+      455
+    ]
+  },
+  "entite_551": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      262,
+      269
+    ]
+  },
+  "entite_552": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      360,
+      367
+    ]
+  },
+  "entite_553": {
+    "label": "LOC",
+    "text": "Monsieur",
+    "jalons": [
+      372,
+      380
+    ]
+  },
+  "entite_554": {
+    "label": "PER",
+    "text": "Camille Frogé",
+    "jalons": [
+      28,
+      41
+    ]
+  },
+  "entite_555": {
+    "label": "PER",
+    "text": "Camille Mirmont",
+    "jalons": [
+      202,
+      217
+    ]
+  },
+  "entite_556": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      159,
+      166
+    ]
+  },
+  "entite_557": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      201,
+      208
+    ]
+  },
+  "entite_558": {
+    "label": "LOC",
+    "text": "Isabelle",
+    "jalons": [
+      324,
+      332
+    ]
+  },
+  "entite_559": {
+    "label": "LOC",
+    "text": "mari de l'algarade de la veille",
+    "jalons": [
+      437,
+      468
+    ]
+  },
+  "entite_560": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      470,
+      477
+    ]
+  },
+  "entite_561": {
+    "label": "LOC",
+    "text": "Camille de",
+    "jalons": [
+      407,
+      417
+    ]
+  },
+  "entite_562": {
+    "label": "PER",
+    "text": "Gustave Mirmont",
+    "jalons": [
+      195,
+      210
+    ]
+  },
+  "entite_563": {
+    "label": "PER",
+    "text": "Camille lui",
+    "jalons": [
+      403,
+      414
+    ]
+  },
+  "entite_564": {
+    "label": "LOC",
+    "text": "de la part de Mirmont",
+    "jalons": [
+      37,
+      58
+    ]
+  },
+  "entite_565": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      170,
+      177
+    ]
+  },
+  "entite_566": {
+    "label": "PER",
+    "text": "monsieur Mirmont",
+    "jalons": [
+      5,
+      21
+    ]
+  },
+  "entite_567": {
+    "label": "LOC",
+    "text": "Figure-toi",
+    "jalons": [
+      472,
+      482
+    ]
+  },
+  "entite_568": {
+    "label": "LOC",
+    "text": "Isabelle",
+    "jalons": [
+      501,
+      509
+    ]
+  },
+  "entite_569": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      33,
+      40
+    ]
+  },
+  "entite_570": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      435,
+      442
+    ]
+  },
+  "entite_571": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      115,
+      122
+    ]
+  },
+  "entite_572": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      199,
+      206
+    ]
+  },
+  "entite_573": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      286,
+      293
+    ]
+  },
+  "entite_574": {
+    "label": "MISC",
+    "text": "La joie de la tante Belle était",
+    "jalons": [
+      420,
+      451
+    ]
+  },
+  "entite_575": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      503,
+      510
+    ]
+  },
+  "entite_576": {
+    "label": "PER",
+    "text": "Gustave Mirmont",
+    "jalons": [
+      268,
+      283
+    ]
+  },
+  "entite_577": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      306,
+      313
+    ]
+  },
+  "entite_578": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      501,
+      508
+    ]
+  },
+  "entite_579": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      283,
+      290
+    ]
+  },
+  "entite_580": {
+    "label": "LOC",
+    "text": "Mirmont",
+    "jalons": [
+      463,
+      470
+    ]
+  },
+  "entite_581": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      373,
+      380
+    ]
+  },
+  "entite_582": {
+    "label": "LOC",
+    "text": "emanda la bonne",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_583": {
+    "label": "PER",
+    "text": "Camille",
+    "jalons": [
+      497,
+      504
+    ]
+  },
+  "entite_584": {
+    "label": "PER",
+    "text": "Gustave Mirmont",
+    "jalons": [
+      179,
+      194
+    ]
+  },
+  "entite_585": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      257,
+      262
+    ]
+  },
+  "entite_586": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      129,
+      136
+    ]
+  },
+  "entite_587": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      479,
+      486
+    ]
+  },
+  "entite_588": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      203,
+      210
+    ]
+  },
+  "entite_589": {
+    "label": "MISC",
+    "text": "enfin la tante Belle",
+    "jalons": [
+      0,
+      20
+    ]
+  },
+  "entite_590": {
+    "label": "LOC",
+    "text": "Isabelle",
+    "jalons": [
+      415,
+      423
+    ]
+  },
+  "entite_591": {
+    "label": "PER",
+    "text": "Isabelle",
+    "jalons": [
+      15,
+      23
+    ]
+  },
+  "entite_592": {
+    "label": "LOC",
+    "text": "Isabelle",
+    "jalons": [
+      184,
+      192
+    ]
+  },
+  "entite_593": {
+    "label": "PER",
+    "text": "Sébastien",
+    "jalons": [
+      21,
+      30
+    ]
+  },
+  "entite_594": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      458,
+      465
+    ]
+  },
+  "entite_595": {
+    "label": "PER",
+    "text": "Claire était",
+    "jalons": [
+      12,
+      24
+    ]
+  },
+  "entite_596": {
+    "label": "LOC",
+    "text": "Emmenez-moi",
+    "jalons": [
+      261,
+      272
+    ]
+  },
+  "entite_597": {
+    "label": "PER",
+    "text": "M. Brécart",
+    "jalons": [
+      496,
+      506
+    ]
+  },
+  "entite_598": {
+    "label": "LOC",
+    "text": "Camille",
+    "jalons": [
+      421,
+      428
+    ]
+  }
+}

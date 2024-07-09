@@ -1,0 +1,4586 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Sepatr Ctben",
+    "jalons": [
+      50,
+      62
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Aort de Tontes",
+    "jalons": [
+      90,
+      104
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Sans le respeet de la legstation en vigieir et notamment du mairtier de la",
+    "jalons": [
+      2,
+      76
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Francoise",
+    "jalons": [
+      186,
+      195
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "P'eus",
+    "jalons": [
+      1,
+      6
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Saris Mustres de peitte Fotumee de porhe",
+    "jalons": [
+      186,
+      226
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "MaRON lE POscent",
+    "jalons": [
+      312,
+      328
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Vatane",
+    "jalons": [
+      331,
+      337
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "lE Panes",
+    "jalons": [
+      342,
+      350
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "NEcEE Les Piances du Pays de 1'Or",
+    "jalons": [
+      352,
+      385
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "Le Casitaine de l'Atbatros",
+    "jalons": [
+      401,
+      427
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Pant Dace La Nevanche de Namon  La Casaque rouge",
+    "jalons": [
+      455,
+      503
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Veu",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_13": {
+    "label": "ORG",
+    "text": "LE DAROUEN ans la Trande satte des lotes de da Aeroant",
+    "jalons": [
+      46,
+      100
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "Troutana COnbus de EnSeTSationS",
+    "jalons": [
+      143,
+      174
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "la mnsique de la Gar. de Sopntttcaind",
+    "jalons": [
+      313,
+      350
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Eanbes Forbes et des Cuirtandes de Nenrs",
+    "jalons": [
+      378,
+      418
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "Pattait Vien le Pecomnatbre",
+    "jalons": [
+      273,
+      300
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "CTOmpait de panquet de FAerottnt EObait nne Valse Speciatement Compoooe DOnT Seble Sennion",
+    "jalons": [
+      422,
+      512
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Dot Gathon",
+    "jalons": [
+      257,
+      267
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Marchant sur la Soibe",
+    "jalons": [
+      6,
+      27
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "ESeRICnE de moins de Pruit DosoitIe",
+    "jalons": [
+      43,
+      78
+    ]
+  },
+  "entite_22": {
+    "label": "ORG",
+    "text": "Avec de tanToureus",
+    "jalons": [
+      80,
+      98
+    ]
+  },
+  "entite_23": {
+    "label": "ORG",
+    "text": "Le PrCIiCT",
+    "jalons": [
+      210,
+      220
+    ]
+  },
+  "entite_24": {
+    "label": "ORG",
+    "text": "Sordcant PariS",
+    "jalons": [
+      383,
+      397
+    ]
+  },
+  "entite_25": {
+    "label": "ORG",
+    "text": "soe de la Manche ne de Tassait CIS",
+    "jalons": [
+      0,
+      34
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "Paris  L IINISETS dE COIICTES de IONE E CORNE da Main",
+    "jalons": [
+      130,
+      183
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      362,
+      368
+    ]
+  },
+  "entite_28": {
+    "label": "ORG",
+    "text": "hes de Opis de Vos",
+    "jalons": [
+      0,
+      18
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "la Srancea le de DOIr de",
+    "jalons": [
+      368,
+      392
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "AO IInisEre Au BOMCTCE EeN Dr de Ouis PaPis",
+    "jalons": [
+      466,
+      509
+    ]
+  },
+  "entite_31": {
+    "label": "ORG",
+    "text": "Noue POni SOhnneT de Tonde",
+    "jalons": [
+      1,
+      27
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "Pant SEIRuler le Sonie. de Notre Rce en St Sonnant l'occasion de Jbler NVES SCIs des BRbrES DaS a Se vons propoce de Touder nn BTi de ErOis",
+    "jalons": [
+      62,
+      201
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Fourguet de Eenbsraibon pas de",
+    "jalons": [
+      116,
+      146
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Les AanCCre a LE CrOMS",
+    "jalons": [
+      457,
+      479
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Que la Choss C8E",
+    "jalons": [
+      493,
+      509
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "Dae de SourTS de Paire Sevre",
+    "jalons": [
+      383,
+      411
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Irete Insguau",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "SpmOuT SOteRbit de Mons COIEGSs de Mon de Latton",
+    "jalons": [
+      92,
+      140
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Tion Mosotourd, de Bois au Champion de la France",
+    "jalons": [
+      281,
+      329
+    ]
+  },
+  "entite_40": {
+    "label": "ORG",
+    "text": "SesvtCurs",
+    "jalons": [
+      41,
+      50
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Pols le Conseit den INIniCEres Da SharEe de Pous",
+    "jalons": [
+      112,
+      160
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "EGIe dont en Picnt de vons pavler de marquie de la Cande aEita de brai Deons Semaader la patote puis",
+    "jalons": [
+      207,
+      307
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Eraonce",
+    "jalons": [
+      308,
+      315
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Sranne a de Sontsat pas demenrer en Sests.",
+    "jalons": [
+      342,
+      384
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "REES LE",
+    "jalons": [
+      391,
+      398
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Eiton",
+    "jalons": [
+      496,
+      501
+    ]
+  },
+  "entite_47": {
+    "label": "MISC",
+    "text": "Tabir  le Soint de",
+    "jalons": [
+      373,
+      391
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Pique de la",
+    "jalons": [
+      500,
+      511
+    ]
+  },
+  "entite_49": {
+    "label": "ORG",
+    "text": "LE MANUEIS DE LA LABE",
+    "jalons": [
+      39,
+      60
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "Pans La Poun au Amorraan  EN Res EoE",
+    "jalons": [
+      212,
+      248
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "Chagne Ssociote SUUTEIe de Potoait nue Ctoire de  RVOIT COIUS",
+    "jalons": [
+      450,
+      511
+    ]
+  },
+  "entite_52": {
+    "label": "MISC",
+    "text": "Aooi des Conbenuter tont de monde",
+    "jalons": [
+      25,
+      58
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "Comspes la Oorie de ses",
+    "jalons": [
+      425,
+      448
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "CEeT de Sesoset le Pait de se Comctor Maons des",
+    "jalons": [
+      1,
+      48
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "SeISRt des Mcnbles du salon Trreau",
+    "jalons": [
+      189,
+      223
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Etont",
+    "jalons": [
+      501,
+      506
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "Tonton",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "de la Semoure de Pierre",
+    "jalons": [
+      41,
+      64
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "EObeie Et dous Solterair",
+    "jalons": [
+      410,
+      434
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Suatite de DOns",
+    "jalons": [
+      71,
+      86
+    ]
+  },
+  "entite_61": {
+    "label": "ORG",
+    "text": "ontanant de Segcrre des su deTniors",
+    "jalons": [
+      88,
+      123
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Sou de",
+    "jalons": [
+      232,
+      238
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Ieand des oviron de Cherbourt",
+    "jalons": [
+      345,
+      374
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Sactont",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Pierre Satton",
+    "jalons": [
+      68,
+      81
+    ]
+  },
+  "entite_66": {
+    "label": "PER",
+    "text": "lovre Saiges Goniat",
+    "jalons": [
+      88,
+      107
+    ]
+  },
+  "entite_67": {
+    "label": "LOC",
+    "text": "Carion",
+    "jalons": [
+      168,
+      174
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Senne",
+    "jalons": [
+      178,
+      183
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "Tou Sivant",
+    "jalons": [
+      234,
+      244
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "1ocis de la rue des",
+    "jalons": [
+      250,
+      269
+    ]
+  },
+  "entite_71": {
+    "label": "LOC",
+    "text": "voi de Paites",
+    "jalons": [
+      292,
+      305
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Dour Pierre Jathon de Eus",
+    "jalons": [
+      2,
+      27
+    ]
+  },
+  "entite_73": {
+    "label": "MISC",
+    "text": "abbira de la pat DdOS ERVICRt et des CommEres",
+    "jalons": [
+      28,
+      73
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      419,
+      424
+    ]
+  },
+  "entite_75": {
+    "label": "MISC",
+    "text": "Cehgmbre das Sevois d'un Earcou hou RNEES",
+    "jalons": [
+      440,
+      481
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "Cela AeCopbor",
+    "jalons": [
+      10,
+      23
+    ]
+  },
+  "entite_77": {
+    "label": "MISC",
+    "text": "sonS au Fs Ea Coud En STpornanu",
+    "jalons": [
+      24,
+      55
+    ]
+  },
+  "entite_78": {
+    "label": "LOC",
+    "text": "S'EcTiu",
+    "jalons": [
+      109,
+      116
+    ]
+  },
+  "entite_79": {
+    "label": "MISC",
+    "text": "Sronbepant de Crand Ceur Et Fond Comment l'ordonnance Sonian",
+    "jalons": [
+      126,
+      186
+    ]
+  },
+  "entite_80": {
+    "label": "PER",
+    "text": "de Cantasai Sonian",
+    "jalons": [
+      189,
+      207
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "Slet de Chombre de",
+    "jalons": [
+      245,
+      263
+    ]
+  },
+  "entite_82": {
+    "label": "MISC",
+    "text": "Etons en la Adrcesart la",
+    "jalons": [
+      444,
+      468
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "peter encore",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Maintenont",
+    "jalons": [
+      34,
+      44
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      46,
+      51
+    ]
+  },
+  "entite_86": {
+    "label": "MISC",
+    "text": "Conrant de Toubes les Cxiocnces  de",
+    "jalons": [
+      171,
+      206
+    ]
+  },
+  "entite_87": {
+    "label": "PER",
+    "text": "Jacques Tonian",
+    "jalons": [
+      310,
+      324
+    ]
+  },
+  "entite_88": {
+    "label": "PER",
+    "text": "Pons",
+    "jalons": [
+      507,
+      511
+    ]
+  },
+  "entite_89": {
+    "label": "MISC",
+    "text": "EEe gue de suis la le marquis de la Jiande à Parques s'Enctind",
+    "jalons": [
+      188,
+      251
+    ]
+  },
+  "entite_90": {
+    "label": "ORG",
+    "text": "Pen DerE des Eitres",
+    "jalons": [
+      269,
+      288
+    ]
+  },
+  "entite_91": {
+    "label": "MISC",
+    "text": "SCotu de la Consiens dOsicur de Marants Sondre Bout",
+    "jalons": [
+      314,
+      365
+    ]
+  },
+  "entite_92": {
+    "label": "MISC",
+    "text": "BRTCar Ciorrs Soathen Fenoit de se",
+    "jalons": [
+      245,
+      279
+    ]
+  },
+  "entite_93": {
+    "label": "LOC",
+    "text": "Eodnit",
+    "jalons": [
+      365,
+      371
+    ]
+  },
+  "entite_94": {
+    "label": "LOC",
+    "text": "Turcar",
+    "jalons": [
+      381,
+      387
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "Sabilla",
+    "jalons": [
+      390,
+      397
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Seatemont",
+    "jalons": [
+      413,
+      422
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      168,
+      174
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "Iicibade Pierre",
+    "jalons": [
+      68,
+      83
+    ]
+  },
+  "entite_99": {
+    "label": "MISC",
+    "text": "De Dons SSCRrS DRS de Perasinoratt DUMS DERSOE enSde poraou pas de Corade RTIet de ont Cota et Carorus de Chre NTICNIOES",
+    "jalons": [
+      206,
+      326
+    ]
+  },
+  "entite_100": {
+    "label": "MISC",
+    "text": "Pa Lea Can de Aomvrriaat O aon re Aepoee pas de",
+    "jalons": [
+      450,
+      497
+    ]
+  },
+  "entite_101": {
+    "label": "MISC",
+    "text": "denOou Stnger Soib. de serai Vobte Rots Et DOs SATACrOt Aa CONUOC Ee Cacheri    de Pant pour notre Nonnenr",
+    "jalons": [
+      254,
+      360
+    ]
+  },
+  "entite_102": {
+    "label": "MISC",
+    "text": "RNSEIOnnVous SerOu Chatnpion du monde Le Margits de lera du Ponteui ou",
+    "jalons": [
+      362,
+      432
+    ]
+  },
+  "entite_103": {
+    "label": "ORG",
+    "text": "EOIaIt MUIS pMES",
+    "jalons": [
+      435,
+      451
+    ]
+  },
+  "entite_104": {
+    "label": "ORG",
+    "text": "SOTTRRE de NoRVCaEA ReSIn de Picrve Saltion",
+    "jalons": [
+      453,
+      496
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Sosttns de la Courss",
+    "jalons": [
+      446,
+      466
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Pasle",
+    "jalons": [
+      500,
+      505
+    ]
+  },
+  "entite_107": {
+    "label": "ORG",
+    "text": "Des OUvr",
+    "jalons": [
+      449,
+      457
+    ]
+  },
+  "entite_108": {
+    "label": "ORG",
+    "text": "Les PIe",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_109": {
+    "label": "MISC",
+    "text": "ONVeTE les Sorbes de tous les Saboratorred",
+    "jalons": [
+      237,
+      279
+    ]
+  },
+  "entite_110": {
+    "label": "MISC",
+    "text": "Incrde et Ixcubil",
+    "jalons": [
+      327,
+      344
+    ]
+  },
+  "entite_111": {
+    "label": "ORG",
+    "text": "Conmn de nos Sectours",
+    "jalons": [
+      255,
+      276
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "Etait Jacques Doonian",
+    "jalons": [
+      279,
+      300
+    ]
+  },
+  "entite_113": {
+    "label": "MISC",
+    "text": "de Palet de Chombre de Pierre Cathon et DEN RRCICN STAONMANCE Cour Cens Ms SeTaICnt SITprrs de C0 ChOIs",
+    "jalons": [
+      301,
+      404
+    ]
+  },
+  "entite_114": {
+    "label": "MISC",
+    "text": "rait l'art de Craisser INN IUECRT de Le MCbErE EN MATCREBR de de Poparer NaIs IorOqus aPait",
+    "jalons": [
+      0,
+      91
+    ]
+  },
+  "entite_115": {
+    "label": "MISC",
+    "text": "Nes Sranchemant",
+    "jalons": [
+      185,
+      200
+    ]
+  },
+  "entite_116": {
+    "label": "MISC",
+    "text": "Vicus Sacques",
+    "jalons": [
+      249,
+      262
+    ]
+  },
+  "entite_117": {
+    "label": "ORG",
+    "text": "TAADE DOEaIS",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_118": {
+    "label": "MISC",
+    "text": "ErSs DEn de touips de Cois Aevonr  ETATS A IONSICRT RX Palet de CHambRe en",
+    "jalons": [
+      111,
+      185
+    ]
+  },
+  "entite_119": {
+    "label": "LOC",
+    "text": "Pait de mes",
+    "jalons": [
+      298,
+      309
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "Paire",
+    "jalons": [
+      351,
+      356
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Notonis",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_122": {
+    "label": "MISC",
+    "text": "SonTS  Venait dEnsine de la Tiande et",
+    "jalons": [
+      384,
+      421
+    ]
+  },
+  "entite_123": {
+    "label": "PER",
+    "text": "Pierre Sathon",
+    "jalons": [
+      273,
+      286
+    ]
+  },
+  "entite_124": {
+    "label": "ORG",
+    "text": "Pent Euplais",
+    "jalons": [
+      227,
+      239
+    ]
+  },
+  "entite_125": {
+    "label": "ORG",
+    "text": "Jotnson S'abor",
+    "jalons": [
+      241,
+      255
+    ]
+  },
+  "entite_126": {
+    "label": "ORG",
+    "text": "Neoncnt Sacgs",
+    "jalons": [
+      1,
+      14
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "Piours",
+    "jalons": [
+      100,
+      106
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "Pait de Sonner de sa Sasotomonis nue",
+    "jalons": [
+      162,
+      198
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      277,
+      282
+    ]
+  },
+  "entite_130": {
+    "label": "MISC",
+    "text": "de Maal DOO et CaEreEn SentomCnt de Celni de",
+    "jalons": [
+      364,
+      408
+    ]
+  },
+  "entite_131": {
+    "label": "MISC",
+    "text": "Sohason Saber siCut DES Semande SiCns due d'agir de la meme",
+    "jalons": [
+      219,
+      278
+    ]
+  },
+  "entite_132": {
+    "label": "MISC",
+    "text": "Combien de Baces tans Votre AE REEISME MOIMS ETOIS RCSECE PaiS  Mvoies en Slct et Voies ies cotla NUraECR aInn Seole larce",
+    "jalons": [
+      365,
+      487
+    ]
+  },
+  "entite_133": {
+    "label": "MISC",
+    "text": "Sotnson Sabet Mes cottabore",
+    "jalons": [
+      268,
+      295
+    ]
+  },
+  "entite_134": {
+    "label": "LOC",
+    "text": "Mestaies",
+    "jalons": [
+      401,
+      409
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "Vaber d'Ovoir",
+    "jalons": [
+      18,
+      31
+    ]
+  },
+  "entite_136": {
+    "label": "MISC",
+    "text": "Nocha la bete et Povrit",
+    "jalons": [
+      242,
+      265
+    ]
+  },
+  "entite_137": {
+    "label": "ORG",
+    "text": "la Quelle",
+    "jalons": [
+      297,
+      306
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Cenare",
+    "jalons": [
+      308,
+      314
+    ]
+  },
+  "entite_139": {
+    "label": "ORG",
+    "text": "Se PORArC AI",
+    "jalons": [
+      404,
+      416
+    ]
+  },
+  "entite_140": {
+    "label": "ORG",
+    "text": "Doe Jui Ansss",
+    "jalons": [
+      418,
+      431
+    ]
+  },
+  "entite_141": {
+    "label": "ORG",
+    "text": "Sicrre Jathon S'Otonne",
+    "jalons": [
+      433,
+      455
+    ]
+  },
+  "entite_142": {
+    "label": "ORG",
+    "text": "Las possIbte",
+    "jalons": [
+      457,
+      469
+    ]
+  },
+  "entite_143": {
+    "label": "ORG",
+    "text": "DoS MATUrOROS CCble NOUUCIE aPni",
+    "jalons": [
+      471,
+      503
+    ]
+  },
+  "entite_144": {
+    "label": "ORG",
+    "text": "Sesti",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_145": {
+    "label": "MISC",
+    "text": "SRIOORE de Sestement de Ntorstnt",
+    "jalons": [
+      206,
+      238
+    ]
+  },
+  "entite_146": {
+    "label": "ORG",
+    "text": "de Pais",
+    "jalons": [
+      18,
+      25
+    ]
+  },
+  "entite_147": {
+    "label": "MISC",
+    "text": "Mais Dourguo pas Daistours",
+    "jalons": [
+      122,
+      148
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "M. Vaber",
+    "jalons": [
+      216,
+      224
+    ]
+  },
+  "entite_149": {
+    "label": "ORG",
+    "text": "Cobn",
+    "jalons": [
+      497,
+      501
+    ]
+  },
+  "entite_150": {
+    "label": "ORG",
+    "text": "Snsotet",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_151": {
+    "label": "MISC",
+    "text": "DOns SetITe CE suis Pier de vous le 1rrs Ee MErOuS de la Jande",
+    "jalons": [
+      4,
+      66
+    ]
+  },
+  "entite_152": {
+    "label": "ORG",
+    "text": "Jncier Pottect",
+    "jalons": [
+      302,
+      316
+    ]
+  },
+  "entite_153": {
+    "label": "ORG",
+    "text": "Bele SeCavion de Pairs  EInS",
+    "jalons": [
+      339,
+      367
+    ]
+  },
+  "entite_154": {
+    "label": "ORG",
+    "text": "DOSCnSCICnt",
+    "jalons": [
+      401,
+      412
+    ]
+  },
+  "entite_155": {
+    "label": "MISC",
+    "text": "Cnaad Fons arrot Pini de",
+    "jalons": [
+      459,
+      483
+    ]
+  },
+  "entite_156": {
+    "label": "MISC",
+    "text": "aruis de la Gande les interromBitt CenEIaCRE",
+    "jalons": [
+      0,
+      44
+    ]
+  },
+  "entite_157": {
+    "label": "PER",
+    "text": "de Terss",
+    "jalons": [
+      189,
+      197
+    ]
+  },
+  "entite_158": {
+    "label": "ORG",
+    "text": "ESIIEGIE DES",
+    "jalons": [
+      2,
+      14
+    ]
+  },
+  "entite_159": {
+    "label": "ORG",
+    "text": "ES SSCIE des SvenomOnts",
+    "jalons": [
+      489,
+      512
+    ]
+  },
+  "entite_160": {
+    "label": "MISC",
+    "text": "la gue Sevait Obrs domne de Separt de la",
+    "jalons": [
+      272,
+      312
+    ]
+  },
+  "entite_161": {
+    "label": "ORG",
+    "text": "la Circonobance",
+    "jalons": [
+      490,
+      505
+    ]
+  },
+  "entite_162": {
+    "label": "LOC",
+    "text": "ANomacne",
+    "jalons": [
+      179,
+      187
+    ]
+  },
+  "entite_163": {
+    "label": "LOC",
+    "text": "TTtatie",
+    "jalons": [
+      189,
+      196
+    ]
+  },
+  "entite_164": {
+    "label": "MISC",
+    "text": "DES SEait en IsSCnn",
+    "jalons": [
+      493,
+      512
+    ]
+  },
+  "entite_165": {
+    "label": "MISC",
+    "text": "Sans parler des IaTins de D'Ogumpaee du Tatcars Des",
+    "jalons": [
+      169,
+      220
+    ]
+  },
+  "entite_166": {
+    "label": "MISC",
+    "text": "ErOs MaborioRd de Sopart de l'espedition",
+    "jalons": [
+      103,
+      143
+    ]
+  },
+  "entite_167": {
+    "label": "ORG",
+    "text": "SRIbba",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_168": {
+    "label": "MISC",
+    "text": "Sonul Ertoson les Pivatiles de Pacs du GaraIsssiont",
+    "jalons": [
+      297,
+      348
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Cants de Shmmanibe",
+    "jalons": [
+      418,
+      436
+    ]
+  },
+  "entite_170": {
+    "label": "PER",
+    "text": "Sacnail de Iarce",
+    "jalons": [
+      50,
+      66
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "de Acro Plrit de France",
+    "jalons": [
+      149,
+      172
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "Sevirout de Nictraire",
+    "jalons": [
+      174,
+      195
+    ]
+  },
+  "entite_173": {
+    "label": "MISC",
+    "text": "Le marquie de la Cande",
+    "jalons": [
+      242,
+      264
+    ]
+  },
+  "entite_174": {
+    "label": "MISC",
+    "text": "nOba Das de moines ardent de Sarmnser",
+    "jalons": [
+      314,
+      351
+    ]
+  },
+  "entite_175": {
+    "label": "ORG",
+    "text": "CeNaIE des Ioots",
+    "jalons": [
+      401,
+      417
+    ]
+  },
+  "entite_176": {
+    "label": "LOC",
+    "text": "Pondre la vie",
+    "jalons": [
+      487,
+      500
+    ]
+  },
+  "entite_177": {
+    "label": "MISC",
+    "text": "de La CRrSE GibIberE lOls Nord",
+    "jalons": [
+      47,
+      77
+    ]
+  },
+  "entite_178": {
+    "label": "ORG",
+    "text": "La Machine d'BR",
+    "jalons": [
+      491,
+      506
+    ]
+  },
+  "entite_179": {
+    "label": "ORG",
+    "text": "EVia",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_180": {
+    "label": "MISC",
+    "text": "ErES de P'Aero",
+    "jalons": [
+      286,
+      300
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "AanE La CONr",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_182": {
+    "label": "MISC",
+    "text": "La PSTatieN CsTRe Picrre J2 Eon d'amcner avec Cut lN NOIre de SsCIoRcS de la Voteur de Jucien",
+    "jalons": [
+      249,
+      342
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "Otait done Necessaire de Jien ectai EeT Chacnn sur la",
+    "jalons": [
+      353,
+      406
+    ]
+  },
+  "entite_184": {
+    "label": "MISC",
+    "text": "Pande MaIbreS de la Setcues",
+    "jalons": [
+      254,
+      281
+    ]
+  },
+  "entite_185": {
+    "label": "MISC",
+    "text": "ConnaIeCent desa Nobre ari et  Compatriote Pierre Cathon",
+    "jalons": [
+      406,
+      462
+    ]
+  },
+  "entite_186": {
+    "label": "LOC",
+    "text": "Conci",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_187": {
+    "label": "MISC",
+    "text": "Pacquesoonian De IerS Des Sectenrs ontMs su Paval EGES de voir",
+    "jalons": [
+      52,
+      114
+    ]
+  },
+  "entite_188": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      122,
+      127
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Lans Snsie",
+    "jalons": [
+      129,
+      139
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "MaTORIS de la Pande",
+    "jalons": [
+      144,
+      163
+    ]
+  },
+  "entite_191": {
+    "label": "ORG",
+    "text": "Sopuson Paber",
+    "jalons": [
+      189,
+      202
+    ]
+  },
+  "entite_192": {
+    "label": "MISC",
+    "text": "Capable de Conles",
+    "jalons": [
+      416,
+      433
+    ]
+  },
+  "entite_193": {
+    "label": "PER",
+    "text": "de Setonces de la Pcutte",
+    "jalons": [
+      39,
+      63
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "Cotorne",
+    "jalons": [
+      66,
+      73
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Le Sornier",
+    "jalons": [
+      75,
+      85
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "Srans Nsde",
+    "jalons": [
+      87,
+      97
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "Don",
+    "jalons": [
+      428,
+      431
+    ]
+  },
+  "entite_198": {
+    "label": "MISC",
+    "text": "Daiet de Ponbe Dont IecaniCIens Ius aPaICnt PaTi",
+    "jalons": [
+      45,
+      93
+    ]
+  },
+  "entite_199": {
+    "label": "MISC",
+    "text": "Jean Dont Pattant",
+    "jalons": [
+      436,
+      453
+    ]
+  },
+  "entite_200": {
+    "label": "ORG",
+    "text": "Etait",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_201": {
+    "label": "MISC",
+    "text": "Antot la SIpabRie",
+    "jalons": [
+      103,
+      120
+    ]
+  },
+  "entite_202": {
+    "label": "MISC",
+    "text": "Aatousie et dont le Eeint penu et les son de Pamme",
+    "jalons": [
+      228,
+      278
+    ]
+  },
+  "entite_203": {
+    "label": "ORG",
+    "text": "Sepastien Bure",
+    "jalons": [
+      175,
+      189
+    ]
+  },
+  "entite_204": {
+    "label": "MISC",
+    "text": "sns du Courant Que IES EeTEeS, de la Iecaniqus et de Des",
+    "jalons": [
+      191,
+      247
+    ]
+  },
+  "entite_205": {
+    "label": "MISC",
+    "text": "AESITOR de Se Craer des Nrmibies paTm des Nabttante d'ACrovie",
+    "jalons": [
+      252,
+      313
+    ]
+  },
+  "entite_206": {
+    "label": "ORG",
+    "text": "TOnbai",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "Palet de Chamnbre",
+    "jalons": [
+      208,
+      225
+    ]
+  },
+  "entite_208": {
+    "label": "ORG",
+    "text": "RUIAEORTS EPEreS EPatOmCnt",
+    "jalons": [
+      448,
+      474
+    ]
+  },
+  "entite_209": {
+    "label": "ORG",
+    "text": "MaiS AIn",
+    "jalons": [
+      476,
+      484
+    ]
+  },
+  "entite_210": {
+    "label": "PER",
+    "text": "Sact Et Soe Sprtason",
+    "jalons": [
+      12,
+      32
+    ]
+  },
+  "entite_211": {
+    "label": "ORG",
+    "text": "Jatio",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_212": {
+    "label": "MISC",
+    "text": "BRE de Sepris de la Mort et lenvisaTedient RRRe EUCnEnaIIES Le Triomphe",
+    "jalons": [
+      96,
+      167
+    ]
+  },
+  "entite_213": {
+    "label": "MISC",
+    "text": "Pait Senrs EEndes a Paris et done",
+    "jalons": [
+      219,
+      252
+    ]
+  },
+  "entite_214": {
+    "label": "MISC",
+    "text": "ConCurrents de la Comrse SpibrberE",
+    "jalons": [
+      455,
+      489
+    ]
+  },
+  "entite_215": {
+    "label": "MISC",
+    "text": "CETo ScETles de Tonbes probubitibes de Fenssite",
+    "jalons": [
+      50,
+      97
+    ]
+  },
+  "entite_216": {
+    "label": "ORG",
+    "text": "AES",
+    "jalons": [
+      99,
+      102
+    ]
+  },
+  "entite_217": {
+    "label": "ORG",
+    "text": "Sohuson Saber",
+    "jalons": [
+      158,
+      171
+    ]
+  },
+  "entite_218": {
+    "label": "MISC",
+    "text": "EerTgRRS de la Fande Jacques SiaPornie EEe",
+    "jalons": [
+      448,
+      490
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "SIdCRE de la Cour",
+    "jalons": [
+      495,
+      512
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "eonce de Sat INaIEI",
+    "jalons": [
+      3,
+      22
+    ]
+  },
+  "entite_221": {
+    "label": "MISC",
+    "text": "Sernard CanverTne Picrre de Fan Cest de Cesroutas",
+    "jalons": [
+      24,
+      73
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "antes Dumont",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "la vue Eotonet Menard",
+    "jalons": [
+      14,
+      35
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "la rue Capitaine V'erber la Pue des Mie",
+    "jalons": [
+      37,
+      76
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "Vonbs",
+    "jalons": [
+      78,
+      83
+    ]
+  },
+  "entite_226": {
+    "label": "MISC",
+    "text": "Re MaNCait Dal don de ponvait de Lasses d'admirer",
+    "jalons": [
+      462,
+      511
+    ]
+  },
+  "entite_227": {
+    "label": "LOC",
+    "text": "Notonte des Nommes",
+    "jalons": [
+      43,
+      61
+    ]
+  },
+  "entite_228": {
+    "label": "MISC",
+    "text": "Serovite es drcscait Sorovine Bus NaECnait de Pols Nord",
+    "jalons": [
+      434,
+      489
+    ]
+  },
+  "entite_229": {
+    "label": "MISC",
+    "text": "SOET de la Conquste de Tinconnu",
+    "jalons": [
+      417,
+      448
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "Chom",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_231": {
+    "label": "MISC",
+    "text": "Se Ionter danS les NanCarS Sacques Sarerniere",
+    "jalons": [
+      296,
+      341
+    ]
+  },
+  "entite_232": {
+    "label": "MISC",
+    "text": "Rdvorsatre SedontaAs DoRr  le Soune F",
+    "jalons": [
+      475,
+      512
+    ]
+  },
+  "entite_233": {
+    "label": "MISC",
+    "text": "roucais Lopparoi de Nicotas Noiner",
+    "jalons": [
+      0,
+      34
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Sorre Ssatton",
+    "jalons": [
+      164,
+      177
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      181,
+      186
+    ]
+  },
+  "entite_236": {
+    "label": "MISC",
+    "text": "NSES de MontbTOuTs et aPait pris",
+    "jalons": [
+      288,
+      320
+    ]
+  },
+  "entite_237": {
+    "label": "MISC",
+    "text": "Cour de Paris en suirant les Sortstications",
+    "jalons": [
+      366,
+      409
+    ]
+  },
+  "entite_238": {
+    "label": "LOC",
+    "text": "Dera",
+    "jalons": [
+      455,
+      459
+    ]
+  },
+  "entite_239": {
+    "label": "ORG",
+    "text": "DaE RRe Sepulation",
+    "jalons": [
+      494,
+      512
+    ]
+  },
+  "entite_240": {
+    "label": "MISC",
+    "text": "BRi  des pontevarde de Dperd a la Mace de",
+    "jalons": [
+      22,
+      63
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "Montrouce",
+    "jalons": [
+      344,
+      353
+    ]
+  },
+  "entite_242": {
+    "label": "ORG",
+    "text": "DEMEE",
+    "jalons": [
+      98,
+      103
+    ]
+  },
+  "entite_243": {
+    "label": "ORG",
+    "text": "le  E I",
+    "jalons": [
+      107,
+      114
+    ]
+  },
+  "entite_244": {
+    "label": "PER",
+    "text": "Ma D",
+    "jalons": [
+      124,
+      128
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Labhon par de Pras Daire",
+    "jalons": [
+      290,
+      314
+    ]
+  },
+  "entite_246": {
+    "label": "MISC",
+    "text": "de PiOTTe Gatton Otait Sonnson S'aber",
+    "jalons": [
+      85,
+      122
+    ]
+  },
+  "entite_247": {
+    "label": "MISC",
+    "text": "lavis de Tons les mombros de l'enpedition et du marquie de la Tsande.",
+    "jalons": [
+      149,
+      218
+    ]
+  },
+  "entite_248": {
+    "label": "ORG",
+    "text": "AEs",
+    "jalons": [
+      500,
+      503
+    ]
+  },
+  "entite_249": {
+    "label": "MISC",
+    "text": "Oait Eres Seconussssant de SObEt SOcOnngIOURnES SeSaItTIOUait ORT SIOTTE Caton qs Adcrait la Comabnie de",
+    "jalons": [
+      31,
+      135
+    ]
+  },
+  "entite_250": {
+    "label": "MISC",
+    "text": "DNaIs ManECOn de Conrmure qut le Srobercatt des Pienours du Proid",
+    "jalons": [
+      313,
+      378
+    ]
+  },
+  "entite_251": {
+    "label": "ORG",
+    "text": "Eenis de Soncien Aotlect",
+    "jalons": [
+      448,
+      472
+    ]
+  },
+  "entite_252": {
+    "label": "ORG",
+    "text": "Ee SorVies",
+    "jalons": [
+      42,
+      52
+    ]
+  },
+  "entite_253": {
+    "label": "ORG",
+    "text": "AOsnrOmOnt",
+    "jalons": [
+      54,
+      64
+    ]
+  },
+  "entite_254": {
+    "label": "MISC",
+    "text": "Ee Savarat pas Nabibude du morde et DEOloTaiont la Ootsbude",
+    "jalons": [
+      394,
+      453
+    ]
+  },
+  "entite_255": {
+    "label": "LOC",
+    "text": "Les Carquis de la Esande Ebait",
+    "jalons": [
+      456,
+      486
+    ]
+  },
+  "entite_256": {
+    "label": "LOC",
+    "text": "MN",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_257": {
+    "label": "MISC",
+    "text": "aInes Pivaces",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "de Sotnson Saber",
+    "jalons": [
+      87,
+      103
+    ]
+  },
+  "entite_259": {
+    "label": "MISC",
+    "text": "RVeT Saber et Qe les",
+    "jalons": [
+      490,
+      510
+    ]
+  },
+  "entite_260": {
+    "label": "MISC",
+    "text": "Taguer la CORTSE",
+    "jalons": [
+      45,
+      61
+    ]
+  },
+  "entite_261": {
+    "label": "MISC",
+    "text": "de l'atctier de Vibatien",
+    "jalons": [
+      400,
+      424
+    ]
+  },
+  "entite_262": {
+    "label": "PER",
+    "text": "Oans Sdonte",
+    "jalons": [
+      439,
+      450
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "de Curprondre des de",
+    "jalons": [
+      452,
+      472
+    ]
+  },
+  "entite_264": {
+    "label": "PER",
+    "text": "Eande Sonc",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_265": {
+    "label": "MISC",
+    "text": "Naut Mani Deste",
+    "jalons": [
+      178,
+      193
+    ]
+  },
+  "entite_266": {
+    "label": "MISC",
+    "text": "la Qnorete de tour",
+    "jalons": [
+      0,
+      18
+    ]
+  },
+  "entite_267": {
+    "label": "MISC",
+    "text": "SEritabte Pour de Nabot",
+    "jalons": [
+      467,
+      490
+    ]
+  },
+  "entite_268": {
+    "label": "ORG",
+    "text": "AInes des les",
+    "jalons": [
+      472,
+      485
+    ]
+  },
+  "entite_269": {
+    "label": "ORG",
+    "text": "Les Preros",
+    "jalons": [
+      83,
+      93
+    ]
+  },
+  "entite_270": {
+    "label": "MISC",
+    "text": "EU LeotEn ront pas maqus de le Paire EN ae Conbonba de Setoicuer en ponssant Des Cpantos aLes Fomines de",
+    "jalons": [
+      356,
+      460
+    ]
+  },
+  "entite_271": {
+    "label": "MISC",
+    "text": "Vioes d'Aribie AaVee Sotoris Picquer et Sesaient Quctque",
+    "jalons": [
+      2,
+      58
+    ]
+  },
+  "entite_272": {
+    "label": "PER",
+    "text": "Lois Sorothes S'urster",
+    "jalons": [
+      60,
+      82
+    ]
+  },
+  "entite_273": {
+    "label": "MISC",
+    "text": "Muatite de sourna NstEs",
+    "jalons": [
+      227,
+      250
+    ]
+  },
+  "entite_274": {
+    "label": "MISC",
+    "text": "Mathitde Sanvitars et Sntoincble Ponsourtite",
+    "jalons": [
+      252,
+      296
+    ]
+  },
+  "entite_275": {
+    "label": "MISC",
+    "text": "SSUNUORt de SorUir d'IntCTUrEbes ArEs uRe SonrnEe de tapeur",
+    "jalons": [
+      381,
+      440
+    ]
+  },
+  "entite_276": {
+    "label": "ORG",
+    "text": "Le Aolassail",
+    "jalons": [
+      20,
+      32
+    ]
+  },
+  "entite_277": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      102,
+      107
+    ]
+  },
+  "entite_278": {
+    "label": "MISC",
+    "text": "RaVaIt ea Piant Sectars de Pierre Ssathon sRuS NeNs Paber le Segardoit",
+    "jalons": [
+      117,
+      187
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "Pran Chd",
+    "jalons": [
+      281,
+      289
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Cmanait de l'anclaise",
+    "jalons": [
+      362,
+      383
+    ]
+  },
+  "entite_281": {
+    "label": "MISC",
+    "text": "Le Marguts de la Tiande ne barde Da dSRDErCOvOIr de la",
+    "jalons": [
+      260,
+      314
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Souu",
+    "jalons": [
+      459,
+      463
+    ]
+  },
+  "entite_283": {
+    "label": "ORG",
+    "text": "DVEI COIRINCRCS",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "Pierre Tiabhon",
+    "jalons": [
+      377,
+      391
+    ]
+  },
+  "entite_285": {
+    "label": "LOC",
+    "text": "IEISRPICRSCICTE",
+    "jalons": [
+      401,
+      416
+    ]
+  },
+  "entite_286": {
+    "label": "ORG",
+    "text": "Soune Ete et Cbre",
+    "jalons": [
+      477,
+      494
+    ]
+  },
+  "entite_287": {
+    "label": "ORG",
+    "text": "E Soba",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_288": {
+    "label": "MISC",
+    "text": "du Sonres homie un pon de Ctarbe de sos, mais MsEs de Chagrin Di SoIE t Sacnais Sritoute dans",
+    "jalons": [
+      212,
+      305
+    ]
+  },
+  "entite_289": {
+    "label": "LOC",
+    "text": "Tourrures",
+    "jalons": [
+      311,
+      320
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "la paraque de Fotnson",
+    "jalons": [
+      322,
+      343
+    ]
+  },
+  "entite_291": {
+    "label": "MISC",
+    "text": "la SentOpocurite de la Tne mal Niosies",
+    "jalons": [
+      408,
+      446
+    ]
+  },
+  "entite_292": {
+    "label": "PER",
+    "text": "Eoit Tanitiore",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "Aen paS Souter",
+    "jalons": [
+      16,
+      30
+    ]
+  },
+  "entite_294": {
+    "label": "ORG",
+    "text": "Savancer vere Nens",
+    "jalons": [
+      419,
+      437
+    ]
+  },
+  "entite_295": {
+    "label": "ORG",
+    "text": "Ee outomont de Bar",
+    "jalons": [
+      456,
+      474
+    ]
+  },
+  "entite_296": {
+    "label": "ORG",
+    "text": "Piorre Tabhon",
+    "jalons": [
+      486,
+      499
+    ]
+  },
+  "entite_297": {
+    "label": "ORG",
+    "text": "inETICuS",
+    "jalons": [
+      501,
+      509
+    ]
+  },
+  "entite_298": {
+    "label": "LOC",
+    "text": "Chonnee",
+    "jalons": [
+      202,
+      209
+    ]
+  },
+  "entite_299": {
+    "label": "ORG",
+    "text": "Tanrent",
+    "jalons": [
+      4,
+      11
+    ]
+  },
+  "entite_300": {
+    "label": "ORG",
+    "text": "Rans d'un",
+    "jalons": [
+      14,
+      23
+    ]
+  },
+  "entite_301": {
+    "label": "MISC",
+    "text": "de Re de EesteT car de Me NOMs aIme Das",
+    "jalons": [
+      320,
+      359
+    ]
+  },
+  "entite_302": {
+    "label": "ORG",
+    "text": "Notts V'inberromoit",
+    "jalons": [
+      465,
+      484
+    ]
+  },
+  "entite_303": {
+    "label": "PER",
+    "text": "Monsiour de n",
+    "jalons": [
+      499,
+      512
+    ]
+  },
+  "entite_304": {
+    "label": "MISC",
+    "text": "Cmborta le DAS a Pierre Soathon de",
+    "jalons": [
+      124,
+      158
+    ]
+  },
+  "entite_305": {
+    "label": "MISC",
+    "text": "la Nanteur de Pibatien",
+    "jalons": [
+      268,
+      290
+    ]
+  },
+  "entite_306": {
+    "label": "LOC",
+    "text": "SRi",
+    "jalons": [
+      392,
+      395
+    ]
+  },
+  "entite_307": {
+    "label": "MISC",
+    "text": "de Picrre Ssatkon Oons",
+    "jalons": [
+      359,
+      381
+    ]
+  },
+  "entite_308": {
+    "label": "MISC",
+    "text": "Les parotes de Courent Satian",
+    "jalons": [
+      461,
+      490
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "de Parre des Cssais",
+    "jalons": [
+      340,
+      359
+    ]
+  },
+  "entite_310": {
+    "label": "MISC",
+    "text": "EES AIdes OEaIont asEr Ebrrasses Dour RenieT e Monoptan de Picrre Tathon et de Tiptan de Sehnson S'aber",
+    "jalons": [
+      323,
+      426
+    ]
+  },
+  "entite_311": {
+    "label": "MISC",
+    "text": "Sacoues Louiamn",
+    "jalons": [
+      194,
+      209
+    ]
+  },
+  "entite_312": {
+    "label": "ORG",
+    "text": "Ces",
+    "jalons": [
+      490,
+      493
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Ossais",
+    "jalons": [
+      503,
+      509
+    ]
+  },
+  "entite_314": {
+    "label": "MISC",
+    "text": "Picut de la COnrSs",
+    "jalons": [
+      29,
+      47
+    ]
+  },
+  "entite_315": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      75,
+      80
+    ]
+  },
+  "entite_316": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      323,
+      328
+    ]
+  },
+  "entite_317": {
+    "label": "LOC",
+    "text": "Paire",
+    "jalons": [
+      383,
+      388
+    ]
+  },
+  "entite_318": {
+    "label": "ORG",
+    "text": "Ees SaPants",
+    "jalons": [
+      111,
+      122
+    ]
+  },
+  "entite_319": {
+    "label": "PER",
+    "text": "Pilote Ierveittent",
+    "jalons": [
+      19,
+      37
+    ]
+  },
+  "entite_320": {
+    "label": "PER",
+    "text": "Dosta Pierre Jathon du bar",
+    "jalons": [
+      71,
+      97
+    ]
+  },
+  "entite_321": {
+    "label": "MISC",
+    "text": "Dore de Pantes de As deimvnde dLl Bien",
+    "jalons": [
+      303,
+      341
+    ]
+  },
+  "entite_322": {
+    "label": "ORG",
+    "text": "MccES de MNE Dere de ne Pais",
+    "jalons": [
+      474,
+      502
+    ]
+  },
+  "entite_323": {
+    "label": "MISC",
+    "text": "Pebat de la Eemverabnne Rl'abbrait a' part et Mas Nisatt de Voi DaES",
+    "jalons": [
+      8,
+      76
+    ]
+  },
+  "entite_324": {
+    "label": "MISC",
+    "text": "Eondri Avor Pous  DanE Eont le monie CETse la Piaa",
+    "jalons": [
+      242,
+      292
+    ]
+  },
+  "entite_325": {
+    "label": "PER",
+    "text": "Victor d'Uiotsratut",
+    "jalons": [
+      55,
+      74
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Oaindre",
+    "jalons": [
+      306,
+      313
+    ]
+  },
+  "entite_327": {
+    "label": "LOC",
+    "text": "PoRtOE",
+    "jalons": [
+      288,
+      294
+    ]
+  },
+  "entite_328": {
+    "label": "ORG",
+    "text": "Rntonation de vois de Pierrs Cabhon",
+    "jalons": [
+      443,
+      478
+    ]
+  },
+  "entite_329": {
+    "label": "ORG",
+    "text": "Eeon aEEEde Conee",
+    "jalons": [
+      480,
+      497
+    ]
+  },
+  "entite_330": {
+    "label": "MISC",
+    "text": "SaRs la Vie",
+    "jalons": [
+      375,
+      386
+    ]
+  },
+  "entite_331": {
+    "label": "ORG",
+    "text": "Le Lapait pas",
+    "jalons": [
+      127,
+      140
+    ]
+  },
+  "entite_332": {
+    "label": "MISC",
+    "text": "Secation de l'avORu Cour ees PIsons",
+    "jalons": [
+      296,
+      331
+    ]
+  },
+  "entite_333": {
+    "label": "ORG",
+    "text": "ARoSr",
+    "jalons": [
+      427,
+      432
+    ]
+  },
+  "entite_334": {
+    "label": "ORG",
+    "text": "dePaTe de Tonts Dresccupation TpUrbRne",
+    "jalons": [
+      471,
+      509
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "DEES",
+    "jalons": [
+      399,
+      403
+    ]
+  },
+  "entite_336": {
+    "label": "ORG",
+    "text": "Mais de OOM",
+    "jalons": [
+      379,
+      390
+    ]
+  },
+  "entite_337": {
+    "label": "ORG",
+    "text": "ACeIdCnt de IoICMr",
+    "jalons": [
+      442,
+      460
+    ]
+  },
+  "entite_338": {
+    "label": "ORG",
+    "text": "A'MNS",
+    "jalons": [
+      462,
+      467
+    ]
+  },
+  "entite_339": {
+    "label": "PER",
+    "text": "Lera Capoler",
+    "jalons": [
+      490,
+      502
+    ]
+  },
+  "entite_340": {
+    "label": "ORG",
+    "text": "Mats",
+    "jalons": [
+      507,
+      511
+    ]
+  },
+  "entite_341": {
+    "label": "MISC",
+    "text": "Abvorledan  SIUrcRaIt la Nonrette et Maviloobait",
+    "jalons": [
+      23,
+      71
+    ]
+  },
+  "entite_342": {
+    "label": "PER",
+    "text": "DON  Tonteur",
+    "jalons": [
+      196,
+      208
+    ]
+  },
+  "entite_343": {
+    "label": "PER",
+    "text": "Sotnson Vaber",
+    "jalons": [
+      210,
+      223
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Arercnt",
+    "jalons": [
+      228,
+      235
+    ]
+  },
+  "entite_345": {
+    "label": "MISC",
+    "text": "Sopivi de Vens",
+    "jalons": [
+      24,
+      38
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "REE",
+    "jalons": [
+      506,
+      509
+    ]
+  },
+  "entite_347": {
+    "label": "MISC",
+    "text": "COIre la Levais de Paire adl Picrre Seathon l'avait parte de",
+    "jalons": [
+      175,
+      235
+    ]
+  },
+  "entite_348": {
+    "label": "PER",
+    "text": "tte Nens Paber",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_349": {
+    "label": "LOC",
+    "text": "Pian",
+    "jalons": [
+      183,
+      187
+    ]
+  },
+  "entite_350": {
+    "label": "ORG",
+    "text": "Sonait de s'Ec",
+    "jalons": [
+      498,
+      512
+    ]
+  },
+  "entite_351": {
+    "label": "ORG",
+    "text": "Fourquo DOSA",
+    "jalons": [
+      486,
+      498
+    ]
+  },
+  "entite_352": {
+    "label": "LOC",
+    "text": "Abaes",
+    "jalons": [
+      503,
+      508
+    ]
+  },
+  "entite_353": {
+    "label": "ORG",
+    "text": "ChEr AMl",
+    "jalons": [
+      5,
+      13
+    ]
+  },
+  "entite_354": {
+    "label": "MISC",
+    "text": "MantOnt et Se  EoITa de la Toque de",
+    "jalons": [
+      79,
+      114
+    ]
+  },
+  "entite_355": {
+    "label": "MISC",
+    "text": "EEEs Conbrs los Pionours du Proi Sonnson d'abper sa Porsmne",
+    "jalons": [
+      142,
+      201
+    ]
+  },
+  "entite_356": {
+    "label": "ORG",
+    "text": "EeS PIErOS de Da Conbbrs",
+    "jalons": [
+      353,
+      377
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Aratte",
+    "jalons": [
+      379,
+      385
+    ]
+  },
+  "entite_358": {
+    "label": "MISC",
+    "text": "Eempecler de Priessonuer en Vosaut",
+    "jalons": [
+      11,
+      45
+    ]
+  },
+  "entite_359": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      320,
+      327
+    ]
+  },
+  "entite_360": {
+    "label": "PER",
+    "text": "dl'arriree de Satton",
+    "jalons": [
+      391,
+      411
+    ]
+  },
+  "entite_361": {
+    "label": "ORG",
+    "text": "NNAV",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_362": {
+    "label": "PER",
+    "text": "Cont Daric",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_363": {
+    "label": "MISC",
+    "text": "Jole Mord de la bette Pacon",
+    "jalons": [
+      157,
+      184
+    ]
+  },
+  "entite_364": {
+    "label": "ORG",
+    "text": "Mais Pais",
+    "jalons": [
+      287,
+      296
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "ENocha la",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_366": {
+    "label": "MISC",
+    "text": "Cepondit Pierre Ciathon NeI us Senait de Ce poisser et de R Paris",
+    "jalons": [
+      318,
+      383
+    ]
+  },
+  "entite_367": {
+    "label": "ORG",
+    "text": "SA SEMert au Soli",
+    "jalons": [
+      485,
+      502
+    ]
+  },
+  "entite_368": {
+    "label": "ORG",
+    "text": "Dour  ET",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_369": {
+    "label": "MISC",
+    "text": "Piorre Eathon Ee Pan",
+    "jalons": [
+      414,
+      434
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "DOtait de Pecard",
+    "jalons": [
+      436,
+      452
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Dour",
+    "jalons": [
+      220,
+      224
+    ]
+  },
+  "entite_372": {
+    "label": "ORG",
+    "text": "Consota L Dien",
+    "jalons": [
+      489,
+      503
+    ]
+  },
+  "entite_373": {
+    "label": "ORG",
+    "text": "Vosons",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_374": {
+    "label": "MISC",
+    "text": "Nous s'approch de Ji et lai dit",
+    "jalons": [
+      121,
+      152
+    ]
+  },
+  "entite_375": {
+    "label": "ORG",
+    "text": "Natour Encats sus Consst",
+    "jalons": [
+      488,
+      512
+    ]
+  },
+  "entite_376": {
+    "label": "MISC",
+    "text": "de Poirie Cocibhou Dt la Regradatton Stot Eres Sacstomont",
+    "jalons": [
+      39,
+      96
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Vaber",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_378": {
+    "label": "ORG",
+    "text": "Ede Vous eN DEIS",
+    "jalons": [
+      146,
+      162
+    ]
+  },
+  "entite_379": {
+    "label": "MISC",
+    "text": "NoI de Maes CRS EeaiS Commcnt Sontet sons que 3e mc de  ECnde et de",
+    "jalons": [
+      243,
+      310
+    ]
+  },
+  "entite_380": {
+    "label": "MISC",
+    "text": "DGiere de Comprendre la vatbe Ncct DaS pIns Scan de s'inctiner devant la Com",
+    "jalons": [
+      223,
+      299
+    ]
+  },
+  "entite_381": {
+    "label": "MISC",
+    "text": "CE de desirer de Painere tont en le Pesvec",
+    "jalons": [
+      339,
+      381
+    ]
+  },
+  "entite_382": {
+    "label": "ORG",
+    "text": "de Tenais ces Tandils, de les bac PaiS",
+    "jalons": [
+      474,
+      512
+    ]
+  },
+  "entite_383": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      334,
+      339
+    ]
+  },
+  "entite_384": {
+    "label": "MISC",
+    "text": "de Pai le Cavcer",
+    "jalons": [
+      439,
+      455
+    ]
+  },
+  "entite_385": {
+    "label": "LOC",
+    "text": "Oorbtt",
+    "jalons": [
+      63,
+      69
+    ]
+  },
+  "entite_386": {
+    "label": "LOC",
+    "text": "Sotnoon Saber",
+    "jalons": [
+      71,
+      84
+    ]
+  },
+  "entite_387": {
+    "label": "MISC",
+    "text": "CES AEGaIEe Et Ertat a Padrcope de Saront RIER dE de des Cottatserabours des Me",
+    "jalons": [
+      421,
+      500
+    ]
+  },
+  "entite_388": {
+    "label": "ORG",
+    "text": "RROESA BUT",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_389": {
+    "label": "ORG",
+    "text": "Oul des Oabons",
+    "jalons": [
+      91,
+      105
+    ]
+  },
+  "entite_390": {
+    "label": "ORG",
+    "text": "LA POLI EN AONOTTANE",
+    "jalons": [
+      113,
+      133
+    ]
+  },
+  "entite_391": {
+    "label": "MISC",
+    "text": "Dars le Pond de la rus Pon",
+    "jalons": [
+      137,
+      163
+    ]
+  },
+  "entite_392": {
+    "label": "ORG",
+    "text": "NITORts de la Giande",
+    "jalons": [
+      174,
+      194
+    ]
+  },
+  "entite_393": {
+    "label": "MISC",
+    "text": "decompacre de Pierre Dancest de Sesronbas et de dons Aubree IEIETES de PACro CIt",
+    "jalons": [
+      196,
+      276
+    ]
+  },
+  "entite_394": {
+    "label": "ORG",
+    "text": "DAS de DOMrse",
+    "jalons": [
+      293,
+      306
+    ]
+  },
+  "entite_395": {
+    "label": "LOC",
+    "text": "IeNEnT de Matine",
+    "jalons": [
+      348,
+      364
+    ]
+  },
+  "entite_396": {
+    "label": "MISC",
+    "text": "Mort des mard DORIS Ee mot a Mdcaroni a Sembtait d'AittCurs dans la Sonche des ouvriere Francais et IDNNTtaiS",
+    "jalons": [
+      399,
+      508
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "RS",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_398": {
+    "label": "MISC",
+    "text": "de ESsEON PRIEE de ChaMbre Ot Nun En AHE",
+    "jalons": [
+      133,
+      173
+    ]
+  },
+  "entite_399": {
+    "label": "MISC",
+    "text": "Jacques Vouter DOnS Sous eE Aller et Parre",
+    "jalons": [
+      211,
+      253
+    ]
+  },
+  "entite_400": {
+    "label": "MISC",
+    "text": "Camaratcs aPacques de Sedresgu Sierement",
+    "jalons": [
+      291,
+      331
+    ]
+  },
+  "entite_401": {
+    "label": "LOC",
+    "text": "Monstont",
+    "jalons": [
+      394,
+      402
+    ]
+  },
+  "entite_402": {
+    "label": "MISC",
+    "text": "Le Marquis de la Cande",
+    "jalons": [
+      284,
+      306
+    ]
+  },
+  "entite_403": {
+    "label": "MISC",
+    "text": "Pain do Cantner les Maritesbants ContEs montraiCnt Quis ne de Paisoe",
+    "jalons": [
+      386,
+      454
+    ]
+  },
+  "entite_404": {
+    "label": "ORG",
+    "text": "de la Conrse Olsicnt",
+    "jalons": [
+      492,
+      512
+    ]
+  },
+  "entite_405": {
+    "label": "MISC",
+    "text": "DOIORTS las SUntacat aM IisgcEMe Vous durs Conbon",
+    "jalons": [
+      462,
+      511
+    ]
+  },
+  "entite_406": {
+    "label": "PER",
+    "text": "de Pou dau Mlante",
+    "jalons": [
+      13,
+      30
+    ]
+  },
+  "entite_407": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      36,
+      42
+    ]
+  },
+  "entite_408": {
+    "label": "ORG",
+    "text": "Mons Ben",
+    "jalons": [
+      440,
+      448
+    ]
+  },
+  "entite_409": {
+    "label": "ORG",
+    "text": "ReRes Eons Preret st Nous",
+    "jalons": [
+      450,
+      475
+    ]
+  },
+  "entite_410": {
+    "label": "ORG",
+    "text": "Sonsoutvone liiine  de eme Cub",
+    "jalons": [
+      477,
+      507
+    ]
+  },
+  "entite_411": {
+    "label": "ORG",
+    "text": "Gri",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_412": {
+    "label": "MISC",
+    "text": "Nous de NOonchEs Mais Vous",
+    "jalons": [
+      76,
+      102
+    ]
+  },
+  "entite_413": {
+    "label": "MISC",
+    "text": "EnbregsrEceaient COnT les Mobils les pas Tubites  CntiR ErEs eAcibe",
+    "jalons": [
+      293,
+      360
+    ]
+  },
+  "entite_414": {
+    "label": "MISC",
+    "text": "Re Sont Pas Vuabiles Ces EeEaItons de matheur ont Eenbe de Aotruire NES",
+    "jalons": [
+      384,
+      455
+    ]
+  },
+  "entite_415": {
+    "label": "ORG",
+    "text": "Eet DEs de Oimel",
+    "jalons": [
+      457,
+      473
+    ]
+  },
+  "entite_416": {
+    "label": "ORG",
+    "text": "NPIS",
+    "jalons": [
+      475,
+      479
+    ]
+  },
+  "entite_417": {
+    "label": "MISC",
+    "text": "EEis de Tonbes les perstnnes Precoubes",
+    "jalons": [
+      244,
+      282
+    ]
+  },
+  "entite_418": {
+    "label": "ORG",
+    "text": "DOIRUTORATS SorTe Seathon",
+    "jalons": [
+      472,
+      497
+    ]
+  },
+  "entite_419": {
+    "label": "MISC",
+    "text": "Conber de le Nioguatilier",
+    "jalons": [
+      197,
+      222
+    ]
+  },
+  "entite_420": {
+    "label": "MISC",
+    "text": "Eodd Ea Muirndan de  eSe le dirai Qe Quairt de le",
+    "jalons": [
+      304,
+      353
+    ]
+  },
+  "entite_421": {
+    "label": "ORG",
+    "text": "CERnE de Nousoor des Epoutes",
+    "jalons": [
+      99,
+      127
+    ]
+  },
+  "entite_422": {
+    "label": "MISC",
+    "text": "Nande MNanette Picana",
+    "jalons": [
+      364,
+      385
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Ponis",
+    "jalons": [
+      503,
+      508
+    ]
+  },
+  "entite_424": {
+    "label": "MISC",
+    "text": "Prance de Metts Tondit sous l'outrace ur la Vis de ron Dere et de mE",
+    "jalons": [
+      20,
+      88
+    ]
+  },
+  "entite_425": {
+    "label": "MISC",
+    "text": "EEbaIt ETon le Troncates s'Otauiu",
+    "jalons": [
+      434,
+      467
+    ]
+  },
+  "entite_426": {
+    "label": "ORG",
+    "text": "Dai",
+    "jalons": [
+      470,
+      473
+    ]
+  },
+  "entite_427": {
+    "label": "ORG",
+    "text": "Au RENOUIN NORN",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_428": {
+    "label": "LOC",
+    "text": "Canaitte",
+    "jalons": [
+      57,
+      65
+    ]
+  },
+  "entite_429": {
+    "label": "LOC",
+    "text": "Natsor.",
+    "jalons": [
+      67,
+      74
+    ]
+  },
+  "entite_430": {
+    "label": "MISC",
+    "text": "Nonteur des sous de Farques Ssovornidre",
+    "jalons": [
+      412,
+      451
+    ]
+  },
+  "entite_431": {
+    "label": "LOC",
+    "text": "DoctaEs",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_432": {
+    "label": "MISC",
+    "text": "aons VesOs Re la manchette de Can CES DSt PIdS de son Sonton",
+    "jalons": [
+      1,
+      61
+    ]
+  },
+  "entite_433": {
+    "label": "ORG",
+    "text": "Vons",
+    "jalons": [
+      63,
+      67
+    ]
+  },
+  "entite_434": {
+    "label": "ORG",
+    "text": "NICnE de Ce PRssET",
+    "jalons": [
+      460,
+      478
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "Cathon",
+    "jalons": [
+      40,
+      46
+    ]
+  },
+  "entite_436": {
+    "label": "LOC",
+    "text": "Pattant",
+    "jalons": [
+      48,
+      55
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "Paber",
+    "jalons": [
+      57,
+      62
+    ]
+  },
+  "entite_438": {
+    "label": "MISC",
+    "text": "Sert Mais de vons en oupotie",
+    "jalons": [
+      203,
+      231
+    ]
+  },
+  "entite_439": {
+    "label": "MISC",
+    "text": "aICronS Eons de vant",
+    "jalons": [
+      1,
+      21
+    ]
+  },
+  "entite_440": {
+    "label": "MISC",
+    "text": "ReaTORiS de la Caande et SOIoiond. EES ORSTieTS SancaS MOtaIs et lle eMGnds dUn COb",
+    "jalons": [
+      64,
+      147
+    ]
+  },
+  "entite_441": {
+    "label": "ORG",
+    "text": "Etations de P'oubrs",
+    "jalons": [
+      149,
+      168
+    ]
+  },
+  "entite_442": {
+    "label": "LOC",
+    "text": "Neier",
+    "jalons": [
+      266,
+      271
+    ]
+  },
+  "entite_443": {
+    "label": "MISC",
+    "text": "Ceont de suite que Caurent Pattans",
+    "jalons": [
+      428,
+      462
+    ]
+  },
+  "entite_444": {
+    "label": "MISC",
+    "text": "Cbait Compable que de Segercle et de vive",
+    "jalons": [
+      466,
+      507
+    ]
+  },
+  "entite_445": {
+    "label": "LOC",
+    "text": "Realas Neier",
+    "jalons": [
+      339,
+      351
+    ]
+  },
+  "entite_446": {
+    "label": "ORG",
+    "text": "RcIdent ComigRe",
+    "jalons": [
+      489,
+      504
+    ]
+  },
+  "entite_447": {
+    "label": "ORG",
+    "text": "de Ces",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_448": {
+    "label": "LOC",
+    "text": "Etror de Pons",
+    "jalons": [
+      338,
+      351
+    ]
+  },
+  "entite_449": {
+    "label": "PER",
+    "text": "Tauront Vatani",
+    "jalons": [
+      486,
+      500
+    ]
+  },
+  "entite_450": {
+    "label": "ORG",
+    "text": "Cna",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_451": {
+    "label": "MISC",
+    "text": "St Se re Sebre de la Couros Sprbls  DOeTe",
+    "jalons": [
+      426,
+      467
+    ]
+  },
+  "entite_452": {
+    "label": "ORG",
+    "text": "Ote Mord. de pais",
+    "jalons": [
+      469,
+      486
+    ]
+  },
+  "entite_453": {
+    "label": "LOC",
+    "text": "Aeoort",
+    "jalons": [
+      500,
+      506
+    ]
+  },
+  "entite_454": {
+    "label": "LOC",
+    "text": "Saon",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_455": {
+    "label": "LOC",
+    "text": "Prai",
+    "jalons": [
+      416,
+      420
+    ]
+  },
+  "entite_456": {
+    "label": "ORG",
+    "text": "IouCIMCRtde Paiu",
+    "jalons": [
+      496,
+      512
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "IIOUSICRTS",
+    "jalons": [
+      433,
+      443
+    ]
+  },
+  "entite_458": {
+    "label": "ORG",
+    "text": "Meres de Mavoir",
+    "jalons": [
+      481,
+      496
+    ]
+  },
+  "entite_459": {
+    "label": "ORG",
+    "text": "lE Sopors",
+    "jalons": [
+      502,
+      511
+    ]
+  },
+  "entite_460": {
+    "label": "PER",
+    "text": "Pierre Tathon",
+    "jalons": [
+      480,
+      493
+    ]
+  },
+  "entite_461": {
+    "label": "MISC",
+    "text": "Vocbe de de",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_462": {
+    "label": "LOC",
+    "text": "Dent",
+    "jalons": [
+      252,
+      256
+    ]
+  },
+  "entite_463": {
+    "label": "ORG",
+    "text": "Le pa des DortEs",
+    "jalons": [
+      478,
+      494
+    ]
+  },
+  "entite_464": {
+    "label": "ORG",
+    "text": "Eermces E",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_465": {
+    "label": "LOC",
+    "text": "de la Tumiere",
+    "jalons": [
+      38,
+      51
+    ]
+  },
+  "entite_466": {
+    "label": "MISC",
+    "text": "la Potatison de la Vorre Dondant de",
+    "jalons": [
+      223,
+      258
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "Aenes",
+    "jalons": [
+      311,
+      316
+    ]
+  },
+  "entite_468": {
+    "label": "ORG",
+    "text": "DES IECAIICIENS SEaIICnS",
+    "jalons": [
+      1,
+      25
+    ]
+  },
+  "entite_469": {
+    "label": "ORG",
+    "text": "ATTITES BRS NaaS de Viorre Sathon",
+    "jalons": [
+      27,
+      60
+    ]
+  },
+  "entite_470": {
+    "label": "MISC",
+    "text": "Vireront des DsISS de Cours",
+    "jalons": [
+      62,
+      89
+    ]
+  },
+  "entite_471": {
+    "label": "MISC",
+    "text": "EeUoIrT de Porcer a Sevrure",
+    "jalons": [
+      127,
+      154
+    ]
+  },
+  "entite_472": {
+    "label": "ORG",
+    "text": "Ae la DOrbe",
+    "jalons": [
+      156,
+      167
+    ]
+  },
+  "entite_473": {
+    "label": "LOC",
+    "text": "Pidt",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_474": {
+    "label": "ORG",
+    "text": "MSrEStCmont Blavres",
+    "jalons": [
+      440,
+      459
+    ]
+  },
+  "entite_475": {
+    "label": "ORG",
+    "text": "DSe Eordstent dans les aPtres de d'abanie",
+    "jalons": [
+      462,
+      503
+    ]
+  },
+  "entite_476": {
+    "label": "ORG",
+    "text": "Eais",
+    "jalons": [
+      505,
+      509
+    ]
+  },
+  "entite_477": {
+    "label": "MISC",
+    "text": "Obait Eton",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_478": {
+    "label": "MISC",
+    "text": "Couvru PES Gas de Sronsaient",
+    "jalons": [
+      142,
+      170
+    ]
+  },
+  "entite_479": {
+    "label": "MISC",
+    "text": "COETe Soptaon et des Ouvriere",
+    "jalons": [
+      345,
+      374
+    ]
+  },
+  "entite_480": {
+    "label": "MISC",
+    "text": "CabIe de Pais",
+    "jalons": [
+      201,
+      214
+    ]
+  },
+  "entite_481": {
+    "label": "MISC",
+    "text": "de Moscon et Setais al Cacht de la Gersonne",
+    "jalons": [
+      258,
+      301
+    ]
+  },
+  "entite_482": {
+    "label": "ORG",
+    "text": "Aua Eu DES MonTEaa Tomb",
+    "jalons": [
+      489,
+      512
+    ]
+  },
+  "entite_483": {
+    "label": "MISC",
+    "text": "Ant et Besgu de Mort le Nipitrote Mus Aonu DO",
+    "jalons": [
+      19,
+      64
+    ]
+  },
+  "entite_484": {
+    "label": "MISC",
+    "text": "ScbiRe de Ou  RTpTS Lanptisme",
+    "jalons": [
+      84,
+      113
+    ]
+  },
+  "entite_485": {
+    "label": "MISC",
+    "text": "de CmMmSiCuait a la Toiserie de la Earague de",
+    "jalons": [
+      148,
+      193
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "S'schar",
+    "jalons": [
+      472,
+      479
+    ]
+  },
+  "entite_487": {
+    "label": "MISC",
+    "text": "Cbait EEITe de la Courss et que",
+    "jalons": [
+      32,
+      63
+    ]
+  },
+  "entite_488": {
+    "label": "MISC",
+    "text": "Nord et Setonr dts SETeptaRcS de Picrrs Cscbhon et de Sotnson Saber Etaient insrseitlenseaent DNS DES DOIRE lES JUISREES de NICRES CRN DeEet dar les Eations Enreut Paciomont",
+    "jalons": [
+      257,
+      430
+    ]
+  },
+  "entite_489": {
+    "label": "ORG",
+    "text": "DaresS",
+    "jalons": [
+      433,
+      439
+    ]
+  },
+  "entite_490": {
+    "label": "MISC",
+    "text": "Cans la Pandonaes Vers le Pole",
+    "jalons": [
+      416,
+      446
+    ]
+  },
+  "entite_491": {
+    "label": "ORG",
+    "text": "ETS",
+    "jalons": [
+      0,
+      3
+    ]
+  },
+  "entite_492": {
+    "label": "MISC",
+    "text": "AOeEs dE Asait sans Ccre",
+    "jalons": [
+      434,
+      458
+    ]
+  },
+  "entite_493": {
+    "label": "PER",
+    "text": "Das Sonlancs",
+    "jalons": [
+      499,
+      511
+    ]
+  },
+  "entite_494": {
+    "label": "ORG",
+    "text": "Sorteoit Paris",
+    "jalons": [
+      306,
+      320
+    ]
+  },
+  "entite_495": {
+    "label": "ORG",
+    "text": "Carto S",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "Sorothee",
+    "jalons": [
+      292,
+      300
+    ]
+  },
+  "entite_497": {
+    "label": "MISC",
+    "text": "la Jenne Pemine de al Paas Lea Fatl",
+    "jalons": [
+      302,
+      337
+    ]
+  },
+  "entite_498": {
+    "label": "PER",
+    "text": "Cehampione des Fitats Pais",
+    "jalons": [
+      461,
+      487
+    ]
+  },
+  "entite_499": {
+    "label": "MISC",
+    "text": "Euite Sune de laittaace de Ce",
+    "jalons": [
+      141,
+      170
+    ]
+  },
+  "entite_500": {
+    "label": "PER",
+    "text": "Etait toin de von  Ei",
+    "jalons": [
+      33,
+      54
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "Alropland",
+    "jalons": [
+      81,
+      90
+    ]
+  },
+  "entite_502": {
+    "label": "LOC",
+    "text": "Faber",
+    "jalons": [
+      228,
+      233
+    ]
+  },
+  "entite_503": {
+    "label": "LOC",
+    "text": "dConst de",
+    "jalons": [
+      298,
+      307
+    ]
+  },
+  "entite_504": {
+    "label": "MISC",
+    "text": "la delectnorite de Tonres abre Meaa ete les Frdres Soithson abandou  NaIonE Sestait Dicquot",
+    "jalons": [
+      308,
+      399
+    ]
+  },
+  "entite_505": {
+    "label": "ORG",
+    "text": "Neier ot Arts",
+    "jalons": [
+      401,
+      414
+    ]
+  },
+  "entite_506": {
+    "label": "MISC",
+    "text": "LE Pon EN AENOTCANN  El SEain E La EovROE de Etand",
+    "jalons": [
+      101,
+      151
+    ]
+  },
+  "entite_507": {
+    "label": "MISC",
+    "text": "DEGuVe EEait Eude et Pien de Sronvait MRS  TOnS OU SeviCndraICnE Tour la dernie",
+    "jalons": [
+      261,
+      340
+    ]
+  },
+  "entite_508": {
+    "label": "PER",
+    "text": "Von Scble",
+    "jalons": [
+      361,
+      370
+    ]
+  },
+  "entite_509": {
+    "label": "LOC",
+    "text": "STinre",
+    "jalons": [
+      113,
+      119
+    ]
+  },
+  "entite_510": {
+    "label": "LOC",
+    "text": "Sarersare",
+    "jalons": [
+      46,
+      55
+    ]
+  },
+  "entite_511": {
+    "label": "MISC",
+    "text": "Sera CAasoe  NaRt Pis",
+    "jalons": [
+      362,
+      383
+    ]
+  },
+  "entite_512": {
+    "label": "ORG",
+    "text": "INCGSIORTS",
+    "jalons": [
+      500,
+      510
+    ]
+  },
+  "entite_513": {
+    "label": "PER",
+    "text": "SCSRTIEE DOS IRCAIRES",
+    "jalons": [
+      0,
+      21
+    ]
+  },
+  "entite_514": {
+    "label": "LOC",
+    "text": "SesSionre",
+    "jalons": [
+      196,
+      205
+    ]
+  },
+  "entite_515": {
+    "label": "LOC",
+    "text": "Sstomont",
+    "jalons": [
+      211,
+      219
+    ]
+  },
+  "entite_516": {
+    "label": "MISC",
+    "text": "STrsrrilan de Sonvotaet de aero Cat",
+    "jalons": [
+      18,
+      53
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "Iere Eomps",
+    "jalons": [
+      271,
+      281
+    ]
+  },
+  "entite_518": {
+    "label": "MISC",
+    "text": "GarOis ories des drapcau de la Nootonn  dE ie Cacneront les Nautes",
+    "jalons": [
+      422,
+      488
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "Srocanbon",
+    "jalons": [
+      9,
+      18
+    ]
+  },
+  "entite_520": {
+    "label": "MISC",
+    "text": "EEndre en nue Anibeitne  Deures et Sedemander",
+    "jalons": [
+      262,
+      307
+    ]
+  },
+  "entite_521": {
+    "label": "LOC",
+    "text": "Fonrouot",
+    "jalons": [
+      490,
+      498
+    ]
+  },
+  "entite_522": {
+    "label": "LOC",
+    "text": "Soun",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_523": {
+    "label": "MISC",
+    "text": "RCTe des le de",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_524": {
+    "label": "PER",
+    "text": "Ms Ebait",
+    "jalons": [
+      42,
+      50
+    ]
+  },
+  "entite_525": {
+    "label": "LOC",
+    "text": "Eort",
+    "jalons": [
+      53,
+      57
+    ]
+  },
+  "entite_526": {
+    "label": "PER",
+    "text": "Sorre Tathon",
+    "jalons": [
+      59,
+      71
+    ]
+  },
+  "entite_527": {
+    "label": "PER",
+    "text": "Sohason Saber",
+    "jalons": [
+      73,
+      86
+    ]
+  },
+  "entite_528": {
+    "label": "LOC",
+    "text": "Cendre",
+    "jalons": [
+      259,
+      265
+    ]
+  },
+  "entite_529": {
+    "label": "MISC",
+    "text": "DarRIGSaICnE de Ttancs Eantsmss 'Esttours ES OuS Erappait le",
+    "jalons": [
+      382,
+      442
+    ]
+  },
+  "entite_530": {
+    "label": "ORG",
+    "text": "Font Otait Mane",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_531": {
+    "label": "MISC",
+    "text": "Conde Iprecsion de Eriobesse",
+    "jalons": [
+      263,
+      291
+    ]
+  },
+  "entite_532": {
+    "label": "LOC",
+    "text": "Sorbe",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_533": {
+    "label": "LOC",
+    "text": "Contraire",
+    "jalons": [
+      152,
+      161
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "Coubinont de Blacs",
+    "jalons": [
+      355,
+      373
+    ]
+  },
+  "entite_535": {
+    "label": "MISC",
+    "text": "Chacun otait Sevout de NoIs Siinuer de Nombre de Ntometres Sicquet et",
+    "jalons": [
+      276,
+      345
+    ]
+  },
+  "entite_536": {
+    "label": "PER",
+    "text": "rerre Geatkon",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_537": {
+    "label": "PER",
+    "text": "Jacques SoIan",
+    "jalons": [
+      31,
+      44
+    ]
+  },
+  "entite_538": {
+    "label": "ORG",
+    "text": "Degniet pous Notts",
+    "jalons": [
+      479,
+      497
+    ]
+  },
+  "entite_539": {
+    "label": "PER",
+    "text": "Ponte DeIE le Pote",
+    "jalons": [
+      93,
+      111
+    ]
+  },
+  "entite_540": {
+    "label": "LOC",
+    "text": "Erois",
+    "jalons": [
+      287,
+      292
+    ]
+  },
+  "entite_541": {
+    "label": "ORG",
+    "text": "Vons tronre Sacques",
+    "jalons": [
+      61,
+      80
+    ]
+  },
+  "entite_542": {
+    "label": "ORG",
+    "text": "aMais de l'es",
+    "jalons": [
+      499,
+      512
+    ]
+  },
+  "entite_543": {
+    "label": "MISC",
+    "text": "Nottert De NOUUOn de SilCRcs E Etabtit",
+    "jalons": [
+      15,
+      53
+    ]
+  },
+  "entite_544": {
+    "label": "PER",
+    "text": "SEtmueS Doe Souves",
+    "jalons": [
+      249,
+      267
+    ]
+  },
+  "entite_545": {
+    "label": "LOC",
+    "text": "Comian",
+    "jalons": [
+      35,
+      41
+    ]
+  },
+  "entite_546": {
+    "label": "ORG",
+    "text": "Lh Tien Ent",
+    "jalons": [
+      72,
+      83
+    ]
+  },
+  "entite_547": {
+    "label": "PER",
+    "text": "Gathon Oouril",
+    "jalons": [
+      265,
+      278
+    ]
+  },
+  "entite_548": {
+    "label": "PER",
+    "text": "Ceble Cuveble",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_549": {
+    "label": "MISC",
+    "text": "Amet S'Obail  Ra Pais de la berre",
+    "jalons": [
+      309,
+      342
+    ]
+  },
+  "entite_550": {
+    "label": "PER",
+    "text": "Pierre Natton",
+    "jalons": [
+      463,
+      476
+    ]
+  },
+  "entite_551": {
+    "label": "MISC",
+    "text": "Cront dEs Leconvert la Conse de la paans",
+    "jalons": [
+      287,
+      327
+    ]
+  },
+  "entite_552": {
+    "label": "ORG",
+    "text": "aPait pas Pias",
+    "jalons": [
+      472,
+      486
+    ]
+  },
+  "entite_553": {
+    "label": "ORG",
+    "text": "IAINS",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_554": {
+    "label": "MISC",
+    "text": "Proid AVant de Separbir",
+    "jalons": [
+      450,
+      473
+    ]
+  },
+  "entite_555": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      83,
+      88
+    ]
+  },
+  "entite_556": {
+    "label": "MISC",
+    "text": "EON EEDATEI et MIS a EON tour eRait dE ECTTi An P0te. Serriere de panncau Sibre",
+    "jalons": [
+      336,
+      415
+    ]
+  },
+  "entite_557": {
+    "label": "MISC",
+    "text": "Sattion en RsE En poiser de a Prancee qus Eperent NebIncbemCnt",
+    "jalons": [
+      417,
+      479
+    ]
+  },
+  "entite_558": {
+    "label": "LOC",
+    "text": "Lees dens Machines de Croi SETO",
+    "jalons": [
+      481,
+      512
+    ]
+  },
+  "entite_559": {
+    "label": "ORG",
+    "text": "PREIS DE SREEEISTCRE DAS",
+    "jalons": [
+      4,
+      28
+    ]
+  },
+  "entite_560": {
+    "label": "ORG",
+    "text": "da Poule",
+    "jalons": [
+      52,
+      60
+    ]
+  },
+  "entite_561": {
+    "label": "LOC",
+    "text": "Eone de de",
+    "jalons": [
+      345,
+      355
+    ]
+  },
+  "entite_562": {
+    "label": "MISC",
+    "text": "Es Aphonse Dicques",
+    "jalons": [
+      212,
+      230
+    ]
+  },
+  "entite_563": {
+    "label": "LOC",
+    "text": "CEeNCoisi de retour de Pohion",
+    "jalons": [
+      185,
+      214
+    ]
+  },
+  "entite_564": {
+    "label": "ORG",
+    "text": "maIS de OM",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_565": {
+    "label": "ORG",
+    "text": "IonSieuT SatEr",
+    "jalons": [
+      491,
+      505
+    ]
+  },
+  "entite_566": {
+    "label": "LOC",
+    "text": "Sentr",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_567": {
+    "label": "LOC",
+    "text": "Nabe de Vons Pavir Neid",
+    "jalons": [
+      37,
+      60
+    ]
+  },
+  "entite_568": {
+    "label": "MISC",
+    "text": "oui Pierre déclara la Senne Pitte a Pais",
+    "jalons": [
+      171,
+      212
+    ]
+  },
+  "entite_569": {
+    "label": "MISC",
+    "text": "Les margnis de la Cbnds",
+    "jalons": [
+      404,
+      427
+    ]
+  },
+  "entite_570": {
+    "label": "PER",
+    "text": "Jassss SeUToune",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_571": {
+    "label": "ORG",
+    "text": "de la Couros",
+    "jalons": [
+      95,
+      107
+    ]
+  },
+  "entite_572": {
+    "label": "ORG",
+    "text": "D Aovroville",
+    "jalons": [
+      193,
+      205
+    ]
+  }
+}
