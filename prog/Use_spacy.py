@@ -3,6 +3,7 @@ import re
 import glob
 from pathlib import Path
 import spacy
+from more_itertools import chunked
 import json
 import os
 import csv
@@ -57,15 +58,10 @@ def stocker(chemin, contenu, is_json=False, verbose=False):
     w.close()
 
 
-def chunk_text(text, chunk_size: int = 512) -> list[list]:
+def chunk_text(text: str, chunk_size: int = 1024) -> list[str]:
     """Splits text into chunks of specified size."""
-    chunks = []
-    start = 0
-    while start < len(text):
-        end = start + chunk_size
-        chunks.append(text[start:end])
-        start += chunk_size
-    return chunks
+    chunks = chunked(text.split(), n=chunk_size)
+    return [" ".join(chunk) for chunk in chunks]
 
 
 def dico_resultats(texte, nlp=""):
@@ -102,13 +98,20 @@ def bio_spacy(texte, nlp="") -> list[list]:
             cmd = "python3 -m spacy download fr_core_news_sm"
             os.system(cmd)
             nlp = spacy.load("fr_core_news_sm")
-    chunks: list = chunk_text(text=texte)
+    chunks: list[str] = chunk_text(text=texte)
+    # print(chunks)
+    print(len(chunks))
+    # exit()
     liste_bio: list = []
     for chunk in chunks:
         doc = nlp(chunk)
+        print(f"doc: {doc}")
+        for i, ent in enumerate(doc.ents):
+            print(i, ent)
         liste_bio.append([[doc[i].text, doc[i].ent_iob_, doc[i].ent_type_]
-                          for i, ent in enumerate(doc.ents)])
+                          for i, ent in enumerate(doc)])
         print(liste_bio)
+        # exit()
     return liste_bio
 
 
