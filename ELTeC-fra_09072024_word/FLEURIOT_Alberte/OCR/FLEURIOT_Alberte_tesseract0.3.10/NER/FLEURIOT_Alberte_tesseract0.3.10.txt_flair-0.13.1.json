@@ -1,0 +1,9698 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Gallica  Alberte",
+    "jalons": [
+      6,
+      22
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      103,
+      109
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Gallica     Fleuriot",
+    "jalons": [
+      115,
+      135
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Zénaïde",
+    "jalons": [
+      137,
+      144
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      175,
+      182
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Mlle Zénaïde Fleuriot",
+    "jalons": [
+      189,
+      210
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      291,
+      297
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Les contenus de Gallica sont la propriété de la BnF au sens de",
+    "jalons": [
+      374,
+      436
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "PARIS LYON",
+    "jalons": [
+      118,
+      128
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "la Petite Duchesse qu'Alberte de la Rochefaucon doit de revivre en ce nouvel ouvrage",
+    "jalons": [
+      290,
+      374
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Puisse-t-il lui",
+    "jalons": [
+      490,
+      505
+    ]
+  },
+  "entite_11": {
+    "label": "ORG",
+    "text": "Sceaux",
+    "jalons": [
+      37,
+      43
+    ]
+  },
+  "entite_12": {
+    "label": "ORG",
+    "text": "LA VENTE DE CHARITÉ",
+    "jalons": [
+      168,
+      187
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      243,
+      248
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      294,
+      299
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Dragonneau",
+    "jalons": [
+      330,
+      340
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Vendôme",
+    "jalons": [
+      190,
+      197
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Louzéma",
+    "jalons": [
+      481,
+      488
+    ]
+  },
+  "entite_18": {
+    "label": "ORG",
+    "text": "De Vienne",
+    "jalons": [
+      494,
+      503
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "EÉtc",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      19,
+      24
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Vente de charité",
+    "jalons": [
+      417,
+      433
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Savez-vous",
+    "jalons": [
+      499,
+      509
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      452,
+      457
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "L'ami de David",
+    "jalons": [
+      394,
+      408
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "M. Dragonneau",
+    "jalons": [
+      228,
+      241
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "David en lui",
+    "jalons": [
+      422,
+      434
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "La marquise de Valroux",
+    "jalons": [
+      437,
+      459
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Peut-être",
+    "jalons": [
+      465,
+      474
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Dites-moi",
+    "jalons": [
+      476,
+      485
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "connaissez-vous la jeune",
+    "jalons": [
+      487,
+      511
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Mademoiselle de la Rochefaucon",
+    "jalons": [
+      34,
+      64
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Roberte",
+    "jalons": [
+      173,
+      180
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Roger de Châä",
+    "jalons": [
+      499,
+      512
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Médéric de Valroux",
+    "jalons": [
+      32,
+      50
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Allez toujours",
+    "jalons": [
+      239,
+      253
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "Et il entraîna le jeune Parisien",
+    "jalons": [
+      24,
+      56
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "le nom de la marquise de Valroux",
+    "jalons": [
+      434,
+      466
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "David",
+    "jalons": [
+      500,
+      505
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Mademoi",
+    "jalons": [
+      218,
+      225
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Bellinard",
+    "jalons": [
+      287,
+      296
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "Mademoiselle Bellinard",
+    "jalons": [
+      267,
+      289
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      459,
+      466
+    ]
+  },
+  "entite_43": {
+    "label": "ORG",
+    "text": "Cherchez Alberte",
+    "jalons": [
+      468,
+      484
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Mademoiselle Alberte de la Rochefaucon était  une très jolie femme de vingt",
+    "jalons": [
+      118,
+      193
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Sous le soleil de Nice",
+    "jalons": [
+      73,
+      95
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      484,
+      491
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Cannes",
+    "jalons": [
+      154,
+      160
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Certes",
+    "jalons": [
+      275,
+      281
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "La marquise de Valroux",
+    "jalons": [
+      429,
+      451
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Mademoiselle Bellinard",
+    "jalons": [
+      53,
+      75
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      117,
+      121
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "La villa de",
+    "jalons": [
+      125,
+      136
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "celle de la  duchesse de la Rochefaucon",
+    "jalons": [
+      158,
+      197
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      239,
+      246
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      355,
+      360
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Léon Dragonneau",
+    "jalons": [
+      2,
+      17
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "Dans la cour",
+    "jalons": [
+      235,
+      247
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "David la remercia",
+    "jalons": [
+      296,
+      313
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Devine",
+    "jalons": [
+      141,
+      147
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      149,
+      153
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      184,
+      189
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Française",
+    "jalons": [
+      199,
+      208
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Françaises",
+    "jalons": [
+      342,
+      352
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Carmen",
+    "jalons": [
+      386,
+      392
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "David",
+    "jalons": [
+      483,
+      488
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Devinez",
+    "jalons": [
+      26,
+      33
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Luna",
+    "jalons": [
+      118,
+      122
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Devinez",
+    "jalons": [
+      313,
+      320
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Jolie",
+    "jalons": [
+      403,
+      408
+    ]
+  },
+  "entite_70": {
+    "label": "MISC",
+    "text": "Très jolie",
+    "jalons": [
+      413,
+      423
+    ]
+  },
+  "entite_71": {
+    "label": "LOC",
+    "text": "Belle",
+    "jalons": [
+      428,
+      433
+    ]
+  },
+  "entite_72": {
+    "label": "LOC",
+    "text": "Bleu de mer",
+    "jalons": [
+      490,
+      501
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "Porte",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_74": {
+    "label": "PER",
+    "text": "ALBERTE",
+    "jalons": [
+      60,
+      67
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      170,
+      174
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "David",
+    "jalons": [
+      190,
+      195
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "Elle s'appelle Alberte",
+    "jalons": [
+      200,
+      222
+    ]
+  },
+  "entite_78": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      279,
+      283
+    ]
+  },
+  "entite_79": {
+    "label": "MISC",
+    "text": "Les yeux de velours de Luna",
+    "jalons": [
+      286,
+      313
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "Alberte de la Rochefaucon",
+    "jalons": [
+      404,
+      429
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      333,
+      337
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      395,
+      399
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "de la Rochefaucon",
+    "jalons": [
+      469,
+      486
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Lequel",
+    "jalons": [
+      491,
+      497
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "David? Lequel",
+    "jalons": [
+      499,
+      512
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "Carmen",
+    "jalons": [
+      2,
+      8
+    ]
+  },
+  "entite_87": {
+    "label": "PER",
+    "text": "Carmen tira",
+    "jalons": [
+      10,
+      21
+    ]
+  },
+  "entite_88": {
+    "label": "PER",
+    "text": "David? demanda Luna",
+    "jalons": [
+      103,
+      122
+    ]
+  },
+  "entite_89": {
+    "label": "ORG",
+    "text": "Il  LES DEUX",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_90": {
+    "label": "MISC",
+    "text": "SŒURS  Le lendemain de ce jour",
+    "jalons": [
+      1,
+      31
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "hôtel de la rue de Lille",
+    "jalons": [
+      83,
+      107
+    ]
+  },
+  "entite_92": {
+    "label": "MISC",
+    "text": "Un jeune officier de",
+    "jalons": [
+      109,
+      129
+    ]
+  },
+  "entite_93": {
+    "label": "MISC",
+    "text": "Madame la marquise de Valroux",
+    "jalons": [
+      43,
+      72
+    ]
+  },
+  "entite_94": {
+    "label": "LOC",
+    "text": "Mademoiselle de la Rochefaucon",
+    "jalons": [
+      266,
+      296
+    ]
+  },
+  "entite_95": {
+    "label": "MISC",
+    "text": "Monsieur le marquis de Valroux",
+    "jalons": [
+      414,
+      444
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Roger",
+    "jalons": [
+      494,
+      499
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "berte de",
+    "jalons": [
+      179,
+      187
+    ]
+  },
+  "entite_98": {
+    "label": "MISC",
+    "text": "la Rochefaucon le traversa",
+    "jalons": [
+      188,
+      214
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "John",
+    "jalons": [
+      219,
+      223
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "John lui",
+    "jalons": [
+      338,
+      346
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "ROGER DE",
+    "jalons": [
+      393,
+      401
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Lieutenant de dragons",
+    "jalons": [
+      420,
+      441
+    ]
+  },
+  "entite_103": {
+    "label": "ORG",
+    "text": "l'hôtel du Louvre",
+    "jalons": [
+      469,
+      486
+    ]
+  },
+  "entite_104": {
+    "label": "ORG",
+    "text": "Je m'en",
+    "jalons": [
+      501,
+      508
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      166,
+      174
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Mademoiselle",
+    "jalons": [
+      278,
+      290
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "ALBERTE",
+    "jalons": [
+      489,
+      496
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      501,
+      508
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "Lex",
+    "jalons": [
+      395,
+      398
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "La marquise de Valroux",
+    "jalons": [
+      412,
+      434
+    ]
+  },
+  "entite_111": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      240,
+      249
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "Figurez-vous",
+    "jalons": [
+      21,
+      33
+    ]
+  },
+  "entite_113": {
+    "label": "PER",
+    "text": "Agnès ou Maurice",
+    "jalons": [
+      260,
+      276
+    ]
+  },
+  "entite_114": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      447,
+      456
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      493,
+      500
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "Aujourd'hu",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "John",
+    "jalons": [
+      30,
+      34
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      345,
+      352
+    ]
+  },
+  "entite_119": {
+    "label": "LOC",
+    "text": "Mirbier",
+    "jalons": [
+      318,
+      325
+    ]
+  },
+  "entite_120": {
+    "label": "PER",
+    "text": "Roger de Châäteaugrand",
+    "jalons": [
+      21,
+      43
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      334,
+      341
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      358,
+      365
+    ]
+  },
+  "entite_123": {
+    "label": "PER",
+    "text": "Roger de Châteaugrand",
+    "jalons": [
+      43,
+      64
+    ]
+  },
+  "entite_124": {
+    "label": "MISC",
+    "text": "ire la vie de ces châtelaines du moyen âge",
+    "jalons": [
+      0,
+      42
+    ]
+  },
+  "entite_125": {
+    "label": "MISC",
+    "text": "Sans cela",
+    "jalons": [
+      6,
+      15
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      172,
+      179
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "Certes",
+    "jalons": [
+      386,
+      392
+    ]
+  },
+  "entite_128": {
+    "label": "LOC",
+    "text": "marquise de Va",
+    "jalons": [
+      498,
+      512
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      348,
+      353
+    ]
+  },
+  "entite_130": {
+    "label": "MISC",
+    "text": "Indien de nais",
+    "jalons": [
+      11,
+      25
+    ]
+  },
+  "entite_131": {
+    "label": "LOC",
+    "text": "Parfait",
+    "jalons": [
+      37,
+      44
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      279,
+      292
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "Louzéma",
+    "jalons": [
+      109,
+      116
+    ]
+  },
+  "entite_134": {
+    "label": "LOC",
+    "text": "Moi de même",
+    "jalons": [
+      223,
+      234
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      413,
+      426
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      429,
+      446
+    ]
+  },
+  "entite_137": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      79,
+      84
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Cannes",
+    "jalons": [
+      118,
+      124
+    ]
+  },
+  "entite_139": {
+    "label": "LOC",
+    "text": "Écosse",
+    "jalons": [
+      208,
+      214
+    ]
+  },
+  "entite_140": {
+    "label": "MISC",
+    "text": "Cannes et à la Rochefaucon",
+    "jalons": [
+      340,
+      366
+    ]
+  },
+  "entite_141": {
+    "label": "MISC",
+    "text": "Elle en revint",
+    "jalons": [
+      368,
+      382
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "Indien",
+    "jalons": [
+      428,
+      434
+    ]
+  },
+  "entite_143": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      486,
+      492
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "Parfait",
+    "jalons": [
+      270,
+      277
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Cannes",
+    "jalons": [
+      413,
+      419
+    ]
+  },
+  "entite_146": {
+    "label": "MISC",
+    "text": "Roger de Chäteaugrand",
+    "jalons": [
+      102,
+      123
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      393,
+      400
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "Louzéma",
+    "jalons": [
+      386,
+      393
+    ]
+  },
+  "entite_149": {
+    "label": "MISC",
+    "text": "Elles se serrèrent la main et madame de Lex",
+    "jalons": [
+      50,
+      93
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "la marquise de Val",
+    "jalons": [
+      478,
+      496
+    ]
+  },
+  "entite_151": {
+    "label": "PER",
+    "text": "Madame Valroux",
+    "jalons": [
+      109,
+      123
+    ]
+  },
+  "entite_152": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      208,
+      214
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "Château",
+    "jalons": [
+      253,
+      260
+    ]
+  },
+  "entite_154": {
+    "label": "LOC",
+    "text": "Louvre",
+    "jalons": [
+      435,
+      441
+    ]
+  },
+  "entite_155": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      14,
+      23
+    ]
+  },
+  "entite_156": {
+    "label": "PER",
+    "text": "Laquelle",
+    "jalons": [
+      175,
+      183
+    ]
+  },
+  "entite_157": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      245,
+      251
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      368,
+      375
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      399,
+      408
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      2,
+      19
+    ]
+  },
+  "entite_161": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      224,
+      233
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      505,
+      509
+    ]
+  },
+  "entite_163": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      313,
+      320
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      124,
+      129
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      177,
+      181
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      195,
+      202
+    ]
+  },
+  "entite_167": {
+    "label": "PER",
+    "text": "de Le",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "Agnès",
+    "jalons": [
+      196,
+      201
+    ]
+  },
+  "entite_169": {
+    "label": "LOC",
+    "text": "Mademoiselle de la Rochefaucon",
+    "jalons": [
+      433,
+      463
+    ]
+  },
+  "entite_170": {
+    "label": "LOC",
+    "text": "Loi",
+    "jalons": [
+      474,
+      477
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Agnès",
+    "jalons": [
+      504,
+      509
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      392,
+      399
+    ]
+  },
+  "entite_173": {
+    "label": "LOC",
+    "text": "Absurde",
+    "jalons": [
+      357,
+      364
+    ]
+  },
+  "entite_174": {
+    "label": "LOC",
+    "text": "ALBERTE",
+    "jalons": [
+      5,
+      12
+    ]
+  },
+  "entite_175": {
+    "label": "MISC",
+    "text": "Elle sortit de",
+    "jalons": [
+      97,
+      111
+    ]
+  },
+  "entite_176": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      375,
+      388
+    ]
+  },
+  "entite_177": {
+    "label": "LOC",
+    "text": "Saint-Germain",
+    "jalons": [
+      248,
+      261
+    ]
+  },
+  "entite_178": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      342,
+      347
+    ]
+  },
+  "entite_179": {
+    "label": "MISC",
+    "text": "Le carreau de celle-ci se baissa sous la main de madame de Valroux en même temps que celui du coupé sous celle de madame de Lextreville",
+    "jalons": [
+      289,
+      424
+    ]
+  },
+  "entite_180": {
+    "label": "PER",
+    "text": "bai brun du baron de Lextreville",
+    "jalons": [
+      8,
+      40
+    ]
+  },
+  "entite_181": {
+    "label": "MISC",
+    "text": "Au delà de l'Arc de Triomphe les",
+    "jalons": [
+      249,
+      281
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "Lextreville",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "le dans les lieux",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_184": {
+    "label": "MISC",
+    "text": "éjà bien assez de subir les folies des nôtres sans aller",
+    "jalons": [
+      0,
+      56
+    ]
+  },
+  "entite_185": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      72,
+      77
+    ]
+  },
+  "entite_186": {
+    "label": "LOC",
+    "text": "Papa",
+    "jalons": [
+      483,
+      487
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "Agnès",
+    "jalons": [
+      44,
+      49
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "J'aime aussi",
+    "jalons": [
+      51,
+      63
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      199,
+      204
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      258,
+      265
+    ]
+  },
+  "entite_191": {
+    "label": "LOC",
+    "text": "M. de Valroux",
+    "jalons": [
+      135,
+      148
+    ]
+  },
+  "entite_192": {
+    "label": "MISC",
+    "text": "Agnès l’arrèta dans son élan",
+    "jalons": [
+      16,
+      44
+    ]
+  },
+  "entite_193": {
+    "label": "PER",
+    "text": "Regarde donc M. de Lextreville",
+    "jalons": [
+      49,
+      79
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      395,
+      402
+    ]
+  },
+  "entite_195": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      122,
+      129
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "David et Luna",
+    "jalons": [
+      34,
+      47
+    ]
+  },
+  "entite_197": {
+    "label": "MISC",
+    "text": "dont les yeux",
+    "jalons": [
+      48,
+      61
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      498,
+      502
+    ]
+  },
+  "entite_199": {
+    "label": "PER",
+    "text": "Mademoiselle de la Rochefaucon",
+    "jalons": [
+      178,
+      208
+    ]
+  },
+  "entite_200": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      415,
+      419
+    ]
+  },
+  "entite_201": {
+    "label": "PER",
+    "text": "Agnès",
+    "jalons": [
+      498,
+      503
+    ]
+  },
+  "entite_202": {
+    "label": "MISC",
+    "text": "Luna s’élanca vers elle",
+    "jalons": [
+      5,
+      28
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      71,
+      75
+    ]
+  },
+  "entite_204": {
+    "label": "LOC",
+    "text": "Cannes",
+    "jalons": [
+      465,
+      471
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "Moi",
+    "jalons": [
+      43,
+      46
+    ]
+  },
+  "entite_206": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      65,
+      69
+    ]
+  },
+  "entite_207": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      130,
+      143
+    ]
+  },
+  "entite_208": {
+    "label": "PER",
+    "text": "Monsieur de Valroux",
+    "jalons": [
+      426,
+      445
+    ]
+  },
+  "entite_209": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      276,
+      284
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "Alberte tira de",
+    "jalons": [
+      459,
+      474
+    ]
+  },
+  "entite_211": {
+    "label": "LOC",
+    "text": "Agnès",
+    "jalons": [
+      445,
+      450
+    ]
+  },
+  "entite_212": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      476,
+      489
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Parfait",
+    "jalons": [
+      50,
+      57
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      271,
+      284
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Roger",
+    "jalons": [
+      91,
+      96
+    ]
+  },
+  "entite_216": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      246,
+      251
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "Roger",
+    "jalons": [
+      424,
+      429
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "de Valro",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "Roger",
+    "jalons": [
+      80,
+      85
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "Je le lui dirai",
+    "jalons": [
+      156,
+      171
+    ]
+  },
+  "entite_221": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      173,
+      180
+    ]
+  },
+  "entite_222": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      474,
+      480
+    ]
+  },
+  "entite_223": {
+    "label": "PER",
+    "text": "Je crois que monsieur de Lextreville en",
+    "jalons": [
+      76,
+      115
+    ]
+  },
+  "entite_224": {
+    "label": "PER",
+    "text": "Roger de",
+    "jalons": [
+      311,
+      319
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      477,
+      484
+    ]
+  },
+  "entite_226": {
+    "label": "PER",
+    "text": "Mais Roger",
+    "jalons": [
+      281,
+      291
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      454,
+      467
+    ]
+  },
+  "entite_228": {
+    "label": "PER",
+    "text": "M. de",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_229": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      393,
+      400
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      447,
+      454
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "Roger",
+    "jalons": [
+      122,
+      127
+    ]
+  },
+  "entite_232": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      347,
+      356
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      44,
+      53
+    ]
+  },
+  "entite_234": {
+    "label": "MISC",
+    "text": "Alberte de la conduire à l'hôtel du",
+    "jalons": [
+      301,
+      336
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "Louvre",
+    "jalons": [
+      337,
+      343
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Maurice",
+    "jalons": [
+      298,
+      305
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Maurice",
+    "jalons": [
+      426,
+      433
+    ]
+  },
+  "entite_238": {
+    "label": "PER",
+    "text": "ALBERTE",
+    "jalons": [
+      499,
+      506
+    ]
+  },
+  "entite_239": {
+    "label": "PER",
+    "text": "Mais Agnès",
+    "jalons": [
+      225,
+      235
+    ]
+  },
+  "entite_240": {
+    "label": "LOC",
+    "text": "Adèle",
+    "jalons": [
+      137,
+      142
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "Agnès",
+    "jalons": [
+      174,
+      179
+    ]
+  },
+  "entite_242": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      190,
+      197
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "Louvre",
+    "jalons": [
+      110,
+      116
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      253,
+      260
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Alors Alberte",
+    "jalons": [
+      80,
+      93
+    ]
+  },
+  "entite_246": {
+    "label": "PER",
+    "text": "Maman",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "Valroux",
+    "jalons": [
+      388,
+      395
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "Agnès",
+    "jalons": [
+      397,
+      402
+    ]
+  },
+  "entite_249": {
+    "label": "LOC",
+    "text": "Maurice",
+    "jalons": [
+      76,
+      83
+    ]
+  },
+  "entite_250": {
+    "label": "LOC",
+    "text": "Chaque",
+    "jalons": [
+      127,
+      133
+    ]
+  },
+  "entite_251": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      501,
+      508
+    ]
+  },
+  "entite_252": {
+    "label": "PER",
+    "text": "Adèle de lui",
+    "jalons": [
+      157,
+      169
+    ]
+  },
+  "entite_253": {
+    "label": "MISC",
+    "text": "Alberte le monta",
+    "jalons": [
+      229,
+      245
+    ]
+  },
+  "entite_254": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      143,
+      148
+    ]
+  },
+  "entite_255": {
+    "label": "PER",
+    "text": "bon Morin",
+    "jalons": [
+      127,
+      136
+    ]
+  },
+  "entite_256": {
+    "label": "LOC",
+    "text": "Louvre",
+    "jalons": [
+      183,
+      189
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      242,
+      249
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "Louvre",
+    "jalons": [
+      335,
+      341
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "Morin",
+    "jalons": [
+      347,
+      352
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "Morin",
+    "jalons": [
+      326,
+      331
+    ]
+  },
+  "entite_261": {
+    "label": "ORG",
+    "text": "Elle avait",
+    "jalons": [
+      498,
+      508
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "Morin",
+    "jalons": [
+      225,
+      230
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "Mademoiselle",
+    "jalons": [
+      236,
+      248
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "Morin",
+    "jalons": [
+      452,
+      457
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      320,
+      327
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "Morin",
+    "jalons": [
+      343,
+      348
+    ]
+  },
+  "entite_267": {
+    "label": "ORG",
+    "text": "LYS  Arrivée",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_268": {
+    "label": "MISC",
+    "text": "devant la porte qui desservait l'hôtel de",
+    "jalons": [
+      1,
+      42
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "Louvre",
+    "jalons": [
+      119,
+      125
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      128,
+      135
+    ]
+  },
+  "entite_271": {
+    "label": "LOC",
+    "text": "Château",
+    "jalons": [
+      306,
+      313
+    ]
+  },
+  "entite_272": {
+    "label": "PER",
+    "text": "Morin",
+    "jalons": [
+      2,
+      7
+    ]
+  },
+  "entite_273": {
+    "label": "PER",
+    "text": "bon Morin",
+    "jalons": [
+      114,
+      123
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      150,
+      157
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      194,
+      199
+    ]
+  },
+  "entite_276": {
+    "label": "LOC",
+    "text": "ALBERTE  Madame de",
+    "jalons": [
+      209,
+      227
+    ]
+  },
+  "entite_277": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      344,
+      349
+    ]
+  },
+  "entite_278": {
+    "label": "LOC",
+    "text": "Cannes",
+    "jalons": [
+      464,
+      470
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      208,
+      213
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      339,
+      346
+    ]
+  },
+  "entite_281": {
+    "label": "MISC",
+    "text": "l'heure de la réunion",
+    "jalons": [
+      0,
+      21
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      215,
+      220
+    ]
+  },
+  "entite_283": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      257,
+      264
+    ]
+  },
+  "entite_284": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      485,
+      492
+    ]
+  },
+  "entite_285": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      186,
+      193
+    ]
+  },
+  "entite_286": {
+    "label": "MISC",
+    "text": "La voix de madame de Châteaugrand",
+    "jalons": [
+      4,
+      37
+    ]
+  },
+  "entite_287": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      256,
+      263
+    ]
+  },
+  "entite_288": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      504,
+      508
+    ]
+  },
+  "entite_289": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      454,
+      460
+    ]
+  },
+  "entite_290": {
+    "label": "PER",
+    "text": "Jea",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_291": {
+    "label": "MISC",
+    "text": "Dans les veines de Roger",
+    "jalons": [
+      18,
+      42
+    ]
+  },
+  "entite_292": {
+    "label": "LOC",
+    "text": "Le métier des armes",
+    "jalons": [
+      123,
+      142
+    ]
+  },
+  "entite_293": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      209,
+      216
+    ]
+  },
+  "entite_294": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      478,
+      485
+    ]
+  },
+  "entite_295": {
+    "label": "LOC",
+    "text": "Bonlieu",
+    "jalons": [
+      179,
+      186
+    ]
+  },
+  "entite_296": {
+    "label": "MISC",
+    "text": "Il est sorti le second de Saint-Cyr",
+    "jalons": [
+      88,
+      123
+    ]
+  },
+  "entite_297": {
+    "label": "MISC",
+    "text": "Voir La Petite duchesse",
+    "jalons": [
+      382,
+      405
+    ]
+  },
+  "entite_298": {
+    "label": "PER",
+    "text": "de Madeleine",
+    "jalons": [
+      4,
+      16
+    ]
+  },
+  "entite_299": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      83,
+      88
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "Madame de Châteaugrand",
+    "jalons": [
+      71,
+      93
+    ]
+  },
+  "entite_301": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      421,
+      428
+    ]
+  },
+  "entite_302": {
+    "label": "MISC",
+    "text": "Un de ces jours vous me la ramènerez",
+    "jalons": [
+      288,
+      324
+    ]
+  },
+  "entite_303": {
+    "label": "LOC",
+    "text": "Morin",
+    "jalons": [
+      334,
+      339
+    ]
+  },
+  "entite_304": {
+    "label": "MISC",
+    "text": "l'oreille de Ja jeune fille",
+    "jalons": [
+      20,
+      47
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "d'azur",
+    "jalons": [
+      11,
+      17
+    ]
+  },
+  "entite_306": {
+    "label": "MISC",
+    "text": "Ces Italiennes",
+    "jalons": [
+      336,
+      350
+    ]
+  },
+  "entite_307": {
+    "label": "MISC",
+    "text": "Lit de fer qu'on a eu le bon goût de",
+    "jalons": [
+      2,
+      38
+    ]
+  },
+  "entite_308": {
+    "label": "PER",
+    "text": "Luna",
+    "jalons": [
+      405,
+      409
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "David",
+    "jalons": [
+      167,
+      172
+    ]
+  },
+  "entite_310": {
+    "label": "LOC",
+    "text": "Marie-Antoinette de la Rochefaucon, fille du duc Enguerrand de la Ro",
+    "jalons": [
+      289,
+      357
+    ]
+  },
+  "entite_311": {
+    "label": "PER",
+    "text": "Elle traversa",
+    "jalons": [
+      29,
+      42
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      196,
+      203
+    ]
+  },
+  "entite_314": {
+    "label": "PER",
+    "text": "David lui",
+    "jalons": [
+      263,
+      272
+    ]
+  },
+  "entite_315": {
+    "label": "MISC",
+    "text": "Aïberte présenta Luna à sa tante la chanoinesse de Bonlieu",
+    "jalons": [
+      13,
+      71
+    ]
+  },
+  "entite_316": {
+    "label": "LOC",
+    "text": "Louzéma",
+    "jalons": [
+      285,
+      292
+    ]
+  },
+  "entite_317": {
+    "label": "MISC",
+    "text": "Votre sœur est la dernière de nos jeunes filles",
+    "jalons": [
+      33,
+      80
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "Andalous",
+    "jalons": [
+      289,
+      297
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "Mo",
+    "jalons": [
+      299,
+      301
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      429,
+      434
+    ]
+  },
+  "entite_321": {
+    "label": "PER",
+    "text": "Madame de Bonlieu",
+    "jalons": [
+      55,
+      72
+    ]
+  },
+  "entite_322": {
+    "label": "PER",
+    "text": "ira madame de Valroux",
+    "jalons": [
+      0,
+      21
+    ]
+  },
+  "entite_323": {
+    "label": "LOC",
+    "text": "Ma",
+    "jalons": [
+      425,
+      427
+    ]
+  },
+  "entite_324": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      28,
+      41
+    ]
+  },
+  "entite_325": {
+    "label": "PER",
+    "text": "Roger de Châteaugrand",
+    "jalons": [
+      65,
+      86
+    ]
+  },
+  "entite_326": {
+    "label": "PER",
+    "text": "Roger de Châteaugrand",
+    "jalons": [
+      424,
+      445
+    ]
+  },
+  "entite_327": {
+    "label": "MISC",
+    "text": "ai jamais aimé les Chà",
+    "jalons": [
+      1,
+      23
+    ]
+  },
+  "entite_328": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      242,
+      249
+    ]
+  },
+  "entite_329": {
+    "label": "MISC",
+    "text": "Madame de Valroux s’interrompit de nouveau",
+    "jalons": [
+      338,
+      380
+    ]
+  },
+  "entite_330": {
+    "label": "LOC",
+    "text": "Château",
+    "jalons": [
+      328,
+      335
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "compagnie de la mère de Roger",
+    "jalons": [
+      346,
+      375
+    ]
+  },
+  "entite_332": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_333": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      434,
+      441
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      10,
+      19
+    ]
+  },
+  "entite_335": {
+    "label": "PER",
+    "text": "de M. de Valroux",
+    "jalons": [
+      250,
+      266
+    ]
+  },
+  "entite_336": {
+    "label": "LOC",
+    "text": "la famille de Valroux",
+    "jalons": [
+      436,
+      457
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "La marquise de",
+    "jalons": [
+      460,
+      474
+    ]
+  },
+  "entite_338": {
+    "label": "PER",
+    "text": "Henri IE",
+    "jalons": [
+      118,
+      126
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "Osez",
+    "jalons": [
+      195,
+      199
+    ]
+  },
+  "entite_340": {
+    "label": "PER",
+    "text": "Jean de Châteaugrand",
+    "jalons": [
+      121,
+      141
+    ]
+  },
+  "entite_341": {
+    "label": "LOC",
+    "text": "Genevièv",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_342": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      479,
+      486
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      452,
+      459
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Val",
+    "jalons": [
+      501,
+      504
+    ]
+  },
+  "entite_345": {
+    "label": "LOC",
+    "text": "Roger de Châteaugrand",
+    "jalons": [
+      175,
+      196
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "de la Rochefaucon",
+    "jalons": [
+      383,
+      400
+    ]
+  },
+  "entite_347": {
+    "label": "LOC",
+    "text": "Monsieur de Valroux",
+    "jalons": [
+      403,
+      422
+    ]
+  },
+  "entite_348": {
+    "label": "PER",
+    "text": "Henri II",
+    "jalons": [
+      120,
+      128
+    ]
+  },
+  "entite_349": {
+    "label": "LOC",
+    "text": "Médérie",
+    "jalons": [
+      216,
+      223
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      230,
+      237
+    ]
+  },
+  "entite_351": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      157,
+      164
+    ]
+  },
+  "entite_352": {
+    "label": "PER",
+    "text": "Alberte aime",
+    "jalons": [
+      109,
+      121
+    ]
+  },
+  "entite_353": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      389,
+      396
+    ]
+  },
+  "entite_354": {
+    "label": "LOC",
+    "text": "Montrez-la-moi",
+    "jalons": [
+      446,
+      460
+    ]
+  },
+  "entite_355": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      273,
+      280
+    ]
+  },
+  "entite_356": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      324,
+      330
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      53,
+      58
+    ]
+  },
+  "entite_358": {
+    "label": "LOC",
+    "text": "Albe",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "Ma",
+    "jalons": [
+      503,
+      505
+    ]
+  },
+  "entite_360": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      199,
+      206
+    ]
+  },
+  "entite_361": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      208,
+      212
+    ]
+  },
+  "entite_362": {
+    "label": "PER",
+    "text": "Roger de Châteaugrand",
+    "jalons": [
+      290,
+      311
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      241,
+      248
+    ]
+  },
+  "entite_364": {
+    "label": "PER",
+    "text": "Roger de Châteaugrand",
+    "jalons": [
+      479,
+      500
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "Le pare",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "Cannes",
+    "jalons": [
+      40,
+      46
+    ]
+  },
+  "entite_367": {
+    "label": "PER",
+    "text": "ALBERTE",
+    "jalons": [
+      502,
+      509
+    ]
+  },
+  "entite_368": {
+    "label": "LOC",
+    "text": "l'hôtel de la Roche",
+    "jalons": [
+      418,
+      437
+    ]
+  },
+  "entite_369": {
+    "label": "MISC",
+    "text": "Il y va de mon bonheur et de celui de",
+    "jalons": [
+      16,
+      53
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "Comtesse de Châteaugrand",
+    "jalons": [
+      348,
+      372
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      321,
+      328
+    ]
+  },
+  "entite_372": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      62,
+      69
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "Mademoiselle",
+    "jalons": [
+      74,
+      86
+    ]
+  },
+  "entite_374": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      233,
+      238
+    ]
+  },
+  "entite_375": {
+    "label": "PER",
+    "text": "David",
+    "jalons": [
+      482,
+      487
+    ]
+  },
+  "entite_376": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      137,
+      144
+    ]
+  },
+  "entite_377": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      177,
+      186
+    ]
+  },
+  "entite_378": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      190,
+      207
+    ]
+  },
+  "entite_379": {
+    "label": "LOC",
+    "text": "Chantilly",
+    "jalons": [
+      478,
+      487
+    ]
+  },
+  "entite_380": {
+    "label": "LOC",
+    "text": "Chantilly",
+    "jalons": [
+      13,
+      22
+    ]
+  },
+  "entite_381": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      152,
+      159
+    ]
+  },
+  "entite_382": {
+    "label": "LOC",
+    "text": "soir la fête de la duchesse de Craonville",
+    "jalons": [
+      276,
+      317
+    ]
+  },
+  "entite_383": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      205,
+      214
+    ]
+  },
+  "entite_384": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      319,
+      328
+    ]
+  },
+  "entite_385": {
+    "label": "MISC",
+    "text": "Luna et son frère",
+    "jalons": [
+      19,
+      36
+    ]
+  },
+  "entite_386": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      61,
+      68
+    ]
+  },
+  "entite_387": {
+    "label": "LOC",
+    "text": "Élysées",
+    "jalons": [
+      375,
+      382
+    ]
+  },
+  "entite_388": {
+    "label": "LOC",
+    "text": "Assez",
+    "jalons": [
+      490,
+      495
+    ]
+  },
+  "entite_389": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      501,
+      508
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      102,
+      110
+    ]
+  },
+  "entite_391": {
+    "label": "LOC",
+    "text": "Roger de Château",
+    "jalons": [
+      231,
+      247
+    ]
+  },
+  "entite_392": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      258,
+      271
+    ]
+  },
+  "entite_393": {
+    "label": "PER",
+    "text": "Avec Roger",
+    "jalons": [
+      442,
+      452
+    ]
+  },
+  "entite_394": {
+    "label": "PER",
+    "text": "le suivant de garnison en garnison",
+    "jalons": [
+      10,
+      44
+    ]
+  },
+  "entite_395": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      504,
+      510
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      54,
+      60
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "Louzéma",
+    "jalons": [
+      306,
+      313
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      287,
+      296
+    ]
+  },
+  "entite_399": {
+    "label": "MISC",
+    "text": "Parisiens du dix-neuvième siècle les Uirades de Corneille et de Racine",
+    "jalons": [
+      373,
+      443
+    ]
+  },
+  "entite_400": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      142,
+      151
+    ]
+  },
+  "entite_401": {
+    "label": "PER",
+    "text": "ALBERTE",
+    "jalons": [
+      502,
+      509
+    ]
+  },
+  "entite_402": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      467,
+      476
+    ]
+  },
+  "entite_403": {
+    "label": "LOC",
+    "text": "Assez",
+    "jalons": [
+      481,
+      486
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "Maurice",
+    "jalons": [
+      208,
+      215
+    ]
+  },
+  "entite_405": {
+    "label": "MISC",
+    "text": "Ja compagnie de Luna et de David",
+    "jalons": [
+      443,
+      475
+    ]
+  },
+  "entite_406": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      493,
+      502
+    ]
+  },
+  "entite_407": {
+    "label": "LOC",
+    "text": "Roger",
+    "jalons": [
+      453,
+      458
+    ]
+  },
+  "entite_408": {
+    "label": "LOC",
+    "text": "Al",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_409": {
+    "label": "MISC",
+    "text": "es Batignolles tous les matins",
+    "jalons": [
+      0,
+      30
+    ]
+  },
+  "entite_410": {
+    "label": "PER",
+    "text": "Maurice et Agnès",
+    "jalons": [
+      366,
+      382
+    ]
+  },
+  "entite_411": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      455,
+      462
+    ]
+  },
+  "entite_412": {
+    "label": "PER",
+    "text": "Roger",
+    "jalons": [
+      118,
+      123
+    ]
+  },
+  "entite_413": {
+    "label": "LOC",
+    "text": "Maurice",
+    "jalons": [
+      141,
+      148
+    ]
+  },
+  "entite_414": {
+    "label": "LOC",
+    "text": "Maurice",
+    "jalons": [
+      204,
+      211
+    ]
+  },
+  "entite_415": {
+    "label": "LOC",
+    "text": "Boulogne",
+    "jalons": [
+      203,
+      211
+    ]
+  },
+  "entite_416": {
+    "label": "LOC",
+    "text": "Morin",
+    "jalons": [
+      235,
+      240
+    ]
+  },
+  "entite_417": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      338,
+      343
+    ]
+  },
+  "entite_418": {
+    "label": "LOC",
+    "text": "Le balai",
+    "jalons": [
+      393,
+      401
+    ]
+  },
+  "entite_419": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      374,
+      379
+    ]
+  },
+  "entite_420": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      419,
+      423
+    ]
+  },
+  "entite_421": {
+    "label": "LOC",
+    "text": "Morin",
+    "jalons": [
+      361,
+      366
+    ]
+  },
+  "entite_422": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      144,
+      149
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      488,
+      493
+    ]
+  },
+  "entite_424": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      137,
+      144
+    ]
+  },
+  "entite_425": {
+    "label": "MISC",
+    "text": "dans le silence et dans la paix",
+    "jalons": [
+      1,
+      32
+    ]
+  },
+  "entite_426": {
+    "label": "PER",
+    "text": "Roger",
+    "jalons": [
+      208,
+      213
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "David",
+    "jalons": [
+      216,
+      221
+    ]
+  },
+  "entite_428": {
+    "label": "PER",
+    "text": "de la Roche",
+    "jalons": [
+      8,
+      19
+    ]
+  },
+  "entite_429": {
+    "label": "MISC",
+    "text": "la foi de Roger en demeurait",
+    "jalons": [
+      31,
+      59
+    ]
+  },
+  "entite_430": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      24,
+      41
+    ]
+  },
+  "entite_431": {
+    "label": "LOC",
+    "text": "Sainte-Clotilde",
+    "jalons": [
+      115,
+      130
+    ]
+  },
+  "entite_432": {
+    "label": "MISC",
+    "text": "L'humeur de madame de Valroux",
+    "jalons": [
+      369,
+      398
+    ]
+  },
+  "entite_433": {
+    "label": "LOC",
+    "text": "J'irai",
+    "jalons": [
+      20,
+      26
+    ]
+  },
+  "entite_434": {
+    "label": "LOC",
+    "text": "Madame de Valroux lui",
+    "jalons": [
+      404,
+      425
+    ]
+  },
+  "entite_435": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      248,
+      257
+    ]
+  },
+  "entite_436": {
+    "label": "LOC",
+    "text": "Lol",
+    "jalons": [
+      414,
+      417
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "Maurice",
+    "jalons": [
+      323,
+      330
+    ]
+  },
+  "entite_438": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      444,
+      451
+    ]
+  },
+  "entite_439": {
+    "label": "LOC",
+    "text": "Maurice",
+    "jalons": [
+      85,
+      92
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      173,
+      180
+    ]
+  },
+  "entite_441": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      234,
+      241
+    ]
+  },
+  "entite_442": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      324,
+      331
+    ]
+  },
+  "entite_443": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      217,
+      226
+    ]
+  },
+  "entite_444": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      454,
+      459
+    ]
+  },
+  "entite_445": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      226,
+      233
+    ]
+  },
+  "entite_446": {
+    "label": "PER",
+    "text": "Monsieur de Valroux",
+    "jalons": [
+      492,
+      511
+    ]
+  },
+  "entite_447": {
+    "label": "LOC",
+    "text": "la partie de Chantilly",
+    "jalons": [
+      340,
+      362
+    ]
+  },
+  "entite_448": {
+    "label": "LOC",
+    "text": "Surtout",
+    "jalons": [
+      386,
+      393
+    ]
+  },
+  "entite_449": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      395,
+      402
+    ]
+  },
+  "entite_450": {
+    "label": "LOC",
+    "text": "Médérie",
+    "jalons": [
+      147,
+      154
+    ]
+  },
+  "entite_451": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      284,
+      291
+    ]
+  },
+  "entite_452": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      395,
+      402
+    ]
+  },
+  "entite_453": {
+    "label": "MISC",
+    "text": "Si j'épousais la cause de Roger de Château",
+    "jalons": [
+      57,
+      99
+    ]
+  },
+  "entite_454": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      275,
+      282
+    ]
+  },
+  "entite_455": {
+    "label": "LOC",
+    "text": "Le duc de la Rochefaucon",
+    "jalons": [
+      320,
+      344
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      475,
+      482
+    ]
+  },
+  "entite_457": {
+    "label": "MISC",
+    "text": "oncle de la Rochefaucon ne veut pas",
+    "jalons": [
+      73,
+      108
+    ]
+  },
+  "entite_458": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      324,
+      331
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "Roger",
+    "jalons": [
+      295,
+      300
+    ]
+  },
+  "entite_460": {
+    "label": "LOC",
+    "text": "Cependa",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_461": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      4,
+      11
+    ]
+  },
+  "entite_462": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      274,
+      287
+    ]
+  },
+  "entite_463": {
+    "label": "PER",
+    "text": "David est",
+    "jalons": [
+      6,
+      15
+    ]
+  },
+  "entite_464": {
+    "label": "LOC",
+    "text": "hôtel de l'avenue des Champs-Elysées",
+    "jalons": [
+      12,
+      48
+    ]
+  },
+  "entite_465": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      352,
+      356
+    ]
+  },
+  "entite_466": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      229,
+      233
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "Beauco",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_468": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      503,
+      510
+    ]
+  },
+  "entite_469": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      414,
+      418
+    ]
+  },
+  "entite_470": {
+    "label": "LOC",
+    "text": "Luna porta la",
+    "jalons": [
+      496,
+      509
+    ]
+  },
+  "entite_471": {
+    "label": "MISC",
+    "text": "J'ai là",
+    "jalons": [
+      21,
+      28
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "Aussi",
+    "jalons": [
+      68,
+      73
+    ]
+  },
+  "entite_473": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      298,
+      302
+    ]
+  },
+  "entite_474": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      240,
+      244
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      417,
+      424
+    ]
+  },
+  "entite_476": {
+    "label": "LOC",
+    "text": "Française",
+    "jalons": [
+      497,
+      506
+    ]
+  },
+  "entite_477": {
+    "label": "PER",
+    "text": "Luna",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_478": {
+    "label": "LOC",
+    "text": "Allemande",
+    "jalons": [
+      40,
+      49
+    ]
+  },
+  "entite_479": {
+    "label": "MISC",
+    "text": "Faites de la musique",
+    "jalons": [
+      122,
+      142
+    ]
+  },
+  "entite_480": {
+    "label": "LOC",
+    "text": "David",
+    "jalons": [
+      385,
+      390
+    ]
+  },
+  "entite_481": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_482": {
+    "label": "PER",
+    "text": "Mendelssohn",
+    "jalons": [
+      41,
+      52
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      246,
+      250
+    ]
+  },
+  "entite_484": {
+    "label": "LOC",
+    "text": "Carmen",
+    "jalons": [
+      294,
+      300
+    ]
+  },
+  "entite_485": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      488,
+      492
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Boulboulr",
+    "jalons": [
+      70,
+      79
+    ]
+  },
+  "entite_487": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      169,
+      176
+    ]
+  },
+  "entite_488": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      355,
+      359
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      425,
+      429
+    ]
+  },
+  "entite_490": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      483,
+      487
+    ]
+  },
+  "entite_491": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      154,
+      161
+    ]
+  },
+  "entite_492": {
+    "label": "MISC",
+    "text": "Grand Dieu! Et madame de Valroux",
+    "jalons": [
+      466,
+      498
+    ]
+  },
+  "entite_493": {
+    "label": "LOC",
+    "text": "Ma",
+    "jalons": [
+      504,
+      506
+    ]
+  },
+  "entite_494": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      106,
+      111
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      121,
+      125
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "l'Italie",
+    "jalons": [
+      168,
+      176
+    ]
+  },
+  "entite_497": {
+    "label": "PER",
+    "text": "David ne",
+    "jalons": [
+      501,
+      509
+    ]
+  },
+  "entite_498": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      35,
+      40
+    ]
+  },
+  "entite_499": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      372,
+      379
+    ]
+  },
+  "entite_500": {
+    "label": "PER",
+    "text": "ur la bouche de Luna",
+    "jalons": [
+      0,
+      20
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "Rika",
+    "jalons": [
+      189,
+      193
+    ]
+  },
+  "entite_502": {
+    "label": "MISC",
+    "text": "la Portugaise Carmen",
+    "jalons": [
+      478,
+      498
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      505,
+      509
+    ]
+  },
+  "entite_504": {
+    "label": "MISC",
+    "text": "Savoir de vos nouvelles",
+    "jalons": [
+      143,
+      166
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      290,
+      294
+    ]
+  },
+  "entite_506": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      384,
+      391
+    ]
+  },
+  "entite_507": {
+    "label": "LOC",
+    "text": "Sixta",
+    "jalons": [
+      402,
+      407
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "Lu",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_509": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      252,
+      256
+    ]
+  },
+  "entite_510": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      468,
+      472
+    ]
+  },
+  "entite_511": {
+    "label": "LOC",
+    "text": "Noy",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_512": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      121,
+      128
+    ]
+  },
+  "entite_513": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      476,
+      483
+    ]
+  },
+  "entite_514": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      434,
+      441
+    ]
+  },
+  "entite_515": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      81,
+      88
+    ]
+  },
+  "entite_516": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      77,
+      84
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      196,
+      203
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      404,
+      409
+    ]
+  },
+  "entite_519": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      503,
+      510
+    ]
+  },
+  "entite_520": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      348,
+      355
+    ]
+  },
+  "entite_521": {
+    "label": "LOC",
+    "text": "Rika",
+    "jalons": [
+      499,
+      503
+    ]
+  },
+  "entite_522": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      419,
+      423
+    ]
+  },
+  "entite_523": {
+    "label": "LOC",
+    "text": "isir de la voir",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_524": {
+    "label": "LOC",
+    "text": "la chambre de Luna",
+    "jalons": [
+      141,
+      159
+    ]
+  },
+  "entite_525": {
+    "label": "MISC",
+    "text": "Parce que tu reçois mademoiselle de la Rochefaucon dans",
+    "jalons": [
+      244,
+      299
+    ]
+  },
+  "entite_526": {
+    "label": "PER",
+    "text": "David tourna sur lui",
+    "jalons": [
+      492,
+      512
+    ]
+  },
+  "entite_527": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      396,
+      400
+    ]
+  },
+  "entite_528": {
+    "label": "LOC",
+    "text": "David",
+    "jalons": [
+      438,
+      443
+    ]
+  },
+  "entite_529": {
+    "label": "ORG",
+    "text": "Monsieur de Château",
+    "jalons": [
+      493,
+      512
+    ]
+  },
+  "entite_530": {
+    "label": "PER",
+    "text": "David croisa",
+    "jalons": [
+      479,
+      491
+    ]
+  },
+  "entite_531": {
+    "label": "PER",
+    "text": "Qu'en sait-elle",
+    "jalons": [
+      479,
+      494
+    ]
+  },
+  "entite_532": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      500,
+      504
+    ]
+  },
+  "entite_533": {
+    "label": "PER",
+    "text": "David",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "la famille de la Rochefaucon",
+    "jalons": [
+      85,
+      113
+    ]
+  },
+  "entite_535": {
+    "label": "PER",
+    "text": "Luna",
+    "jalons": [
+      48,
+      52
+    ]
+  },
+  "entite_536": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      123,
+      136
+    ]
+  },
+  "entite_537": {
+    "label": "LOC",
+    "text": "Alberte de la Rochefaucon",
+    "jalons": [
+      172,
+      197
+    ]
+  },
+  "entite_538": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      224,
+      228
+    ]
+  },
+  "entite_539": {
+    "label": "MISC",
+    "text": "puisque je la laisse libre de choisir le",
+    "jalons": [
+      0,
+      40
+    ]
+  },
+  "entite_540": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      59,
+      65
+    ]
+  },
+  "entite_541": {
+    "label": "LOC",
+    "text": "las de la",
+    "jalons": [
+      409,
+      418
+    ]
+  },
+  "entite_542": {
+    "label": "PER",
+    "text": "Luna",
+    "jalons": [
+      82,
+      86
+    ]
+  },
+  "entite_543": {
+    "label": "PER",
+    "text": "David l'enveloppa",
+    "jalons": [
+      89,
+      106
+    ]
+  },
+  "entite_544": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      330,
+      334
+    ]
+  },
+  "entite_545": {
+    "label": "PER",
+    "text": "David",
+    "jalons": [
+      400,
+      405
+    ]
+  },
+  "entite_546": {
+    "label": "PER",
+    "text": "David",
+    "jalons": [
+      40,
+      45
+    ]
+  },
+  "entite_547": {
+    "label": "PER",
+    "text": "J'aime le plaisir",
+    "jalons": [
+      59,
+      76
+    ]
+  },
+  "entite_548": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      338,
+      342
+    ]
+  },
+  "entite_549": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      33,
+      50
+    ]
+  },
+  "entite_550": {
+    "label": "LOC",
+    "text": "duc de la Rochefaucon",
+    "jalons": [
+      111,
+      132
+    ]
+  },
+  "entite_551": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      185,
+      190
+    ]
+  },
+  "entite_552": {
+    "label": "LOC",
+    "text": "Rika",
+    "jalons": [
+      191,
+      195
+    ]
+  },
+  "entite_553": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      26,
+      30
+    ]
+  },
+  "entite_554": {
+    "label": "LOC",
+    "text": "Écoute",
+    "jalons": [
+      35,
+      41
+    ]
+  },
+  "entite_555": {
+    "label": "MISC",
+    "text": "c'est de la baronne de Lextreville",
+    "jalons": [
+      43,
+      77
+    ]
+  },
+  "entite_556": {
+    "label": "LOC",
+    "text": "Mademoiselle",
+    "jalons": [
+      150,
+      162
+    ]
+  },
+  "entite_557": {
+    "label": "LOC",
+    "text": "branche de la famille de mademoiselle de la Roche",
+    "jalons": [
+      347,
+      396
+    ]
+  },
+  "entite_558": {
+    "label": "LOC",
+    "text": "Baronne de Lextreville",
+    "jalons": [
+      443,
+      465
+    ]
+  },
+  "entite_559": {
+    "label": "ORG",
+    "text": "Voici l'adresse de mada",
+    "jalons": [
+      489,
+      512
+    ]
+  },
+  "entite_560": {
+    "label": "MISC",
+    "text": "me la comtesse de Bonlieu",
+    "jalons": [
+      0,
+      25
+    ]
+  },
+  "entite_561": {
+    "label": "LOC",
+    "text": "rue de Verneuil",
+    "jalons": [
+      28,
+      43
+    ]
+  },
+  "entite_562": {
+    "label": "PER",
+    "text": "demanda Luna",
+    "jalons": [
+      67,
+      79
+    ]
+  },
+  "entite_563": {
+    "label": "LOC",
+    "text": "David",
+    "jalons": [
+      246,
+      251
+    ]
+  },
+  "entite_564": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      272,
+      276
+    ]
+  },
+  "entite_565": {
+    "label": "PER",
+    "text": "d'Alberte",
+    "jalons": [
+      51,
+      60
+    ]
+  },
+  "entite_566": {
+    "label": "LOC",
+    "text": "rue de Verneuil",
+    "jalons": [
+      127,
+      142
+    ]
+  },
+  "entite_567": {
+    "label": "MISC",
+    "text": "C'était en effet le duc de la Rochefaucon et sa fille",
+    "jalons": [
+      255,
+      308
+    ]
+  },
+  "entite_568": {
+    "label": "LOC",
+    "text": "Marie-Antoinette",
+    "jalons": [
+      310,
+      326
+    ]
+  },
+  "entite_569": {
+    "label": "LOC",
+    "text": "Voyez-vous",
+    "jalons": [
+      500,
+      510
+    ]
+  },
+  "entite_570": {
+    "label": "LOC",
+    "text": "Enguerrand",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_571": {
+    "label": "LOC",
+    "text": "jamais",
+    "jalons": [
+      5,
+      11
+    ]
+  },
+  "entite_572": {
+    "label": "LOC",
+    "text": "Guizot",
+    "jalons": [
+      385,
+      391
+    ]
+  },
+  "entite_573": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      465,
+      470
+    ]
+  },
+  "entite_574": {
+    "label": "LOC",
+    "text": "Pardon",
+    "jalons": [
+      488,
+      494
+    ]
+  },
+  "entite_575": {
+    "label": "PER",
+    "text": "Madeleine de Valroux des",
+    "jalons": [
+      31,
+      55
+    ]
+  },
+  "entite_576": {
+    "label": "PER",
+    "text": "Mais pas Alberte",
+    "jalons": [
+      11,
+      27
+    ]
+  },
+  "entite_577": {
+    "label": "LOC",
+    "text": "Enguerrand",
+    "jalons": [
+      67,
+      77
+    ]
+  },
+  "entite_578": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      354,
+      358
+    ]
+  },
+  "entite_579": {
+    "label": "LOC",
+    "text": "Mademoiselle",
+    "jalons": [
+      130,
+      142
+    ]
+  },
+  "entite_580": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      500,
+      506
+    ]
+  },
+  "entite_581": {
+    "label": "LOC",
+    "text": "Navarre",
+    "jalons": [
+      1,
+      8
+    ]
+  },
+  "entite_582": {
+    "label": "LOC",
+    "text": "Carmel",
+    "jalons": [
+      139,
+      145
+    ]
+  },
+  "entite_583": {
+    "label": "PER",
+    "text": "David et Luna se",
+    "jalons": [
+      441,
+      457
+    ]
+  },
+  "entite_584": {
+    "label": "PER",
+    "text": "Donc asseyez",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_585": {
+    "label": "PER",
+    "text": "mal de gorge",
+    "jalons": [
+      27,
+      39
+    ]
+  },
+  "entite_586": {
+    "label": "LOC",
+    "text": "Notre-Dame",
+    "jalons": [
+      215,
+      225
+    ]
+  },
+  "entite_587": {
+    "label": "LOC",
+    "text": "l'Italie",
+    "jalons": [
+      485,
+      493
+    ]
+  },
+  "entite_588": {
+    "label": "LOC",
+    "text": "Louzéma",
+    "jalons": [
+      152,
+      159
+    ]
+  },
+  "entite_589": {
+    "label": "LOC",
+    "text": "Paris de",
+    "jalons": [
+      278,
+      286
+    ]
+  },
+  "entite_590": {
+    "label": "PER",
+    "text": "David reste",
+    "jalons": [
+      152,
+      163
+    ]
+  },
+  "entite_591": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      286,
+      291
+    ]
+  },
+  "entite_592": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      332,
+      337
+    ]
+  },
+  "entite_593": {
+    "label": "LOC",
+    "text": "Bonlieu",
+    "jalons": [
+      394,
+      401
+    ]
+  },
+  "entite_594": {
+    "label": "LOC",
+    "text": "Baissez",
+    "jalons": [
+      253,
+      260
+    ]
+  },
+  "entite_595": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      481,
+      490
+    ]
+  },
+  "entite_596": {
+    "label": "MISC",
+    "text": "Je me disais que vous n'étiez pas à Notre-Dame et que",
+    "jalons": [
+      34,
+      87
+    ]
+  },
+  "entite_597": {
+    "label": "LOC",
+    "text": "Madame de",
+    "jalons": [
+      50,
+      59
+    ]
+  },
+  "entite_598": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      263,
+      272
+    ]
+  },
+  "entite_599": {
+    "label": "PER",
+    "text": "Agnès",
+    "jalons": [
+      490,
+      495
+    ]
+  },
+  "entite_600": {
+    "label": "PER",
+    "text": "Maurice au Ja",
+    "jalons": [
+      499,
+      512
+    ]
+  },
+  "entite_601": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      338,
+      345
+    ]
+  },
+  "entite_602": {
+    "label": "LOC",
+    "text": "Notre-Dame",
+    "jalons": [
+      357,
+      367
+    ]
+  },
+  "entite_603": {
+    "label": "LOC",
+    "text": "Fort beau",
+    "jalons": [
+      443,
+      452
+    ]
+  },
+  "entite_604": {
+    "label": "LOC",
+    "text": "Lextreville",
+    "jalons": [
+      471,
+      482
+    ]
+  },
+  "entite_605": {
+    "label": "LOC",
+    "text": "Aussi",
+    "jalons": [
+      500,
+      505
+    ]
+  },
+  "entite_606": {
+    "label": "LOC",
+    "text": "Thiers",
+    "jalons": [
+      123,
+      129
+    ]
+  },
+  "entite_607": {
+    "label": "LOC",
+    "text": "Thiers",
+    "jalons": [
+      178,
+      184
+    ]
+  },
+  "entite_608": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      235,
+      239
+    ]
+  },
+  "entite_609": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      246,
+      251
+    ]
+  },
+  "entite_610": {
+    "label": "LOC",
+    "text": "Notre ministre de la guerre",
+    "jalons": [
+      349,
+      376
+    ]
+  },
+  "entite_611": {
+    "label": "MISC",
+    "text": "de la Croix-Sauvert un chassé croisé d'un bout de la France à l’autre et les voilà",
+    "jalons": [
+      0,
+      82
+    ]
+  },
+  "entite_612": {
+    "label": "MISC",
+    "text": "neveu de la Croix-Sauvert et de monsieur de Châteaugrand",
+    "jalons": [
+      146,
+      202
+    ]
+  },
+  "entite_613": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      321,
+      328
+    ]
+  },
+  "entite_614": {
+    "label": "LOC",
+    "text": "Henri",
+    "jalons": [
+      332,
+      337
+    ]
+  },
+  "entite_615": {
+    "label": "LOC",
+    "text": "Nantes",
+    "jalons": [
+      361,
+      367
+    ]
+  },
+  "entite_616": {
+    "label": "MISC",
+    "text": "la vieille France a le droit et le de- voir de se",
+    "jalons": [
+      2,
+      51
+    ]
+  },
+  "entite_617": {
+    "label": "LOC",
+    "text": "neveu de la Croix",
+    "jalons": [
+      378,
+      395
+    ]
+  },
+  "entite_618": {
+    "label": "PER",
+    "text": "Autrefois",
+    "jalons": [
+      94,
+      103
+    ]
+  },
+  "entite_619": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      439,
+      446
+    ]
+  },
+  "entite_620": {
+    "label": "PER",
+    "text": "de Thérèse",
+    "jalons": [
+      465,
+      475
+    ]
+  },
+  "entite_621": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      496,
+      505
+    ]
+  },
+  "entite_622": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      229,
+      236
+    ]
+  },
+  "entite_623": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      41,
+      48
+    ]
+  },
+  "entite_624": {
+    "label": "LOC",
+    "text": "Cependant",
+    "jalons": [
+      50,
+      59
+    ]
+  },
+  "entite_625": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      463,
+      470
+    ]
+  },
+  "entite_626": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      284,
+      291
+    ]
+  },
+  "entite_627": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      372,
+      385
+    ]
+  },
+  "entite_628": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_629": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      461,
+      468
+    ]
+  },
+  "entite_630": {
+    "label": "LOC",
+    "text": "mère de la pauvre Thérèse de la  Croix-Sauvert",
+    "jalons": [
+      5,
+      51
+    ]
+  },
+  "entite_631": {
+    "label": "PER",
+    "text": "de Bonlieu",
+    "jalons": [
+      57,
+      67
+    ]
+  },
+  "entite_632": {
+    "label": "ORG",
+    "text": "Vous savez que",
+    "jalons": [
+      69,
+      83
+    ]
+  },
+  "entite_633": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      163,
+      170
+    ]
+  },
+  "entite_634": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      236,
+      243
+    ]
+  },
+  "entite_635": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      250,
+      255
+    ]
+  },
+  "entite_636": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      384,
+      388
+    ]
+  },
+  "entite_637": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      378,
+      385
+    ]
+  },
+  "entite_638": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      387,
+      394
+    ]
+  },
+  "entite_639": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      479,
+      492
+    ]
+  },
+  "entite_640": {
+    "label": "PER",
+    "text": "Henri de la Croix-Sauvert",
+    "jalons": [
+      28,
+      53
+    ]
+  },
+  "entite_641": {
+    "label": "MISC",
+    "text": "Un des agréments de ce genre de vie",
+    "jalons": [
+      58,
+      93
+    ]
+  },
+  "entite_642": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      277,
+      286
+    ]
+  },
+  "entite_643": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      288,
+      297
+    ]
+  },
+  "entite_644": {
+    "label": "LOC",
+    "text": "Moi",
+    "jalons": [
+      459,
+      462
+    ]
+  },
+  "entite_645": {
+    "label": "LOC",
+    "text": "Thérèse",
+    "jalons": [
+      269,
+      276
+    ]
+  },
+  "entite_646": {
+    "label": "PER",
+    "text": "Henri",
+    "jalons": [
+      51,
+      56
+    ]
+  },
+  "entite_647": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      99,
+      108
+    ]
+  },
+  "entite_648": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      376,
+      389
+    ]
+  },
+  "entite_649": {
+    "label": "LOC",
+    "text": "militaire de Roger de Châteaugrand",
+    "jalons": [
+      175,
+      209
+    ]
+  },
+  "entite_650": {
+    "label": "MISC",
+    "text": "La visite de cette bonne et originale",
+    "jalons": [
+      475,
+      512
+    ]
+  },
+  "entite_651": {
+    "label": "LOC",
+    "text": "Lequel",
+    "jalons": [
+      283,
+      289
+    ]
+  },
+  "entite_652": {
+    "label": "LOC",
+    "text": "Val",
+    "jalons": [
+      317,
+      320
+    ]
+  },
+  "entite_653": {
+    "label": "PER",
+    "text": "ait déjà comtesse de Chàäteaugrand",
+    "jalons": [
+      0,
+      34
+    ]
+  },
+  "entite_654": {
+    "label": "LOC",
+    "text": "Château",
+    "jalons": [
+      117,
+      124
+    ]
+  },
+  "entite_655": {
+    "label": "MISC",
+    "text": "Dans la famille",
+    "jalons": [
+      47,
+      62
+    ]
+  },
+  "entite_656": {
+    "label": "LOC",
+    "text": "de l'avenir militaire de Roger",
+    "jalons": [
+      81,
+      111
+    ]
+  },
+  "entite_657": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      280,
+      287
+    ]
+  },
+  "entite_658": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      117,
+      134
+    ]
+  },
+  "entite_659": {
+    "label": "MISC",
+    "text": "Et de son côté la baronne de Lextreville",
+    "jalons": [
+      18,
+      58
+    ]
+  },
+  "entite_660": {
+    "label": "MISC",
+    "text": "Alberte de la Rochefaucon et Roger de Chäteaugrand",
+    "jalons": [
+      350,
+      400
+    ]
+  },
+  "entite_661": {
+    "label": "LOC",
+    "text": "Alberte de la Rochefaucon",
+    "jalons": [
+      326,
+      351
+    ]
+  },
+  "entite_662": {
+    "label": "PER",
+    "text": "Roger de Chä",
+    "jalons": [
+      243,
+      255
+    ]
+  },
+  "entite_663": {
+    "label": "PER",
+    "text": "Mais lui",
+    "jalons": [
+      144,
+      152
+    ]
+  },
+  "entite_664": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      178,
+      183
+    ]
+  },
+  "entite_665": {
+    "label": "PER",
+    "text": "bai de Made",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_666": {
+    "label": "LOC",
+    "text": "Vivre",
+    "jalons": [
+      332,
+      337
+    ]
+  },
+  "entite_667": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      388,
+      395
+    ]
+  },
+  "entite_668": {
+    "label": "PER",
+    "text": "M. de la Croix-Sauvert",
+    "jalons": [
+      483,
+      505
+    ]
+  },
+  "entite_669": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      507,
+      509
+    ]
+  },
+  "entite_670": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      447,
+      456
+    ]
+  },
+  "entite_671": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      202,
+      208
+    ]
+  },
+  "entite_672": {
+    "label": "PER",
+    "text": "D'abord",
+    "jalons": [
+      427,
+      434
+    ]
+  },
+  "entite_673": {
+    "label": "PER",
+    "text": "Thérèse",
+    "jalons": [
+      19,
+      26
+    ]
+  },
+  "entite_674": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      422,
+      429
+    ]
+  },
+  "entite_675": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      188,
+      194
+    ]
+  },
+  "entite_676": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      236,
+      242
+    ]
+  },
+  "entite_677": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      376,
+      382
+    ]
+  },
+  "entite_678": {
+    "label": "PER",
+    "text": "Le pauvre",
+    "jalons": [
+      16,
+      25
+    ]
+  },
+  "entite_679": {
+    "label": "PER",
+    "text": "ayant déjà",
+    "jalons": [
+      33,
+      43
+    ]
+  },
+  "entite_680": {
+    "label": "LOC",
+    "text": "Carmel",
+    "jalons": [
+      251,
+      257
+    ]
+  },
+  "entite_681": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      310,
+      317
+    ]
+  },
+  "entite_682": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      486,
+      493
+    ]
+  },
+  "entite_683": {
+    "label": "MISC",
+    "text": "Madeleine de se remettre de",
+    "jalons": [
+      455,
+      482
+    ]
+  },
+  "entite_684": {
+    "label": "LOC",
+    "text": "Dans la cour",
+    "jalons": [
+      171,
+      183
+    ]
+  },
+  "entite_685": {
+    "label": "PER",
+    "text": "Enguerrand de la Roche",
+    "jalons": [
+      348,
+      370
+    ]
+  },
+  "entite_686": {
+    "label": "ORG",
+    "text": "Chez monsieur le duc de la Rochefaucon",
+    "jalons": [
+      454,
+      492
+    ]
+  },
+  "entite_687": {
+    "label": "LOC",
+    "text": "FL rue de Varennes",
+    "jalons": [
+      494,
+      512
+    ]
+  },
+  "entite_688": {
+    "label": "PER",
+    "text": "Morin",
+    "jalons": [
+      108,
+      113
+    ]
+  },
+  "entite_689": {
+    "label": "LOC",
+    "text": "Morin",
+    "jalons": [
+      459,
+      464
+    ]
+  },
+  "entite_690": {
+    "label": "MISC",
+    "text": "Marie-Antoinette de la Rochefaucon en toilette de ville",
+    "jalons": [
+      144,
+      199
+    ]
+  },
+  "entite_691": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      173,
+      178
+    ]
+  },
+  "entite_692": {
+    "label": "LOC",
+    "text": "Carmel",
+    "jalons": [
+      424,
+      430
+    ]
+  },
+  "entite_693": {
+    "label": "LOC",
+    "text": "Providence",
+    "jalons": [
+      55,
+      65
+    ]
+  },
+  "entite_694": {
+    "label": "LOC",
+    "text": "Carmel de Saint-Denis",
+    "jalons": [
+      174,
+      195
+    ]
+  },
+  "entite_695": {
+    "label": "LOC",
+    "text": "la maison de Madame Louise de France",
+    "jalons": [
+      199,
+      235
+    ]
+  },
+  "entite_696": {
+    "label": "LOC",
+    "text": "Adieu",
+    "jalons": [
+      477,
+      482
+    ]
+  },
+  "entite_697": {
+    "label": "PER",
+    "text": "Elles",
+    "jalons": [
+      492,
+      497
+    ]
+  },
+  "entite_698": {
+    "label": "MISC",
+    "text": "Alberte la laissa aller rejoindre le duc de la Rochefaucon qui",
+    "jalons": [
+      5,
+      67
+    ]
+  },
+  "entite_699": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      223,
+      228
+    ]
+  },
+  "entite_700": {
+    "label": "LOC",
+    "text": "Chez la marquise de Val",
+    "jalons": [
+      10,
+      33
+    ]
+  },
+  "entite_701": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      310,
+      315
+    ]
+  },
+  "entite_702": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      393,
+      398
+    ]
+  },
+  "entite_703": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      429,
+      434
+    ]
+  },
+  "entite_704": {
+    "label": "PER",
+    "text": "Agnès",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_705": {
+    "label": "LOC",
+    "text": "de la marquise de Valroux",
+    "jalons": [
+      293,
+      318
+    ]
+  },
+  "entite_706": {
+    "label": "MISC",
+    "text": "Monsieur de Valroux fait de loin en",
+    "jalons": [
+      418,
+      453
+    ]
+  },
+  "entite_707": {
+    "label": "MISC",
+    "text": "de Valroux et Alberte s’empressaient dans le salon",
+    "jalons": [
+      0,
+      50
+    ]
+  },
+  "entite_708": {
+    "label": "PER",
+    "text": "Monsieur David",
+    "jalons": [
+      63,
+      77
+    ]
+  },
+  "entite_709": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      269,
+      274
+    ]
+  },
+  "entite_710": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      2,
+      9
+    ]
+  },
+  "entite_711": {
+    "label": "PER",
+    "text": "Monsieur David",
+    "jalons": [
+      121,
+      135
+    ]
+  },
+  "entite_712": {
+    "label": "MISC",
+    "text": "rave et très triste l'obligeait",
+    "jalons": [
+      0,
+      31
+    ]
+  },
+  "entite_713": {
+    "label": "PER",
+    "text": "David s’y",
+    "jalons": [
+      499,
+      508
+    ]
+  },
+  "entite_714": {
+    "label": "PER",
+    "text": "Hier je",
+    "jalons": [
+      472,
+      479
+    ]
+  },
+  "entite_715": {
+    "label": "PER",
+    "text": "J'ai chassé",
+    "jalons": [
+      74,
+      85
+    ]
+  },
+  "entite_716": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      294,
+      300
+    ]
+  },
+  "entite_717": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      39,
+      43
+    ]
+  },
+  "entite_718": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      408,
+      412
+    ]
+  },
+  "entite_719": {
+    "label": "PER",
+    "text": "Alberte fixa",
+    "jalons": [
+      465,
+      477
+    ]
+  },
+  "entite_720": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      460,
+      467
+    ]
+  },
+  "entite_721": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      115,
+      120
+    ]
+  },
+  "entite_722": {
+    "label": "MISC",
+    "text": "de Valroux en accompagnant David à tra",
+    "jalons": [
+      1,
+      39
+    ]
+  },
+  "entite_723": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      317,
+      322
+    ]
+  },
+  "entite_724": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      464,
+      481
+    ]
+  },
+  "entite_725": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      110,
+      119
+    ]
+  },
+  "entite_726": {
+    "label": "MISC",
+    "text": "Ceci est le cadet de mes",
+    "jalons": [
+      367,
+      391
+    ]
+  },
+  "entite_727": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      58,
+      67
+    ]
+  },
+  "entite_728": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      304,
+      317
+    ]
+  },
+  "entite_729": {
+    "label": "PER",
+    "text": "Le monde",
+    "jalons": [
+      419,
+      427
+    ]
+  },
+  "entite_730": {
+    "label": "PER",
+    "text": "de Valroux",
+    "jalons": [
+      500,
+      510
+    ]
+  },
+  "entite_731": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      187,
+      191
+    ]
+  },
+  "entite_732": {
+    "label": "PER",
+    "text": "Agnès de Valroux",
+    "jalons": [
+      337,
+      353
+    ]
+  },
+  "entite_733": {
+    "label": "MISC",
+    "text": "XIII  LE RETOUR  La maladie de Luna",
+    "jalons": [
+      19,
+      54
+    ]
+  },
+  "entite_734": {
+    "label": "MISC",
+    "text": "David et la marquise de Valroux",
+    "jalons": [
+      103,
+      134
+    ]
+  },
+  "entite_735": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      181,
+      188
+    ]
+  },
+  "entite_736": {
+    "label": "MISC",
+    "text": "celui de David dans la",
+    "jalons": [
+      38,
+      60
+    ]
+  },
+  "entite_737": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      305,
+      322
+    ]
+  },
+  "entite_738": {
+    "label": "MISC",
+    "text": "de Lextreville et du secours de madame de Bonlieu. Les lettres de David",
+    "jalons": [
+      87,
+      158
+    ]
+  },
+  "entite_739": {
+    "label": "PER",
+    "text": "Roger de Châteaugrand",
+    "jalons": [
+      437,
+      458
+    ]
+  },
+  "entite_740": {
+    "label": "LOC",
+    "text": "Aujour",
+    "jalons": [
+      379,
+      385
+    ]
+  },
+  "entite_741": {
+    "label": "PER",
+    "text": "Malgré",
+    "jalons": [
+      504,
+      510
+    ]
+  },
+  "entite_742": {
+    "label": "LOC",
+    "text": "duc de la Rochefaucon",
+    "jalons": [
+      328,
+      349
+    ]
+  },
+  "entite_743": {
+    "label": "MISC",
+    "text": "de Roger, et monsieur de Valroux",
+    "jalons": [
+      236,
+      268
+    ]
+  },
+  "entite_744": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      324,
+      333
+    ]
+  },
+  "entite_745": {
+    "label": "PER",
+    "text": "Roger de Chà",
+    "jalons": [
+      339,
+      351
+    ]
+  },
+  "entite_746": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      448,
+      461
+    ]
+  },
+  "entite_747": {
+    "label": "MISC",
+    "text": "Alberte de la visite de",
+    "jalons": [
+      318,
+      341
+    ]
+  },
+  "entite_748": {
+    "label": "PER",
+    "text": "Roger de Châäteaugrand",
+    "jalons": [
+      342,
+      364
+    ]
+  },
+  "entite_749": {
+    "label": "MISC",
+    "text": "çait que le mieux de Luna s’affermissait et que",
+    "jalons": [
+      4,
+      51
+    ]
+  },
+  "entite_750": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      92,
+      97
+    ]
+  },
+  "entite_751": {
+    "label": "MISC",
+    "text": "pagnie de mademoiselle Alberte sera un des",
+    "jalons": [
+      149,
+      191
+    ]
+  },
+  "entite_752": {
+    "label": "LOC",
+    "text": "Élysées",
+    "jalons": [
+      345,
+      352
+    ]
+  },
+  "entite_753": {
+    "label": "ORG",
+    "text": "ALBERTE",
+    "jalons": [
+      503,
+      510
+    ]
+  },
+  "entite_754": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      251,
+      258
+    ]
+  },
+  "entite_755": {
+    "label": "LOC",
+    "text": "Valroux",
+    "jalons": [
+      336,
+      343
+    ]
+  },
+  "entite_756": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      414,
+      419
+    ]
+  },
+  "entite_757": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      190,
+      195
+    ]
+  },
+  "entite_758": {
+    "label": "LOC",
+    "text": "Valroux",
+    "jalons": [
+      477,
+      484
+    ]
+  },
+  "entite_759": {
+    "label": "LOC",
+    "text": "de Luna",
+    "jalons": [
+      493,
+      500
+    ]
+  },
+  "entite_760": {
+    "label": "LOC",
+    "text": "Vas-tu",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_761": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      154,
+      159
+    ]
+  },
+  "entite_762": {
+    "label": "MISC",
+    "text": "Parce que monsieur de Valroux",
+    "jalons": [
+      356,
+      385
+    ]
+  },
+  "entite_763": {
+    "label": "LOC",
+    "text": "l’égal des clairs de lune",
+    "jalons": [
+      0,
+      25
+    ]
+  },
+  "entite_764": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      30,
+      36
+    ]
+  },
+  "entite_765": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      202,
+      207
+    ]
+  },
+  "entite_766": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      234,
+      238
+    ]
+  },
+  "entite_767": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      275,
+      280
+    ]
+  },
+  "entite_768": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      485,
+      492
+    ]
+  },
+  "entite_769": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      494,
+      499
+    ]
+  },
+  "entite_770": {
+    "label": "PER",
+    "text": "voici Agnès",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_771": {
+    "label": "MISC",
+    "text": "qui va nous donner son pee Mignonne",
+    "jalons": [
+      1,
+      36
+    ]
+  },
+  "entite_772": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      105,
+      110
+    ]
+  },
+  "entite_773": {
+    "label": "LOC",
+    "text": "Agnès",
+    "jalons": [
+      114,
+      119
+    ]
+  },
+  "entite_774": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      97,
+      102
+    ]
+  },
+  "entite_775": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      259,
+      264
+    ]
+  },
+  "entite_776": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      379,
+      386
+    ]
+  },
+  "entite_777": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      268,
+      275
+    ]
+  },
+  "entite_778": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      478,
+      487
+    ]
+  },
+  "entite_779": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      55,
+      62
+    ]
+  },
+  "entite_780": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      351,
+      356
+    ]
+  },
+  "entite_781": {
+    "label": "PER",
+    "text": "Agnès",
+    "jalons": [
+      490,
+      495
+    ]
+  },
+  "entite_782": {
+    "label": "LOC",
+    "text": "Maurice",
+    "jalons": [
+      501,
+      508
+    ]
+  },
+  "entite_783": {
+    "label": "LOC",
+    "text": "celui de la rue de Lille",
+    "jalons": [
+      14,
+      38
+    ]
+  },
+  "entite_784": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      106,
+      115
+    ]
+  },
+  "entite_785": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      319,
+      324
+    ]
+  },
+  "entite_786": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      272,
+      277
+    ]
+  },
+  "entite_787": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      306,
+      315
+    ]
+  },
+  "entite_788": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      377,
+      381
+    ]
+  },
+  "entite_789": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      174,
+      181
+    ]
+  },
+  "entite_790": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      308,
+      313
+    ]
+  },
+  "entite_791": {
+    "label": "LOC",
+    "text": "Valroux",
+    "jalons": [
+      369,
+      376
+    ]
+  },
+  "entite_792": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      7,
+      12
+    ]
+  },
+  "entite_793": {
+    "label": "LOC",
+    "text": "Louzéma",
+    "jalons": [
+      122,
+      129
+    ]
+  },
+  "entite_794": {
+    "label": "ORG",
+    "text": "selle de la Rochef",
+    "jalons": [
+      494,
+      512
+    ]
+  },
+  "entite_795": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      126,
+      133
+    ]
+  },
+  "entite_796": {
+    "label": "LOC",
+    "text": "Indes",
+    "jalons": [
+      200,
+      205
+    ]
+  },
+  "entite_797": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      4,
+      9
+    ]
+  },
+  "entite_798": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      70,
+      77
+    ]
+  },
+  "entite_799": {
+    "label": "LOC",
+    "text": "Donnez",
+    "jalons": [
+      400,
+      406
+    ]
+  },
+  "entite_800": {
+    "label": "PER",
+    "text": "Monsieur de Valroux",
+    "jalons": [
+      409,
+      428
+    ]
+  },
+  "entite_801": {
+    "label": "LOC",
+    "text": "Culoz",
+    "jalons": [
+      46,
+      51
+    ]
+  },
+  "entite_802": {
+    "label": "LOC",
+    "text": "Voyez",
+    "jalons": [
+      305,
+      310
+    ]
+  },
+  "entite_803": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      312,
+      319
+    ]
+  },
+  "entite_804": {
+    "label": "LOC",
+    "text": "Culoz",
+    "jalons": [
+      102,
+      107
+    ]
+  },
+  "entite_805": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      110,
+      115
+    ]
+  },
+  "entite_806": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      209,
+      222
+    ]
+  },
+  "entite_807": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      268,
+      273
+    ]
+  },
+  "entite_808": {
+    "label": "MISC",
+    "text": "s'écria Alberte dans une explosion de joie",
+    "jalons": [
+      275,
+      317
+    ]
+  },
+  "entite_809": {
+    "label": "PER",
+    "text": "Médérie",
+    "jalons": [
+      371,
+      378
+    ]
+  },
+  "entite_810": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      455,
+      462
+    ]
+  },
+  "entite_811": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      86,
+      90
+    ]
+  },
+  "entite_812": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      121,
+      126
+    ]
+  },
+  "entite_813": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      481,
+      488
+    ]
+  },
+  "entite_814": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      231,
+      240
+    ]
+  },
+  "entite_815": {
+    "label": "MISC",
+    "text": "Bonlieu me dit la même",
+    "jalons": [
+      1,
+      23
+    ]
+  },
+  "entite_816": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      451,
+      460
+    ]
+  },
+  "entite_817": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      502,
+      509
+    ]
+  },
+  "entite_818": {
+    "label": "LOC",
+    "text": "Valroux",
+    "jalons": [
+      430,
+      437
+    ]
+  },
+  "entite_819": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      372,
+      389
+    ]
+  },
+  "entite_820": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      492,
+      499
+    ]
+  },
+  "entite_821": {
+    "label": "PER",
+    "text": "J'emmène",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_822": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      1,
+      10
+    ]
+  },
+  "entite_823": {
+    "label": "PER",
+    "text": "s'empressa de dire Alberte",
+    "jalons": [
+      12,
+      38
+    ]
+  },
+  "entite_824": {
+    "label": "LOC",
+    "text": "Al",
+    "jalons": [
+      164,
+      166
+    ]
+  },
+  "entite_825": {
+    "label": "MISC",
+    "text": "XIV  LE FRÈRE ET LA SŒUR es  L'hôtel des Louzéma avait",
+    "jalons": [
+      411,
+      465
+    ]
+  },
+  "entite_826": {
+    "label": "ORG",
+    "text": "Le soleil",
+    "jalons": [
+      495,
+      504
+    ]
+  },
+  "entite_827": {
+    "label": "MISC",
+    "text": "Tout le monde venait savoir des nouvelles",
+    "jalons": [
+      7,
+      48
+    ]
+  },
+  "entite_828": {
+    "label": "PER",
+    "text": "elle allait",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_829": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      114,
+      131
+    ]
+  },
+  "entite_830": {
+    "label": "LOC",
+    "text": "Al",
+    "jalons": [
+      415,
+      417
+    ]
+  },
+  "entite_831": {
+    "label": "PER",
+    "text": "Et Alberte",
+    "jalons": [
+      467,
+      477
+    ]
+  },
+  "entite_832": {
+    "label": "MISC",
+    "text": "la marquise de Valroux et mademoiselle de la Rochefaucon",
+    "jalons": [
+      395,
+      451
+    ]
+  },
+  "entite_833": {
+    "label": "LOC",
+    "text": "Mesdames",
+    "jalons": [
+      455,
+      463
+    ]
+  },
+  "entite_834": {
+    "label": "PER",
+    "text": "Christine Lappleton",
+    "jalons": [
+      475,
+      494
+    ]
+  },
+  "entite_835": {
+    "label": "ORG",
+    "text": "Tante! allez",
+    "jalons": [
+      499,
+      511
+    ]
+  },
+  "entite_836": {
+    "label": "PER",
+    "text": "Madame Lappleton",
+    "jalons": [
+      177,
+      193
+    ]
+  },
+  "entite_837": {
+    "label": "MISC",
+    "text": "Elle parla de l’arrivée de son frère",
+    "jalons": [
+      395,
+      431
+    ]
+  },
+  "entite_838": {
+    "label": "MISC",
+    "text": "lever et David apparaître sur le seuil de la porte",
+    "jalons": [
+      0,
+      50
+    ]
+  },
+  "entite_839": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      87,
+      104
+    ]
+  },
+  "entite_840": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      178,
+      182
+    ]
+  },
+  "entite_841": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      354,
+      361
+    ]
+  },
+  "entite_842": {
+    "label": "LOC",
+    "text": "Mademoiselle",
+    "jalons": [
+      186,
+      198
+    ]
+  },
+  "entite_843": {
+    "label": "PER",
+    "text": "David",
+    "jalons": [
+      163,
+      168
+    ]
+  },
+  "entite_844": {
+    "label": "PER",
+    "text": "J'ai le frisson",
+    "jalons": [
+      23,
+      38
+    ]
+  },
+  "entite_845": {
+    "label": "PER",
+    "text": "David",
+    "jalons": [
+      453,
+      458
+    ]
+  },
+  "entite_846": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      496,
+      500
+    ]
+  },
+  "entite_847": {
+    "label": "PER",
+    "text": "David consulta mademoiselle de la Rochefau",
+    "jalons": [
+      433,
+      475
+    ]
+  },
+  "entite_848": {
+    "label": "LOC",
+    "text": "Soyez",
+    "jalons": [
+      495,
+      500
+    ]
+  },
+  "entite_849": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      35,
+      40
+    ]
+  },
+  "entite_850": {
+    "label": "PER",
+    "text": "Luna",
+    "jalons": [
+      42,
+      46
+    ]
+  },
+  "entite_851": {
+    "label": "PER",
+    "text": "David",
+    "jalons": [
+      120,
+      125
+    ]
+  },
+  "entite_852": {
+    "label": "LOC",
+    "text": "la chambre de Luna",
+    "jalons": [
+      453,
+      471
+    ]
+  },
+  "entite_853": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      82,
+      89
+    ]
+  },
+  "entite_854": {
+    "label": "MISC",
+    "text": "Sans se donner le souci de",
+    "jalons": [
+      92,
+      118
+    ]
+  },
+  "entite_855": {
+    "label": "LOC",
+    "text": "mademoiselle de la Rochefaucon",
+    "jalons": [
+      436,
+      466
+    ]
+  },
+  "entite_856": {
+    "label": "MISC",
+    "text": "Dans la rue Royale",
+    "jalons": [
+      30,
+      48
+    ]
+  },
+  "entite_857": {
+    "label": "LOC",
+    "text": "Dragonneau",
+    "jalons": [
+      126,
+      136
+    ]
+  },
+  "entite_858": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      245,
+      250
+    ]
+  },
+  "entite_859": {
+    "label": "LOC",
+    "text": "Paris est la ville des mensonges",
+    "jalons": [
+      255,
+      287
+    ]
+  },
+  "entite_860": {
+    "label": "LOC",
+    "text": "Louzéma",
+    "jalons": [
+      417,
+      424
+    ]
+  },
+  "entite_861": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      449,
+      457
+    ]
+  },
+  "entite_862": {
+    "label": "PER",
+    "text": "David ôta",
+    "jalons": [
+      11,
+      20
+    ]
+  },
+  "entite_863": {
+    "label": "MISC",
+    "text": "Excepté mademoiselle de la Rochefaucon",
+    "jalons": [
+      37,
+      75
+    ]
+  },
+  "entite_864": {
+    "label": "PER",
+    "text": "Robert Dragonneau",
+    "jalons": [
+      81,
+      98
+    ]
+  },
+  "entite_865": {
+    "label": "PER",
+    "text": "David tourna",
+    "jalons": [
+      124,
+      136
+    ]
+  },
+  "entite_866": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      350,
+      355
+    ]
+  },
+  "entite_867": {
+    "label": "MISC",
+    "text": "Allez donc parler de marier une la Rochefaucon à un Français qui n'aurait pas",
+    "jalons": [
+      140,
+      217
+    ]
+  },
+  "entite_868": {
+    "label": "LOC",
+    "text": "J'ai là de",
+    "jalons": [
+      443,
+      453
+    ]
+  },
+  "entite_869": {
+    "label": "PER",
+    "text": "Robert Dragonneau",
+    "jalons": [
+      205,
+      222
+    ]
+  },
+  "entite_870": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      297,
+      303
+    ]
+  },
+  "entite_871": {
+    "label": "MISC",
+    "text": "Françaises les",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_872": {
+    "label": "LOC",
+    "text": "Calcutta",
+    "jalons": [
+      286,
+      294
+    ]
+  },
+  "entite_873": {
+    "label": "PER",
+    "text": "M. Dragonneau",
+    "jalons": [
+      490,
+      503
+    ]
+  },
+  "entite_874": {
+    "label": "PER",
+    "text": "J'ai do",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_875": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      164,
+      169
+    ]
+  },
+  "entite_876": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      278,
+      283
+    ]
+  },
+  "entite_877": {
+    "label": "PER",
+    "text": "M. Dragonneau",
+    "jalons": [
+      448,
+      461
+    ]
+  },
+  "entite_878": {
+    "label": "LOC",
+    "text": "l'hôtel de Val",
+    "jalons": [
+      365,
+      379
+    ]
+  },
+  "entite_879": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      13,
+      30
+    ]
+  },
+  "entite_880": {
+    "label": "MISC",
+    "text": "Agnès et à",
+    "jalons": [
+      332,
+      342
+    ]
+  },
+  "entite_881": {
+    "label": "LOC",
+    "text": "Maurice",
+    "jalons": [
+      343,
+      350
+    ]
+  },
+  "entite_882": {
+    "label": "LOC",
+    "text": "de la maitresse de la mai",
+    "jalons": [
+      487,
+      512
+    ]
+  },
+  "entite_883": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      197,
+      204
+    ]
+  },
+  "entite_884": {
+    "label": "PER",
+    "text": "de Luna",
+    "jalons": [
+      15,
+      22
+    ]
+  },
+  "entite_885": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      8,
+      13
+    ]
+  },
+  "entite_886": {
+    "label": "PER",
+    "text": "Luna",
+    "jalons": [
+      29,
+      33
+    ]
+  },
+  "entite_887": {
+    "label": "PER",
+    "text": "Elle ne me",
+    "jalons": [
+      35,
+      45
+    ]
+  },
+  "entite_888": {
+    "label": "LOC",
+    "text": "Rika",
+    "jalons": [
+      109,
+      113
+    ]
+  },
+  "entite_889": {
+    "label": "LOC",
+    "text": "Rika",
+    "jalons": [
+      130,
+      134
+    ]
+  },
+  "entite_890": {
+    "label": "LOC",
+    "text": "Ma",
+    "jalons": [
+      136,
+      138
+    ]
+  },
+  "entite_891": {
+    "label": "LOC",
+    "text": "Madame de Valroux éclata de rire",
+    "jalons": [
+      43,
+      75
+    ]
+  },
+  "entite_892": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      179,
+      188
+    ]
+  },
+  "entite_893": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      27,
+      34
+    ]
+  },
+  "entite_894": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      40,
+      47
+    ]
+  },
+  "entite_895": {
+    "label": "LOC",
+    "text": "avenue des Champs-Elysées",
+    "jalons": [
+      0,
+      25
+    ]
+  },
+  "entite_896": {
+    "label": "MISC",
+    "text": "la marquise de Valroux et mademoiselle de la Rochefaucon",
+    "jalons": [
+      430,
+      486
+    ]
+  },
+  "entite_897": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_898": {
+    "label": "PER",
+    "text": "Elle se détourna",
+    "jalons": [
+      10,
+      26
+    ]
+  },
+  "entite_899": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      419,
+      426
+    ]
+  },
+  "entite_900": {
+    "label": "LOC",
+    "text": "la porte de la chambre de Luna",
+    "jalons": [
+      24,
+      54
+    ]
+  },
+  "entite_901": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      56,
+      60
+    ]
+  },
+  "entite_902": {
+    "label": "MISC",
+    "text": "la voix de Rika",
+    "jalons": [
+      98,
+      113
+    ]
+  },
+  "entite_903": {
+    "label": "LOC",
+    "text": "Alberte de la Rochefaucon",
+    "jalons": [
+      172,
+      197
+    ]
+  },
+  "entite_904": {
+    "label": "LOC",
+    "text": "La porte",
+    "jalons": [
+      200,
+      208
+    ]
+  },
+  "entite_905": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      256,
+      263
+    ]
+  },
+  "entite_906": {
+    "label": "LOC",
+    "text": "Rika",
+    "jalons": [
+      277,
+      281
+    ]
+  },
+  "entite_907": {
+    "label": "MISC",
+    "text": "la voix de Luna s'éleVa",
+    "jalons": [
+      32,
+      55
+    ]
+  },
+  "entite_908": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      405,
+      412
+    ]
+  },
+  "entite_909": {
+    "label": "PER",
+    "text": "Davi",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_910": {
+    "label": "LOC",
+    "text": "Valroux",
+    "jalons": [
+      85,
+      92
+    ]
+  },
+  "entite_911": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      112,
+      119
+    ]
+  },
+  "entite_912": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      331,
+      335
+    ]
+  },
+  "entite_913": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      115,
+      122
+    ]
+  },
+  "entite_914": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      415,
+      422
+    ]
+  },
+  "entite_915": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      175,
+      183
+    ]
+  },
+  "entite_916": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      185,
+      189
+    ]
+  },
+  "entite_917": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      217,
+      224
+    ]
+  },
+  "entite_918": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      458,
+      462
+    ]
+  },
+  "entite_919": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      91,
+      98
+    ]
+  },
+  "entite_920": {
+    "label": "PER",
+    "text": "David",
+    "jalons": [
+      47,
+      52
+    ]
+  },
+  "entite_921": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      353,
+      360
+    ]
+  },
+  "entite_922": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      127,
+      131
+    ]
+  },
+  "entite_923": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      153,
+      160
+    ]
+  },
+  "entite_924": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      436,
+      443
+    ]
+  },
+  "entite_925": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      467,
+      474
+    ]
+  },
+  "entite_926": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      284,
+      290
+    ]
+  },
+  "entite_927": {
+    "label": "LOC",
+    "text": "J'ai",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_928": {
+    "label": "LOC",
+    "text": "Préparez",
+    "jalons": [
+      167,
+      175
+    ]
+  },
+  "entite_929": {
+    "label": "LOC",
+    "text": "Voyez de",
+    "jalons": [
+      234,
+      242
+    ]
+  },
+  "entite_930": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      363,
+      370
+    ]
+  },
+  "entite_931": {
+    "label": "LOC",
+    "text": "Rika",
+    "jalons": [
+      206,
+      210
+    ]
+  },
+  "entite_932": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      466,
+      470
+    ]
+  },
+  "entite_933": {
+    "label": "LOC",
+    "text": "Lappleton",
+    "jalons": [
+      425,
+      434
+    ]
+  },
+  "entite_934": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      41,
+      58
+    ]
+  },
+  "entite_935": {
+    "label": "PER",
+    "text": "Alberte de",
+    "jalons": [
+      90,
+      100
+    ]
+  },
+  "entite_936": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      421,
+      434
+    ]
+  },
+  "entite_937": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      40,
+      53
+    ]
+  },
+  "entite_938": {
+    "label": "LOC",
+    "text": "Valroux",
+    "jalons": [
+      416,
+      423
+    ]
+  },
+  "entite_939": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      120,
+      127
+    ]
+  },
+  "entite_940": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      164,
+      177
+    ]
+  },
+  "entite_941": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      390,
+      397
+    ]
+  },
+  "entite_942": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      449,
+      462
+    ]
+  },
+  "entite_943": {
+    "label": "LOC",
+    "text": "Aiïmez-vous",
+    "jalons": [
+      464,
+      475
+    ]
+  },
+  "entite_944": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      490,
+      495
+    ]
+  },
+  "entite_945": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      406,
+      413
+    ]
+  },
+  "entite_946": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      142,
+      149
+    ]
+  },
+  "entite_947": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      197,
+      202
+    ]
+  },
+  "entite_948": {
+    "label": "LOC",
+    "text": "Ma",
+    "jalons": [
+      245,
+      247
+    ]
+  },
+  "entite_949": {
+    "label": "LOC",
+    "text": "Rouergue",
+    "jalons": [
+      41,
+      49
+    ]
+  },
+  "entite_950": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      105,
+      110
+    ]
+  },
+  "entite_951": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      305,
+      310
+    ]
+  },
+  "entite_952": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      391,
+      396
+    ]
+  },
+  "entite_953": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      402,
+      409
+    ]
+  },
+  "entite_954": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      41,
+      46
+    ]
+  },
+  "entite_955": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      494,
+      507
+    ]
+  },
+  "entite_956": {
+    "label": "PER",
+    "text": "Roger de Chàteaugrand",
+    "jalons": [
+      289,
+      310
+    ]
+  },
+  "entite_957": {
+    "label": "LOC",
+    "text": "M. de la Rochefaucon passa à madame de Valroux",
+    "jalons": [
+      316,
+      362
+    ]
+  },
+  "entite_958": {
+    "label": "PER",
+    "text": "d'hui que M. de Chàâteaugrand demande Alhberte",
+    "jalons": [
+      15,
+      61
+    ]
+  },
+  "entite_959": {
+    "label": "LOC",
+    "text": "Français",
+    "jalons": [
+      241,
+      249
+    ]
+  },
+  "entite_960": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      281,
+      287
+    ]
+  },
+  "entite_961": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      463,
+      469
+    ]
+  },
+  "entite_962": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      87,
+      100
+    ]
+  },
+  "entite_963": {
+    "label": "PER",
+    "text": "Roger de Châteaugrand",
+    "jalons": [
+      103,
+      124
+    ]
+  },
+  "entite_964": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      258,
+      275
+    ]
+  },
+  "entite_965": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      381,
+      386
+    ]
+  },
+  "entite_966": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      388,
+      397
+    ]
+  },
+  "entite_967": {
+    "label": "LOC",
+    "text": "Elle la",
+    "jalons": [
+      127,
+      134
+    ]
+  },
+  "entite_968": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      225,
+      232
+    ]
+  },
+  "entite_969": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      329,
+      334
+    ]
+  },
+  "entite_970": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      404,
+      413
+    ]
+  },
+  "entite_971": {
+    "label": "MISC",
+    "text": "de la mort de Luna",
+    "jalons": [
+      120,
+      138
+    ]
+  },
+  "entite_972": {
+    "label": "LOC",
+    "text": "Château",
+    "jalons": [
+      463,
+      470
+    ]
+  },
+  "entite_973": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      300,
+      313
+    ]
+  },
+  "entite_974": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      318,
+      327
+    ]
+  },
+  "entite_975": {
+    "label": "LOC",
+    "text": "Est-il",
+    "jalons": [
+      502,
+      508
+    ]
+  },
+  "entite_976": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      8,
+      12
+    ]
+  },
+  "entite_977": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      454,
+      467
+    ]
+  },
+  "entite_978": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      98,
+      105
+    ]
+  },
+  "entite_979": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      137,
+      144
+    ]
+  },
+  "entite_980": {
+    "label": "LOC",
+    "text": "Mantes",
+    "jalons": [
+      220,
+      226
+    ]
+  },
+  "entite_981": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      480,
+      489
+    ]
+  },
+  "entite_982": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      279,
+      286
+    ]
+  },
+  "entite_983": {
+    "label": "PER",
+    "text": "David t'aime",
+    "jalons": [
+      4,
+      16
+    ]
+  },
+  "entite_984": {
+    "label": "LOC",
+    "text": "oncle de la Rochefaucon",
+    "jalons": [
+      211,
+      234
+    ]
+  },
+  "entite_985": {
+    "label": "LOC",
+    "text": "Louzéma",
+    "jalons": [
+      322,
+      329
+    ]
+  },
+  "entite_986": {
+    "label": "PER",
+    "text": "de David Louzéma",
+    "jalons": [
+      1,
+      17
+    ]
+  },
+  "entite_987": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      504,
+      511
+    ]
+  },
+  "entite_988": {
+    "label": "MISC",
+    "text": "dans le pelit salon où se trouvait le duc de la Rochefaucon",
+    "jalons": [
+      0,
+      59
+    ]
+  },
+  "entite_989": {
+    "label": "PER",
+    "text": "de David Louzéma",
+    "jalons": [
+      2,
+      18
+    ]
+  },
+  "entite_990": {
+    "label": "PER",
+    "text": "celle de Roger de Châteaugrand",
+    "jalons": [
+      35,
+      65
+    ]
+  },
+  "entite_991": {
+    "label": "PER",
+    "text": "datée de Nantes",
+    "jalons": [
+      67,
+      82
+    ]
+  },
+  "entite_992": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      449,
+      456
+    ]
+  },
+  "entite_993": {
+    "label": "MISC",
+    "text": "la demande de",
+    "jalons": [
+      18,
+      31
+    ]
+  },
+  "entite_994": {
+    "label": "PER",
+    "text": "Roger de Châäteaugrand",
+    "jalons": [
+      32,
+      54
+    ]
+  },
+  "entite_995": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      81,
+      94
+    ]
+  },
+  "entite_996": {
+    "label": "PER",
+    "text": "de Valroux",
+    "jalons": [
+      111,
+      121
+    ]
+  },
+  "entite_997": {
+    "label": "PER",
+    "text": "M. de Chà",
+    "jalons": [
+      159,
+      168
+    ]
+  },
+  "entite_998": {
+    "label": "PER",
+    "text": "M. de Châteaugrand",
+    "jalons": [
+      357,
+      375
+    ]
+  },
+  "entite_999": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      1,
+      8
+    ]
+  },
+  "entite_1000": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      142,
+      149
+    ]
+  },
+  "entite_1001": {
+    "label": "LOC",
+    "text": "Roger de Château",
+    "jalons": [
+      263,
+      279
+    ]
+  },
+  "entite_1002": {
+    "label": "LOC",
+    "text": "Fa",
+    "jalons": [
+      281,
+      283
+    ]
+  },
+  "entite_1003": {
+    "label": "PER",
+    "text": "murmura Alberte",
+    "jalons": [
+      486,
+      501
+    ]
+  },
+  "entite_1004": {
+    "label": "ORG",
+    "text": "Alors",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_1005": {
+    "label": "LOC",
+    "text": "Le duc de la",
+    "jalons": [
+      141,
+      153
+    ]
+  },
+  "entite_1006": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      331,
+      337
+    ]
+  },
+  "entite_1007": {
+    "label": "MISC",
+    "text": "Roger de Châteaugrand est du bois dont on fait les généraux",
+    "jalons": [
+      340,
+      399
+    ]
+  },
+  "entite_1008": {
+    "label": "MISC",
+    "text": "Madame de Valroux la regardait avec une",
+    "jalons": [
+      473,
+      512
+    ]
+  },
+  "entite_1009": {
+    "label": "PER",
+    "text": "manda M. de la",
+    "jalons": [
+      497,
+      511
+    ]
+  },
+  "entite_1010": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      409,
+      416
+    ]
+  },
+  "entite_1011": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      481,
+      494
+    ]
+  },
+  "entite_1012": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      290,
+      299
+    ]
+  },
+  "entite_1013": {
+    "label": "PER",
+    "text": "de M. David",
+    "jalons": [
+      473,
+      484
+    ]
+  },
+  "entite_1014": {
+    "label": "MISC",
+    "text": "D'après les termes de la lettre de ce jeune homme",
+    "jalons": [
+      175,
+      224
+    ]
+  },
+  "entite_1015": {
+    "label": "LOC",
+    "text": "Louzéma",
+    "jalons": [
+      125,
+      132
+    ]
+  },
+  "entite_1016": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      235,
+      242
+    ]
+  },
+  "entite_1017": {
+    "label": "LOC",
+    "text": "Saint-Denis",
+    "jalons": [
+      332,
+      343
+    ]
+  },
+  "entite_1018": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      303,
+      312
+    ]
+  },
+  "entite_1019": {
+    "label": "MISC",
+    "text": "de l'hôtel de la Rochefaucon s’élanca de sa loge sur les traces de la baronne de Lextreville qui traversait la cour d’un pas",
+    "jalons": [
+      15,
+      139
+    ]
+  },
+  "entite_1020": {
+    "label": "LOC",
+    "text": "Madame la marquise de Valroux",
+    "jalons": [
+      158,
+      187
+    ]
+  },
+  "entite_1021": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      206,
+      211
+    ]
+  },
+  "entite_1022": {
+    "label": "LOC",
+    "text": "Venez",
+    "jalons": [
+      324,
+      329
+    ]
+  },
+  "entite_1023": {
+    "label": "PER",
+    "text": "Devinez",
+    "jalons": [
+      491,
+      498
+    ]
+  },
+  "entite_1024": {
+    "label": "PER",
+    "text": "le duc de la Rochefaucon",
+    "jalons": [
+      3,
+      27
+    ]
+  },
+  "entite_1025": {
+    "label": "MISC",
+    "text": "rel de monsieur de Chà",
+    "jalons": [
+      0,
+      22
+    ]
+  },
+  "entite_1026": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      285,
+      289
+    ]
+  },
+  "entite_1027": {
+    "label": "LOC",
+    "text": "Mais de là",
+    "jalons": [
+      344,
+      354
+    ]
+  },
+  "entite_1028": {
+    "label": "PER",
+    "text": "Roger de Châteaugrand",
+    "jalons": [
+      458,
+      479
+    ]
+  },
+  "entite_1029": {
+    "label": "LOC",
+    "text": "oncle de la Roche",
+    "jalons": [
+      47,
+      64
+    ]
+  },
+  "entite_1030": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      211,
+      216
+    ]
+  },
+  "entite_1031": {
+    "label": "MISC",
+    "text": "cette pauvre Alberte ne sera pas un",
+    "jalons": [
+      0,
+      35
+    ]
+  },
+  "entite_1032": {
+    "label": "MISC",
+    "text": "le la première",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_1033": {
+    "label": "LOC",
+    "text": "M. de Château",
+    "jalons": [
+      119,
+      132
+    ]
+  },
+  "entite_1034": {
+    "label": "LOC",
+    "text": "Valroux",
+    "jalons": [
+      463,
+      470
+    ]
+  },
+  "entite_1035": {
+    "label": "LOC",
+    "text": "Valroux",
+    "jalons": [
+      50,
+      57
+    ]
+  },
+  "entite_1036": {
+    "label": "LOC",
+    "text": "Adieu",
+    "jalons": [
+      59,
+      64
+    ]
+  },
+  "entite_1037": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      74,
+      91
+    ]
+  },
+  "entite_1038": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      177,
+      182
+    ]
+  },
+  "entite_1039": {
+    "label": "LOC",
+    "text": "d'Alberte",
+    "jalons": [
+      473,
+      482
+    ]
+  },
+  "entite_1040": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      264,
+      271
+    ]
+  },
+  "entite_1041": {
+    "label": "MISC",
+    "text": "Elles ne m'ont pas parlé de vous",
+    "jalons": [
+      13,
+      45
+    ]
+  },
+  "entite_1042": {
+    "label": "LOC",
+    "text": "Le duc de la",
+    "jalons": [
+      389,
+      401
+    ]
+  },
+  "entite_1043": {
+    "label": "MISC",
+    "text": "Serez-vous des nôtres",
+    "jalons": [
+      1,
+      22
+    ]
+  },
+  "entite_1044": {
+    "label": "LOC",
+    "text": "Roger de Chà",
+    "jalons": [
+      296,
+      308
+    ]
+  },
+  "entite_1045": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      148,
+      155
+    ]
+  },
+  "entite_1046": {
+    "label": "LOC",
+    "text": "Val",
+    "jalons": [
+      373,
+      376
+    ]
+  },
+  "entite_1047": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      489,
+      502
+    ]
+  },
+  "entite_1048": {
+    "label": "PER",
+    "text": "Resterez",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_1049": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      8,
+      13
+    ]
+  },
+  "entite_1050": {
+    "label": "LOC",
+    "text": "Valroux",
+    "jalons": [
+      161,
+      168
+    ]
+  },
+  "entite_1051": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      10,
+      17
+    ]
+  },
+  "entite_1052": {
+    "label": "LOC",
+    "text": "Bonlieu",
+    "jalons": [
+      467,
+      474
+    ]
+  },
+  "entite_1053": {
+    "label": "LOC",
+    "text": "duc de la Roche",
+    "jalons": [
+      371,
+      386
+    ]
+  },
+  "entite_1054": {
+    "label": "PER",
+    "text": "Louis XIII",
+    "jalons": [
+      484,
+      494
+    ]
+  },
+  "entite_1055": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      470,
+      483
+    ]
+  },
+  "entite_1056": {
+    "label": "PER",
+    "text": "le mur de la vie",
+    "jalons": [
+      24,
+      40
+    ]
+  },
+  "entite_1057": {
+    "label": "LOC",
+    "text": "Monsieur le duc de la Rochefaucon",
+    "jalons": [
+      74,
+      107
+    ]
+  },
+  "entite_1058": {
+    "label": "PER",
+    "text": "de Valroux",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_1059": {
+    "label": "LOC",
+    "text": "Enguerrand",
+    "jalons": [
+      189,
+      199
+    ]
+  },
+  "entite_1060": {
+    "label": "MISC",
+    "text": "Le duc de la Rochefaucon",
+    "jalons": [
+      230,
+      254
+    ]
+  },
+  "entite_1061": {
+    "label": "PER",
+    "text": "de madame de Valroux",
+    "jalons": [
+      1,
+      21
+    ]
+  },
+  "entite_1062": {
+    "label": "LOC",
+    "text": "Cependant",
+    "jalons": [
+      115,
+      124
+    ]
+  },
+  "entite_1063": {
+    "label": "PER",
+    "text": "Roger de Châteaugrand",
+    "jalons": [
+      184,
+      205
+    ]
+  },
+  "entite_1064": {
+    "label": "LOC",
+    "text": "Valroux",
+    "jalons": [
+      291,
+      298
+    ]
+  },
+  "entite_1065": {
+    "label": "LOC",
+    "text": "La marquise de Valroux",
+    "jalons": [
+      303,
+      325
+    ]
+  },
+  "entite_1066": {
+    "label": "LOC",
+    "text": "Enguerrand",
+    "jalons": [
+      345,
+      355
+    ]
+  },
+  "entite_1067": {
+    "label": "PER",
+    "text": "Je le sais",
+    "jalons": [
+      5,
+      15
+    ]
+  },
+  "entite_1068": {
+    "label": "MISC",
+    "text": "Et sans la mort de cette jeune fille",
+    "jalons": [
+      132,
+      168
+    ]
+  },
+  "entite_1069": {
+    "label": "LOC",
+    "text": "Caroline",
+    "jalons": [
+      361,
+      369
+    ]
+  },
+  "entite_1070": {
+    "label": "LOC",
+    "text": "Oui",
+    "jalons": [
+      374,
+      377
+    ]
+  },
+  "entite_1071": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      384,
+      391
+    ]
+  },
+  "entite_1072": {
+    "label": "LOC",
+    "text": "Château",
+    "jalons": [
+      411,
+      418
+    ]
+  },
+  "entite_1073": {
+    "label": "LOC",
+    "text": "Indes",
+    "jalons": [
+      132,
+      137
+    ]
+  },
+  "entite_1074": {
+    "label": "LOC",
+    "text": "Enfin",
+    "jalons": [
+      49,
+      54
+    ]
+  },
+  "entite_1075": {
+    "label": "MISC",
+    "text": "Madame de Valroux connait-elle à fond le passé de ce jeune homme",
+    "jalons": [
+      383,
+      447
+    ]
+  },
+  "entite_1076": {
+    "label": "PER",
+    "text": "Enguerrand",
+    "jalons": [
+      29,
+      39
+    ]
+  },
+  "entite_1077": {
+    "label": "PER",
+    "text": "Enguerrand",
+    "jalons": [
+      6,
+      16
+    ]
+  },
+  "entite_1078": {
+    "label": "LOC",
+    "text": "Enguerrand",
+    "jalons": [
+      413,
+      423
+    ]
+  },
+  "entite_1079": {
+    "label": "LOC",
+    "text": "Enguerrand",
+    "jalons": [
+      252,
+      262
+    ]
+  },
+  "entite_1080": {
+    "label": "LOC",
+    "text": "Engu",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_1081": {
+    "label": "LOC",
+    "text": "Caroline",
+    "jalons": [
+      251,
+      259
+    ]
+  },
+  "entite_1082": {
+    "label": "PER",
+    "text": "de Valroux",
+    "jalons": [
+      501,
+      511
+    ]
+  },
+  "entite_1083": {
+    "label": "MISC",
+    "text": "Paris mesdames de Valroux da Rouergue et que je",
+    "jalons": [
+      109,
+      156
+    ]
+  },
+  "entite_1084": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      421,
+      428
+    ]
+  },
+  "entite_1085": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      445,
+      452
+    ]
+  },
+  "entite_1086": {
+    "label": "PER",
+    "text": "Monsieur David Louzéma",
+    "jalons": [
+      38,
+      60
+    ]
+  },
+  "entite_1087": {
+    "label": "PER",
+    "text": "de Valroux",
+    "jalons": [
+      77,
+      87
+    ]
+  },
+  "entite_1088": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      90,
+      97
+    ]
+  },
+  "entite_1089": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      319,
+      332
+    ]
+  },
+  "entite_1090": {
+    "label": "PER",
+    "text": "de Valroux",
+    "jalons": [
+      13,
+      23
+    ]
+  },
+  "entite_1091": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      61,
+      68
+    ]
+  },
+  "entite_1092": {
+    "label": "LOC",
+    "text": "Voyez-vous",
+    "jalons": [
+      186,
+      196
+    ]
+  },
+  "entite_1093": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      45,
+      54
+    ]
+  },
+  "entite_1094": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      119,
+      126
+    ]
+  },
+  "entite_1095": {
+    "label": "MISC",
+    "text": "Madame la comtesse de Châteaugrand",
+    "jalons": [
+      102,
+      136
+    ]
+  },
+  "entite_1096": {
+    "label": "MISC",
+    "text": "Elle traversa le salon de son pas lent et léger",
+    "jalons": [
+      355,
+      402
+    ]
+  },
+  "entite_1097": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      199,
+      204
+    ]
+  },
+  "entite_1098": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      128,
+      135
+    ]
+  },
+  "entite_1099": {
+    "label": "PER",
+    "text": "duc de la Rochefaucon",
+    "jalons": [
+      458,
+      479
+    ]
+  },
+  "entite_1100": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      261,
+      267
+    ]
+  },
+  "entite_1101": {
+    "label": "LOC",
+    "text": "Roger",
+    "jalons": [
+      269,
+      274
+    ]
+  },
+  "entite_1102": {
+    "label": "ORG",
+    "text": "Le jeune",
+    "jalons": [
+      497,
+      505
+    ]
+  },
+  "entite_1103": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      80,
+      87
+    ]
+  },
+  "entite_1104": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      336,
+      342
+    ]
+  },
+  "entite_1105": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      367,
+      373
+    ]
+  },
+  "entite_1106": {
+    "label": "MISC",
+    "text": "Dans le régiment",
+    "jalons": [
+      398,
+      414
+    ]
+  },
+  "entite_1107": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      180,
+      187
+    ]
+  },
+  "entite_1108": {
+    "label": "PER",
+    "text": "Alberte",
+    "jalons": [
+      500,
+      507
+    ]
+  },
+  "entite_1109": {
+    "label": "MISC",
+    "text": "ctrisé par la pensée que la France avait besoin de mes",
+    "jalons": [
+      0,
+      54
+    ]
+  },
+  "entite_1110": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      459,
+      466
+    ]
+  },
+  "entite_1111": {
+    "label": "MISC",
+    "text": "La descendante de la vieille race des la Roses faucon",
+    "jalons": [
+      16,
+      69
+    ]
+  },
+  "entite_1112": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      424,
+      431
+    ]
+  },
+  "entite_1113": {
+    "label": "PER",
+    "text": "Alberte l'arrèta",
+    "jalons": [
+      80,
+      96
+    ]
+  },
+  "entite_1114": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      227,
+      244
+    ]
+  },
+  "entite_1115": {
+    "label": "LOC",
+    "text": "Lille",
+    "jalons": [
+      463,
+      468
+    ]
+  },
+  "entite_1116": {
+    "label": "MISC",
+    "text": "elée dans la cour",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_1117": {
+    "label": "PER",
+    "text": "Elle alla vers le fiacre",
+    "jalons": [
+      5,
+      29
+    ]
+  },
+  "entite_1118": {
+    "label": "MISC",
+    "text": "lionnait devant le perron et le trouva rempli par les dames de Valroux qui se",
+    "jalons": [
+      54,
+      131
+    ]
+  },
+  "entite_1119": {
+    "label": "MISC",
+    "text": "Quand la marquise de Valroux mit le pied sur la première marche",
+    "jalons": [
+      159,
+      222
+    ]
+  },
+  "entite_1120": {
+    "label": "LOC",
+    "text": "Louise",
+    "jalons": [
+      321,
+      327
+    ]
+  },
+  "entite_1121": {
+    "label": "LOC",
+    "text": "OUte-toi de là",
+    "jalons": [
+      212,
+      226
+    ]
+  },
+  "entite_1122": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      152,
+      165
+    ]
+  },
+  "entite_1123": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      366,
+      370
+    ]
+  },
+  "entite_1124": {
+    "label": "PER",
+    "text": "David triste",
+    "jalons": [
+      372,
+      384
+    ]
+  },
+  "entite_1125": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      403,
+      407
+    ]
+  },
+  "entite_1126": {
+    "label": "MISC",
+    "text": "Vous les avez",
+    "jalons": [
+      4,
+      17
+    ]
+  },
+  "entite_1127": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      424,
+      429
+    ]
+  },
+  "entite_1128": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      473,
+      478
+    ]
+  },
+  "entite_1129": {
+    "label": "LOC",
+    "text": "Louise",
+    "jalons": [
+      456,
+      462
+    ]
+  },
+  "entite_1130": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      94,
+      101
+    ]
+  },
+  "entite_1131": {
+    "label": "MISC",
+    "text": "J'ai un neveu dans les dragons, le frère de Louise et de Valentine",
+    "jalons": [
+      176,
+      242
+    ]
+  },
+  "entite_1132": {
+    "label": "PER",
+    "text": "Roger de Châteaugrand",
+    "jalons": [
+      133,
+      154
+    ]
+  },
+  "entite_1133": {
+    "label": "LOC",
+    "text": "Écoutez",
+    "jalons": [
+      142,
+      149
+    ]
+  },
+  "entite_1134": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      427,
+      440
+    ]
+  },
+  "entite_1135": {
+    "label": "LOC",
+    "text": "ALBER",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_1136": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      123,
+      130
+    ]
+  },
+  "entite_1137": {
+    "label": "LOC",
+    "text": "Valroux",
+    "jalons": [
+      500,
+      507
+    ]
+  },
+  "entite_1138": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      149,
+      166
+    ]
+  },
+  "entite_1139": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      314,
+      319
+    ]
+  },
+  "entite_1140": {
+    "label": "MISC",
+    "text": "Alberte cherchait le moyen de l’avertir du voisinage de",
+    "jalons": [
+      351,
+      406
+    ]
+  },
+  "entite_1141": {
+    "label": "PER",
+    "text": "David Lou",
+    "jalons": [
+      407,
+      416
+    ]
+  },
+  "entite_1142": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_1143": {
+    "label": "PER",
+    "text": "Madame de Valroux",
+    "jalons": [
+      97,
+      114
+    ]
+  },
+  "entite_1144": {
+    "label": "LOC",
+    "text": "Louzéma",
+    "jalons": [
+      423,
+      430
+    ]
+  },
+  "entite_1145": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      95,
+      100
+    ]
+  },
+  "entite_1146": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      210,
+      215
+    ]
+  },
+  "entite_1147": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      404,
+      411
+    ]
+  },
+  "entite_1148": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      452,
+      456
+    ]
+  },
+  "entite_1149": {
+    "label": "PER",
+    "text": "de Valroux",
+    "jalons": [
+      27,
+      37
+    ]
+  },
+  "entite_1150": {
+    "label": "LOC",
+    "text": "Celle",
+    "jalons": [
+      39,
+      44
+    ]
+  },
+  "entite_1151": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      314,
+      321
+    ]
+  },
+  "entite_1152": {
+    "label": "PER",
+    "text": "Madame de Valroux lui",
+    "jalons": [
+      455,
+      476
+    ]
+  },
+  "entite_1153": {
+    "label": "LOC",
+    "text": "Muette",
+    "jalons": [
+      407,
+      413
+    ]
+  },
+  "entite_1154": {
+    "label": "LOC",
+    "text": "Laissez-les-moi",
+    "jalons": [
+      127,
+      142
+    ]
+  },
+  "entite_1155": {
+    "label": "MISC",
+    "text": "la marquise de Valroux et monsieur Dragonneau",
+    "jalons": [
+      464,
+      509
+    ]
+  },
+  "entite_1156": {
+    "label": "LOC",
+    "text": "Mademoi",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_1157": {
+    "label": "PER",
+    "text": "selle Alberte",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_1158": {
+    "label": "PER",
+    "text": "mercia Dieu de Jui",
+    "jalons": [
+      0,
+      18
+    ]
+  },
+  "entite_1159": {
+    "label": "MISC",
+    "text": "Et la mère de Roger de Châteaugrand",
+    "jalons": [
+      399,
+      434
+    ]
+  },
+  "entite_1160": {
+    "label": "PER",
+    "text": "Poe",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_1161": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      436,
+      443
+    ]
+  },
+  "entite_1162": {
+    "label": "LOC",
+    "text": "Champs-Élysées",
+    "jalons": [
+      236,
+      250
+    ]
+  },
+  "entite_1163": {
+    "label": "LOC",
+    "text": "Le soleil",
+    "jalons": [
+      253,
+      262
+    ]
+  },
+  "entite_1164": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      490,
+      494
+    ]
+  },
+  "entite_1165": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      498,
+      503
+    ]
+  },
+  "entite_1166": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      370,
+      377
+    ]
+  },
+  "entite_1167": {
+    "label": "LOC",
+    "text": "Qui",
+    "jalons": [
+      503,
+      506
+    ]
+  },
+  "entite_1168": {
+    "label": "PER",
+    "text": "Albe",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_1169": {
+    "label": "PER",
+    "text": "David Louzéma",
+    "jalons": [
+      10,
+      23
+    ]
+  },
+  "entite_1170": {
+    "label": "PER",
+    "text": "Madame de Châteaugrand",
+    "jalons": [
+      26,
+      48
+    ]
+  },
+  "entite_1171": {
+    "label": "LOC",
+    "text": "Roger",
+    "jalons": [
+      231,
+      236
+    ]
+  },
+  "entite_1172": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      250,
+      257
+    ]
+  },
+  "entite_1173": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      161,
+      168
+    ]
+  },
+  "entite_1174": {
+    "label": "MISC",
+    "text": "ALBERTE al  quer le mystère de votre",
+    "jalons": [
+      6,
+      42
+    ]
+  },
+  "entite_1175": {
+    "label": "PER",
+    "text": "M. de Valroux",
+    "jalons": [
+      278,
+      291
+    ]
+  },
+  "entite_1176": {
+    "label": "PER",
+    "text": "Sans lui",
+    "jalons": [
+      25,
+      33
+    ]
+  },
+  "entite_1177": {
+    "label": "PER",
+    "text": "Madame de Châteaugrand",
+    "jalons": [
+      10,
+      32
+    ]
+  },
+  "entite_1178": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      319,
+      324
+    ]
+  },
+  "entite_1179": {
+    "label": "LOC",
+    "text": "de la fête de la Toussaint",
+    "jalons": [
+      375,
+      401
+    ]
+  },
+  "entite_1180": {
+    "label": "PER",
+    "text": "C'était Roger de Châäteaugrand",
+    "jalons": [
+      8,
+      38
+    ]
+  },
+  "entite_1181": {
+    "label": "PER",
+    "text": "Madame de Châteaugrand",
+    "jalons": [
+      248,
+      270
+    ]
+  },
+  "entite_1182": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      429,
+      435
+    ]
+  },
+  "entite_1183": {
+    "label": "PER",
+    "text": "de  M. Thiers",
+    "jalons": [
+      484,
+      497
+    ]
+  },
+  "entite_1184": {
+    "label": "LOC",
+    "text": "s'élevait",
+    "jalons": [
+      499,
+      508
+    ]
+  },
+  "entite_1185": {
+    "label": "LOC",
+    "text": "Madame de Châteaugrand",
+    "jalons": [
+      277,
+      299
+    ]
+  },
+  "entite_1186": {
+    "label": "PER",
+    "text": "Roger et Alberte",
+    "jalons": [
+      375,
+      391
+    ]
+  },
+  "entite_1187": {
+    "label": "PER",
+    "text": "Roger et Alberte",
+    "jalons": [
+      328,
+      344
+    ]
+  },
+  "entite_1188": {
+    "label": "LOC",
+    "text": "Roger",
+    "jalons": [
+      378,
+      383
+    ]
+  },
+  "entite_1189": {
+    "label": "LOC",
+    "text": "Roger",
+    "jalons": [
+      219,
+      224
+    ]
+  },
+  "entite_1190": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      81,
+      86
+    ]
+  },
+  "entite_1191": {
+    "label": "LOC",
+    "text": "Luna",
+    "jalons": [
+      504,
+      508
+    ]
+  },
+  "entite_1192": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      127,
+      134
+    ]
+  },
+  "entite_1193": {
+    "label": "PER",
+    "text": "Roger lui",
+    "jalons": [
+      250,
+      259
+    ]
+  },
+  "entite_1194": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      299,
+      306
+    ]
+  },
+  "entite_1195": {
+    "label": "MISC",
+    "text": "Madame de Châteaugrand les attendait",
+    "jalons": [
+      170,
+      206
+    ]
+  },
+  "entite_1196": {
+    "label": "LOC",
+    "text": "va le premier rue de Lille",
+    "jalons": [
+      0,
+      26
+    ]
+  },
+  "entite_1197": {
+    "label": "LOC",
+    "text": "l'hôtel de la Rochefaucon",
+    "jalons": [
+      30,
+      55
+    ]
+  },
+  "entite_1198": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      403,
+      410
+    ]
+  },
+  "entite_1199": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      474,
+      479
+    ]
+  },
+  "entite_1200": {
+    "label": "LOC",
+    "text": "Valroux",
+    "jalons": [
+      313,
+      320
+    ]
+  },
+  "entite_1201": {
+    "label": "LOC",
+    "text": "Médéric",
+    "jalons": [
+      489,
+      496
+    ]
+  },
+  "entite_1202": {
+    "label": "PER",
+    "text": "Roger?",
+    "jalons": [
+      91,
+      97
+    ]
+  },
+  "entite_1203": {
+    "label": "PER",
+    "text": "de Valroux",
+    "jalons": [
+      122,
+      132
+    ]
+  },
+  "entite_1204": {
+    "label": "LOC",
+    "text": "Alberte",
+    "jalons": [
+      171,
+      178
+    ]
+  },
+  "entite_1205": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      211,
+      220
+    ]
+  },
+  "entite_1206": {
+    "label": "PER",
+    "text": "J'ai su de telles",
+    "jalons": [
+      435,
+      452
+    ]
+  },
+  "entite_1207": {
+    "label": "LOC",
+    "text": "Ernest de Lextreville",
+    "jalons": [
+      67,
+      88
+    ]
+  },
+  "entite_1208": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      302,
+      311
+    ]
+  },
+  "entite_1209": {
+    "label": "PER",
+    "text": "Madeleine",
+    "jalons": [
+      377,
+      386
+    ]
+  },
+  "entite_1210": {
+    "label": "LOC",
+    "text": "Madeleine",
+    "jalons": [
+      335,
+      344
+    ]
+  },
+  "entite_1211": {
+    "label": "PER",
+    "text": "de Valroux",
+    "jalons": [
+      498,
+      508
+    ]
+  }
+}
