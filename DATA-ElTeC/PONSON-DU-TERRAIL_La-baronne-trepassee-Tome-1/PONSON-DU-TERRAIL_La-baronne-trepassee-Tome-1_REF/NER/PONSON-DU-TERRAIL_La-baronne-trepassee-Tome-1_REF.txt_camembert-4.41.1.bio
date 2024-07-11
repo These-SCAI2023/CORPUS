@@ -1433,7 +1433,7 @@ Mlle B-PER
 Borelli I-PER
 Roschen B-PER
 minute B-DATE
-  I-DATE
+; I-DATE
 une I-DATE
 minute I-DATE
 d'Hélène B-PER
@@ -3170,7 +3170,7 @@ une B-DATE
 heure I-DATE
 une B-DATE
 minute I-DATE
-  B-DATE
+; B-DATE
 une I-DATE
 minute I-DATE
 baron B-PER
@@ -3251,7 +3251,7 @@ baron B-PER
 Nossac B-PER
 une B-DATE
 minute I-DATE
-  B-DATE
+; B-DATE
 une I-DATE
 minute I-DATE
 le B-PER
@@ -3717,7 +3717,7 @@ Aventures B-MISC
 de I-MISC
 Télémaque I-MISC
 aujourd'hui B-DATE
-  I-DATE
+; I-DATE
 dans I-DATE
 deux I-DATE
 jours I-DATE

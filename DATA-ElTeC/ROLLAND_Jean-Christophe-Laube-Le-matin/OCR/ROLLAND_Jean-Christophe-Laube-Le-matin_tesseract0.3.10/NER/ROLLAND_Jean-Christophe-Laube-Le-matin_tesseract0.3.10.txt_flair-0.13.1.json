@@ -1,0 +1,5858 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Gallica  Jean-Christophe",
+    "jalons": [
+      6,
+      30
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "L'aube",
+    "jalons": [
+      32,
+      38
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Le matin",
+    "jalons": [
+      40,
+      48
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Romain Rolland  Source",
+    "jalons": [
+      51,
+      73
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Bibliothèque",
+    "jalons": [
+      91,
+      103
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      117,
+      123
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "Gallica     Rolland",
+    "jalons": [
+      129,
+      148
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Romain",
+    "jalons": [
+      150,
+      156
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Auteur du texte",
+    "jalons": [
+      170,
+      185
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Jean-Christophe. L'aube",
+    "jalons": [
+      187,
+      210
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Le matin",
+    "jalons": [
+      212,
+      220
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "Romain Rolland",
+    "jalons": [
+      223,
+      237
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la mention de",
+    "jalons": [
+      116,
+      220
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      323,
+      329
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Les contenus de Gallica sont la propriété de la BnF au sens de",
+    "jalons": [
+      406,
+      468
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "PARIS",
+    "jalons": [
+      274,
+      279
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "MICHEL",
+    "jalons": [
+      40,
+      46
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "PARIS            Droits de traduction",
+    "jalons": [
+      89,
+      126
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Albin Michel",
+    "jalons": [
+      186,
+      198
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "AUX  AMES LIBRES     DE TOUTES LES NATIONS  QUI SOUFFRENT",
+    "jalons": [
+      201,
+      258
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      345,
+      349
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "l'Ecole Normale Supérieure de Paris",
+    "jalons": [
+      27,
+      62
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "la Révolution",
+    "jalons": [
+      256,
+      269
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Danton",
+    "jalons": [
+      286,
+      292
+    ]
+  },
+  "entite_24": {
+    "label": "ORG",
+    "text": "Les Loups",
+    "jalons": [
+      294,
+      303
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Le Triomphe de la Raison",
+    "jalons": [
+      305,
+      329
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Tragédies de la foi",
+    "jalons": [
+      338,
+      357
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Saint-Louis",
+    "jalons": [
+      361,
+      372
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Aërt",
+    "jalons": [
+      374,
+      378
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "le Théâtre du Peuple",
+    "jalons": [
+      381,
+      401
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Foire sur la Place » de Paris",
+    "jalons": [
+      92,
+      121
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Alpes de Schwytz",
+    "jalons": [
+      128,
+      144
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      333,
+      343
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Grazia",
+    "jalons": [
+      359,
+      365
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Anna du Buisson",
+    "jalons": [
+      378,
+      393
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Olivier et Antoinette",
+    "jalons": [
+      437,
+      458
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "la mort de Christophe",
+    "jalons": [
+      474,
+      495
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "avant de rédiger les premières lignes de l'Aube",
+    "jalons": [
+      2,
+      49
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "J'ai pris",
+    "jalons": [
+      398,
+      407
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "besoin et l'amour de la",
+    "jalons": [
+      0,
+      23
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "arrêtais les lignes",
+    "jalons": [
+      0,
+      19
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Archives Nobel de l'Académie Suédoise",
+    "jalons": [
+      235,
+      272
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Stockholm",
+    "jalons": [
+      276,
+      285
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "de la Nièvre",
+    "jalons": [
+      453,
+      465
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Nevers",
+    "jalons": [
+      469,
+      475
+    ]
+  },
+  "entite_45": {
+    "label": "ORG",
+    "text": "JEAN-CHRISTOPHE",
+    "jalons": [
+      491,
+      506
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      457,
+      462
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Montpa",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "de la Ville",
+    "jalons": [
+      91,
+      102
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Cahiers de la Quin",
+    "jalons": [
+      479,
+      497
+    ]
+  },
+  "entite_50": {
+    "label": "PER",
+    "text": "arles Péguy",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Ollendorff",
+    "jalons": [
+      79,
+      89
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "L'édition des Cahiers de la Quin",
+    "jalons": [
+      91,
+      123
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "de la jeunesse de Christophe",
+    "jalons": [
+      272,
+      300
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "Voici les dates de",
+    "jalons": [
+      308,
+      326
+    ]
+  },
+  "entite_55": {
+    "label": "MISC",
+    "text": "L'Aube et le Matin",
+    "jalons": [
+      365,
+      383
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "La Révolte",
+    "jalons": [
+      450,
+      460
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      492,
+      502
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "La Foire sur la",
+    "jalons": [
+      16,
+      31
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "Dans la Maison",
+    "jalons": [
+      60,
+      74
+    ]
+  },
+  "entite_60": {
+    "label": "MISC",
+    "text": "Les Amies",
+    "jalons": [
+      107,
+      116
+    ]
+  },
+  "entite_61": {
+    "label": "MISC",
+    "text": "Le Buisson",
+    "jalons": [
+      149,
+      159
+    ]
+  },
+  "entite_62": {
+    "label": "MISC",
+    "text": "la composition de ma Vie de Tolstoy",
+    "jalons": [
+      239,
+      274
+    ]
+  },
+  "entite_63": {
+    "label": "MISC",
+    "text": "La Nouvelle Journée",
+    "jalons": [
+      277,
+      296
+    ]
+  },
+  "entite_64": {
+    "label": "MISC",
+    "text": "la Foire sur la Place",
+    "jalons": [
+      304,
+      325
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Romain Rolland",
+    "jalons": [
+      387,
+      401
+    ]
+  },
+  "entite_66": {
+    "label": "ORG",
+    "text": "Chaq",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_67": {
+    "label": "MISC",
+    "text": "ue jour que tu auras vu la face de Christophe",
+    "jalons": [
+      0,
+      45
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Cahiers de la Quin",
+    "jalons": [
+      382,
+      400
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "mi-chemin de la",
+    "jalons": [
+      444,
+      459
+    ]
+  },
+  "entite_70": {
+    "label": "PER",
+    "text": "Jean-Christophe",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_71": {
+    "label": "LOC",
+    "text": "Jean-Christophe",
+    "jalons": [
+      273,
+      288
+    ]
+  },
+  "entite_72": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      348,
+      354
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "la Place",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_74": {
+    "label": "MISC",
+    "text": "ceux de ces hommes de la nature — de ces &« Hurons » — que Voltaire et les Encyclopédistes",
+    "jalons": [
+      368,
+      458
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      477,
+      482
+    ]
+  },
+  "entite_76": {
+    "label": "MISC",
+    "text": "cules et les crimes de la société de leur",
+    "jalons": [
+      24,
+      65
+    ]
+  },
+  "entite_77": {
+    "label": "MISC",
+    "text": "Car dans le monde moderne et dans les peuples d'Oc",
+    "jalons": [
+      97,
+      147
+    ]
+  },
+  "entite_78": {
+    "label": "MISC",
+    "text": "Mais qu'on se garde bien de voir en Jean-Christo- phe un portrait de Beethoven! Christophe n'est pas Beethoven",
+    "jalons": [
+      318,
+      428
+    ]
+  },
+  "entite_79": {
+    "label": "MISC",
+    "text": "Il est un Beethoven nouveau",
+    "jalons": [
+      430,
+      457
+    ]
+  },
+  "entite_80": {
+    "label": "MISC",
+    "text": "le monde qui est le nôtre",
+    "jalons": [
+      30,
+      55
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_82": {
+    "label": "PER",
+    "text": "J'en ai la",
+    "jalons": [
+      498,
+      508
+    ]
+  },
+  "entite_83": {
+    "label": "MISC",
+    "text": "prouvé la vérité de ma foi",
+    "jalons": [
+      1,
+      27
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      300,
+      310
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "Péguy",
+    "jalons": [
+      481,
+      486
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "ahiers de la Quinzaine",
+    "jalons": [
+      0,
+      22
+    ]
+  },
+  "entite_87": {
+    "label": "PER",
+    "text": "La Fin du Voyage",
+    "jalons": [
+      448,
+      464
+    ]
+  },
+  "entite_88": {
+    "label": "PER",
+    "text": "Les Amies",
+    "jalons": [
+      466,
+      475
+    ]
+  },
+  "entite_89": {
+    "label": "PER",
+    "text": "Le Buis",
+    "jalons": [
+      477,
+      484
+    ]
+  },
+  "entite_90": {
+    "label": "LOC",
+    "text": "La Nouvelle Jo",
+    "jalons": [
+      498,
+      512
+    ]
+  },
+  "entite_91": {
+    "label": "MISC",
+    "text": "la Foire sur la Place",
+    "jalons": [
+      487,
+      508
+    ]
+  },
+  "entite_92": {
+    "label": "MISC",
+    "text": "Dans la Maison",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_93": {
+    "label": "MISC",
+    "text": "Amies et le Buisson",
+    "jalons": [
+      51,
+      70
+    ]
+  },
+  "entite_94": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      427,
+      433
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "Pologne",
+    "jalons": [
+      410,
+      417
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Le récit de ces",
+    "jalons": [
+      419,
+      434
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "Au-dessus de la Mélée",
+    "jalons": [
+      427,
+      448
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "Vie de Mazzini",
+    "jalons": [
+      480,
+      494
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      433,
+      443
+    ]
+  },
+  "entite_100": {
+    "label": "LOC",
+    "text": "Là",
+    "jalons": [
+      506,
+      508
+    ]
+  },
+  "entite_101": {
+    "label": "MISC",
+    "text": "sorte de Symphonie de la Nature",
+    "jalons": [
+      143,
+      174
+    ]
+  },
+  "entite_102": {
+    "label": "MISC",
+    "text": "Toujours la pensée de l'Unité. L'Unité des hommes entre eux et avec le Cosmos",
+    "jalons": [
+      118,
+      195
+    ]
+  },
+  "entite_103": {
+    "label": "MISC",
+    "text": "Millionen! Diesen Kuss der ganzen Welt",
+    "jalons": [
+      220,
+      258
+    ]
+  },
+  "entite_104": {
+    "label": "MISC",
+    "text": "Silence de la mer",
+    "jalons": [
+      359,
+      376
+    ]
+  },
+  "entite_105": {
+    "label": "MISC",
+    "text": "Silence de la terre",
+    "jalons": [
+      400,
+      419
+    ]
+  },
+  "entite_106": {
+    "label": "MISC",
+    "text": "Théâtre de la Révolution",
+    "jalons": [
+      445,
+      469
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "les Léonide",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_108": {
+    "label": "PER",
+    "text": "Paroles de Schiller",
+    "jalons": [
+      74,
+      93
+    ]
+  },
+  "entite_109": {
+    "label": "MISC",
+    "text": "dans l'Ode à la Joie, de la Neuvième Symphonie",
+    "jalons": [
+      127,
+      173
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Rythme",
+    "jalons": [
+      499,
+      505
+    ]
+  },
+  "entite_111": {
+    "label": "MISC",
+    "text": "Villeneuve-du-Léman",
+    "jalons": [
+      429,
+      448
+    ]
+  },
+  "entite_112": {
+    "label": "MISC",
+    "text": "Pâques",
+    "jalons": [
+      451,
+      457
+    ]
+  },
+  "entite_113": {
+    "label": "MISC",
+    "text": "Voir la dernière scène de Jean-Christophe",
+    "jalons": [
+      469,
+      510
+    ]
+  },
+  "entite_114": {
+    "label": "MISC",
+    "text": "Derniers mots de Jean-Christophe mourant",
+    "jalons": [
+      4,
+      44
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "Jean-Michel la",
+    "jalons": [
+      121,
+      135
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "Elle lui",
+    "jalons": [
+      3,
+      11
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "Jean-Michel retourna",
+    "jalons": [
+      43,
+      63
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Bonne fille",
+    "jalons": [
+      183,
+      194
+    ]
+  },
+  "entite_119": {
+    "label": "LOC",
+    "text": "Va",
+    "jalons": [
+      204,
+      206
+    ]
+  },
+  "entite_120": {
+    "label": "PER",
+    "text": "Jean-Michel se",
+    "jalons": [
+      462,
+      476
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      352,
+      358
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      107,
+      113
+    ]
+  },
+  "entite_123": {
+    "label": "PER",
+    "text": "Louisa",
+    "jalons": [
+      190,
+      196
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "Melchior Krafft",
+    "jalons": [
+      1,
+      16
+    ]
+  },
+  "entite_125": {
+    "label": "PER",
+    "text": "le fils de Jean-Michel",
+    "jalons": [
+      18,
+      40
+    ]
+  },
+  "entite_126": {
+    "label": "PER",
+    "text": "Les Krafft",
+    "jalons": [
+      42,
+      52
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "Cologne",
+    "jalons": [
+      271,
+      278
+    ]
+  },
+  "entite_128": {
+    "label": "LOC",
+    "text": "Mannheim",
+    "jalons": [
+      282,
+      290
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      292,
+      300
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      447,
+      455
+    ]
+  },
+  "entite_131": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      157,
+      165
+    ]
+  },
+  "entite_132": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      169,
+      175
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      177,
+      181
+    ]
+  },
+  "entite_134": {
+    "label": "MISC",
+    "text": "la beauté de Louisa",
+    "jalons": [
+      16,
+      35
+    ]
+  },
+  "entite_135": {
+    "label": "MISC",
+    "text": "Dans un de ces",
+    "jalons": [
+      340,
+      354
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      369,
+      375
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "Melchior s'enlizait",
+    "jalons": [
+      322,
+      341
+    ]
+  },
+  "entite_138": {
+    "label": "MISC",
+    "text": "La voix de Louisa arracha le vieux Jean-Michel à la",
+    "jalons": [
+      344,
+      395
+    ]
+  },
+  "entite_139": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      106,
+      114
+    ]
+  },
+  "entite_140": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      205,
+      213
+    ]
+  },
+  "entite_141": {
+    "label": "LOC",
+    "text": "Déjà la",
+    "jalons": [
+      333,
+      340
+    ]
+  },
+  "entite_142": {
+    "label": "PER",
+    "text": "Elle était",
+    "jalons": [
+      501,
+      511
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      399,
+      407
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "Des îles de",
+    "jalons": [
+      286,
+      297
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      347,
+      354
+    ]
+  },
+  "entite_146": {
+    "label": "ORG",
+    "text": "Le Fleuve",
+    "jalons": [
+      491,
+      500
+    ]
+  },
+  "entite_147": {
+    "label": "ORG",
+    "text": "Les Cloc",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      453,
+      463
+    ]
+  },
+  "entite_149": {
+    "label": "ORG",
+    "text": "Le matin",
+    "jalons": [
+      15,
+      23
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "Silence de",
+    "jalons": [
+      337,
+      347
+    ]
+  },
+  "entite_151": {
+    "label": "MISC",
+    "text": "vie de rire",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_152": {
+    "label": "MISC",
+    "text": "La vieille Lina",
+    "jalons": [
+      317,
+      332
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "Soudain",
+    "jalons": [
+      304,
+      311
+    ]
+  },
+  "entite_154": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      497,
+      504
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "Arminius",
+    "jalons": [
+      155,
+      163
+    ]
+  },
+  "entite_157": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      402,
+      406
+    ]
+  },
+  "entite_158": {
+    "label": "MISC",
+    "text": "tablir dans l'esprit de l'enfant le sens de la",
+    "jalons": [
+      0,
+      46
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "L'enfant",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_160": {
+    "label": "MISC",
+    "text": "Les yeux de Christophe",
+    "jalons": [
+      92,
+      114
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "Près de lui",
+    "jalons": [
+      127,
+      138
+    ]
+  },
+  "entite_162": {
+    "label": "LOC",
+    "text": "Taunus",
+    "jalons": [
+      490,
+      496
+    ]
+  },
+  "entite_163": {
+    "label": "LOC",
+    "text": "Parfois",
+    "jalons": [
+      444,
+      451
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "Christophe réfléchissait",
+    "jalons": [
+      18,
+      42
+    ]
+  },
+  "entite_165": {
+    "label": "PER",
+    "text": "Mais Chr",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "Une",
+    "jalons": [
+      506,
+      509
+    ]
+  },
+  "entite_167": {
+    "label": "MISC",
+    "text": "Le bourdonnement des voix dans la cham",
+    "jalons": [
+      170,
+      208
+    ]
+  },
+  "entite_168": {
+    "label": "PER",
+    "text": "Michel avait",
+    "jalons": [
+      174,
+      186
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Jean-Michel n'admirait",
+    "jalons": [
+      23,
+      45
+    ]
+  },
+  "entite_170": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      420,
+      425
+    ]
+  },
+  "entite_171": {
+    "label": "PER",
+    "text": "Michel l'avait",
+    "jalons": [
+      436,
+      450
+    ]
+  },
+  "entite_172": {
+    "label": "MISC",
+    "text": "de Mendelssohn ou de Brahms",
+    "jalons": [
+      224,
+      251
+    ]
+  },
+  "entite_173": {
+    "label": "PER",
+    "text": "George Sand",
+    "jalons": [
+      267,
+      278
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Geoffroy Saint-Hilaire",
+    "jalons": [
+      12,
+      34
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "Jean-Michel appartenait",
+    "jalons": [
+      40,
+      63
+    ]
+  },
+  "entite_176": {
+    "label": "PER",
+    "text": "ssion de l'héroïsme",
+    "jalons": [
+      0,
+      19
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "Jean-Michel avait",
+    "jalons": [
+      189,
+      206
+    ]
+  },
+  "entite_178": {
+    "label": "MISC",
+    "text": "Nietzsche dit que Bacchus est le dieu de la musique",
+    "jalons": [
+      444,
+      495
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "Melchior était du même",
+    "jalons": [
+      2,
+      24
+    ]
+  },
+  "entite_180": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      320,
+      328
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      102,
+      108
+    ]
+  },
+  "entite_182": {
+    "label": "PER",
+    "text": "Chris",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "Christophe de",
+    "jalons": [
+      331,
+      344
+    ]
+  },
+  "entite_184": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      502,
+      508
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "Madame Krafft",
+    "jalons": [
+      8,
+      21
+    ]
+  },
+  "entite_186": {
+    "label": "PER",
+    "text": "Qu'est-ce que tu lui veux",
+    "jalons": [
+      23,
+      48
+    ]
+  },
+  "entite_187": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      181,
+      187
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Louisa",
+    "jalons": [
+      315,
+      321
+    ]
+  },
+  "entite_189": {
+    "label": "PER",
+    "text": "Louisa",
+    "jalons": [
+      436,
+      442
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "L'arrivée de Christophe",
+    "jalons": [
+      217,
+      240
+    ]
+  },
+  "entite_191": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      308,
+      318
+    ]
+  },
+  "entite_192": {
+    "label": "MISC",
+    "text": "Indigné de cette préten",
+    "jalons": [
+      489,
+      512
+    ]
+  },
+  "entite_193": {
+    "label": "PER",
+    "text": "Christophe en retrouva",
+    "jalons": [
+      6,
+      28
+    ]
+  },
+  "entite_194": {
+    "label": "PER",
+    "text": "Melchior Krafft",
+    "jalons": [
+      162,
+      177
+    ]
+  },
+  "entite_195": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      200,
+      206
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "Christophe retomba",
+    "jalons": [
+      57,
+      75
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "Autour de lui",
+    "jalons": [
+      268,
+      281
+    ]
+  },
+  "entite_198": {
+    "label": "PER",
+    "text": "Christophe la",
+    "jalons": [
+      47,
+      60
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      202,
+      208
+    ]
+  },
+  "entite_200": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      192,
+      200
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      355,
+      363
+    ]
+  },
+  "entite_202": {
+    "label": "PER",
+    "text": "de Louisa",
+    "jalons": [
+      34,
+      43
+    ]
+  },
+  "entite_203": {
+    "label": "PER",
+    "text": "rvir chez des gens",
+    "jalons": [
+      0,
+      18
+    ]
+  },
+  "entite_204": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      392,
+      396
+    ]
+  },
+  "entite_205": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      505,
+      509
+    ]
+  },
+  "entite_206": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      111,
+      121
+    ]
+  },
+  "entite_207": {
+    "label": "PER",
+    "text": "Christophe détestait",
+    "jalons": [
+      133,
+      153
+    ]
+  },
+  "entite_208": {
+    "label": "PER",
+    "text": "Lui n'était",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_209": {
+    "label": "PER",
+    "text": "Louisa",
+    "jalons": [
+      14,
+      20
+    ]
+  },
+  "entite_210": {
+    "label": "PER",
+    "text": "Christophe lui",
+    "jalons": [
+      265,
+      279
+    ]
+  },
+  "entite_211": {
+    "label": "PER",
+    "text": "Christophe voyait bien que",
+    "jalons": [
+      303,
+      329
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      336,
+      344
+    ]
+  },
+  "entite_213": {
+    "label": "PER",
+    "text": "Papa",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      20,
+      28
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      451,
+      459
+    ]
+  },
+  "entite_216": {
+    "label": "PER",
+    "text": "Christophe parvint",
+    "jalons": [
+      25,
+      43
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      172,
+      180
+    ]
+  },
+  "entite_218": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      452,
+      460
+    ]
+  },
+  "entite_219": {
+    "label": "PER",
+    "text": "Christophe voulait",
+    "jalons": [
+      218,
+      236
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      270,
+      278
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      409,
+      417
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "Christoph",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      79,
+      87
+    ]
+  },
+  "entite_224": {
+    "label": "PER",
+    "text": "Louisa lui avait",
+    "jalons": [
+      26,
+      42
+    ]
+  },
+  "entite_225": {
+    "label": "MISC",
+    "text": "Dieu guérit le père de",
+    "jalons": [
+      3,
+      25
+    ]
+  },
+  "entite_226": {
+    "label": "LOC",
+    "text": "Louisa passa une partie de la",
+    "jalons": [
+      183,
+      212
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "Christophe se releva",
+    "jalons": [
+      14,
+      34
+    ]
+  },
+  "entite_228": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      117,
+      125
+    ]
+  },
+  "entite_229": {
+    "label": "PER",
+    "text": "Christophe était",
+    "jalons": [
+      434,
+      450
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      486,
+      492
+    ]
+  },
+  "entite_231": {
+    "label": "PER",
+    "text": "Il lui",
+    "jalons": [
+      2,
+      8
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "peu en dehors de la ville",
+    "jalons": [
+      132,
+      157
+    ]
+  },
+  "entite_233": {
+    "label": "LOC",
+    "text": "Cologne",
+    "jalons": [
+      194,
+      201
+    ]
+  },
+  "entite_234": {
+    "label": "MISC",
+    "text": "Mozart et de Beethoven",
+    "jalons": [
+      245,
+      267
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      464,
+      474
+    ]
+  },
+  "entite_236": {
+    "label": "MISC",
+    "text": "Il levait les yeux",
+    "jalons": [
+      8,
+      26
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Antoine",
+    "jalons": [
+      204,
+      211
+    ]
+  },
+  "entite_238": {
+    "label": "PER",
+    "text": "JEAN-CHRISTOPHE",
+    "jalons": [
+      495,
+      510
+    ]
+  },
+  "entite_239": {
+    "label": "PER",
+    "text": "donna de les",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_240": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      100,
+      106
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      458,
+      468
+    ]
+  },
+  "entite_242": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      110,
+      120
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      378,
+      384
+    ]
+  },
+  "entite_244": {
+    "label": "PER",
+    "text": "Mais Christophe",
+    "jalons": [
+      470,
+      485
+    ]
+  },
+  "entite_245": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      215,
+      223
+    ]
+  },
+  "entite_246": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      237,
+      243
+    ]
+  },
+  "entite_247": {
+    "label": "PER",
+    "text": "CHRISTOPHE",
+    "jalons": [
+      1,
+      11
+    ]
+  },
+  "entite_248": {
+    "label": "PER",
+    "text": "Louisa s'éloigna",
+    "jalons": [
+      84,
+      100
+    ]
+  },
+  "entite_249": {
+    "label": "MISC",
+    "text": "qu'il aimait le mieux",
+    "jalons": [
+      0,
+      21
+    ]
+  },
+  "entite_250": {
+    "label": "LOC",
+    "text": "Alexan",
+    "jalons": [
+      25,
+      31
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "Salomon",
+    "jalons": [
+      172,
+      179
+    ]
+  },
+  "entite_252": {
+    "label": "PER",
+    "text": "Mel",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_253": {
+    "label": "PER",
+    "text": "Mais Melchior",
+    "jalons": [
+      176,
+      189
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "enir le fil",
+    "jalons": [
+      0,
+      11
+    ]
+  },
+  "entite_255": {
+    "label": "MISC",
+    "text": "qui les faisait",
+    "jalons": [
+      12,
+      27
+    ]
+  },
+  "entite_256": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      255,
+      263
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      134,
+      142
+    ]
+  },
+  "entite_258": {
+    "label": "PER",
+    "text": "Jean-Michel le violoncelle",
+    "jalons": [
+      286,
+      312
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      498,
+      508
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      189,
+      197
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Allemagne",
+    "jalons": [
+      101,
+      110
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "Fort de cette",
+    "jalons": [
+      319,
+      332
+    ]
+  },
+  "entite_263": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      234,
+      242
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      484,
+      492
+    ]
+  },
+  "entite_265": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      14,
+      22
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      102,
+      112
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "Christophe braillait",
+    "jalons": [
+      483,
+      503
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "Christophe se",
+    "jalons": [
+      42,
+      55
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "Il",
+    "jalons": [
+      506,
+      508
+    ]
+  },
+  "entite_270": {
+    "label": "MISC",
+    "text": "les jours de fête, versé dans son grand verre un doigt de É vin du Rhin",
+    "jalons": [
+      1,
+      72
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      463,
+      473
+    ]
+  },
+  "entite_272": {
+    "label": "LOC",
+    "text": "Souris",
+    "jalons": [
+      309,
+      315
+    ]
+  },
+  "entite_273": {
+    "label": "PER",
+    "text": "Rien",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_274": {
+    "label": "MISC",
+    "text": "flotte dans un rayon de soleil, comme les fils de la Vierge par les  beaux jours d'été",
+    "jalons": [
+      44,
+      130
+    ]
+  },
+  "entite_275": {
+    "label": "PER",
+    "text": "Christophe était",
+    "jalons": [
+      496,
+      512
+    ]
+  },
+  "entite_276": {
+    "label": "PER",
+    "text": "derrière l'orchestre",
+    "jalons": [
+      37,
+      57
+    ]
+  },
+  "entite_277": {
+    "label": "MISC",
+    "text": "Dans",
+    "jalons": [
+      507,
+      511
+    ]
+  },
+  "entite_278": {
+    "label": "MISC",
+    "text": "Quelle belle",
+    "jalons": [
+      345,
+      357
+    ]
+  },
+  "entite_279": {
+    "label": "PER",
+    "text": "François-Marie Hassler",
+    "jalons": [
+      305,
+      327
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      167,
+      177
+    ]
+  },
+  "entite_281": {
+    "label": "PER",
+    "text": "François-Marie Hassler",
+    "jalons": [
+      179,
+      201
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Allemagne",
+    "jalons": [
+      377,
+      386
+    ]
+  },
+  "entite_283": {
+    "label": "MISC",
+    "text": "Les amis de Melchior et ceux",
+    "jalons": [
+      484,
+      512
+    ]
+  },
+  "entite_284": {
+    "label": "LOC",
+    "text": "Toute la ville",
+    "jalons": [
+      496,
+      510
+    ]
+  },
+  "entite_285": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      15,
+      23
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "de Hassler",
+    "jalons": [
+      375,
+      385
+    ]
+  },
+  "entite_287": {
+    "label": "MISC",
+    "text": "C'était la nuit",
+    "jalons": [
+      38,
+      53
+    ]
+  },
+  "entite_288": {
+    "label": "MISC",
+    "text": "Dans le beau silence de la nuit",
+    "jalons": [
+      421,
+      452
+    ]
+  },
+  "entite_289": {
+    "label": "LOC",
+    "text": "Hassler",
+    "jalons": [
+      497,
+      504
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "Il",
+    "jalons": [
+      506,
+      508
+    ]
+  },
+  "entite_291": {
+    "label": "LOC",
+    "text": "Hassler",
+    "jalons": [
+      447,
+      454
+    ]
+  },
+  "entite_292": {
+    "label": "LOC",
+    "text": "Hassler",
+    "jalons": [
+      238,
+      245
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      490,
+      500
+    ]
+  },
+  "entite_294": {
+    "label": "LOC",
+    "text": "Hassler",
+    "jalons": [
+      389,
+      396
+    ]
+  },
+  "entite_295": {
+    "label": "LOC",
+    "text": "Berlin",
+    "jalons": [
+      196,
+      202
+    ]
+  },
+  "entite_296": {
+    "label": "LOC",
+    "text": "Embrasse-moi",
+    "jalons": [
+      459,
+      471
+    ]
+  },
+  "entite_297": {
+    "label": "MISC",
+    "text": "le Hassler et le serra de toutes",
+    "jalons": [
+      12,
+      44
+    ]
+  },
+  "entite_298": {
+    "label": "PER",
+    "text": "de Hassler",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_299": {
+    "label": "PER",
+    "text": "Un mot de lui",
+    "jalons": [
+      12,
+      25
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "Hassler",
+    "jalons": [
+      504,
+      511
+    ]
+  },
+  "entite_301": {
+    "label": "PER",
+    "text": "Mais Christophe",
+    "jalons": [
+      60,
+      75
+    ]
+  },
+  "entite_302": {
+    "label": "LOC",
+    "text": "Chris",
+    "jalons": [
+      486,
+      491
+    ]
+  },
+  "entite_303": {
+    "label": "PER",
+    "text": "Jean-Michel",
+    "jalons": [
+      94,
+      105
+    ]
+  },
+  "entite_304": {
+    "label": "PER",
+    "text": "Christophe essaya",
+    "jalons": [
+      108,
+      125
+    ]
+  },
+  "entite_305": {
+    "label": "PER",
+    "text": "Fier de",
+    "jalons": [
+      162,
+      169
+    ]
+  },
+  "entite_306": {
+    "label": "PER",
+    "text": "Jean-Michel se",
+    "jalons": [
+      331,
+      345
+    ]
+  },
+  "entite_307": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      387,
+      397
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      220,
+      230
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      388,
+      394
+    ]
+  },
+  "entite_310": {
+    "label": "LOC",
+    "text": "Aria",
+    "jalons": [
+      77,
+      81
+    ]
+  },
+  "entite_311": {
+    "label": "LOC",
+    "text": "Marche",
+    "jalons": [
+      150,
+      156
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "Regarde",
+    "jalons": [
+      311,
+      318
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Aria",
+    "jalons": [
+      405,
+      409
+    ]
+  },
+  "entite_314": {
+    "label": "LOC",
+    "text": "Minuetto",
+    "jalons": [
+      411,
+      419
+    ]
+  },
+  "entite_315": {
+    "label": "PER",
+    "text": "Walzer",
+    "jalons": [
+      421,
+      427
+    ]
+  },
+  "entite_316": {
+    "label": "PER",
+    "text": "e Marcia",
+    "jalons": [
+      429,
+      437
+    ]
+  },
+  "entite_317": {
+    "label": "PER",
+    "text": "Jean-Christophe Krafft",
+    "jalons": [
+      448,
+      470
+    ]
+  },
+  "entite_318": {
+    "label": "PER",
+    "text": "Christophe fut ébloui",
+    "jalons": [
+      473,
+      494
+    ]
+  },
+  "entite_319": {
+    "label": "PER",
+    "text": "Voir",
+    "jalons": [
+      496,
+      500
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      471,
+      481
+    ]
+  },
+  "entite_321": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      430,
+      438
+    ]
+  },
+  "entite_322": {
+    "label": "MISC",
+    "text": "er que de tourner la tête",
+    "jalons": [
+      0,
+      25
+    ]
+  },
+  "entite_323": {
+    "label": "MISC",
+    "text": "C'était le frère de Lou",
+    "jalons": [
+      489,
+      512
+    ]
+  },
+  "entite_324": {
+    "label": "PER",
+    "text": "de Christo",
+    "jalons": [
+      1,
+      11
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      207,
+      215
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      422,
+      428
+    ]
+  },
+  "entite_327": {
+    "label": "LOC",
+    "text": "Celle-ci",
+    "jalons": [
+      430,
+      438
+    ]
+  },
+  "entite_328": {
+    "label": "PER",
+    "text": "des Krafft",
+    "jalons": [
+      500,
+      510
+    ]
+  },
+  "entite_329": {
+    "label": "PER",
+    "text": "Mais Christophe",
+    "jalons": [
+      114,
+      129
+    ]
+  },
+  "entite_330": {
+    "label": "PER",
+    "text": "Etonné",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_331": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      495,
+      505
+    ]
+  },
+  "entite_332": {
+    "label": "LOC",
+    "text": "La terre",
+    "jalons": [
+      94,
+      102
+    ]
+  },
+  "entite_333": {
+    "label": "LOC",
+    "text": "Brusquement",
+    "jalons": [
+      380,
+      391
+    ]
+  },
+  "entite_334": {
+    "label": "LOC",
+    "text": "Lente",
+    "jalons": [
+      298,
+      303
+    ]
+  },
+  "entite_335": {
+    "label": "MISC",
+    "text": "et son menton sur les genoux de Gottfried.  La voix affectueuse de Gottfried dit",
+    "jalons": [
+      0,
+      80
+    ]
+  },
+  "entite_336": {
+    "label": "PER",
+    "text": "Cela",
+    "jalons": [
+      23,
+      27
+    ]
+  },
+  "entite_337": {
+    "label": "MISC",
+    "text": "pas de la musique",
+    "jalons": [
+      1,
+      18
+    ]
+  },
+  "entite_338": {
+    "label": "PER",
+    "text": "Cela",
+    "jalons": [
+      507,
+      511
+    ]
+  },
+  "entite_339": {
+    "label": "MISC",
+    "text": "beau et que tu vois le ciel de Dieu",
+    "jalons": [
+      0,
+      35
+    ]
+  },
+  "entite_340": {
+    "label": "LOC",
+    "text": "Tu",
+    "jalons": [
+      509,
+      511
+    ]
+  },
+  "entite_341": {
+    "label": "PER",
+    "text": "Christophe l'e",
+    "jalons": [
+      498,
+      512
+    ]
+  },
+  "entite_342": {
+    "label": "MISC",
+    "text": "rre et de l'air et de l'eau",
+    "jalons": [
+      0,
+      27
+    ]
+  },
+  "entite_343": {
+    "label": "PER",
+    "text": "Christophe protesta",
+    "jalons": [
+      471,
+      490
+    ]
+  },
+  "entite_344": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      280,
+      290
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "Christophe serra les lèvres",
+    "jalons": [
+      196,
+      223
+    ]
+  },
+  "entite_346": {
+    "label": "PER",
+    "text": "Gottfried",
+    "jalons": [
+      278,
+      287
+    ]
+  },
+  "entite_347": {
+    "label": "LOC",
+    "text": "Pourqu",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_348": {
+    "label": "LOC",
+    "text": "Soudain",
+    "jalons": [
+      410,
+      417
+    ]
+  },
+  "entite_349": {
+    "label": "MISC",
+    "text": "Christophe",
+    "jalons": [
+      133,
+      143
+    ]
+  },
+  "entite_350": {
+    "label": "MISC",
+    "text": "Christophe",
+    "jalons": [
+      183,
+      193
+    ]
+  },
+  "entite_351": {
+    "label": "MISC",
+    "text": "Léopold les Plaisirs du Jeune",
+    "jalons": [
+      225,
+      254
+    ]
+  },
+  "entite_352": {
+    "label": "MISC",
+    "text": "Melchior et Jean-Michel eurent encore de longues",
+    "jalons": [
+      86,
+      134
+    ]
+  },
+  "entite_353": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      440,
+      450
+    ]
+  },
+  "entite_354": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      25,
+      33
+    ]
+  },
+  "entite_355": {
+    "label": "LOC",
+    "text": "J'obéis",
+    "jalons": [
+      315,
+      322
+    ]
+  },
+  "entite_356": {
+    "label": "MISC",
+    "text": "la téméraire audace de déposer sur les degrés de Ton Trône les prémices de mes jeunes travaux",
+    "jalons": [
+      419,
+      512
+    ]
+  },
+  "entite_357": {
+    "label": "MISC",
+    "text": "Très Sublime Altesse",
+    "jalons": [
+      115,
+      135
+    ]
+  },
+  "entite_358": {
+    "label": "PER",
+    "text": "Jean-Christophe Krafft",
+    "jalons": [
+      200,
+      222
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "Melchior la salle de son Académie de musique",
+    "jalons": [
+      381,
+      425
+    ]
+  },
+  "entite_360": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      237,
+      245
+    ]
+  },
+  "entite_361": {
+    "label": "MISC",
+    "text": "Il s'assura le concours du Hof Musik Verein",
+    "jalons": [
+      297,
+      340
+    ]
+  },
+  "entite_362": {
+    "label": "MISC",
+    "text": "Plaisirs du Jeu",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_363": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      103,
+      111
+    ]
+  },
+  "entite_364": {
+    "label": "PER",
+    "text": "Mais Melchior",
+    "jalons": [
+      422,
+      435
+    ]
+  },
+  "entite_365": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      174,
+      182
+    ]
+  },
+  "entite_366": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      499,
+      509
+    ]
+  },
+  "entite_367": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      350,
+      358
+    ]
+  },
+  "entite_368": {
+    "label": "LOC",
+    "text": "Mai",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_369": {
+    "label": "PER",
+    "text": "Louisa",
+    "jalons": [
+      2,
+      8
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "La moitié de la",
+    "jalons": [
+      8,
+      23
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Conseil",
+    "jalons": [
+      198,
+      205
+    ]
+  },
+  "entite_372": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      284,
+      292
+    ]
+  },
+  "entite_373": {
+    "label": "MISC",
+    "text": "L'orchestre du Hof Musik Verein entama l'Ouverture de Coriolan",
+    "jalons": [
+      252,
+      314
+    ]
+  },
+  "entite_374": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      408,
+      416
+    ]
+  },
+  "entite_375": {
+    "label": "PER",
+    "text": "Jean-Michel",
+    "jalons": [
+      428,
+      439
+    ]
+  },
+  "entite_376": {
+    "label": "PER",
+    "text": "Jean-Michel faisait",
+    "jalons": [
+      395,
+      414
+    ]
+  },
+  "entite_377": {
+    "label": "MISC",
+    "text": "lui montra le piano sur le devant de",
+    "jalons": [
+      384,
+      420
+    ]
+  },
+  "entite_378": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      508,
+      510
+    ]
+  },
+  "entite_379": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      38,
+      46
+    ]
+  },
+  "entite_380": {
+    "label": "PER",
+    "text": "CHRISTOPHE",
+    "jalons": [
+      0,
+      10
+    ]
+  },
+  "entite_381": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_382": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      148,
+      156
+    ]
+  },
+  "entite_383": {
+    "label": "PER",
+    "text": "Melchior lui",
+    "jalons": [
+      309,
+      321
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      42,
+      50
+    ]
+  },
+  "entite_385": {
+    "label": "MISC",
+    "text": "Dans le salon de la",
+    "jalons": [
+      433,
+      452
+    ]
+  },
+  "entite_386": {
+    "label": "MISC",
+    "text": "Assis sur les genoux de la jeune",
+    "jalons": [
+      28,
+      60
+    ]
+  },
+  "entite_387": {
+    "label": "PER",
+    "text": "Mais Christophe ne lui en voulut",
+    "jalons": [
+      2,
+      34
+    ]
+  },
+  "entite_388": {
+    "label": "PER",
+    "text": "Mais celui-là",
+    "jalons": [
+      498,
+      511
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "dans la",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_390": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      454,
+      462
+    ]
+  },
+  "entite_391": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      82,
+      92
+    ]
+  },
+  "entite_392": {
+    "label": "MISC",
+    "text": "Dans la nuit",
+    "jalons": [
+      5,
+      17
+    ]
+  },
+  "entite_393": {
+    "label": "PER",
+    "text": "Florian Holzer",
+    "jalons": [
+      222,
+      236
+    ]
+  },
+  "entite_394": {
+    "label": "PER",
+    "text": "l'organiste de Saint-Martin",
+    "jalons": [
+      238,
+      265
+    ]
+  },
+  "entite_395": {
+    "label": "LOC",
+    "text": "rance de Melchior",
+    "jalons": [
+      79,
+      96
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      282,
+      290
+    ]
+  },
+  "entite_397": {
+    "label": "ORG",
+    "text": "LE  lu           Es",
+    "jalons": [
+      1,
+      20
+    ]
+  },
+  "entite_398": {
+    "label": "PER",
+    "text": "Christophe gâtait",
+    "jalons": [
+      61,
+      78
+    ]
+  },
+  "entite_399": {
+    "label": "PER",
+    "text": "chez lui",
+    "jalons": [
+      1,
+      9
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      124,
+      132
+    ]
+  },
+  "entite_401": {
+    "label": "MISC",
+    "text": "Christophe se réfugiait alors dans la chambre la",
+    "jalons": [
+      21,
+      69
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "Théodore",
+    "jalons": [
+      425,
+      433
+    ]
+  },
+  "entite_403": {
+    "label": "LOC",
+    "text": "Clara",
+    "jalons": [
+      3,
+      8
+    ]
+  },
+  "entite_404": {
+    "label": "MISC",
+    "text": "la première femme de Jean-Michel",
+    "jalons": [
+      10,
+      42
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      139,
+      147
+    ]
+  },
+  "entite_406": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      398,
+      408
+    ]
+  },
+  "entite_407": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      90,
+      100
+    ]
+  },
+  "entite_408": {
+    "label": "PER",
+    "text": "Mais Melchior",
+    "jalons": [
+      11,
+      24
+    ]
+  },
+  "entite_409": {
+    "label": "MISC",
+    "text": "tâchait de le discipliner et de faire de lui",
+    "jalons": [
+      257,
+      301
+    ]
+  },
+  "entite_410": {
+    "label": "MISC",
+    "text": "ler dans l'herbe comme un poulain, de glisser du haut en bas de la",
+    "jalons": [
+      0,
+      66
+    ]
+  },
+  "entite_411": {
+    "label": "MISC",
+    "text": "Les ténèbres du ciel et de l'eau",
+    "jalons": [
+      12,
+      44
+    ]
+  },
+  "entite_412": {
+    "label": "LOC",
+    "text": "Ernst",
+    "jalons": [
+      209,
+      214
+    ]
+  },
+  "entite_413": {
+    "label": "PER",
+    "text": "Jean-Michel était",
+    "jalons": [
+      29,
+      46
+    ]
+  },
+  "entite_414": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      109,
+      117
+    ]
+  },
+  "entite_415": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      221,
+      229
+    ]
+  },
+  "entite_416": {
+    "label": "PER",
+    "text": "Jean-Michel devai",
+    "jalons": [
+      495,
+      512
+    ]
+  },
+  "entite_417": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      178,
+      184
+    ]
+  },
+  "entite_418": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      210,
+      218
+    ]
+  },
+  "entite_419": {
+    "label": "MISC",
+    "text": "el avait de tristes",
+    "jalons": [
+      0,
+      19
+    ]
+  },
+  "entite_420": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      94,
+      100
+    ]
+  },
+  "entite_421": {
+    "label": "LOC",
+    "text": "Moselle",
+    "jalons": [
+      291,
+      298
+    ]
+  },
+  "entite_422": {
+    "label": "LOC",
+    "text": "tonnelle",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Soudain",
+    "jalons": [
+      261,
+      268
+    ]
+  },
+  "entite_424": {
+    "label": "PER",
+    "text": "Christophe le",
+    "jalons": [
+      270,
+      283
+    ]
+  },
+  "entite_425": {
+    "label": "PER",
+    "text": "Christophe était",
+    "jalons": [
+      470,
+      486
+    ]
+  },
+  "entite_426": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      304,
+      314
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      118,
+      126
+    ]
+  },
+  "entite_428": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      396,
+      406
+    ]
+  },
+  "entite_429": {
+    "label": "PER",
+    "text": "Il passa le reste",
+    "jalons": [
+      3,
+      20
+    ]
+  },
+  "entite_430": {
+    "label": "MISC",
+    "text": "de la nuit et la journée du lendemain dans la",
+    "jalons": [
+      21,
+      66
+    ]
+  },
+  "entite_431": {
+    "label": "MISC",
+    "text": "dans la maison",
+    "jalons": [
+      3,
+      17
+    ]
+  },
+  "entite_432": {
+    "label": "PER",
+    "text": "Christophe lui-même",
+    "jalons": [
+      125,
+      144
+    ]
+  },
+  "entite_433": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      228,
+      236
+    ]
+  },
+  "entite_434": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      107,
+      113
+    ]
+  },
+  "entite_435": {
+    "label": "PER",
+    "text": "Jean-Michel aimait",
+    "jalons": [
+      22,
+      40
+    ]
+  },
+  "entite_436": {
+    "label": "MISC",
+    "text": "la pensée de la mort et les convulsions de la chair et de l'âme qui se",
+    "jalons": [
+      248,
+      318
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "La ruine de la",
+    "jalons": [
+      26,
+      40
+    ]
+  },
+  "entite_438": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      216,
+      224
+    ]
+  },
+  "entite_439": {
+    "label": "PER",
+    "text": "Christophe détournait",
+    "jalons": [
+      488,
+      509
+    ]
+  },
+  "entite_440": {
+    "label": "MISC",
+    "text": "Melchior était la risée de la ville",
+    "jalons": [
+      29,
+      64
+    ]
+  },
+  "entite_441": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      262,
+      270
+    ]
+  },
+  "entite_442": {
+    "label": "PER",
+    "text": "Melchior le calotta",
+    "jalons": [
+      79,
+      98
+    ]
+  },
+  "entite_443": {
+    "label": "LOC",
+    "text": "Bientôt",
+    "jalons": [
+      36,
+      43
+    ]
+  },
+  "entite_444": {
+    "label": "MISC",
+    "text": "l'enfant le monde sans bornes de la musique",
+    "jalons": [
+      10,
+      53
+    ]
+  },
+  "entite_445": {
+    "label": "PER",
+    "text": "Melchior lui",
+    "jalons": [
+      313,
+      325
+    ]
+  },
+  "entite_446": {
+    "label": "PER",
+    "text": "Mais Melchior le rega",
+    "jalons": [
+      491,
+      512
+    ]
+  },
+  "entite_447": {
+    "label": "PER",
+    "text": "es rosser",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_448": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      398,
+      406
+    ]
+  },
+  "entite_449": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      375,
+      383
+    ]
+  },
+  "entite_450": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      502,
+      510
+    ]
+  },
+  "entite_451": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      205,
+      215
+    ]
+  },
+  "entite_452": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      9,
+      19
+    ]
+  },
+  "entite_453": {
+    "label": "PER",
+    "text": "Chez Wormser",
+    "jalons": [
+      83,
+      95
+    ]
+  },
+  "entite_454": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      101,
+      109
+    ]
+  },
+  "entite_455": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      137,
+      147
+    ]
+  },
+  "entite_456": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      183,
+      191
+    ]
+  },
+  "entite_457": {
+    "label": "PER",
+    "text": "Melchior l'appela",
+    "jalons": [
+      291,
+      308
+    ]
+  },
+  "entite_458": {
+    "label": "PER",
+    "text": "Christophe s'arrêta",
+    "jalons": [
+      329,
+      348
+    ]
+  },
+  "entite_459": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      350,
+      358
+    ]
+  },
+  "entite_460": {
+    "label": "PER",
+    "text": "Papa",
+    "jalons": [
+      485,
+      489
+    ]
+  },
+  "entite_461": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      67,
+      75
+    ]
+  },
+  "entite_462": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      466,
+      474
+    ]
+  },
+  "entite_463": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      490,
+      498
+    ]
+  },
+  "entite_464": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      125,
+      133
+    ]
+  },
+  "entite_465": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      176,
+      184
+    ]
+  },
+  "entite_466": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      251,
+      259
+    ]
+  },
+  "entite_467": {
+    "label": "PER",
+    "text": "Christophe refusait",
+    "jalons": [
+      112,
+      131
+    ]
+  },
+  "entite_468": {
+    "label": "PER",
+    "text": "Mais Melchior",
+    "jalons": [
+      174,
+      187
+    ]
+  },
+  "entite_469": {
+    "label": "LOC",
+    "text": "Christo",
+    "jalons": [
+      285,
+      292
+    ]
+  },
+  "entite_470": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      330,
+      336
+    ]
+  },
+  "entite_471": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      129,
+      137
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      352,
+      360
+    ]
+  },
+  "entite_473": {
+    "label": "MISC",
+    "text": "JEAN-CHRISTOPHE  deux ou trois fois le tour de la ville",
+    "jalons": [
+      34,
+      89
+    ]
+  },
+  "entite_474": {
+    "label": "LOC",
+    "text": "le bouton de la porte",
+    "jalons": [
+      14,
+      35
+    ]
+  },
+  "entite_475": {
+    "label": "PER",
+    "text": "Christo",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_476": {
+    "label": "PER",
+    "text": "Christophe lui",
+    "jalons": [
+      451,
+      465
+    ]
+  },
+  "entite_477": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      270,
+      280
+    ]
+  },
+  "entite_478": {
+    "label": "PER",
+    "text": "Parce",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_479": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      356,
+      366
+    ]
+  },
+  "entite_480": {
+    "label": "PER",
+    "text": "Son Excellence le baron de Hammer Langbach",
+    "jalons": [
+      417,
+      459
+    ]
+  },
+  "entite_481": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      461,
+      471
+    ]
+  },
+  "entite_482": {
+    "label": "PER",
+    "text": "monsieur Krafft",
+    "jalons": [
+      8,
+      23
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "Donnez",
+    "jalons": [
+      414,
+      420
+    ]
+  },
+  "entite_484": {
+    "label": "PER",
+    "text": "Christo",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_485": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      119,
+      127
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      202,
+      208
+    ]
+  },
+  "entite_487": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      251,
+      259
+    ]
+  },
+  "entite_488": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      270,
+      278
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      464,
+      474
+    ]
+  },
+  "entite_490": {
+    "label": "PER",
+    "text": "Tobias Pfeiffer",
+    "jalons": [
+      359,
+      374
+    ]
+  },
+  "entite_491": {
+    "label": "PER",
+    "text": "Il lui",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_492": {
+    "label": "MISC",
+    "text": "D'autres leçons de",
+    "jalons": [
+      54,
+      72
+    ]
+  },
+  "entite_493": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      506,
+      510
+    ]
+  },
+  "entite_494": {
+    "label": "LOC",
+    "text": "lus de la moitié de la",
+    "jalons": [
+      308,
+      330
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "Ainsi",
+    "jalons": [
+      490,
+      495
+    ]
+  },
+  "entite_496": {
+    "label": "MISC",
+    "text": "cience de la valeur de la liberté",
+    "jalons": [
+      151,
+      184
+    ]
+  },
+  "entite_497": {
+    "label": "PER",
+    "text": "l'Hymen de Pallas",
+    "jalons": [
+      77,
+      94
+    ]
+  },
+  "entite_498": {
+    "label": "MISC",
+    "text": "Point de jeux",
+    "jalons": [
+      2,
+      15
+    ]
+  },
+  "entite_499": {
+    "label": "LOC",
+    "text": "Ernst",
+    "jalons": [
+      417,
+      422
+    ]
+  },
+  "entite_500": {
+    "label": "MISC",
+    "text": "rancunes de Théodore et de Melchior contre lui",
+    "jalons": [
+      17,
+      63
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      278,
+      288
+    ]
+  },
+  "entite_502": {
+    "label": "LOC",
+    "text": "JEA",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "Louisa",
+    "jalons": [
+      13,
+      19
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "La santé de Christo",
+    "jalons": [
+      379,
+      398
+    ]
+  },
+  "entite_505": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      504,
+      508
+    ]
+  },
+  "entite_506": {
+    "label": "LOC",
+    "text": "Etre",
+    "jalons": [
+      231,
+      235
+    ]
+  },
+  "entite_507": {
+    "label": "MISC",
+    "text": "Musik  que Tobias Pfeiffer possédait à une heure de la ville",
+    "jalons": [
+      5,
+      65
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "Rhin",
+    "jalons": [
+      88,
+      92
+    ]
+  },
+  "entite_509": {
+    "label": "PER",
+    "text": "masser le chapeau de Christophe",
+    "jalons": [
+      0,
+      31
+    ]
+  },
+  "entite_510": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      50,
+      60
+    ]
+  },
+  "entite_511": {
+    "label": "LOC",
+    "text": "Bientôt",
+    "jalons": [
+      482,
+      489
+    ]
+  },
+  "entite_512": {
+    "label": "PER",
+    "text": "de Christophe",
+    "jalons": [
+      2,
+      15
+    ]
+  },
+  "entite_513": {
+    "label": "MISC",
+    "text": "Le jeune garçon voyait Christophe",
+    "jalons": [
+      33,
+      66
+    ]
+  },
+  "entite_514": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_515": {
+    "label": "PER",
+    "text": "Otto Diener",
+    "jalons": [
+      367,
+      378
+    ]
+  },
+  "entite_516": {
+    "label": "LOC",
+    "text": "Diener",
+    "jalons": [
+      225,
+      231
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "Diener",
+    "jalons": [
+      164,
+      170
+    ]
+  },
+  "entite_518": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      276,
+      286
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "malheur",
+    "jalons": [
+      135,
+      142
+    ]
+  },
+  "entite_520": {
+    "label": "MISC",
+    "text": "J'ai un ami",
+    "jalons": [
+      24,
+      35
+    ]
+  },
+  "entite_521": {
+    "label": "PER",
+    "text": "Le matin venu",
+    "jalons": [
+      170,
+      183
+    ]
+  },
+  "entite_522": {
+    "label": "MISC",
+    "text": "le Hof Musik Direktor",
+    "jalons": [
+      11,
+      32
+    ]
+  },
+  "entite_523": {
+    "label": "PER",
+    "text": "Otto Diener",
+    "jalons": [
+      197,
+      208
+    ]
+  },
+  "entite_524": {
+    "label": "PER",
+    "text": "Christophe se",
+    "jalons": [
+      56,
+      69
+    ]
+  },
+  "entite_525": {
+    "label": "MISC",
+    "text": "rce que l'horloge du château était",
+    "jalons": [
+      0,
+      34
+    ]
+  },
+  "entite_526": {
+    "label": "PER",
+    "text": "Christophe et Otto",
+    "jalons": [
+      391,
+      409
+    ]
+  },
+  "entite_527": {
+    "label": "MISC",
+    "text": "Les abo",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_528": {
+    "label": "PER",
+    "text": "ché du lièvre",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_529": {
+    "label": "LOC",
+    "text": "Toutefois",
+    "jalons": [
+      414,
+      423
+    ]
+  },
+  "entite_530": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      494,
+      504
+    ]
+  },
+  "entite_531": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      359,
+      369
+    ]
+  },
+  "entite_532": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      505,
+      509
+    ]
+  },
+  "entite_533": {
+    "label": "PER",
+    "text": "M. le Commerzien",
+    "jalons": [
+      122,
+      138
+    ]
+  },
+  "entite_534": {
+    "label": "PER",
+    "text": "Oscar Diener",
+    "jalons": [
+      145,
+      157
+    ]
+  },
+  "entite_535": {
+    "label": "LOC",
+    "text": "Christo",
+    "jalons": [
+      452,
+      459
+    ]
+  },
+  "entite_536": {
+    "label": "PER",
+    "text": "Christophe continua",
+    "jalons": [
+      130,
+      149
+    ]
+  },
+  "entite_537": {
+    "label": "LOC",
+    "text": "Rheinbach",
+    "jalons": [
+      430,
+      439
+    ]
+  },
+  "entite_538": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      66,
+      76
+    ]
+  },
+  "entite_539": {
+    "label": "PER",
+    "text": "Otto",
+    "jalons": [
+      81,
+      85
+    ]
+  },
+  "entite_540": {
+    "label": "PER",
+    "text": "Otto n'aimait",
+    "jalons": [
+      14,
+      27
+    ]
+  },
+  "entite_541": {
+    "label": "PER",
+    "text": "Otto",
+    "jalons": [
+      505,
+      509
+    ]
+  },
+  "entite_542": {
+    "label": "PER",
+    "text": "Otto",
+    "jalons": [
+      93,
+      97
+    ]
+  },
+  "entite_543": {
+    "label": "LOC",
+    "text": "Main",
+    "jalons": [
+      382,
+      386
+    ]
+  },
+  "entite_544": {
+    "label": "PER",
+    "text": "Christophe lui",
+    "jalons": [
+      399,
+      413
+    ]
+  },
+  "entite_545": {
+    "label": "MISC",
+    "text": "Elle est là",
+    "jalons": [
+      16,
+      27
+    ]
+  },
+  "entite_546": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      243,
+      253
+    ]
+  },
+  "entite_547": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      492,
+      502
+    ]
+  },
+  "entite_548": {
+    "label": "PER",
+    "text": "Christophe était",
+    "jalons": [
+      471,
+      487
+    ]
+  },
+  "entite_549": {
+    "label": "PER",
+    "text": "Christophe sans",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_550": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      505,
+      507
+    ]
+  },
+  "entite_551": {
+    "label": "LOC",
+    "text": "Soudain",
+    "jalons": [
+      200,
+      207
+    ]
+  },
+  "entite_552": {
+    "label": "PER",
+    "text": "Mais Otto",
+    "jalons": [
+      245,
+      254
+    ]
+  },
+  "entite_553": {
+    "label": "PER",
+    "text": "Christophe en",
+    "jalons": [
+      19,
+      32
+    ]
+  },
+  "entite_554": {
+    "label": "PER",
+    "text": "Otto lui",
+    "jalons": [
+      69,
+      77
+    ]
+  },
+  "entite_555": {
+    "label": "LOC",
+    "text": "Christo",
+    "jalons": [
+      112,
+      119
+    ]
+  },
+  "entite_556": {
+    "label": "LOC",
+    "text": "Christo",
+    "jalons": [
+      29,
+      36
+    ]
+  },
+  "entite_557": {
+    "label": "PER",
+    "text": "de Christophe",
+    "jalons": [
+      6,
+      19
+    ]
+  },
+  "entite_558": {
+    "label": "PER",
+    "text": "JEAN-CHRISTOPHE  Christophe",
+    "jalons": [
+      163,
+      190
+    ]
+  },
+  "entite_559": {
+    "label": "LOC",
+    "text": "Rodolphe",
+    "jalons": [
+      121,
+      129
+    ]
+  },
+  "entite_560": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      27,
+      33
+    ]
+  },
+  "entite_561": {
+    "label": "PER",
+    "text": "Christophe le",
+    "jalons": [
+      57,
+      70
+    ]
+  },
+  "entite_562": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      338,
+      344
+    ]
+  },
+  "entite_563": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      346,
+      354
+    ]
+  },
+  "entite_564": {
+    "label": "PER",
+    "text": "Chris",
+    "jalons": [
+      503,
+      508
+    ]
+  },
+  "entite_565": {
+    "label": "PER",
+    "text": "Melchior",
+    "jalons": [
+      395,
+      403
+    ]
+  },
+  "entite_566": {
+    "label": "MISC",
+    "text": "Sans se donner le mot",
+    "jalons": [
+      206,
+      227
+    ]
+  },
+  "entite_567": {
+    "label": "PER",
+    "text": "Otto",
+    "jalons": [
+      506,
+      510
+    ]
+  },
+  "entite_568": {
+    "label": "PER",
+    "text": "Josepha von Kerich",
+    "jalons": [
+      392,
+      410
+    ]
+  },
+  "entite_569": {
+    "label": "PER",
+    "text": "Stephan von Kerich",
+    "jalons": [
+      451,
+      469
+    ]
+  },
+  "entite_570": {
+    "label": "LOC",
+    "text": "Berlin",
+    "jalons": [
+      484,
+      490
+    ]
+  },
+  "entite_571": {
+    "label": "LOC",
+    "text": "Kerich",
+    "jalons": [
+      89,
+      95
+    ]
+  },
+  "entite_572": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      464,
+      474
+    ]
+  },
+  "entite_573": {
+    "label": "MISC",
+    "text": "lant dans la pose de la tête",
+    "jalons": [
+      0,
+      28
+    ]
+  },
+  "entite_574": {
+    "label": "LOC",
+    "text": "Cranach",
+    "jalons": [
+      368,
+      375
+    ]
+  },
+  "entite_575": {
+    "label": "PER",
+    "text": "du parc des Kerich",
+    "jalons": [
+      1,
+      19
+    ]
+  },
+  "entite_576": {
+    "label": "MISC",
+    "text": "Hof Musik Verein un concerto de",
+    "jalons": [
+      211,
+      242
+    ]
+  },
+  "entite_577": {
+    "label": "PER",
+    "text": "Louisa",
+    "jalons": [
+      202,
+      208
+    ]
+  },
+  "entite_578": {
+    "label": "LOC",
+    "text": "Kerich",
+    "jalons": [
+      404,
+      410
+    ]
+  },
+  "entite_579": {
+    "label": "PER",
+    "text": "Christophe l'ouvrit",
+    "jalons": [
+      412,
+      431
+    ]
+  },
+  "entite_580": {
+    "label": "PER",
+    "text": "Madame Josepha von Kerich",
+    "jalons": [
+      485,
+      510
+    ]
+  },
+  "entite_581": {
+    "label": "MISC",
+    "text": "nvitait monsieur le Hoÿ Musicus Christophe Krafft à venir prendre le thé chez elle",
+    "jalons": [
+      0,
+      82
+    ]
+  },
+  "entite_582": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      150,
+      160
+    ]
+  },
+  "entite_583": {
+    "label": "PER",
+    "text": "s'exclama Louisa",
+    "jalons": [
+      174,
+      190
+    ]
+  },
+  "entite_584": {
+    "label": "PER",
+    "text": "J'ai dit que tu irais",
+    "jalons": [
+      192,
+      213
+    ]
+  },
+  "entite_585": {
+    "label": "PER",
+    "text": "Quand vint l'heure de l'invitation",
+    "jalons": [
+      7,
+      41
+    ]
+  },
+  "entite_586": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      27,
+      37
+    ]
+  },
+  "entite_587": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      429,
+      439
+    ]
+  },
+  "entite_588": {
+    "label": "PER",
+    "text": "Madame de K",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_589": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      50,
+      57
+    ]
+  },
+  "entite_590": {
+    "label": "PER",
+    "text": "Madame de Kerich",
+    "jalons": [
+      20,
+      36
+    ]
+  },
+  "entite_591": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      107,
+      117
+    ]
+  },
+  "entite_592": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      131,
+      136
+    ]
+  },
+  "entite_593": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      315,
+      325
+    ]
+  },
+  "entite_594": {
+    "label": "PER",
+    "text": "Madame de Kerich",
+    "jalons": [
+      114,
+      130
+    ]
+  },
+  "entite_595": {
+    "label": "PER",
+    "text": "Madame de Kerich",
+    "jalons": [
+      31,
+      47
+    ]
+  },
+  "entite_596": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      406,
+      411
+    ]
+  },
+  "entite_597": {
+    "label": "MISC",
+    "text": "Madame de Kerich en",
+    "jalons": [
+      50,
+      69
+    ]
+  },
+  "entite_598": {
+    "label": "MISC",
+    "text": "Minna et madame de Kerich",
+    "jalons": [
+      439,
+      464
+    ]
+  },
+  "entite_599": {
+    "label": "PER",
+    "text": "Christophe de",
+    "jalons": [
+      181,
+      194
+    ]
+  },
+  "entite_600": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      471,
+      476
+    ]
+  },
+  "entite_601": {
+    "label": "LOC",
+    "text": "Seulement",
+    "jalons": [
+      478,
+      487
+    ]
+  },
+  "entite_602": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      458,
+      463
+    ]
+  },
+  "entite_603": {
+    "label": "MISC",
+    "text": "Elle était attachée à la mémoire de monsieur de Kerich",
+    "jalons": [
+      26,
+      80
+    ]
+  },
+  "entite_604": {
+    "label": "PER",
+    "text": "Elle chérissait Minna",
+    "jalons": [
+      63,
+      84
+    ]
+  },
+  "entite_605": {
+    "label": "MISC",
+    "text": "Durant les premiers temps de son séjour dans la ville",
+    "jalons": [
+      61,
+      114
+    ]
+  },
+  "entite_606": {
+    "label": "PER",
+    "text": "Christophe lui",
+    "jalons": [
+      170,
+      184
+    ]
+  },
+  "entite_607": {
+    "label": "MISC",
+    "text": "Elle s'amusait de sa",
+    "jalons": [
+      333,
+      353
+    ]
+  },
+  "entite_608": {
+    "label": "MISC",
+    "text": "lui un de ces Krafft",
+    "jalons": [
+      148,
+      168
+    ]
+  },
+  "entite_609": {
+    "label": "MISC",
+    "text": "avait eu la pensée de l'aider",
+    "jalons": [
+      0,
+      29
+    ]
+  },
+  "entite_610": {
+    "label": "MISC",
+    "text": "Minna ou à lui de belles",
+    "jalons": [
+      483,
+      507
+    ]
+  },
+  "entite_611": {
+    "label": "MISC",
+    "text": "Elle le traitait en enfant de la",
+    "jalons": [
+      52,
+      84
+    ]
+  },
+  "entite_612": {
+    "label": "PER",
+    "text": "Avec Minna",
+    "jalons": [
+      25,
+      35
+    ]
+  },
+  "entite_613": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      501,
+      511
+    ]
+  },
+  "entite_614": {
+    "label": "LOC",
+    "text": "Minna lisait de l'autre côté de la",
+    "jalons": [
+      130,
+      164
+    ]
+  },
+  "entite_615": {
+    "label": "LOC",
+    "text": "Brusquement",
+    "jalons": [
+      385,
+      396
+    ]
+  },
+  "entite_616": {
+    "label": "MISC",
+    "text": "Gœthe",
+    "jalons": [
+      456,
+      461
+    ]
+  },
+  "entite_617": {
+    "label": "PER",
+    "text": "Schiller",
+    "jalons": [
+      463,
+      471
+    ]
+  },
+  "entite_618": {
+    "label": "MISC",
+    "text": "Shakespeare",
+    "jalons": [
+      473,
+      484
+    ]
+  },
+  "entite_619": {
+    "label": "LOC",
+    "text": "Parfois",
+    "jalons": [
+      260,
+      267
+    ]
+  },
+  "entite_620": {
+    "label": "MISC",
+    "text": "Shakespeare et de Gœthe",
+    "jalons": [
+      52,
+      75
+    ]
+  },
+  "entite_621": {
+    "label": "MISC",
+    "text": "aimés de madame de Kerich et de Minna",
+    "jalons": [
+      5,
+      42
+    ]
+  },
+  "entite_622": {
+    "label": "PER",
+    "text": "de Kerich",
+    "jalons": [
+      231,
+      240
+    ]
+  },
+  "entite_623": {
+    "label": "PER",
+    "text": "Christophe se détachait de Minna",
+    "jalons": [
+      242,
+      274
+    ]
+  },
+  "entite_624": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      222,
+      227
+    ]
+  },
+  "entite_625": {
+    "label": "PER",
+    "text": "udio de Minna",
+    "jalons": [
+      1,
+      14
+    ]
+  },
+  "entite_626": {
+    "label": "MISC",
+    "text": "Curieuse salle de",
+    "jalons": [
+      16,
+      33
+    ]
+  },
+  "entite_627": {
+    "label": "LOC",
+    "text": "Belvédère",
+    "jalons": [
+      480,
+      489
+    ]
+  },
+  "entite_628": {
+    "label": "LOC",
+    "text": "Bayreuth",
+    "jalons": [
+      107,
+      115
+    ]
+  },
+  "entite_629": {
+    "label": "LOC",
+    "text": "Dans la",
+    "jalons": [
+      117,
+      124
+    ]
+  },
+  "entite_630": {
+    "label": "MISC",
+    "text": "Mommsen",
+    "jalons": [
+      178,
+      185
+    ]
+  },
+  "entite_631": {
+    "label": "MISC",
+    "text": "Schiller",
+    "jalons": [
+      187,
+      195
+    ]
+  },
+  "entite_632": {
+    "label": "ORG",
+    "text": "Sans famille",
+    "jalons": [
+      197,
+      209
+    ]
+  },
+  "entite_633": {
+    "label": "PER",
+    "text": "Jules Verne",
+    "jalons": [
+      211,
+      222
+    ]
+  },
+  "entite_634": {
+    "label": "LOC",
+    "text": "Montaigne",
+    "jalons": [
+      224,
+      233
+    ]
+  },
+  "entite_635": {
+    "label": "MISC",
+    "text": "de la Vierge Sixtine et de tableaux de Herkomer",
+    "jalons": [
+      272,
+      319
+    ]
+  },
+  "entite_636": {
+    "label": "LOC",
+    "text": "Allemagne",
+    "jalons": [
+      209,
+      218
+    ]
+  },
+  "entite_637": {
+    "label": "LOC",
+    "text": "l'air",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_638": {
+    "label": "LOC",
+    "text": "Merci!",
+    "jalons": [
+      475,
+      481
+    ]
+  },
+  "entite_639": {
+    "label": "PER",
+    "text": "Christophe l'attendit",
+    "jalons": [
+      36,
+      57
+    ]
+  },
+  "entite_640": {
+    "label": "PER",
+    "text": "Mais Minna",
+    "jalons": [
+      43,
+      53
+    ]
+  },
+  "entite_641": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      189,
+      194
+    ]
+  },
+  "entite_642": {
+    "label": "LOC",
+    "text": "Brusquement",
+    "jalons": [
+      12,
+      23
+    ]
+  },
+  "entite_643": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      252,
+      257
+    ]
+  },
+  "entite_644": {
+    "label": "PER",
+    "text": "Madame de Kerich tressautait",
+    "jalons": [
+      423,
+      451
+    ]
+  },
+  "entite_645": {
+    "label": "PER",
+    "text": "Christophe de",
+    "jalons": [
+      406,
+      419
+    ]
+  },
+  "entite_646": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      420,
+      425
+    ]
+  },
+  "entite_647": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      500,
+      504
+    ]
+  },
+  "entite_648": {
+    "label": "PER",
+    "text": "de Minna",
+    "jalons": [
+      288,
+      296
+    ]
+  },
+  "entite_649": {
+    "label": "PER",
+    "text": "Elle lui dit bonjour",
+    "jalons": [
+      299,
+      319
+    ]
+  },
+  "entite_650": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      500,
+      505
+    ]
+  },
+  "entite_651": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      236,
+      241
+    ]
+  },
+  "entite_652": {
+    "label": "MISC",
+    "text": "Dans les deux",
+    "jalons": [
+      488,
+      501
+    ]
+  },
+  "entite_653": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      172,
+      182
+    ]
+  },
+  "entite_654": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      86,
+      91
+    ]
+  },
+  "entite_655": {
+    "label": "PER",
+    "text": "Christophe se",
+    "jalons": [
+      306,
+      319
+    ]
+  },
+  "entite_656": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      368,
+      373
+    ]
+  },
+  "entite_657": {
+    "label": "PER",
+    "text": "Mais Christoph",
+    "jalons": [
+      498,
+      512
+    ]
+  },
+  "entite_658": {
+    "label": "PER",
+    "text": "chez lui",
+    "jalons": [
+      1,
+      9
+    ]
+  },
+  "entite_659": {
+    "label": "MISC",
+    "text": "Il sortit de la ville et marcha",
+    "jalons": [
+      35,
+      66
+    ]
+  },
+  "entite_660": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_661": {
+    "label": "ORG",
+    "text": "Elle",
+    "jalons": [
+      505,
+      509
+    ]
+  },
+  "entite_662": {
+    "label": "PER",
+    "text": "Madame de Kerich",
+    "jalons": [
+      15,
+      31
+    ]
+  },
+  "entite_663": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      201,
+      211
+    ]
+  },
+  "entite_664": {
+    "label": "LOC",
+    "text": "de la musique de Schumann",
+    "jalons": [
+      248,
+      273
+    ]
+  },
+  "entite_665": {
+    "label": "MISC",
+    "text": "Elle se sentait pleine de pitié et de bonté",
+    "jalons": [
+      275,
+      318
+    ]
+  },
+  "entite_666": {
+    "label": "LOC",
+    "text": "Frida",
+    "jalons": [
+      145,
+      150
+    ]
+  },
+  "entite_667": {
+    "label": "PER",
+    "text": "Et  Christophe",
+    "jalons": [
+      468,
+      482
+    ]
+  },
+  "entite_668": {
+    "label": "MISC",
+    "text": "dans la vie de Christophe la figure de la",
+    "jalons": [
+      170,
+      211
+    ]
+  },
+  "entite_669": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      203,
+      208
+    ]
+  },
+  "entite_670": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      405,
+      415
+    ]
+  },
+  "entite_671": {
+    "label": "PER",
+    "text": "le de saluer",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_672": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      309,
+      314
+    ]
+  },
+  "entite_673": {
+    "label": "MISC",
+    "text": "Il essaya de se promener dans le jardin",
+    "jalons": [
+      441,
+      480
+    ]
+  },
+  "entite_674": {
+    "label": "LOC",
+    "text": "Madame de Kerich",
+    "jalons": [
+      274,
+      290
+    ]
+  },
+  "entite_675": {
+    "label": "ORG",
+    "text": "Elle donnait des ordres",
+    "jalons": [
+      488,
+      511
+    ]
+  },
+  "entite_676": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      57,
+      67
+    ]
+  },
+  "entite_677": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      113,
+      117
+    ]
+  },
+  "entite_678": {
+    "label": "PER",
+    "text": "Madame de Kerich",
+    "jalons": [
+      145,
+      161
+    ]
+  },
+  "entite_679": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      422,
+      427
+    ]
+  },
+  "entite_680": {
+    "label": "PER",
+    "text": "Christophe se",
+    "jalons": [
+      28,
+      41
+    ]
+  },
+  "entite_681": {
+    "label": "LOC",
+    "text": "Ses",
+    "jalons": [
+      497,
+      500
+    ]
+  },
+  "entite_682": {
+    "label": "PER",
+    "text": "Elle voulait",
+    "jalons": [
+      3,
+      15
+    ]
+  },
+  "entite_683": {
+    "label": "LOC",
+    "text": "Eternelle",
+    "jalons": [
+      412,
+      421
+    ]
+  },
+  "entite_684": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      112,
+      117
+    ]
+  },
+  "entite_685": {
+    "label": "LOC",
+    "text": "Christophe",
+    "jalons": [
+      479,
+      489
+    ]
+  },
+  "entite_686": {
+    "label": "PER",
+    "text": "Mais l'œuvre",
+    "jalons": [
+      491,
+      503
+    ]
+  },
+  "entite_687": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      288,
+      293
+    ]
+  },
+  "entite_688": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      155,
+      160
+    ]
+  },
+  "entite_689": {
+    "label": "MISC",
+    "text": "inna seule en avait la clef",
+    "jalons": [
+      0,
+      27
+    ]
+  },
+  "entite_690": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      489,
+      493
+    ]
+  },
+  "entite_691": {
+    "label": "LOC",
+    "text": "De la fidélité de Minna",
+    "jalons": [
+      370,
+      393
+    ]
+  },
+  "entite_692": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      472,
+      477
+    ]
+  },
+  "entite_693": {
+    "label": "LOC",
+    "text": "la lettre de Minna",
+    "jalons": [
+      115,
+      133
+    ]
+  },
+  "entite_694": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      466,
+      471
+    ]
+  },
+  "entite_695": {
+    "label": "PER",
+    "text": "Minna lui",
+    "jalons": [
+      433,
+      442
+    ]
+  },
+  "entite_696": {
+    "label": "ORG",
+    "text": "l'avertir du jour et de l'heure de l'arr",
+    "jalons": [
+      472,
+      512
+    ]
+  },
+  "entite_697": {
+    "label": "LOC",
+    "text": "Melchior",
+    "jalons": [
+      248,
+      256
+    ]
+  },
+  "entite_698": {
+    "label": "ORG",
+    "text": "les de Kerich",
+    "jalons": [
+      1,
+      14
+    ]
+  },
+  "entite_699": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      40,
+      50
+    ]
+  },
+  "entite_700": {
+    "label": "PER",
+    "text": "de Ker",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_701": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      158,
+      163
+    ]
+  },
+  "entite_702": {
+    "label": "PER",
+    "text": "Elle lui",
+    "jalons": [
+      32,
+      40
+    ]
+  },
+  "entite_703": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      283,
+      288
+    ]
+  },
+  "entite_704": {
+    "label": "MISC",
+    "text": "Dès la première",
+    "jalons": [
+      487,
+      502
+    ]
+  },
+  "entite_705": {
+    "label": "MISC",
+    "text": "tour de la maison des de Kerich",
+    "jalons": [
+      16,
+      47
+    ]
+  },
+  "entite_706": {
+    "label": "LOC",
+    "text": "Attendez",
+    "jalons": [
+      376,
+      384
+    ]
+  },
+  "entite_707": {
+    "label": "LOC",
+    "text": "Allons au jardin",
+    "jalons": [
+      74,
+      90
+    ]
+  },
+  "entite_708": {
+    "label": "PER",
+    "text": "Christophe",
+    "jalons": [
+      42,
+      52
+    ]
+  },
+  "entite_709": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      129,
+      137
+    ]
+  },
+  "entite_710": {
+    "label": "MISC",
+    "text": "Christophe",
+    "jalons": [
+      296,
+      306
+    ]
+  },
+  "entite_711": {
+    "label": "LOC",
+    "text": "Tant de",
+    "jalons": [
+      429,
+      436
+    ]
+  },
+  "entite_712": {
+    "label": "LOC",
+    "text": "Kerich",
+    "jalons": [
+      439,
+      445
+    ]
+  },
+  "entite_713": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      459,
+      464
+    ]
+  },
+  "entite_714": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      444,
+      449
+    ]
+  },
+  "entite_715": {
+    "label": "LOC",
+    "text": "Puisque",
+    "jalons": [
+      351,
+      358
+    ]
+  },
+  "entite_716": {
+    "label": "PER",
+    "text": "Josepha von Kerich",
+    "jalons": [
+      381,
+      399
+    ]
+  },
+  "entite_717": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      126,
+      131
+    ]
+  },
+  "entite_718": {
+    "label": "PER",
+    "text": "le pavé de la cour",
+    "jalons": [
+      15,
+      33
+    ]
+  },
+  "entite_719": {
+    "label": "MISC",
+    "text": "Elle tâchait de se",
+    "jalons": [
+      1,
+      19
+    ]
+  },
+  "entite_720": {
+    "label": "LOC",
+    "text": "Louisa",
+    "jalons": [
+      348,
+      354
+    ]
+  },
+  "entite_721": {
+    "label": "LOC",
+    "text": "Christo",
+    "jalons": [
+      398,
+      405
+    ]
+  },
+  "entite_722": {
+    "label": "PER",
+    "text": "de Melchior",
+    "jalons": [
+      495,
+      506
+    ]
+  },
+  "entite_723": {
+    "label": "LOC",
+    "text": "Soudain",
+    "jalons": [
+      39,
+      46
+    ]
+  },
+  "entite_724": {
+    "label": "PER",
+    "text": "Melchior noyé dans le ru du moulin",
+    "jalons": [
+      3,
+      37
+    ]
+  },
+  "entite_725": {
+    "label": "PER",
+    "text": "Christophe poussa",
+    "jalons": [
+      41,
+      58
+    ]
+  },
+  "entite_726": {
+    "label": "MISC",
+    "text": "Tout le reste du monde",
+    "jalons": [
+      67,
+      89
+    ]
+  },
+  "entite_727": {
+    "label": "LOC",
+    "text": "Minna",
+    "jalons": [
+      51,
+      56
+    ]
+  },
+  "entite_728": {
+    "label": "LOC",
+    "text": "Va",
+    "jalons": [
+      137,
+      139
+    ]
+  },
+  "entite_729": {
+    "label": "LOC",
+    "text": "Souffre",
+    "jalons": [
+      442,
+      449
+    ]
+  },
+  "entite_730": {
+    "label": "LOC",
+    "text": "Meurs",
+    "jalons": [
+      451,
+      456
+    ]
+  },
+  "entite_731": {
+    "label": "LOC",
+    "text": "PARIS",
+    "jalons": [
+      427,
+      432
+    ]
+  }
+}

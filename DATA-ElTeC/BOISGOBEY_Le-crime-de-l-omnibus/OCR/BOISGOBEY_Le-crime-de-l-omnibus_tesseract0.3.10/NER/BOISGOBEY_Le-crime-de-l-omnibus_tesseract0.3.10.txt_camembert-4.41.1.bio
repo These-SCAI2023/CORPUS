@@ -3033,7 +3033,7 @@ CRIME I-MISC
 DE I-MISC
 L'OMNIBUS I-MISC
 aujourd’hui B-DATE
-lundi  I-DATE
+lundi; I-DATE
 cinq I-DATE
 jours I-DATE
 Paris B-LOC
@@ -4096,7 +4096,7 @@ France B-LOC
 France B-LOC
 M. B-PER
 Paulet I-PER
-M  B-PER
+M; B-PER
 Blan- I-PER
 æhelaine I-PER
 une B-DATE

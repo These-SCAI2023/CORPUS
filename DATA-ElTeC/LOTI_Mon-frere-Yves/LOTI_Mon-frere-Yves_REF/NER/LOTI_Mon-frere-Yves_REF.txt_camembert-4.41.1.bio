@@ -28,7 +28,7 @@ Yves B-PER
 Premières B-DATE
 années I-DATE
 années B-DATE
-  B-DATE
+; B-DATE
 années I-DATE
 Le B-DATE
 28 I-DATE
@@ -1459,7 +1459,7 @@ d'Egyptiens B-LOC
 Bretagne B-LOC
 Yves B-PER
 Pierre B-PER
-  B-DATE
+; B-DATE
 deux I-DATE
 jours I-DATE
 après I-DATE
@@ -2503,7 +2503,7 @@ heures I-DATE
 Tribord B-LOC
 Bâbord B-LOC
 lune B-LOC
-  B-DATE
+; B-DATE
 maintenant I-DATE
 lune B-LOC
 maintenant B-DATE

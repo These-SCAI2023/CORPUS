@@ -81,7 +81,7 @@ Q» I-LOC
 GALERIE B-LOC
 Di} I-LOC
 THÉATRE-FRANÇAIS I-LOC
-  I-LOC
+; I-LOC
 PALAIS-ROYAL I-LOC
 3 B-DATE
 1898 I-DATE
@@ -6354,13 +6354,13 @@ la B-LOC
 France I-LOC
 trois B-DATE
 mois I-DATE
-  I-DATE
+; I-DATE
 trois I-DATE
 mois I-DATE
 sé B-DATE
 trois I-DATE
 mois I-DATE
-  I-DATE
+; I-DATE
 trois I-DATE
 mois I-DATE
 Un B-DATE
@@ -6557,7 +6557,7 @@ hier B-DATE
 soir I-DATE
 un B-DATE
 mois I-DATE
-février  B-DATE
+février; B-DATE
 cinq I-DATE
 mois I-DATE
 Suisse B-LOC
@@ -7440,10 +7440,10 @@ Maintenant B-DATE
 et B-DATE
 dix I-DATE
 minutes I-DATE
-Ro  B-LOC
+Ro; B-LOC
 Salomon I-LOC
 l B-LOC
-Ro  B-LOC
+Ro; B-LOC
 Salomon I-LOC
 Ca B-LOC
 Ca B-LOC
