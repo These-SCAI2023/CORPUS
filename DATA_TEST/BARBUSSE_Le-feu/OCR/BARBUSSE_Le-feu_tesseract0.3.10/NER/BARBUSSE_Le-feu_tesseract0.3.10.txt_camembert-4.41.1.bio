@@ -8046,7 +8046,7 @@ AR I-LOC
 CEE I-LOC
 E I-LOC
 RTE I-LOC
-RTE  I-LOC
+RTE; I-LOC
 MEN I-LOC
 ONE I-LOC
 3 I-LOC
@@ -8673,7 +8673,7 @@ Argoval B-LOC
 ES B-LOC
 PS I-LOC
 Ée-Chieèen I-LOC
-5  I-LOC
+5; I-LOC
 Le I-LOC
 Portique I-LOC
 Les B-MISC
@@ -8681,13 +8681,13 @@ Gros I-MISC
 Mots I-MISC
 Le I-MISC
 Barda I-MISC
-ÉŒuf.:  I-MISC
+ÉŒuf.:; I-MISC
 Idylie I-MISC
 La B-LOC
 Sape I-LOC
 Les B-MISC
 Allumettes I-MISC
-  I-MISC
+; I-MISC
 Bombardement, I-MISC
 Le I-MISC
 PBDI I-MISC

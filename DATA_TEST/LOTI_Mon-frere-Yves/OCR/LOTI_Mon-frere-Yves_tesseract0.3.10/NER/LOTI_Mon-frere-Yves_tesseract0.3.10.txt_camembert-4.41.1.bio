@@ -152,7 +152,7 @@ Yves B-PER
 Premières B-DATE
 années I-DATE
 années B-DATE
-  B-DATE
+; B-DATE
 années I-DATE
 Le B-DATE
 28 I-DATE
@@ -391,7 +391,7 @@ YVES I-PER
 #'yrie B-MISC
 Christie, I-MISC
 Dominum I-MISC
-nostrum  I-MISC
+nostrum; I-MISC
 Kyrie I-MISC
 eleison I-MISC
 Kyrie B-PER

@@ -1447,7 +1447,7 @@ OMEGA B-PER
 Q B-MISC
 Cosmos B-LOC
 D B-PER
-  I-PER
+; I-PER
 EL I-PER
 Fred I-PER
 Dieul B-PER
@@ -1608,7 +1608,7 @@ Dieul B-PER
 Fred B-PER
 Fred B-PER
 Fred B-PER
-On  B-PER
+On; B-PER
 Je B-PER
 terre B-LOC
 RTE B-LOC
@@ -3155,7 +3155,7 @@ OMÉGA I-PER
 Borel B-PER
 Jours B-DATE
 huit B-DATE
-  B-MISC
+; B-MISC
 Jours I-MISC
 docteur B-PER
 Oméga I-PER
@@ -3360,7 +3360,7 @@ JR B-MISC
 PTE I-MISC
 Ça I-MISC
 Te I-MISC
-  I-MISC
+; I-MISC
 Rata I-MISC
 te I-MISC
 À I-MISC

@@ -1,0 +1,3210 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "Saint Louis",
+    "jalons": [
+      128,
+      139
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Marais",
+    "jalons": [
+      144,
+      150
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "M. Derville",
+    "jalons": [
+      329,
+      340
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Mme Derville",
+    "jalons": [
+      496,
+      508
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "L'excès",
+    "jalons": [
+      503,
+      510
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      49,
+      54
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Moi",
+    "jalons": [
+      12,
+      15
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Peu d'i",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      116,
+      121
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "LA FAMILLE DERVILLE",
+    "jalons": [
+      21,
+      40
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "M. Derville",
+    "jalons": [
+      43,
+      54
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Elle avait appris la musique",
+    "jalons": [
+      406,
+      434
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Derville",
+    "jalons": [
+      72,
+      80
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Derville",
+    "jalons": [
+      466,
+      474
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Mlle Auberton",
+    "jalons": [
+      476,
+      489
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "M. Auberton",
+    "jalons": [
+      81,
+      92
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Derville",
+    "jalons": [
+      114,
+      122
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "M. Derville",
+    "jalons": [
+      443,
+      454
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Mme Derville",
+    "jalons": [
+      427,
+      439
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "ssaya de sourire et dit qu'elle",
+    "jalons": [
+      0,
+      31
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "M. Derville",
+    "jalons": [
+      22,
+      33
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Saint-Louis",
+    "jalons": [
+      388,
+      399
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "M. Latour",
+    "jalons": [
+      105,
+      114
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Derville",
+    "jalons": [
+      130,
+      138
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "M. Latour",
+    "jalons": [
+      343,
+      352
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "M. Latour",
+    "jalons": [
+      261,
+      270
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "M. Latour",
+    "jalons": [
+      479,
+      488
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "M. La-tour",
+    "jalons": [
+      488,
+      498
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Mme Auberton",
+    "jalons": [
+      231,
+      243
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "LA BONNE MAMAN",
+    "jalons": [
+      261,
+      275
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Mme Auberton",
+    "jalons": [
+      278,
+      290
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "mère de Mme Derville",
+    "jalons": [
+      292,
+      312
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Havre",
+    "jalons": [
+      368,
+      373
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Mme Auberton",
+    "jalons": [
+      491,
+      503
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Latour",
+    "jalons": [
+      190,
+      196
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Mme Derville",
+    "jalons": [
+      291,
+      303
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Mme Derville",
+    "jalons": [
+      83,
+      95
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "Jamais elle n'abusa de",
+    "jalons": [
+      53,
+      75
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Mme Derville",
+    "jalons": [
+      299,
+      311
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Elise",
+    "jalons": [
+      472,
+      477
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "Le jour que la jeune Elise quitta",
+    "jalons": [
+      346,
+      379
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "M. Derville",
+    "jalons": [
+      337,
+      348
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Tu fais très-bien",
+    "jalons": [
+      3,
+      20
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Augustine",
+    "jalons": [
+      22,
+      31
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Derville",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "Elise la surveillerait",
+    "jalons": [
+      2,
+      24
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Mme Derville",
+    "jalons": [
+      473,
+      485
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      491,
+      496
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "l'occasion de donner des leçons en ville",
+    "jalons": [
+      44,
+      84
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "le don bien rare d'un son de voix plein de douceur et d'harmonie",
+    "jalons": [
+      253,
+      317
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "Telle était Mlle Derville",
+    "jalons": [
+      352,
+      377
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Providence",
+    "jalons": [
+      115,
+      125
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      434,
+      439
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "ter de l'ouvrage dans la rue de Richelieu",
+    "jalons": [
+      0,
+      41
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "Elise",
+    "jalons": [
+      462,
+      467
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Voici",
+    "jalons": [
+      488,
+      493
+    ]
+  },
+  "entite_56": {
+    "label": "MISC",
+    "text": "Il s'agit de mademoiselle votre",
+    "jalons": [
+      28,
+      59
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "J'ai eu l'avantage de la voir",
+    "jalons": [
+      67,
+      96
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Mme de Séligny",
+    "jalons": [
+      373,
+      387
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      45,
+      50
+    ]
+  },
+  "entite_60": {
+    "label": "MISC",
+    "text": "Mlle Elise",
+    "jalons": [
+      471,
+      481
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      98,
+      103
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      423,
+      430
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "Mme Derville",
+    "jalons": [
+      275,
+      287
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "M. Derville",
+    "jalons": [
+      448,
+      459
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Mme de Gercourt",
+    "jalons": [
+      488,
+      503
+    ]
+  },
+  "entite_66": {
+    "label": "ORG",
+    "text": "Cette",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_67": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      203,
+      208
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "M. Derville",
+    "jalons": [
+      462,
+      473
+    ]
+  },
+  "entite_69": {
+    "label": "MISC",
+    "text": "res de l'après midi elle prit le parti d'aller au-devant de sa mère sur la",
+    "jalons": [
+      0,
+      74
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "dans les bras de Mme de Gercourt",
+    "jalons": [
+      0,
+      32
+    ]
+  },
+  "entite_71": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      234,
+      239
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Mme de Séligny",
+    "jalons": [
+      481,
+      495
+    ]
+  },
+  "entite_73": {
+    "label": "MISC",
+    "text": "Mme de Séligny et de sa fille",
+    "jalons": [
+      174,
+      203
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "la pria de faire de la musique",
+    "jalons": [
+      58,
+      88
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Elise",
+    "jalons": [
+      90,
+      95
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "Mme de Séligny",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "M. de Sélig",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "M. de Séligny",
+    "jalons": [
+      191,
+      204
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      153,
+      166
+    ]
+  },
+  "entite_80": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      395,
+      408
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "La maison de M. de Séligny était à l'entrée de la ville",
+    "jalons": [
+      411,
+      466
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "Du côté de la cour",
+    "jalons": [
+      42,
+      60
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "la campagne au delà des bords de la Loire",
+    "jalons": [
+      357,
+      398
+    ]
+  },
+  "entite_84": {
+    "label": "ORG",
+    "text": "L'autre côté de la maison donna",
+    "jalons": [
+      481,
+      512
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "Mme de Séligny",
+    "jalons": [
+      383,
+      397
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "Mme de Séligny",
+    "jalons": [
+      237,
+      251
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      253,
+      258
+    ]
+  },
+  "entite_88": {
+    "label": "PER",
+    "text": "l'aîné de Laure",
+    "jalons": [
+      11,
+      26
+    ]
+  },
+  "entite_89": {
+    "label": "PER",
+    "text": "Elle avait",
+    "jalons": [
+      30,
+      40
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "Mme de Séligny",
+    "jalons": [
+      163,
+      177
+    ]
+  },
+  "entite_91": {
+    "label": "MISC",
+    "text": "Cette pauvre Mme de Séligny est un",
+    "jalons": [
+      65,
+      99
+    ]
+  },
+  "entite_92": {
+    "label": "MISC",
+    "text": "Elle avait de la",
+    "jalons": [
+      187,
+      203
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      20,
+      25
+    ]
+  },
+  "entite_94": {
+    "label": "PER",
+    "text": "Mlle Derville se leva",
+    "jalons": [
+      471,
+      492
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      144,
+      149
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Déjà",
+    "jalons": [
+      376,
+      380
+    ]
+  },
+  "entite_97": {
+    "label": "ORG",
+    "text": "Charmée de se",
+    "jalons": [
+      496,
+      509
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "M. de Séligny",
+    "jalons": [
+      358,
+      371
+    ]
+  },
+  "entite_99": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      468,
+      473
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "Eh bien",
+    "jalons": [
+      504,
+      511
+    ]
+  },
+  "entite_101": {
+    "label": "PER",
+    "text": "M. de Séligny",
+    "jalons": [
+      368,
+      381
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      147,
+      152
+    ]
+  },
+  "entite_103": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      472,
+      485
+    ]
+  },
+  "entite_104": {
+    "label": "PER",
+    "text": "Mme de Séligny lui parla",
+    "jalons": [
+      487,
+      511
+    ]
+  },
+  "entite_105": {
+    "label": "PER",
+    "text": "Mlle Rosalie",
+    "jalons": [
+      479,
+      491
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      413,
+      418
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Elle me",
+    "jalons": [
+      496,
+      503
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      414,
+      419
+    ]
+  },
+  "entite_109": {
+    "label": "PER",
+    "text": "Mlle Joséphine",
+    "jalons": [
+      431,
+      445
+    ]
+  },
+  "entite_110": {
+    "label": "PER",
+    "text": "Elle me la vanta",
+    "jalons": [
+      472,
+      488
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "Malgré",
+    "jalons": [
+      503,
+      509
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      416,
+      421
+    ]
+  },
+  "entite_113": {
+    "label": "LOC",
+    "text": "Mme Albertine",
+    "jalons": [
+      462,
+      475
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "M. de Séligny se moquait de moi",
+    "jalons": [
+      16,
+      47
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "Mme Albertine",
+    "jalons": [
+      175,
+      188
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "Mme Albertine",
+    "jalons": [
+      420,
+      433
+    ]
+  },
+  "entite_117": {
+    "label": "MISC",
+    "text": "faveur de Mme Albertine",
+    "jalons": [
+      27,
+      50
+    ]
+  },
+  "entite_118": {
+    "label": "PER",
+    "text": "Je questionnai Laure",
+    "jalons": [
+      482,
+      502
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "M. de Séligny",
+    "jalons": [
+      493,
+      506
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "aujourd'hui",
+    "jalons": [
+      1,
+      12
+    ]
+  },
+  "entite_121": {
+    "label": "MISC",
+    "text": "Mme de Séligny et les autres dames se",
+    "jalons": [
+      49,
+      86
+    ]
+  },
+  "entite_122": {
+    "label": "PER",
+    "text": "M. de Séligny",
+    "jalons": [
+      430,
+      443
+    ]
+  },
+  "entite_123": {
+    "label": "MISC",
+    "text": "la pria de vouloir bien essayer de",
+    "jalons": [
+      444,
+      478
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      24,
+      37
+    ]
+  },
+  "entite_125": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      462,
+      475
+    ]
+  },
+  "entite_126": {
+    "label": "PER",
+    "text": "Mlle Laure",
+    "jalons": [
+      9,
+      19
+    ]
+  },
+  "entite_127": {
+    "label": "MISC",
+    "text": "se lèvera tous les jours",
+    "jalons": [
+      20,
+      44
+    ]
+  },
+  "entite_128": {
+    "label": "PER",
+    "text": "Conti",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_129": {
+    "label": "PER",
+    "text": "Je le crois bien",
+    "jalons": [
+      474,
+      490
+    ]
+  },
+  "entite_130": {
+    "label": "PER",
+    "text": "Laure n'avai",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_131": {
+    "label": "MISC",
+    "text": "Laure et de la",
+    "jalons": [
+      398,
+      412
+    ]
+  },
+  "entite_132": {
+    "label": "MISC",
+    "text": "société de jeunes enfants de",
+    "jalons": [
+      5,
+      33
+    ]
+  },
+  "entite_133": {
+    "label": "MISC",
+    "text": "Dès le matin Laure et",
+    "jalons": [
+      82,
+      103
+    ]
+  },
+  "entite_134": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      94,
+      99
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "distinguées de la ville",
+    "jalons": [
+      425,
+      448
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "Henriette",
+    "jalons": [
+      179,
+      188
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "Louise et Marie",
+    "jalons": [
+      190,
+      205
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Henriette",
+    "jalons": [
+      208,
+      217
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "Mlle Léonie",
+    "jalons": [
+      312,
+      323
+    ]
+  },
+  "entite_140": {
+    "label": "MISC",
+    "text": "Jules et Adolphe",
+    "jalons": [
+      348,
+      364
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "Marie allait",
+    "jalons": [
+      137,
+      149
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "Marie n'apprenait pas la musique",
+    "jalons": [
+      431,
+      463
+    ]
+  },
+  "entite_143": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      210,
+      215
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "Providence",
+    "jalons": [
+      350,
+      360
+    ]
+  },
+  "entite_145": {
+    "label": "MISC",
+    "text": "Charmée de sa douceur et de",
+    "jalons": [
+      114,
+      141
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      287,
+      292
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      147,
+      152
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "Mme de Séligny",
+    "jalons": [
+      303,
+      317
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      399,
+      405
+    ]
+  },
+  "entite_150": {
+    "label": "PER",
+    "text": "Mais Elise",
+    "jalons": [
+      472,
+      482
+    ]
+  },
+  "entite_151": {
+    "label": "MISC",
+    "text": "la jeune dame avec embarras et lui dit en rougissant",
+    "jalons": [
+      10,
+      62
+    ]
+  },
+  "entite_152": {
+    "label": "MISC",
+    "text": "Dieu la même promesse le jour de",
+    "jalons": [
+      52,
+      84
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "Fort bien",
+    "jalons": [
+      383,
+      392
+    ]
+  },
+  "entite_154": {
+    "label": "LOC",
+    "text": "Assez",
+    "jalons": [
+      119,
+      124
+    ]
+  },
+  "entite_155": {
+    "label": "PER",
+    "text": "Mme de Séligny",
+    "jalons": [
+      358,
+      372
+    ]
+  },
+  "entite_156": {
+    "label": "PER",
+    "text": "Mme de Séligny",
+    "jalons": [
+      492,
+      506
+    ]
+  },
+  "entite_157": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      488,
+      501
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "rentran",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_159": {
+    "label": "PER",
+    "text": "Elle se mit",
+    "jalons": [
+      3,
+      14
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "Elise",
+    "jalons": [
+      43,
+      48
+    ]
+  },
+  "entite_161": {
+    "label": "MISC",
+    "text": "Mme de Séligny se garda bien de parler",
+    "jalons": [
+      202,
+      240
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      292,
+      305
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "M. de Séligny",
+    "jalons": [
+      357,
+      370
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "Mlle Derville",
+    "jalons": [
+      442,
+      455
+    ]
+  },
+  "entite_165": {
+    "label": "PER",
+    "text": "Laure prenait",
+    "jalons": [
+      480,
+      493
+    ]
+  },
+  "entite_166": {
+    "label": "PER",
+    "text": "elle faisait de la tapisserie",
+    "jalons": [
+      2,
+      31
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Voyez",
+    "jalons": [
+      320,
+      325
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "Laure.",
+    "jalons": [
+      358,
+      364
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Alors Mme de Séligny",
+    "jalons": [
+      478,
+      498
+    ]
+  },
+  "entite_170": {
+    "label": "PER",
+    "text": "Mme de Séligny",
+    "jalons": [
+      190,
+      204
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "de Laure",
+    "jalons": [
+      226,
+      234
+    ]
+  },
+  "entite_172": {
+    "label": "PER",
+    "text": "Elle s'imagina que Mme Derville",
+    "jalons": [
+      2,
+      33
+    ]
+  },
+  "entite_173": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      493,
+      506
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Justine était",
+    "jalons": [
+      3,
+      16
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      51,
+      64
+    ]
+  },
+  "entite_176": {
+    "label": "PER",
+    "text": "M. de Séligny lui",
+    "jalons": [
+      480,
+      497
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      426,
+      439
+    ]
+  },
+  "entite_178": {
+    "label": "LOC",
+    "text": "Elise",
+    "jalons": [
+      441,
+      446
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "Elle arran",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_180": {
+    "label": "MISC",
+    "text": "Elle avait eu la malice de se",
+    "jalons": [
+      399,
+      428
+    ]
+  },
+  "entite_181": {
+    "label": "PER",
+    "text": "Mme Derville",
+    "jalons": [
+      489,
+      501
+    ]
+  },
+  "entite_182": {
+    "label": "PER",
+    "text": "M. de Séligny lui",
+    "jalons": [
+      110,
+      127
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      2,
+      15
+    ]
+  },
+  "entite_184": {
+    "label": "MISC",
+    "text": "et la conjura de venir",
+    "jalons": [
+      16,
+      38
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "Mme de Séligny lui",
+    "jalons": [
+      33,
+      51
+    ]
+  },
+  "entite_186": {
+    "label": "PER",
+    "text": "M. de Séligny",
+    "jalons": [
+      347,
+      360
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      477,
+      482
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Sa maman lui donna",
+    "jalons": [
+      6,
+      24
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      147,
+      152
+    ]
+  },
+  "entite_190": {
+    "label": "PER",
+    "text": "Mme Auberton",
+    "jalons": [
+      39,
+      51
+    ]
+  },
+  "entite_191": {
+    "label": "LOC",
+    "text": "Mademo",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_192": {
+    "label": "PER",
+    "text": "iselle Elise",
+    "jalons": [
+      0,
+      12
+    ]
+  },
+  "entite_193": {
+    "label": "MISC",
+    "text": "Dès que Mme de Séligny fut de",
+    "jalons": [
+      276,
+      305
+    ]
+  },
+  "entite_194": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      415,
+      420
+    ]
+  },
+  "entite_195": {
+    "label": "MISC",
+    "text": "Laure courut chercher la femme de chambre",
+    "jalons": [
+      18,
+      59
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      83,
+      96
+    ]
+  },
+  "entite_197": {
+    "label": "MISC",
+    "text": "Elle s'efforçait de copier le ton et les manières de sa",
+    "jalons": [
+      132,
+      187
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Mademoiselle",
+    "jalons": [
+      152,
+      164
+    ]
+  },
+  "entite_199": {
+    "label": "MISC",
+    "text": "j'ai peur de la déranger",
+    "jalons": [
+      9,
+      33
+    ]
+  },
+  "entite_200": {
+    "label": "LOC",
+    "text": "D'ailleurs",
+    "jalons": [
+      146,
+      156
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      379,
+      386
+    ]
+  },
+  "entite_202": {
+    "label": "MISC",
+    "text": "ation de mademoiselle votre fille",
+    "jalons": [
+      0,
+      33
+    ]
+  },
+  "entite_203": {
+    "label": "PER",
+    "text": "Laure se",
+    "jalons": [
+      131,
+      139
+    ]
+  },
+  "entite_204": {
+    "label": "PER",
+    "text": "Mme de Séligny",
+    "jalons": [
+      495,
+      509
+    ]
+  },
+  "entite_205": {
+    "label": "LOC",
+    "text": "Elise de la",
+    "jalons": [
+      487,
+      498
+    ]
+  },
+  "entite_206": {
+    "label": "MISC",
+    "text": "ait déjà données et n'ajoutait pas un",
+    "jalons": [
+      0,
+      37
+    ]
+  },
+  "entite_207": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      475,
+      488
+    ]
+  },
+  "entite_208": {
+    "label": "LOC",
+    "text": "J'avais",
+    "jalons": [
+      494,
+      501
+    ]
+  },
+  "entite_209": {
+    "label": "MISC",
+    "text": "les amies de Laure ne sont pas",
+    "jalons": [
+      0,
+      30
+    ]
+  },
+  "entite_210": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      373,
+      386
+    ]
+  },
+  "entite_211": {
+    "label": "MISC",
+    "text": "Mlle Derville s'installa auprès de Justine et lui donna tous les",
+    "jalons": [
+      57,
+      121
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "Justine",
+    "jalons": [
+      28,
+      35
+    ]
+  },
+  "entite_213": {
+    "label": "MISC",
+    "text": "Elise veilla sur sa",
+    "jalons": [
+      37,
+      56
+    ]
+  },
+  "entite_214": {
+    "label": "MISC",
+    "text": "Justine baisa les mains de Mlle Derville",
+    "jalons": [
+      99,
+      139
+    ]
+  },
+  "entite_215": {
+    "label": "PER",
+    "text": "Laure était",
+    "jalons": [
+      394,
+      405
+    ]
+  },
+  "entite_216": {
+    "label": "PER",
+    "text": "Elle attendait que Mme de Séligny lui en parlât la",
+    "jalons": [
+      5,
+      55
+    ]
+  },
+  "entite_217": {
+    "label": "LOC",
+    "text": "Tandis",
+    "jalons": [
+      462,
+      468
+    ]
+  },
+  "entite_218": {
+    "label": "MISC",
+    "text": "partie de colin-maillard",
+    "jalons": [
+      0,
+      24
+    ]
+  },
+  "entite_219": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      26,
+      31
+    ]
+  },
+  "entite_220": {
+    "label": "LOC",
+    "text": "Henriette",
+    "jalons": [
+      153,
+      162
+    ]
+  },
+  "entite_221": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      290,
+      295
+    ]
+  },
+  "entite_222": {
+    "label": "MISC",
+    "text": "beaucoup de la vivacité de Laure",
+    "jalons": [
+      115,
+      147
+    ]
+  },
+  "entite_223": {
+    "label": "MISC",
+    "text": "Mme de Séligny",
+    "jalons": [
+      31,
+      45
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Hélas",
+    "jalons": [
+      480,
+      485
+    ]
+  },
+  "entite_225": {
+    "label": "MISC",
+    "text": "le sien et vit la jolie tète de Laure",
+    "jalons": [
+      1,
+      38
+    ]
+  },
+  "entite_226": {
+    "label": "PER",
+    "text": "Mme de Séligny",
+    "jalons": [
+      99,
+      113
+    ]
+  },
+  "entite_227": {
+    "label": "MISC",
+    "text": "j'ai décidé avec elle que tu ferais ta",
+    "jalons": [
+      1,
+      39
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      248,
+      253
+    ]
+  },
+  "entite_229": {
+    "label": "LOC",
+    "text": "la mère de Léonie",
+    "jalons": [
+      239,
+      256
+    ]
+  },
+  "entite_230": {
+    "label": "MISC",
+    "text": "J'ai dit que Mlle Léonie était l'institutrice d'Henriette et de Louise",
+    "jalons": [
+      338,
+      408
+    ]
+  },
+  "entite_231": {
+    "label": "MISC",
+    "text": "charme dans la société de Mlle Dervillie",
+    "jalons": [
+      41,
+      81
+    ]
+  },
+  "entite_232": {
+    "label": "MISC",
+    "text": "aturelle qui la portait vers les personnes",
+    "jalons": [
+      0,
+      42
+    ]
+  },
+  "entite_233": {
+    "label": "MISC",
+    "text": "Un jour que les deux",
+    "jalons": [
+      54,
+      74
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Léonie",
+    "jalons": [
+      397,
+      403
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      180,
+      185
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      114,
+      119
+    ]
+  },
+  "entite_237": {
+    "label": "PER",
+    "text": "Celte",
+    "jalons": [
+      496,
+      501
+    ]
+  },
+  "entite_238": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      150,
+      155
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      227,
+      232
+    ]
+  },
+  "entite_240": {
+    "label": "LOC",
+    "text": "La ville de",
+    "jalons": [
+      54,
+      65
+    ]
+  },
+  "entite_241": {
+    "label": "MISC",
+    "text": "chargeait de toutes les iniquités de la classe",
+    "jalons": [
+      1,
+      47
+    ]
+  },
+  "entite_242": {
+    "label": "PER",
+    "text": "Moi",
+    "jalons": [
+      9,
+      12
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "Elise",
+    "jalons": [
+      503,
+      508
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "Maman",
+    "jalons": [
+      215,
+      220
+    ]
+  },
+  "entite_245": {
+    "label": "LOC",
+    "text": "Le jour de",
+    "jalons": [
+      372,
+      382
+    ]
+  },
+  "entite_246": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      204,
+      209
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      421,
+      426
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "Léonie",
+    "jalons": [
+      350,
+      356
+    ]
+  },
+  "entite_249": {
+    "label": "PER",
+    "text": "Le matin du quatrième",
+    "jalons": [
+      0,
+      21
+    ]
+  },
+  "entite_250": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      469,
+      474
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      142,
+      147
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      231,
+      236
+    ]
+  },
+  "entite_253": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_254": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      435,
+      440
+    ]
+  },
+  "entite_255": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      398,
+      403
+    ]
+  },
+  "entite_256": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      452,
+      457
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      444,
+      449
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "Malgré les",
+    "jalons": [
+      452,
+      462
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      432,
+      437
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "Fécamp",
+    "jalons": [
+      72,
+      78
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Havre",
+    "jalons": [
+      88,
+      93
+    ]
+  },
+  "entite_262": {
+    "label": "MISC",
+    "text": "Je vis la mer et j'éprouvai",
+    "jalons": [
+      95,
+      122
+    ]
+  },
+  "entite_263": {
+    "label": "MISC",
+    "text": "Fécamp la chapelle de la sainte Vierge",
+    "jalons": [
+      169,
+      207
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "Au Havre",
+    "jalons": [
+      252,
+      260
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "Léonie",
+    "jalons": [
+      383,
+      389
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "J'ava",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_267": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      431,
+      436
+    ]
+  },
+  "entite_268": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      125,
+      130
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      395,
+      400
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Henriette",
+    "jalons": [
+      489,
+      498
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Cependant Mme de Séligny",
+    "jalons": [
+      464,
+      488
+    ]
+  },
+  "entite_272": {
+    "label": "MISC",
+    "text": "la parure de sa fille",
+    "jalons": [
+      1,
+      22
+    ]
+  },
+  "entite_273": {
+    "label": "PER",
+    "text": "Mme de Séligny",
+    "jalons": [
+      351,
+      365
+    ]
+  },
+  "entite_274": {
+    "label": "LOC",
+    "text": "La veille de",
+    "jalons": [
+      236,
+      248
+    ]
+  },
+  "entite_275": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      263,
+      276
+    ]
+  },
+  "entite_276": {
+    "label": "PER",
+    "text": "Laure lui",
+    "jalons": [
+      278,
+      287
+    ]
+  },
+  "entite_277": {
+    "label": "PER",
+    "text": "Dès le matin",
+    "jalons": [
+      55,
+      67
+    ]
+  },
+  "entite_278": {
+    "label": "PER",
+    "text": "Mme de Séligny vint",
+    "jalons": [
+      69,
+      88
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "dans la chambre de",
+    "jalons": [
+      89,
+      107
+    ]
+  },
+  "entite_280": {
+    "label": "PER",
+    "text": "Laure était",
+    "jalons": [
+      118,
+      129
+    ]
+  },
+  "entite_281": {
+    "label": "MISC",
+    "text": "Mlle Derville aida la jeune dame à la revêtir de",
+    "jalons": [
+      147,
+      195
+    ]
+  },
+  "entite_282": {
+    "label": "PER",
+    "text": "M. le curé",
+    "jalons": [
+      5,
+      15
+    ]
+  },
+  "entite_283": {
+    "label": "LOC",
+    "text": "Vierge",
+    "jalons": [
+      274,
+      280
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "Mme de Séligny",
+    "jalons": [
+      283,
+      297
+    ]
+  },
+  "entite_285": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      504,
+      509
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      433,
+      438
+    ]
+  },
+  "entite_287": {
+    "label": "PER",
+    "text": "Henriette et Louise",
+    "jalons": [
+      440,
+      459
+    ]
+  },
+  "entite_288": {
+    "label": "LOC",
+    "text": "au fort de l'hiver",
+    "jalons": [
+      1,
+      19
+    ]
+  },
+  "entite_289": {
+    "label": "PER",
+    "text": "Mlle Elise",
+    "jalons": [
+      455,
+      465
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      115,
+      120
+    ]
+  },
+  "entite_291": {
+    "label": "MISC",
+    "text": "Laure ! Et tout de",
+    "jalons": [
+      129,
+      147
+    ]
+  },
+  "entite_292": {
+    "label": "LOC",
+    "text": "D'abord",
+    "jalons": [
+      495,
+      502
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "LAURE",
+    "jalons": [
+      484,
+      489
+    ]
+  },
+  "entite_294": {
+    "label": "PER",
+    "text": "Finis donc",
+    "jalons": [
+      492,
+      502
+    ]
+  },
+  "entite_295": {
+    "label": "PER",
+    "text": "Louise",
+    "jalons": [
+      504,
+      510
+    ]
+  },
+  "entite_296": {
+    "label": "PER",
+    "text": "de Marie",
+    "jalons": [
+      31,
+      39
+    ]
+  },
+  "entite_297": {
+    "label": "PER",
+    "text": "Moi",
+    "jalons": [
+      94,
+      97
+    ]
+  },
+  "entite_298": {
+    "label": "PER",
+    "text": "LAURE",
+    "jalons": [
+      15,
+      20
+    ]
+  },
+  "entite_299": {
+    "label": "MISC",
+    "text": "J'ai essayé de la déchiffrer",
+    "jalons": [
+      135,
+      163
+    ]
+  },
+  "entite_300": {
+    "label": "LOC",
+    "text": "LAURE",
+    "jalons": [
+      151,
+      156
+    ]
+  },
+  "entite_301": {
+    "label": "PER",
+    "text": "Mlle Elise",
+    "jalons": [
+      206,
+      216
+    ]
+  },
+  "entite_302": {
+    "label": "PER",
+    "text": "HENRIETTE",
+    "jalons": [
+      219,
+      228
+    ]
+  },
+  "entite_303": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      231,
+      235
+    ]
+  },
+  "entite_304": {
+    "label": "MISC",
+    "text": "Ici Mlle Derville entra dans le salon",
+    "jalons": [
+      294,
+      331
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "Louise",
+    "jalons": [
+      346,
+      352
+    ]
+  },
+  "entite_306": {
+    "label": "MISC",
+    "text": "La vie est un opprobre et la mort un devoir",
+    "jalons": [
+      15,
+      58
+    ]
+  },
+  "entite_307": {
+    "label": "PER",
+    "text": "Mlle DERVILLE",
+    "jalons": [
+      88,
+      101
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Bravo",
+    "jalons": [
+      104,
+      109
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "Marie",
+    "jalons": [
+      111,
+      116
+    ]
+  },
+  "entite_310": {
+    "label": "LOC",
+    "text": "Louise",
+    "jalons": [
+      319,
+      325
+    ]
+  },
+  "entite_311": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      72,
+      77
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "Louise",
+    "jalons": [
+      369,
+      375
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "LOUISE",
+    "jalons": [
+      378,
+      384
+    ]
+  },
+  "entite_314": {
+    "label": "LOC",
+    "text": "Laure",
+    "jalons": [
+      478,
+      483
+    ]
+  },
+  "entite_315": {
+    "label": "LOC",
+    "text": "Mlle DERVILLE",
+    "jalons": [
+      486,
+      499
+    ]
+  },
+  "entite_316": {
+    "label": "LOC",
+    "text": "La faute",
+    "jalons": [
+      502,
+      510
+    ]
+  },
+  "entite_317": {
+    "label": "PER",
+    "text": "Mlle Léonie",
+    "jalons": [
+      275,
+      286
+    ]
+  },
+  "entite_318": {
+    "label": "PER",
+    "text": "Mlle DERVILLE",
+    "jalons": [
+      14,
+      27
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "Assez",
+    "jalons": [
+      30,
+      35
+    ]
+  },
+  "entite_320": {
+    "label": "PER",
+    "text": "Louise",
+    "jalons": [
+      37,
+      43
+    ]
+  },
+  "entite_321": {
+    "label": "MISC",
+    "text": "Elles avaient demandé la permission de faire des crèmes et du nougat",
+    "jalons": [
+      64,
+      132
+    ]
+  },
+  "entite_322": {
+    "label": "PER",
+    "text": "Laure venait",
+    "jalons": [
+      398,
+      410
+    ]
+  },
+  "entite_323": {
+    "label": "PER",
+    "text": "père de Louise et d'Henriette",
+    "jalons": [
+      14,
+      43
+    ]
+  },
+  "entite_324": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      482,
+      488
+    ]
+  },
+  "entite_325": {
+    "label": "MISC",
+    "text": "Mme de Séligny et lui",
+    "jalons": [
+      407,
+      428
+    ]
+  },
+  "entite_326": {
+    "label": "MISC",
+    "text": "Celle de Mme de Séligny et celle de sa",
+    "jalons": [
+      367,
+      405
+    ]
+  },
+  "entite_327": {
+    "label": "PER",
+    "text": "Laure dansa",
+    "jalons": [
+      15,
+      26
+    ]
+  },
+  "entite_328": {
+    "label": "PER",
+    "text": "Mais Dieu",
+    "jalons": [
+      80,
+      89
+    ]
+  },
+  "entite_329": {
+    "label": "PER",
+    "text": "M. de Séligny lui donna le bras",
+    "jalons": [
+      393,
+      424
+    ]
+  },
+  "entite_330": {
+    "label": "MISC",
+    "text": "de la douleur de la pauvre Laure en la",
+    "jalons": [
+      436,
+      474
+    ]
+  },
+  "entite_331": {
+    "label": "PER",
+    "text": "Alors M. de Séligny",
+    "jalons": [
+      65,
+      84
+    ]
+  },
+  "entite_332": {
+    "label": "MISC",
+    "text": "Laure et Mlle Derville",
+    "jalons": [
+      105,
+      127
+    ]
+  },
+  "entite_333": {
+    "label": "PER",
+    "text": "M. de Séligny",
+    "jalons": [
+      383,
+      396
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "Laure baisait",
+    "jalons": [
+      240,
+      253
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "Mlle Derville",
+    "jalons": [
+      101,
+      114
+    ]
+  },
+  "entite_336": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      153,
+      166
+    ]
+  },
+  "entite_337": {
+    "label": "MISC",
+    "text": "Laure et sa gouvernante de manière à les di",
+    "jalons": [
+      469,
+      512
+    ]
+  },
+  "entite_338": {
+    "label": "PER",
+    "text": "Laure donna",
+    "jalons": [
+      287,
+      298
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      465,
+      470
+    ]
+  },
+  "entite_340": {
+    "label": "MISC",
+    "text": "Le départ de Mlle Derville",
+    "jalons": [
+      201,
+      227
+    ]
+  },
+  "entite_341": {
+    "label": "LOC",
+    "text": "celui de la famille de Séligny",
+    "jalons": [
+      249,
+      279
+    ]
+  },
+  "entite_342": {
+    "label": "LOC",
+    "text": "Mme de",
+    "jalons": [
+      281,
+      287
+    ]
+  },
+  "entite_343": {
+    "label": "PER",
+    "text": "Elle n'avait",
+    "jalons": [
+      21,
+      33
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      134,
+      139
+    ]
+  },
+  "entite_345": {
+    "label": "MISC",
+    "text": "la famille de Séligny",
+    "jalons": [
+      4,
+      25
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      247,
+      252
+    ]
+  },
+  "entite_347": {
+    "label": "PER",
+    "text": "de M. de Séligny",
+    "jalons": [
+      487,
+      503
+    ]
+  },
+  "entite_348": {
+    "label": "ORG",
+    "text": "Chacune",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_349": {
+    "label": "MISC",
+    "text": "Derville qu'un jeune officier du génie demandait la main de Mlle Elise",
+    "jalons": [
+      105,
+      175
+    ]
+  },
+  "entite_350": {
+    "label": "MISC",
+    "text": "Dans la seconde",
+    "jalons": [
+      178,
+      193
+    ]
+  },
+  "entite_351": {
+    "label": "LOC",
+    "text": "Blois",
+    "jalons": [
+      341,
+      346
+    ]
+  },
+  "entite_352": {
+    "label": "LOC",
+    "text": "Jamais",
+    "jalons": [
+      502,
+      508
+    ]
+  },
+  "entite_353": {
+    "label": "PER",
+    "text": "Mme Derville",
+    "jalons": [
+      96,
+      108
+    ]
+  },
+  "entite_354": {
+    "label": "PER",
+    "text": "Mme Auberton",
+    "jalons": [
+      473,
+      485
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "Elise changea",
+    "jalons": [
+      496,
+      509
+    ]
+  },
+  "entite_356": {
+    "label": "PER",
+    "text": "M. Derville",
+    "jalons": [
+      256,
+      267
+    ]
+  },
+  "entite_357": {
+    "label": "PER",
+    "text": "Mme Derville",
+    "jalons": [
+      130,
+      142
+    ]
+  },
+  "entite_358": {
+    "label": "LOC",
+    "text": "de cette fille de la fable de la Fontaine",
+    "jalons": [
+      387,
+      428
+    ]
+  },
+  "entite_359": {
+    "label": "ORG",
+    "text": "Le jour",
+    "jalons": [
+      504,
+      511
+    ]
+  },
+  "entite_360": {
+    "label": "MISC",
+    "text": "elle donna des leçons de musique et de",
+    "jalons": [
+      301,
+      339
+    ]
+  },
+  "entite_361": {
+    "label": "MISC",
+    "text": "Toujours elle en eut",
+    "jalons": [
+      428,
+      448
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      180,
+      185
+    ]
+  },
+  "entite_363": {
+    "label": "MISC",
+    "text": "Henriette et Marie venaient de se",
+    "jalons": [
+      359,
+      392
+    ]
+  },
+  "entite_364": {
+    "label": "PER",
+    "text": "Marie était",
+    "jalons": [
+      489,
+      500
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "Léonie",
+    "jalons": [
+      222,
+      228
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "Leurs",
+    "jalons": [
+      498,
+      503
+    ]
+  },
+  "entite_367": {
+    "label": "LOC",
+    "text": "Léonie",
+    "jalons": [
+      27,
+      33
+    ]
+  },
+  "entite_368": {
+    "label": "PER",
+    "text": "Lé",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_369": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      12,
+      17
+    ]
+  },
+  "entite_370": {
+    "label": "PER",
+    "text": "Mme de Gercourt",
+    "jalons": [
+      349,
+      364
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      242,
+      247
+    ]
+  },
+  "entite_372": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      121,
+      126
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "L'hiver",
+    "jalons": [
+      128,
+      135
+    ]
+  },
+  "entite_374": {
+    "label": "PER",
+    "text": "Elle lui",
+    "jalons": [
+      488,
+      496
+    ]
+  },
+  "entite_375": {
+    "label": "MISC",
+    "text": "Vers la fin de la troisième",
+    "jalons": [
+      30,
+      57
+    ]
+  },
+  "entite_376": {
+    "label": "ORG",
+    "text": "Alors",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_377": {
+    "label": "PER",
+    "text": "Mme de Gercourt",
+    "jalons": [
+      260,
+      275
+    ]
+  },
+  "entite_378": {
+    "label": "PER",
+    "text": "Elise venait la voir de",
+    "jalons": [
+      91,
+      114
+    ]
+  },
+  "entite_379": {
+    "label": "LOC",
+    "text": "la famille de Laure",
+    "jalons": [
+      69,
+      88
+    ]
+  },
+  "entite_380": {
+    "label": "LOC",
+    "text": "Mme de Séligny",
+    "jalons": [
+      131,
+      145
+    ]
+  },
+  "entite_381": {
+    "label": "LOC",
+    "text": "Paris auprès de Mme de Gercourt",
+    "jalons": [
+      32,
+      63
+    ]
+  },
+  "entite_382": {
+    "label": "MISC",
+    "text": "la Suisse et l'Italie et les",
+    "jalons": [
+      320,
+      348
+    ]
+  },
+  "entite_383": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      375,
+      381
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "Il",
+    "jalons": [
+      383,
+      385
+    ]
+  },
+  "entite_385": {
+    "label": "LOC",
+    "text": "Grenoble",
+    "jalons": [
+      394,
+      402
+    ]
+  },
+  "entite_386": {
+    "label": "PER",
+    "text": "Laure lui",
+    "jalons": [
+      445,
+      454
+    ]
+  },
+  "entite_387": {
+    "label": "PER",
+    "text": "Mme de Gercourt",
+    "jalons": [
+      469,
+      484
+    ]
+  },
+  "entite_388": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      26,
+      31
+    ]
+  },
+  "entite_389": {
+    "label": "MISC",
+    "text": "Elle voulut le voir en particulier et lui parla longtemps de",
+    "jalons": [
+      168,
+      228
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Léonie",
+    "jalons": [
+      229,
+      235
+    ]
+  },
+  "entite_391": {
+    "label": "ORG",
+    "text": "Chacun s'empressa de la",
+    "jalons": [
+      464,
+      487
+    ]
+  },
+  "entite_392": {
+    "label": "LOC",
+    "text": "Elise",
+    "jalons": [
+      498,
+      503
+    ]
+  },
+  "entite_393": {
+    "label": "PER",
+    "text": "M. de Séligny",
+    "jalons": [
+      20,
+      33
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "Derville",
+    "jalons": [
+      66,
+      74
+    ]
+  },
+  "entite_395": {
+    "label": "PER",
+    "text": "Mlle Léonie",
+    "jalons": [
+      464,
+      475
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "Léonie",
+    "jalons": [
+      197,
+      203
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "J'accepte la main de M. de Séligny",
+    "jalons": [
+      407,
+      441
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "Melun",
+    "jalons": [
+      238,
+      243
+    ]
+  },
+  "entite_399": {
+    "label": "MISC",
+    "text": "La nouvelle Mme de Séligny fut",
+    "jalons": [
+      150,
+      180
+    ]
+  },
+  "entite_400": {
+    "label": "PER",
+    "text": "Mlle Derville",
+    "jalons": [
+      37,
+      50
+    ]
+  }
+}

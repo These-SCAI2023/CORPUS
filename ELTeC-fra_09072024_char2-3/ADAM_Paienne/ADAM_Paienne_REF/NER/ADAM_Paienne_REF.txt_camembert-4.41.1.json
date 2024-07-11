@@ -1,0 +1,4770 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "MÉLISSANDRE DE NOVES",
+    "jalons": [
+      1,
+      22
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "TIBUR",
+    "jalons": [
+      24,
+      30
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "CE GARDANNE",
+    "jalons": [
+      30,
+      41
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      52,
+      62
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "île de Sorgues",
+    "jalons": [
+      63,
+      78
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "Vaucluse Château de Saint-Estève",
+    "jalons": [
+      81,
+      115
+    ]
+  },
+  "entite_6": {
+    "label": "DATE",
+    "text": "octobre 2",
+    "jalons": [
+      116,
+      126
+    ]
+  },
+  "entite_7": {
+    "label": "DATE",
+    "text": "demain",
+    "jalons": [
+      203,
+      210
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Pétra",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_9": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      44,
+      54
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "Durance",
+    "jalons": [
+      204,
+      212
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "Alpines",
+    "jalons": [
+      236,
+      244
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Provence",
+    "jalons": [
+      296,
+      305
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Saint-Estève",
+    "jalons": [
+      353,
+      366
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "TIBURCE GARDANNE",
+    "jalons": [
+      293,
+      310
+    ]
+  },
+  "entite_15": {
+    "label": "PER",
+    "text": "MADAME DE NOVES",
+    "jalons": [
+      312,
+      328
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      339,
+      349
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Durance",
+    "jalons": [
+      387,
+      395
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      240,
+      250
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Maître",
+    "jalons": [
+      393,
+      400
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      468,
+      474
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      6,
+      12
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      345,
+      351
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      413,
+      425
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "GARDANNE",
+    "jalons": [
+      427,
+      436
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      52,
+      62
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "monsieur de Noves",
+    "jalons": [
+      162,
+      180
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      221,
+      227
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      391,
+      401
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      117,
+      127
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      160,
+      166
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "GARDANNE À MADAME DE NOVES",
+    "jalons": [
+      336,
+      363
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      66,
+      72
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "MADAME DE NOVES À GARDANNE",
+    "jalons": [
+      262,
+      289
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Cabane",
+    "jalons": [
+      322,
+      329
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Alpines",
+    "jalons": [
+      355,
+      363
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "qu'Apollon",
+    "jalons": [
+      453,
+      464
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "Grèce antique",
+    "jalons": [
+      108,
+      122
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Luberon",
+    "jalons": [
+      258,
+      266
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Alpines",
+    "jalons": [
+      280,
+      288
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Alpines",
+    "jalons": [
+      431,
+      439
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "GARDANNE À",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "GARDANNE",
+    "jalons": [
+      39,
+      48
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "MADAME DE NOVES",
+    "jalons": [
+      50,
+      66
+    ]
+  },
+  "entite_44": {
+    "label": "DATE",
+    "text": "maintenant",
+    "jalons": [
+      454,
+      465
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      200,
+      210
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      215,
+      221
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      233,
+      243
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "AD",
+    "jalons": [
+      390,
+      392
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "DE NOVES À GARDANNE",
+    "jalons": [
+      395,
+      415
+    ]
+  },
+  "entite_50": {
+    "label": "DATE",
+    "text": "à seize ans",
+    "jalons": [
+      131,
+      143
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Saint-Estève",
+    "jalons": [
+      162,
+      175
+    ]
+  },
+  "entite_52": {
+    "label": "DATE",
+    "text": "aujourd'hui",
+    "jalons": [
+      136,
+      148
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "Ma",
+    "jalons": [
+      330,
+      333
+    ]
+  },
+  "entite_54": {
+    "label": "DATE",
+    "text": "trois ans à",
+    "jalons": [
+      125,
+      137
+    ]
+  },
+  "entite_55": {
+    "label": "DATE",
+    "text": "une année",
+    "jalons": [
+      189,
+      199
+    ]
+  },
+  "entite_56": {
+    "label": "MISC",
+    "text": "GARDANNE À MADAME",
+    "jalons": [
+      325,
+      343
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "DE NOVES",
+    "jalons": [
+      343,
+      352
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "ADAME DE NOVES À GARDANNE",
+    "jalons": [
+      254,
+      279
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "heval",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "MADAME DE NOVES",
+    "jalons": [
+      187,
+      203
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "Mélis",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      44,
+      56
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Vaucluse",
+    "jalons": [
+      329,
+      338
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      187,
+      199
+    ]
+  },
+  "entite_65": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      215,
+      225
+    ]
+  },
+  "entite_66": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      441,
+      453
+    ]
+  },
+  "entite_67": {
+    "label": "DATE",
+    "text": "quatre jours",
+    "jalons": [
+      129,
+      142
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      134,
+      144
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "ADAME DE NOVES",
+    "jalons": [
+      255,
+      269
+    ]
+  },
+  "entite_70": {
+    "label": "PER",
+    "text": "GARDANNE",
+    "jalons": [
+      271,
+      280
+    ]
+  },
+  "entite_71": {
+    "label": "LOC",
+    "text": "Cavaillon",
+    "jalons": [
+      162,
+      172
+    ]
+  },
+  "entite_72": {
+    "label": "LOC",
+    "text": "Luberon",
+    "jalons": [
+      269,
+      277
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "Saint-Jacques",
+    "jalons": [
+      197,
+      211
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Durance",
+    "jalons": [
+      305,
+      313
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Saint-Estève",
+    "jalons": [
+      457,
+      470
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "t-Estève",
+    "jalons": [
+      0,
+      8
+    ]
+  },
+  "entite_77": {
+    "label": "DATE",
+    "text": "Octobre",
+    "jalons": [
+      379,
+      387
+    ]
+  },
+  "entite_78": {
+    "label": "LOC",
+    "text": "Provence",
+    "jalons": [
+      73,
+      82
+    ]
+  },
+  "entite_79": {
+    "label": "DATE",
+    "text": "un jour",
+    "jalons": [
+      211,
+      219
+    ]
+  },
+  "entite_80": {
+    "label": "MISC",
+    "text": "l'Iliade",
+    "jalons": [
+      233,
+      242
+    ]
+  },
+  "entite_81": {
+    "label": "MISC",
+    "text": "l'Odyssée",
+    "jalons": [
+      245,
+      255
+    ]
+  },
+  "entite_82": {
+    "label": "PER",
+    "text": "Soleil",
+    "jalons": [
+      287,
+      294
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "Phébus",
+    "jalons": [
+      308,
+      315
+    ]
+  },
+  "entite_84": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      129,
+      141
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "d'Apollon",
+    "jalons": [
+      310,
+      320
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      429,
+      441
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "château de Noves",
+    "jalons": [
+      310,
+      327
+    ]
+  },
+  "entite_88": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      352,
+      357
+    ]
+  },
+  "entite_89": {
+    "label": "DATE",
+    "text": "aujourd'hui",
+    "jalons": [
+      137,
+      149
+    ]
+  },
+  "entite_90": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      301,
+      309
+    ]
+  },
+  "entite_91": {
+    "label": "PER",
+    "text": "Apollon",
+    "jalons": [
+      323,
+      331
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "Shakespeare",
+    "jalons": [
+      63,
+      75
+    ]
+  },
+  "entite_93": {
+    "label": "MISC",
+    "text": "Roméo",
+    "jalons": [
+      91,
+      97
+    ]
+  },
+  "entite_94": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      138,
+      150
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      449,
+      457
+    ]
+  },
+  "entite_96": {
+    "label": "DATE",
+    "text": "maintenant",
+    "jalons": [
+      77,
+      88
+    ]
+  },
+  "entite_97": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      249,
+      261
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      143,
+      155
+    ]
+  },
+  "entite_99": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      483,
+      495
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      21,
+      33
+    ]
+  },
+  "entite_101": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      67,
+      77
+    ]
+  },
+  "entite_102": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      83,
+      89
+    ]
+  },
+  "entite_103": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      430,
+      442
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      155,
+      163
+    ]
+  },
+  "entite_105": {
+    "label": "DATE",
+    "text": "aujourd'hui",
+    "jalons": [
+      378,
+      390
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Vaucluse",
+    "jalons": [
+      354,
+      363
+    ]
+  },
+  "entite_107": {
+    "label": "LOC",
+    "text": "tre",
+    "jalons": [
+      0,
+      3
+    ]
+  },
+  "entite_108": {
+    "label": "PER",
+    "text": "Apollon",
+    "jalons": [
+      331,
+      339
+    ]
+  },
+  "entite_109": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      495,
+      505
+    ]
+  },
+  "entite_110": {
+    "label": "PER",
+    "text": "Lau",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_111": {
+    "label": "PER",
+    "text": "énée",
+    "jalons": [
+      0,
+      4
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      33,
+      43
+    ]
+  },
+  "entite_113": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      46,
+      52
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "Vaucluse",
+    "jalons": [
+      147,
+      156
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "Cybèle",
+    "jalons": [
+      429,
+      436
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "Saturne",
+    "jalons": [
+      451,
+      459
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      131,
+      143
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "champs Élyséens",
+    "jalons": [
+      102,
+      118
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "d'Éros",
+    "jalons": [
+      180,
+      187
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      241,
+      249
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "M",
+    "jalons": [
+      314,
+      316
+    ]
+  },
+  "entite_122": {
+    "label": "PER",
+    "text": "ÉLISSANDRE",
+    "jalons": [
+      316,
+      326
+    ]
+  },
+  "entite_123": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      493,
+      505
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      31,
+      43
+    ]
+  },
+  "entite_125": {
+    "label": "DATE",
+    "text": "demain",
+    "jalons": [
+      46,
+      53
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      323,
+      331
+    ]
+  },
+  "entite_127": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      283,
+      295
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "MÉL",
+    "jalons": [
+      393,
+      397
+    ]
+  },
+  "entite_129": {
+    "label": "PER",
+    "text": "ISSANDRE",
+    "jalons": [
+      397,
+      405
+    ]
+  },
+  "entite_130": {
+    "label": "MISC",
+    "text": "Sois",
+    "jalons": [
+      296,
+      301
+    ]
+  },
+  "entite_131": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      308,
+      320
+    ]
+  },
+  "entite_132": {
+    "label": "DATE",
+    "text": "trois jours",
+    "jalons": [
+      114,
+      126
+    ]
+  },
+  "entite_133": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      354,
+      366
+    ]
+  },
+  "entite_134": {
+    "label": "MISC",
+    "text": "TIB",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      46,
+      54
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "MÉL",
+    "jalons": [
+      72,
+      76
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "ISSANDRE",
+    "jalons": [
+      76,
+      84
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      336,
+      344
+    ]
+  },
+  "entite_139": {
+    "label": "MISC",
+    "text": "Tantale",
+    "jalons": [
+      198,
+      206
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      271,
+      283
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      84,
+      96
+    ]
+  },
+  "entite_142": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      229,
+      241
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "TIBURCE GARDANNE",
+    "jalons": [
+      181,
+      198
+    ]
+  },
+  "entite_144": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      451,
+      463
+    ]
+  },
+  "entite_145": {
+    "label": "PER",
+    "text": "Tiburce Gardanne",
+    "jalons": [
+      489,
+      506
+    ]
+  },
+  "entite_146": {
+    "label": "PER",
+    "text": "Tiburce Gardanne",
+    "jalons": [
+      27,
+      44
+    ]
+  },
+  "entite_147": {
+    "label": "DATE",
+    "text": "demain et",
+    "jalons": [
+      121,
+      131
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "Gardanne",
+    "jalons": [
+      297,
+      306
+    ]
+  },
+  "entite_149": {
+    "label": "PER",
+    "text": "Josué",
+    "jalons": [
+      455,
+      461
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      128,
+      140
+    ]
+  },
+  "entite_151": {
+    "label": "DATE",
+    "text": "heures",
+    "jalons": [
+      364,
+      371
+    ]
+  },
+  "entite_152": {
+    "label": "DATE",
+    "text": "demain",
+    "jalons": [
+      444,
+      451
+    ]
+  },
+  "entite_153": {
+    "label": "DATE",
+    "text": "en un jour",
+    "jalons": [
+      57,
+      68
+    ]
+  },
+  "entite_154": {
+    "label": "PER",
+    "text": "Divine",
+    "jalons": [
+      432,
+      439
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "Délos",
+    "jalons": [
+      180,
+      186
+    ]
+  },
+  "entite_156": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      443,
+      455
+    ]
+  },
+  "entite_157": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      444,
+      452
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "MÉ",
+    "jalons": [
+      170,
+      173
+    ]
+  },
+  "entite_159": {
+    "label": "PER",
+    "text": "LISSANDRE",
+    "jalons": [
+      173,
+      182
+    ]
+  },
+  "entite_160": {
+    "label": "DATE",
+    "text": "soir",
+    "jalons": [
+      213,
+      218
+    ]
+  },
+  "entite_161": {
+    "label": "DATE",
+    "text": "heure",
+    "jalons": [
+      113,
+      119
+    ]
+  },
+  "entite_162": {
+    "label": "DATE",
+    "text": "aujourd'hui",
+    "jalons": [
+      236,
+      248
+    ]
+  },
+  "entite_163": {
+    "label": "MISC",
+    "text": "Je t'",
+    "jalons": [
+      188,
+      194
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      406,
+      414
+    ]
+  },
+  "entite_165": {
+    "label": "PER",
+    "text": "eval",
+    "jalons": [
+      0,
+      4
+    ]
+  },
+  "entite_166": {
+    "label": "PER",
+    "text": "de Noves",
+    "jalons": [
+      345,
+      354
+    ]
+  },
+  "entite_167": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      174,
+      186
+    ]
+  },
+  "entite_168": {
+    "label": "PER",
+    "text": "Gardanne",
+    "jalons": [
+      442,
+      451
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      489,
+      501
+    ]
+  },
+  "entite_170": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      27,
+      39
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "MÉLISSANDR",
+    "jalons": [
+      227,
+      238
+    ]
+  },
+  "entite_172": {
+    "label": "PER",
+    "text": "E",
+    "jalons": [
+      238,
+      239
+    ]
+  },
+  "entite_173": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      428,
+      433
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      243,
+      255
+    ]
+  },
+  "entite_175": {
+    "label": "MISC",
+    "text": "TIBURCE",
+    "jalons": [
+      491,
+      499
+    ]
+  },
+  "entite_176": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      29,
+      37
+    ]
+  },
+  "entite_177": {
+    "label": "DATE",
+    "text": "d'un jour",
+    "jalons": [
+      152,
+      162
+    ]
+  },
+  "entite_178": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      222,
+      234
+    ]
+  },
+  "entite_179": {
+    "label": "MISC",
+    "text": "Gué",
+    "jalons": [
+      235,
+      239
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      479,
+      487
+    ]
+  },
+  "entite_181": {
+    "label": "MISC",
+    "text": "Invo",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      17,
+      25
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "Apollon",
+    "jalons": [
+      69,
+      77
+    ]
+  },
+  "entite_184": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      196,
+      208
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      271,
+      283
+    ]
+  },
+  "entite_186": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      208,
+      216
+    ]
+  },
+  "entite_187": {
+    "label": "DATE",
+    "text": "Maintenant",
+    "jalons": [
+      20,
+      31
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Triomphe",
+    "jalons": [
+      394,
+      403
+    ]
+  },
+  "entite_189": {
+    "label": "MISC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      113,
+      125
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      432,
+      440
+    ]
+  },
+  "entite_191": {
+    "label": "LOC",
+    "text": "l'Olympe",
+    "jalons": [
+      428,
+      437
+    ]
+  },
+  "entite_192": {
+    "label": "MISC",
+    "text": "Immortels",
+    "jalons": [
+      129,
+      139
+    ]
+  },
+  "entite_193": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      294,
+      306
+    ]
+  },
+  "entite_194": {
+    "label": "PER",
+    "text": "Apollon",
+    "jalons": [
+      391,
+      399
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Dieu",
+    "jalons": [
+      314,
+      319
+    ]
+  },
+  "entite_196": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      425,
+      433
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "MÉ",
+    "jalons": [
+      357,
+      360
+    ]
+  },
+  "entite_198": {
+    "label": "PER",
+    "text": "LISSANDRE",
+    "jalons": [
+      360,
+      369
+    ]
+  },
+  "entite_199": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      242,
+      248
+    ]
+  },
+  "entite_200": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      267,
+      277
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      158,
+      166
+    ]
+  },
+  "entite_202": {
+    "label": "DATE",
+    "text": "un jour",
+    "jalons": [
+      365,
+      373
+    ]
+  },
+  "entite_203": {
+    "label": "DATE",
+    "text": "un jour",
+    "jalons": [
+      407,
+      415
+    ]
+  },
+  "entite_204": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      234,
+      246
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "d'Isis",
+    "jalons": [
+      269,
+      276
+    ]
+  },
+  "entite_206": {
+    "label": "MISC",
+    "text": "Cantique des cantiques",
+    "jalons": [
+      169,
+      192
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "TIBUR",
+    "jalons": [
+      200,
+      206
+    ]
+  },
+  "entite_208": {
+    "label": "PER",
+    "text": "CE Idéal",
+    "jalons": [
+      206,
+      215
+    ]
+  },
+  "entite_209": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      61,
+      66
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      272,
+      284
+    ]
+  },
+  "entite_211": {
+    "label": "PER",
+    "text": "Sémiramis",
+    "jalons": [
+      161,
+      171
+    ]
+  },
+  "entite_212": {
+    "label": "MISC",
+    "text": "t",
+    "jalons": [
+      27,
+      29
+    ]
+  },
+  "entite_213": {
+    "label": "PER",
+    "text": "irée",
+    "jalons": [
+      0,
+      4
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      164,
+      176
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      311,
+      319
+    ]
+  },
+  "entite_216": {
+    "label": "DATE",
+    "text": "heures",
+    "jalons": [
+      53,
+      60
+    ]
+  },
+  "entite_217": {
+    "label": "DATE",
+    "text": "Aujourd'hui",
+    "jalons": [
+      186,
+      198
+    ]
+  },
+  "entite_218": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      63,
+      75
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      473,
+      481
+    ]
+  },
+  "entite_220": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      497,
+      502
+    ]
+  },
+  "entite_221": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      11,
+      19
+    ]
+  },
+  "entite_222": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      35,
+      40
+    ]
+  },
+  "entite_223": {
+    "label": "DATE",
+    "text": "heures",
+    "jalons": [
+      2,
+      9
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      392,
+      404
+    ]
+  },
+  "entite_225": {
+    "label": "DATE",
+    "text": "dans une heure",
+    "jalons": [
+      65,
+      80
+    ]
+  },
+  "entite_226": {
+    "label": "LOC",
+    "text": "l'Inde",
+    "jalons": [
+      153,
+      160
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      276,
+      288
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      342,
+      350
+    ]
+  },
+  "entite_229": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      109,
+      114
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "l'Olympe",
+    "jalons": [
+      129,
+      138
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      283,
+      295
+    ]
+  },
+  "entite_232": {
+    "label": "PER",
+    "text": "d'Apollon",
+    "jalons": [
+      301,
+      311
+    ]
+  },
+  "entite_233": {
+    "label": "DATE",
+    "text": "demain",
+    "jalons": [
+      73,
+      80
+    ]
+  },
+  "entite_234": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      465,
+      475
+    ]
+  },
+  "entite_235": {
+    "label": "PER",
+    "text": "Lau",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_236": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      3,
+      13
+    ]
+  },
+  "entite_237": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      46,
+      52
+    ]
+  },
+  "entite_238": {
+    "label": "MISC",
+    "text": "T",
+    "jalons": [
+      56,
+      58
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "IBURCE",
+    "jalons": [
+      58,
+      64
+    ]
+  },
+  "entite_240": {
+    "label": "DATE",
+    "text": "Hier",
+    "jalons": [
+      466,
+      471
+    ]
+  },
+  "entite_241": {
+    "label": "PER",
+    "text": "ri",
+    "jalons": [
+      0,
+      2
+    ]
+  },
+  "entite_242": {
+    "label": "DATE",
+    "text": "Hier",
+    "jalons": [
+      4,
+      9
+    ]
+  },
+  "entite_243": {
+    "label": "MISC",
+    "text": "M",
+    "jalons": [
+      232,
+      234
+    ]
+  },
+  "entite_244": {
+    "label": "PER",
+    "text": "ÉLISSANDRE",
+    "jalons": [
+      234,
+      244
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      167,
+      179
+    ]
+  },
+  "entite_246": {
+    "label": "PER",
+    "text": "Éros",
+    "jalons": [
+      180,
+      185
+    ]
+  },
+  "entite_247": {
+    "label": "PER",
+    "text": "TIB",
+    "jalons": [
+      435,
+      439
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "UR",
+    "jalons": [
+      439,
+      441
+    ]
+  },
+  "entite_249": {
+    "label": "PER",
+    "text": "CE",
+    "jalons": [
+      441,
+      443
+    ]
+  },
+  "entite_250": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      120,
+      132
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "Vaucluse",
+    "jalons": [
+      169,
+      178
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      244,
+      254
+    ]
+  },
+  "entite_253": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      259,
+      265
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      206,
+      218
+    ]
+  },
+  "entite_255": {
+    "label": "DATE",
+    "text": "aujourd'hui",
+    "jalons": [
+      104,
+      116
+    ]
+  },
+  "entite_256": {
+    "label": "MISC",
+    "text": "TIB",
+    "jalons": [
+      336,
+      340
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "URCE",
+    "jalons": [
+      340,
+      344
+    ]
+  },
+  "entite_258": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      306,
+      311
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "l'Olympe",
+    "jalons": [
+      316,
+      325
+    ]
+  },
+  "entite_260": {
+    "label": "DATE",
+    "text": "aujourd'hui",
+    "jalons": [
+      334,
+      346
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Ténare",
+    "jalons": [
+      365,
+      372
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      300,
+      310
+    ]
+  },
+  "entite_263": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      311,
+      323
+    ]
+  },
+  "entite_264": {
+    "label": "PER",
+    "text": "lle Clara",
+    "jalons": [
+      346,
+      356
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "Monaco",
+    "jalons": [
+      420,
+      427
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "Noves",
+    "jalons": [
+      331,
+      337
+    ]
+  },
+  "entite_267": {
+    "label": "LOC",
+    "text": "MÉLISSANDR",
+    "jalons": [
+      479,
+      490
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "E",
+    "jalons": [
+      490,
+      491
+    ]
+  },
+  "entite_269": {
+    "label": "MISC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      17,
+      29
+    ]
+  },
+  "entite_270": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      224,
+      236
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      488,
+      500
+    ]
+  },
+  "entite_272": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      26,
+      38
+    ]
+  },
+  "entite_273": {
+    "label": "LOC",
+    "text": "l'Estaque",
+    "jalons": [
+      210,
+      220
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      293,
+      305
+    ]
+  },
+  "entite_275": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      447,
+      457
+    ]
+  },
+  "entite_276": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      183,
+      191
+    ]
+  },
+  "entite_277": {
+    "label": "PER",
+    "text": "duction",
+    "jalons": [
+      1,
+      8
+    ]
+  },
+  "entite_278": {
+    "label": "DATE",
+    "text": "un jour",
+    "jalons": [
+      92,
+      100
+    ]
+  },
+  "entite_279": {
+    "label": "DATE",
+    "text": "un jour",
+    "jalons": [
+      94,
+      102
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      167,
+      179
+    ]
+  },
+  "entite_281": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      244,
+      252
+    ]
+  },
+  "entite_282": {
+    "label": "PER",
+    "text": "Vénus",
+    "jalons": [
+      259,
+      265
+    ]
+  },
+  "entite_283": {
+    "label": "DATE",
+    "text": "maintenant",
+    "jalons": [
+      307,
+      318
+    ]
+  },
+  "entite_284": {
+    "label": "MISC",
+    "text": "Juliette",
+    "jalons": [
+      58,
+      67
+    ]
+  },
+  "entite_285": {
+    "label": "MISC",
+    "text": "Roméo",
+    "jalons": [
+      69,
+      75
+    ]
+  },
+  "entite_286": {
+    "label": "MISC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      109,
+      121
+    ]
+  },
+  "entite_287": {
+    "label": "DATE",
+    "text": "deux mois",
+    "jalons": [
+      442,
+      452
+    ]
+  },
+  "entite_288": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      66,
+      74
+    ]
+  },
+  "entite_289": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      212,
+      224
+    ]
+  },
+  "entite_290": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      105,
+      111
+    ]
+  },
+  "entite_291": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      130,
+      140
+    ]
+  },
+  "entite_292": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      294,
+      306
+    ]
+  },
+  "entite_293": {
+    "label": "MISC",
+    "text": "TIBURCE",
+    "jalons": [
+      426,
+      434
+    ]
+  },
+  "entite_294": {
+    "label": "DATE",
+    "text": "trois jours",
+    "jalons": [
+      439,
+      451
+    ]
+  },
+  "entite_295": {
+    "label": "LOC",
+    "text": "MÉL",
+    "jalons": [
+      353,
+      357
+    ]
+  },
+  "entite_296": {
+    "label": "PER",
+    "text": "ISSANDRE",
+    "jalons": [
+      357,
+      365
+    ]
+  },
+  "entite_297": {
+    "label": "DATE",
+    "text": "aujourd'hui",
+    "jalons": [
+      132,
+      144
+    ]
+  },
+  "entite_298": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      490,
+      498
+    ]
+  },
+  "entite_299": {
+    "label": "MISC",
+    "text": "Amour",
+    "jalons": [
+      499,
+      505
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "TIBURCE",
+    "jalons": [
+      28,
+      36
+    ]
+  },
+  "entite_301": {
+    "label": "PER",
+    "text": "Antée",
+    "jalons": [
+      255,
+      261
+    ]
+  },
+  "entite_302": {
+    "label": "PER",
+    "text": "Phébus Apollon",
+    "jalons": [
+      483,
+      498
+    ]
+  },
+  "entite_303": {
+    "label": "PER",
+    "text": "Phébus Apollon",
+    "jalons": [
+      21,
+      36
+    ]
+  },
+  "entite_304": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      153,
+      165
+    ]
+  },
+  "entite_305": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      73,
+      85
+    ]
+  },
+  "entite_306": {
+    "label": "PER",
+    "text": "Minerve",
+    "jalons": [
+      311,
+      319
+    ]
+  },
+  "entite_307": {
+    "label": "LOC",
+    "text": "TIBURCE De l'Estaque",
+    "jalons": [
+      120,
+      142
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      148,
+      158
+    ]
+  },
+  "entite_309": {
+    "label": "PER",
+    "text": "Pan",
+    "jalons": [
+      282,
+      286
+    ]
+  },
+  "entite_310": {
+    "label": "PER",
+    "text": "Apollon",
+    "jalons": [
+      379,
+      387
+    ]
+  },
+  "entite_311": {
+    "label": "LOC",
+    "text": "golfe de Lion",
+    "jalons": [
+      483,
+      497
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "golfe de Lion",
+    "jalons": [
+      21,
+      35
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Diane",
+    "jalons": [
+      142,
+      148
+    ]
+  },
+  "entite_314": {
+    "label": "DATE",
+    "text": "cinq longs jours",
+    "jalons": [
+      125,
+      142
+    ]
+  },
+  "entite_315": {
+    "label": "DATE",
+    "text": "aujourd'hui",
+    "jalons": [
+      293,
+      305
+    ]
+  },
+  "entite_316": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      75,
+      87
+    ]
+  },
+  "entite_317": {
+    "label": "PER",
+    "text": "Nessus",
+    "jalons": [
+      503,
+      510
+    ]
+  },
+  "entite_318": {
+    "label": "PER",
+    "text": "Nessus",
+    "jalons": [
+      41,
+      48
+    ]
+  },
+  "entite_319": {
+    "label": "PER",
+    "text": "Écho",
+    "jalons": [
+      141,
+      146
+    ]
+  },
+  "entite_320": {
+    "label": "DATE",
+    "text": "un jour",
+    "jalons": [
+      314,
+      322
+    ]
+  },
+  "entite_321": {
+    "label": "MISC",
+    "text": "Hébreux",
+    "jalons": [
+      445,
+      453
+    ]
+  },
+  "entite_322": {
+    "label": "MISC",
+    "text": "Seigneur",
+    "jalons": [
+      496,
+      505
+    ]
+  },
+  "entite_323": {
+    "label": "MISC",
+    "text": "Seigneur",
+    "jalons": [
+      34,
+      43
+    ]
+  },
+  "entite_324": {
+    "label": "MISC",
+    "text": "Jéhovah",
+    "jalons": [
+      124,
+      132
+    ]
+  },
+  "entite_325": {
+    "label": "PER",
+    "text": "Seigneur",
+    "jalons": [
+      149,
+      158
+    ]
+  },
+  "entite_326": {
+    "label": "DATE",
+    "text": "depuis huit jours",
+    "jalons": [
+      382,
+      400
+    ]
+  },
+  "entite_327": {
+    "label": "LOC",
+    "text": "Phébus",
+    "jalons": [
+      458,
+      465
+    ]
+  },
+  "entite_328": {
+    "label": "PER",
+    "text": "Apollon",
+    "jalons": [
+      157,
+      165
+    ]
+  },
+  "entite_329": {
+    "label": "DATE",
+    "text": "dix jours",
+    "jalons": [
+      321,
+      331
+    ]
+  },
+  "entite_330": {
+    "label": "PER",
+    "text": "d'Hoffmann",
+    "jalons": [
+      77,
+      88
+    ]
+  },
+  "entite_331": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      154,
+      166
+    ]
+  },
+  "entite_332": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      271,
+      283
+    ]
+  },
+  "entite_333": {
+    "label": "LOC",
+    "text": "Saint-Estève",
+    "jalons": [
+      452,
+      465
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "ève",
+    "jalons": [
+      0,
+      3
+    ]
+  },
+  "entite_335": {
+    "label": "PER",
+    "text": "d",
+    "jalons": [
+      0,
+      1
+    ]
+  },
+  "entite_336": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      146,
+      158
+    ]
+  },
+  "entite_337": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      405,
+      417
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      501,
+      509
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      39,
+      47
+    ]
+  },
+  "entite_340": {
+    "label": "LOC",
+    "text": "l'Estaque",
+    "jalons": [
+      297,
+      307
+    ]
+  },
+  "entite_341": {
+    "label": "DATE",
+    "text": "-hier",
+    "jalons": [
+      67,
+      72
+    ]
+  },
+  "entite_342": {
+    "label": "DATE",
+    "text": "heures",
+    "jalons": [
+      200,
+      207
+    ]
+  },
+  "entite_343": {
+    "label": "MISC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      488,
+      500
+    ]
+  },
+  "entite_344": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      26,
+      38
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      413,
+      425
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      120,
+      128
+    ]
+  },
+  "entite_347": {
+    "label": "MISC",
+    "text": "Triomphe",
+    "jalons": [
+      306,
+      315
+    ]
+  },
+  "entite_348": {
+    "label": "DATE",
+    "text": "huit jours à",
+    "jalons": [
+      393,
+      406
+    ]
+  },
+  "entite_349": {
+    "label": "LOC",
+    "text": "Saint-Estève",
+    "jalons": [
+      406,
+      419
+    ]
+  },
+  "entite_350": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      420,
+      432
+    ]
+  },
+  "entite_351": {
+    "label": "LOC",
+    "text": "Italie",
+    "jalons": [
+      440,
+      447
+    ]
+  },
+  "entite_352": {
+    "label": "PER",
+    "text": "Clara",
+    "jalons": [
+      492,
+      498
+    ]
+  },
+  "entite_353": {
+    "label": "LOC",
+    "text": "MÉLISSAND",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_354": {
+    "label": "MISC",
+    "text": "Clara",
+    "jalons": [
+      30,
+      36
+    ]
+  },
+  "entite_355": {
+    "label": "MISC",
+    "text": "MÉL",
+    "jalons": [
+      40,
+      44
+    ]
+  },
+  "entite_356": {
+    "label": "PER",
+    "text": "ISSANDRE",
+    "jalons": [
+      44,
+      52
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      420,
+      426
+    ]
+  },
+  "entite_358": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      498,
+      510
+    ]
+  },
+  "entite_359": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      36,
+      48
+    ]
+  },
+  "entite_360": {
+    "label": "MISC",
+    "text": "T",
+    "jalons": [
+      506,
+      508
+    ]
+  },
+  "entite_361": {
+    "label": "PER",
+    "text": "IBUR",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      44,
+      52
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "Saint-Estève",
+    "jalons": [
+      250,
+      263
+    ]
+  },
+  "entite_364": {
+    "label": "DATE",
+    "text": "lundi",
+    "jalons": [
+      280,
+      286
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      377,
+      389
+    ]
+  },
+  "entite_366": {
+    "label": "DATE",
+    "text": "après",
+    "jalons": [
+      132,
+      138
+    ]
+  },
+  "entite_367": {
+    "label": "DATE",
+    "text": "d'années",
+    "jalons": [
+      143,
+      152
+    ]
+  },
+  "entite_368": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      238,
+      244
+    ]
+  },
+  "entite_369": {
+    "label": "DATE",
+    "text": "en vingt-quatre heures",
+    "jalons": [
+      254,
+      277
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "De Paris",
+    "jalons": [
+      359,
+      368
+    ]
+  },
+  "entite_371": {
+    "label": "DATE",
+    "text": "heures",
+    "jalons": [
+      408,
+      415
+    ]
+  },
+  "entite_372": {
+    "label": "PER",
+    "text": "Andromède",
+    "jalons": [
+      135,
+      145
+    ]
+  },
+  "entite_373": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      142,
+      154
+    ]
+  },
+  "entite_374": {
+    "label": "DATE",
+    "text": "un jour",
+    "jalons": [
+      348,
+      356
+    ]
+  },
+  "entite_375": {
+    "label": "DATE",
+    "text": "un",
+    "jalons": [
+      357,
+      360
+    ]
+  },
+  "entite_376": {
+    "label": "MISC",
+    "text": "T",
+    "jalons": [
+      489,
+      491
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "IBUR",
+    "jalons": [
+      491,
+      495
+    ]
+  },
+  "entite_378": {
+    "label": "MISC",
+    "text": "CE",
+    "jalons": [
+      495,
+      497
+    ]
+  },
+  "entite_379": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      500,
+      506
+    ]
+  },
+  "entite_380": {
+    "label": "LOC",
+    "text": "TIBUR",
+    "jalons": [
+      27,
+      33
+    ]
+  },
+  "entite_381": {
+    "label": "MISC",
+    "text": "CE",
+    "jalons": [
+      33,
+      35
+    ]
+  },
+  "entite_382": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      38,
+      44
+    ]
+  },
+  "entite_383": {
+    "label": "PER",
+    "text": "Orphée",
+    "jalons": [
+      71,
+      78
+    ]
+  },
+  "entite_384": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      278,
+      290
+    ]
+  },
+  "entite_385": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      294,
+      300
+    ]
+  },
+  "entite_386": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      307,
+      313
+    ]
+  },
+  "entite_387": {
+    "label": "DATE",
+    "text": "heures",
+    "jalons": [
+      214,
+      221
+    ]
+  },
+  "entite_388": {
+    "label": "DATE",
+    "text": "une semaine",
+    "jalons": [
+      387,
+      399
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      401,
+      407
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "À l'Estaque",
+    "jalons": [
+      191,
+      203
+    ]
+  },
+  "entite_391": {
+    "label": "DATE",
+    "text": "aujourd'hui",
+    "jalons": [
+      119,
+      131
+    ]
+  },
+  "entite_392": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      328,
+      336
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "l'Estaque",
+    "jalons": [
+      448,
+      458
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "Notre-Dame-de-la-Garde",
+    "jalons": [
+      81,
+      104
+    ]
+  },
+  "entite_395": {
+    "label": "LOC",
+    "text": "Saint-Loup",
+    "jalons": [
+      122,
+      133
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "Mont-Redon",
+    "jalons": [
+      373,
+      384
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "Pomègue",
+    "jalons": [
+      460,
+      468
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "Ratonneau",
+    "jalons": [
+      471,
+      481
+    ]
+  },
+  "entite_399": {
+    "label": "PER",
+    "text": "Ratonneau",
+    "jalons": [
+      9,
+      19
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "château d'If",
+    "jalons": [
+      88,
+      101
+    ]
+  },
+  "entite_401": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      310,
+      322
+    ]
+  },
+  "entite_402": {
+    "label": "DATE",
+    "text": "aujourd'hui",
+    "jalons": [
+      376,
+      388
+    ]
+  },
+  "entite_403": {
+    "label": "PER",
+    "text": "Titien",
+    "jalons": [
+      275,
+      282
+    ]
+  },
+  "entite_404": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      258,
+      270
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Vaucluse",
+    "jalons": [
+      153,
+      162
+    ]
+  },
+  "entite_406": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      190,
+      196
+    ]
+  },
+  "entite_407": {
+    "label": "PER",
+    "text": "Fortune",
+    "jalons": [
+      348,
+      356
+    ]
+  },
+  "entite_408": {
+    "label": "PER",
+    "text": "Apollon",
+    "jalons": [
+      77,
+      85
+    ]
+  },
+  "entite_409": {
+    "label": "PER",
+    "text": "Phidias",
+    "jalons": [
+      167,
+      175
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      282,
+      290
+    ]
+  },
+  "entite_411": {
+    "label": "DATE",
+    "text": "aujourd'hui qu",
+    "jalons": [
+      306,
+      321
+    ]
+  },
+  "entite_412": {
+    "label": "MISC",
+    "text": "Ah",
+    "jalons": [
+      290,
+      293
+    ]
+  },
+  "entite_413": {
+    "label": "DATE",
+    "text": "maintenant",
+    "jalons": [
+      312,
+      323
+    ]
+  },
+  "entite_414": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      363,
+      375
+    ]
+  },
+  "entite_415": {
+    "label": "DATE",
+    "text": "Depuis trois jours",
+    "jalons": [
+      376,
+      395
+    ]
+  },
+  "entite_416": {
+    "label": "DATE",
+    "text": "vingt ans",
+    "jalons": [
+      168,
+      178
+    ]
+  },
+  "entite_417": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      73,
+      79
+    ]
+  },
+  "entite_418": {
+    "label": "DATE",
+    "text": "trois jours",
+    "jalons": [
+      183,
+      195
+    ]
+  },
+  "entite_419": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      369,
+      381
+    ]
+  },
+  "entite_420": {
+    "label": "LOC",
+    "text": "l'Estaque",
+    "jalons": [
+      398,
+      408
+    ]
+  },
+  "entite_421": {
+    "label": "PER",
+    "text": "om",
+    "jalons": [
+      0,
+      2
+    ]
+  },
+  "entite_422": {
+    "label": "PER",
+    "text": "TIBURCE De",
+    "jalons": [
+      401,
+      413
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Vaucluse",
+    "jalons": [
+      413,
+      422
+    ]
+  },
+  "entite_424": {
+    "label": "MISC",
+    "text": "Léandre",
+    "jalons": [
+      488,
+      496
+    ]
+  },
+  "entite_425": {
+    "label": "MISC",
+    "text": "Roméo",
+    "jalons": [
+      497,
+      503
+    ]
+  },
+  "entite_426": {
+    "label": "PER",
+    "text": "Léandre",
+    "jalons": [
+      26,
+      34
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "Roméo",
+    "jalons": [
+      35,
+      41
+    ]
+  },
+  "entite_428": {
+    "label": "PER",
+    "text": "d'Héro",
+    "jalons": [
+      69,
+      76
+    ]
+  },
+  "entite_429": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      82,
+      91
+    ]
+  },
+  "entite_430": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      109,
+      121
+    ]
+  },
+  "entite_431": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      325,
+      337
+    ]
+  },
+  "entite_432": {
+    "label": "LOC",
+    "text": "Vaucluse",
+    "jalons": [
+      415,
+      424
+    ]
+  },
+  "entite_433": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      88,
+      94
+    ]
+  },
+  "entite_434": {
+    "label": "PER",
+    "text": "Diane",
+    "jalons": [
+      353,
+      359
+    ]
+  },
+  "entite_435": {
+    "label": "PER",
+    "text": "d'Endymion",
+    "jalons": [
+      47,
+      58
+    ]
+  },
+  "entite_436": {
+    "label": "LOC",
+    "text": "Grèce",
+    "jalons": [
+      107,
+      113
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "l'Attique",
+    "jalons": [
+      337,
+      347
+    ]
+  },
+  "entite_438": {
+    "label": "PER",
+    "text": "Isis",
+    "jalons": [
+      380,
+      385
+    ]
+  },
+  "entite_439": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      465,
+      473
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      3,
+      11
+    ]
+  },
+  "entite_441": {
+    "label": "PER",
+    "text": "Phébus",
+    "jalons": [
+      382,
+      389
+    ]
+  },
+  "entite_442": {
+    "label": "PER",
+    "text": "d'Apollon",
+    "jalons": [
+      76,
+      86
+    ]
+  },
+  "entite_443": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      429,
+      434
+    ]
+  },
+  "entite_444": {
+    "label": "PER",
+    "text": "d'Apollon",
+    "jalons": [
+      183,
+      193
+    ]
+  },
+  "entite_445": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      274,
+      286
+    ]
+  },
+  "entite_446": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      475,
+      480
+    ]
+  },
+  "entite_447": {
+    "label": "PER",
+    "text": "x",
+    "jalons": [
+      0,
+      1
+    ]
+  },
+  "entite_448": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      13,
+      18
+    ]
+  },
+  "entite_449": {
+    "label": "PER",
+    "text": "d'Apollon",
+    "jalons": [
+      191,
+      201
+    ]
+  },
+  "entite_450": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      237,
+      249
+    ]
+  },
+  "entite_451": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      262,
+      267
+    ]
+  },
+  "entite_452": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      70,
+      78
+    ]
+  },
+  "entite_453": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      169,
+      179
+    ]
+  },
+  "entite_454": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      184,
+      191
+    ]
+  },
+  "entite_455": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      195,
+      207
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      489,
+      496
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      27,
+      34
+    ]
+  },
+  "entite_458": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      118,
+      130
+    ]
+  },
+  "entite_459": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      334,
+      346
+    ]
+  },
+  "entite_460": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      298,
+      310
+    ]
+  },
+  "entite_461": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      450,
+      458
+    ]
+  },
+  "entite_462": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      52,
+      64
+    ]
+  },
+  "entite_463": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      182,
+      192
+    ]
+  },
+  "entite_464": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      317,
+      327
+    ]
+  },
+  "entite_465": {
+    "label": "PER",
+    "text": "Laure",
+    "jalons": [
+      373,
+      379
+    ]
+  },
+  "entite_466": {
+    "label": "LOC",
+    "text": "Vaucluse",
+    "jalons": [
+      466,
+      475
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "Vaucluse",
+    "jalons": [
+      4,
+      13
+    ]
+  },
+  "entite_468": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      377,
+      385
+    ]
+  },
+  "entite_469": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      314,
+      319
+    ]
+  },
+  "entite_470": {
+    "label": "LOC",
+    "text": "MÉLISSANDR",
+    "jalons": [
+      137,
+      148
+    ]
+  },
+  "entite_471": {
+    "label": "PER",
+    "text": "E Amie",
+    "jalons": [
+      148,
+      155
+    ]
+  },
+  "entite_472": {
+    "label": "DATE",
+    "text": "heures",
+    "jalons": [
+      53,
+      60
+    ]
+  },
+  "entite_473": {
+    "label": "DATE",
+    "text": "aujourd'hui",
+    "jalons": [
+      347,
+      359
+    ]
+  },
+  "entite_474": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      221,
+      229
+    ]
+  },
+  "entite_475": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      245,
+      250
+    ]
+  },
+  "entite_476": {
+    "label": "PER",
+    "text": "Phébus",
+    "jalons": [
+      276,
+      283
+    ]
+  },
+  "entite_477": {
+    "label": "PER",
+    "text": "Immortels",
+    "jalons": [
+      139,
+      149
+    ]
+  },
+  "entite_478": {
+    "label": "LOC",
+    "text": "MÉLISS",
+    "jalons": [
+      203,
+      210
+    ]
+  },
+  "entite_479": {
+    "label": "PER",
+    "text": "ANDRE",
+    "jalons": [
+      210,
+      215
+    ]
+  },
+  "entite_480": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      342,
+      350
+    ]
+  },
+  "entite_481": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      337,
+      342
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "MÉLISS",
+    "jalons": [
+      175,
+      182
+    ]
+  },
+  "entite_483": {
+    "label": "MISC",
+    "text": "ANDRE",
+    "jalons": [
+      182,
+      187
+    ]
+  },
+  "entite_484": {
+    "label": "MISC",
+    "text": "TIB",
+    "jalons": [
+      426,
+      430
+    ]
+  },
+  "entite_485": {
+    "label": "LOC",
+    "text": "UR",
+    "jalons": [
+      430,
+      432
+    ]
+  },
+  "entite_486": {
+    "label": "MISC",
+    "text": "CE",
+    "jalons": [
+      432,
+      434
+    ]
+  },
+  "entite_487": {
+    "label": "LOC",
+    "text": "MÉLISS",
+    "jalons": [
+      63,
+      70
+    ]
+  },
+  "entite_488": {
+    "label": "PER",
+    "text": "ANDRE",
+    "jalons": [
+      70,
+      75
+    ]
+  },
+  "entite_489": {
+    "label": "DATE",
+    "text": "Hier",
+    "jalons": [
+      76,
+      81
+    ]
+  },
+  "entite_490": {
+    "label": "PER",
+    "text": "d'Antéros",
+    "jalons": [
+      453,
+      463
+    ]
+  },
+  "entite_491": {
+    "label": "PER",
+    "text": "d'Éros",
+    "jalons": [
+      470,
+      477
+    ]
+  },
+  "entite_492": {
+    "label": "LOC",
+    "text": "TIBUR",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_493": {
+    "label": "PER",
+    "text": "d'Éros",
+    "jalons": [
+      8,
+      15
+    ]
+  },
+  "entite_494": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      44,
+      52
+    ]
+  },
+  "entite_495": {
+    "label": "MISC",
+    "text": "MÉL",
+    "jalons": [
+      91,
+      95
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "ISS",
+    "jalons": [
+      95,
+      98
+    ]
+  },
+  "entite_497": {
+    "label": "MISC",
+    "text": "ANDRE",
+    "jalons": [
+      98,
+      103
+    ]
+  },
+  "entite_498": {
+    "label": "PER",
+    "text": "Diane",
+    "jalons": [
+      113,
+      119
+    ]
+  },
+  "entite_499": {
+    "label": "DATE",
+    "text": "un jour",
+    "jalons": [
+      268,
+      276
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "Cythère",
+    "jalons": [
+      453,
+      461
+    ]
+  },
+  "entite_501": {
+    "label": "MISC",
+    "text": "l'Amour",
+    "jalons": [
+      458,
+      466
+    ]
+  },
+  "entite_502": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      269,
+      281
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "Diane",
+    "jalons": [
+      289,
+      295
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      47,
+      55
+    ]
+  },
+  "entite_505": {
+    "label": "PER",
+    "text": "Diane",
+    "jalons": [
+      64,
+      70
+    ]
+  },
+  "entite_506": {
+    "label": "PER",
+    "text": "d'Apollon",
+    "jalons": [
+      76,
+      86
+    ]
+  },
+  "entite_507": {
+    "label": "LOC",
+    "text": "Latmus",
+    "jalons": [
+      101,
+      108
+    ]
+  },
+  "entite_508": {
+    "label": "PER",
+    "text": "Endymion",
+    "jalons": [
+      211,
+      220
+    ]
+  },
+  "entite_509": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      320,
+      332
+    ]
+  },
+  "entite_510": {
+    "label": "LOC",
+    "text": "l'Adriatique",
+    "jalons": [
+      219,
+      232
+    ]
+  },
+  "entite_511": {
+    "label": "LOC",
+    "text": "l'Oural",
+    "jalons": [
+      445,
+      453
+    ]
+  },
+  "entite_512": {
+    "label": "PER",
+    "text": "Junon",
+    "jalons": [
+      395,
+      401
+    ]
+  },
+  "entite_513": {
+    "label": "PER",
+    "text": "Cypris",
+    "jalons": [
+      409,
+      416
+    ]
+  },
+  "entite_514": {
+    "label": "PER",
+    "text": "Prométhée",
+    "jalons": [
+      188,
+      198
+    ]
+  },
+  "entite_515": {
+    "label": "PER",
+    "text": "Célimène",
+    "jalons": [
+      114,
+      123
+    ]
+  },
+  "entite_516": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      384,
+      392
+    ]
+  },
+  "entite_517": {
+    "label": "PER",
+    "text": "Apollon",
+    "jalons": [
+      417,
+      425
+    ]
+  },
+  "entite_518": {
+    "label": "PER",
+    "text": "Carpo",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_519": {
+    "label": "PER",
+    "text": "Carpo",
+    "jalons": [
+      43,
+      49
+    ]
+  },
+  "entite_520": {
+    "label": "PER",
+    "text": "Chloris",
+    "jalons": [
+      68,
+      76
+    ]
+  },
+  "entite_521": {
+    "label": "PER",
+    "text": "Mesembria",
+    "jalons": [
+      198,
+      208
+    ]
+  },
+  "entite_522": {
+    "label": "PER",
+    "text": "Carpo",
+    "jalons": [
+      212,
+      218
+    ]
+  },
+  "entite_523": {
+    "label": "PER",
+    "text": "Zéphire",
+    "jalons": [
+      454,
+      462
+    ]
+  },
+  "entite_524": {
+    "label": "PER",
+    "text": "Carpo",
+    "jalons": [
+      206,
+      212
+    ]
+  },
+  "entite_525": {
+    "label": "PER",
+    "text": "Kanthus",
+    "jalons": [
+      290,
+      298
+    ]
+  },
+  "entite_526": {
+    "label": "PER",
+    "text": "Ballos",
+    "jalons": [
+      301,
+      308
+    ]
+  },
+  "entite_527": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      473,
+      485
+    ]
+  },
+  "entite_528": {
+    "label": "PER",
+    "text": "appes",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_529": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      11,
+      23
+    ]
+  },
+  "entite_530": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      202,
+      210
+    ]
+  },
+  "entite_531": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      331,
+      343
+    ]
+  },
+  "entite_532": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      376,
+      383
+    ]
+  },
+  "entite_533": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      471,
+      483
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      487,
+      495
+    ]
+  },
+  "entite_535": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      9,
+      21
+    ]
+  },
+  "entite_536": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      25,
+      33
+    ]
+  },
+  "entite_537": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      204,
+      216
+    ]
+  },
+  "entite_538": {
+    "label": "DATE",
+    "text": "quatre années",
+    "jalons": [
+      132,
+      146
+    ]
+  },
+  "entite_539": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      240,
+      252
+    ]
+  },
+  "entite_540": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      418,
+      430
+    ]
+  },
+  "entite_541": {
+    "label": "DATE",
+    "text": "a un an",
+    "jalons": [
+      180,
+      188
+    ]
+  },
+  "entite_542": {
+    "label": "PER",
+    "text": "Pétrarque",
+    "jalons": [
+      83,
+      93
+    ]
+  },
+  "entite_543": {
+    "label": "DATE",
+    "text": "hier",
+    "jalons": [
+      175,
+      180
+    ]
+  },
+  "entite_544": {
+    "label": "DATE",
+    "text": "aujourd'hui le",
+    "jalons": [
+      73,
+      88
+    ]
+  },
+  "entite_545": {
+    "label": "PER",
+    "text": "Apollon",
+    "jalons": [
+      136,
+      144
+    ]
+  },
+  "entite_546": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      65,
+      73
+    ]
+  },
+  "entite_547": {
+    "label": "LOC",
+    "text": "Noves",
+    "jalons": [
+      131,
+      137
+    ]
+  },
+  "entite_548": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      199,
+      206
+    ]
+  },
+  "entite_549": {
+    "label": "LOC",
+    "text": "Noves",
+    "jalons": [
+      182,
+      188
+    ]
+  },
+  "entite_550": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      209,
+      221
+    ]
+  },
+  "entite_551": {
+    "label": "LOC",
+    "text": "Noves",
+    "jalons": [
+      308,
+      314
+    ]
+  },
+  "entite_552": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      434,
+      442
+    ]
+  },
+  "entite_553": {
+    "label": "DATE",
+    "text": "aujourd'hui",
+    "jalons": [
+      215,
+      227
+    ]
+  },
+  "entite_554": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      283,
+      295
+    ]
+  },
+  "entite_555": {
+    "label": "PER",
+    "text": "Noves",
+    "jalons": [
+      400,
+      406
+    ]
+  },
+  "entite_556": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      408,
+      420
+    ]
+  },
+  "entite_557": {
+    "label": "PER",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      65,
+      77
+    ]
+  },
+  "entite_558": {
+    "label": "DATE",
+    "text": "il",
+    "jalons": [
+      120,
+      123
+    ]
+  },
+  "entite_559": {
+    "label": "DATE",
+    "text": "a vingt-sept ans",
+    "jalons": [
+      125,
+      142
+    ]
+  },
+  "entite_560": {
+    "label": "DATE",
+    "text": "aujourd'hui",
+    "jalons": [
+      193,
+      205
+    ]
+  },
+  "entite_561": {
+    "label": "DATE",
+    "text": "vingt ans à",
+    "jalons": [
+      440,
+      452
+    ]
+  },
+  "entite_562": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      205,
+      213
+    ]
+  },
+  "entite_563": {
+    "label": "DATE",
+    "text": "neuf heures",
+    "jalons": [
+      245,
+      257
+    ]
+  },
+  "entite_564": {
+    "label": "LOC",
+    "text": "Sorgues",
+    "jalons": [
+      117,
+      125
+    ]
+  },
+  "entite_565": {
+    "label": "PER",
+    "text": "Artémis",
+    "jalons": [
+      262,
+      270
+    ]
+  },
+  "entite_566": {
+    "label": "PER",
+    "text": "Artémis",
+    "jalons": [
+      489,
+      497
+    ]
+  },
+  "entite_567": {
+    "label": "PER",
+    "text": "Artémis",
+    "jalons": [
+      27,
+      35
+    ]
+  },
+  "entite_568": {
+    "label": "PER",
+    "text": "Phébus",
+    "jalons": [
+      67,
+      74
+    ]
+  },
+  "entite_569": {
+    "label": "PER",
+    "text": "don Juan",
+    "jalons": [
+      482,
+      491
+    ]
+  },
+  "entite_570": {
+    "label": "PER",
+    "text": "don Juan",
+    "jalons": [
+      20,
+      29
+    ]
+  },
+  "entite_571": {
+    "label": "PER",
+    "text": "MÉLISSANDRE Moqueuse",
+    "jalons": [
+      258,
+      280
+    ]
+  },
+  "entite_572": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      107,
+      119
+    ]
+  },
+  "entite_573": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      139,
+      147
+    ]
+  },
+  "entite_574": {
+    "label": "PER",
+    "text": "d'Apollon",
+    "jalons": [
+      366,
+      376
+    ]
+  },
+  "entite_575": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      156,
+      168
+    ]
+  },
+  "entite_576": {
+    "label": "PER",
+    "text": "Pythien",
+    "jalons": [
+      258,
+      266
+    ]
+  },
+  "entite_577": {
+    "label": "LOC",
+    "text": "Sorgues",
+    "jalons": [
+      427,
+      435
+    ]
+  },
+  "entite_578": {
+    "label": "LOC",
+    "text": "MÉLISSANDRE",
+    "jalons": [
+      77,
+      89
+    ]
+  },
+  "entite_579": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      292,
+      300
+    ]
+  },
+  "entite_580": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      351,
+      363
+    ]
+  },
+  "entite_581": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      446,
+      453
+    ]
+  },
+  "entite_582": {
+    "label": "DATE",
+    "text": "dimanche",
+    "jalons": [
+      454,
+      463
+    ]
+  },
+  "entite_583": {
+    "label": "LOC",
+    "text": "Marseille",
+    "jalons": [
+      60,
+      70
+    ]
+  },
+  "entite_584": {
+    "label": "DATE",
+    "text": "en deux jours",
+    "jalons": [
+      71,
+      85
+    ]
+  },
+  "entite_585": {
+    "label": "LOC",
+    "text": "d'Avignon",
+    "jalons": [
+      267,
+      277
+    ]
+  },
+  "entite_586": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      329,
+      336
+    ]
+  },
+  "entite_587": {
+    "label": "PER",
+    "text": "Vénus Uranie",
+    "jalons": [
+      426,
+      439
+    ]
+  },
+  "entite_588": {
+    "label": "LOC",
+    "text": "M",
+    "jalons": [
+      52,
+      54
+    ]
+  },
+  "entite_589": {
+    "label": "PER",
+    "text": "ÉLISSANDRE",
+    "jalons": [
+      54,
+      64
+    ]
+  },
+  "entite_590": {
+    "label": "PER",
+    "text": "Vénus",
+    "jalons": [
+      410,
+      416
+    ]
+  },
+  "entite_591": {
+    "label": "PER",
+    "text": "Mélissandre",
+    "jalons": [
+      66,
+      78
+    ]
+  },
+  "entite_592": {
+    "label": "DATE",
+    "text": "maintenant",
+    "jalons": [
+      449,
+      460
+    ]
+  },
+  "entite_593": {
+    "label": "LOC",
+    "text": "TIBURCE",
+    "jalons": [
+      444,
+      452
+    ]
+  },
+  "entite_594": {
+    "label": "PER",
+    "text": "M. de Noves",
+    "jalons": [
+      50,
+      62
+    ]
+  },
+  "entite_595": {
+    "label": "PER",
+    "text": "Apollon",
+    "jalons": [
+      76,
+      84
+    ]
+  }
+}

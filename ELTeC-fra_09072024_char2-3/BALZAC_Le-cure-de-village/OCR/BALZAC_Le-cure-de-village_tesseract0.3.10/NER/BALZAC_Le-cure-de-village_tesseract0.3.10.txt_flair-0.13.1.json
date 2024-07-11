@@ -1,0 +1,6794 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Gallica  Le curé de village",
+    "jalons": [
+      6,
+      33
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "H. de Balzac  Source",
+    "jalons": [
+      36,
+      56
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Bibliothèque nationale de France",
+    "jalons": [
+      74,
+      106
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Gallica     Balzac",
+    "jalons": [
+      112,
+      130
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Honoré de",
+    "jalons": [
+      132,
+      141
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Auteur du texte",
+    "jalons": [
+      155,
+      170
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "Le curé de village",
+    "jalons": [
+      172,
+      190
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "H. de Balzac",
+    "jalons": [
+      193,
+      205
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la mention de",
+    "jalons": [
+      79,
+      183
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      286,
+      292
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Les contenus de Gallica sont la propriété de la BnF au sens de",
+    "jalons": [
+      369,
+      431
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      462,
+      468
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "LE",
+    "jalons": [
+      494,
+      496
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "VÉNONIQUE",
+    "jalons": [
+      469,
+      478
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "Dans lo Bas-Limoges",
+    "jalons": [
+      481,
+      500
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "la rue de la Vioille",
+    "jalons": [
+      1,
+      21
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Poste ot de Ja rue de Ja Cité",
+    "jalons": [
+      23,
+      52
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "Extrait de La Comédie",
+    "jalons": [
+      356,
+      377
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Au fond de la",
+    "jalons": [
+      454,
+      467
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "la rue de la Cité",
+    "jalons": [
+      228,
+      245
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      404,
+      409
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Ainsi",
+    "jalons": [
+      411,
+      416
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Sauviat",
+    "jalons": [
+      497,
+      504
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Brézac",
+    "jalons": [
+      448,
+      454
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "’Auvérgna",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      14,
+      21
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Molière",
+    "jalons": [
+      240,
+      247
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "allait",
+    "jalons": [
+      5,
+      11
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      14,
+      19
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      217,
+      222
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      310,
+      315
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Auvergaat",
+    "jalons": [
+      317,
+      326
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Ja caisse de la maison Brôzac",
+    "jalons": [
+      375,
+      404
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Sauviut",
+    "jalons": [
+      501,
+      508
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Pierre",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Sauviat",
+    "jalons": [
+      461,
+      468
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Paquet",
+    "jalons": [
+      320,
+      326
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "des nouvelles de Véronique qu'à la sœur Marthe, Durant les jours où le danger",
+    "jalons": [
+      38,
+      115
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Séule et uuiquo fois de la vie de Sauviat des",
+    "jalons": [
+      190,
+      235
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "Un jour",
+    "jalons": [
+      470,
+      477
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "dans la chambre de Véronique",
+    "jalons": [
+      40,
+      68
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Saint-Étienne",
+    "jalons": [
+      327,
+      340
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Sambre",
+    "jalons": [
+      4,
+      10
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Sauviat",
+    "jalons": [
+      393,
+      400
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      331,
+      336
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "la Pie des Saints",
+    "jalons": [
+      208,
+      225
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      507,
+      511
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "MI",
+    "jalons": [
+      493,
+      495
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Pacce",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "dé Van Ostado, de Terburg et de Gérard Dow",
+    "jalons": [
+      141,
+      183
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "RTL EE  elle vit lo livre de Paul et Virginie",
+    "jalons": [
+      430,
+      475
+    ]
+  },
+  "entite_52": {
+    "label": "ORG",
+    "text": "Elle eut la fantaisie de",
+    "jalons": [
+      477,
+      501
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "vros de la langue",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "Saint-Etienne",
+    "jalons": [
+      426,
+      439
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "qui est la vie de la",
+    "jalons": [
+      467,
+      487
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Mais.la",
+    "jalons": [
+      497,
+      504
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      130,
+      134
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "Île de la Vienne",
+    "jalons": [
+      399,
+      415
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      436,
+      443
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Saint-Marlial",
+    "jalons": [
+      473,
+      486
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "l'flo-de-Frénce",
+    "jalons": [
+      488,
+      503
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Vienne",
+    "jalons": [
+      2,
+      8
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      60,
+      65
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Sauvial",
+    "jalons": [
+      234,
+      241
+    ]
+  },
+  "entite_65": {
+    "label": "LOC",
+    "text": "Sauviat",
+    "jalons": [
+      101,
+      108
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      140,
+      145
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Jérôme-Baplisio Sauviat",
+    "jalons": [
+      150,
+      173
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Véronique",
+    "jalons": [
+      317,
+      326
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Le lon",
+    "jalons": [
+      328,
+      334
+    ]
+  },
+  "entite_70": {
+    "label": "PER",
+    "text": "Trier Véronique",
+    "jalons": [
+      449,
+      464
+    ]
+  },
+  "entite_71": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      275,
+      282
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Pierre Gräslin",
+    "jalons": [
+      311,
+      325
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "CRETE",
+    "jalons": [
+      399,
+      404
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Moutanimanigne",
+    "jalons": [
+      473,
+      487
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      161,
+      168
+    ]
+  },
+  "entite_76": {
+    "label": "LOC",
+    "text": "Sauviat de la",
+    "jalons": [
+      173,
+      186
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "Pierre Graslin",
+    "jalons": [
+      473,
+      487
+    ]
+  },
+  "entite_78": {
+    "label": "LOC",
+    "text": "garçon de peine",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_79": {
+    "label": "LOC",
+    "text": "Malgré los dires de Ja",
+    "jalons": [
+      490,
+      512
+    ]
+  },
+  "entite_80": {
+    "label": "MISC",
+    "text": "villa el los lazzi",
+    "jalons": [
+      1,
+      19
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "comte de Fontaine",
+    "jalons": [
+      470,
+      487
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "Sauvial",
+    "jalons": [
+      489,
+      496
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      221,
+      228
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      479,
+      484
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "Sauviuf",
+    "jalons": [
+      22,
+      29
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      124,
+      129
+    ]
+  },
+  "entite_87": {
+    "label": "MISC",
+    "text": "Véronique sera la première de Limoges",
+    "jalons": [
+      265,
+      302
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      128,
+      133
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      360,
+      367
+    ]
+  },
+  "entite_90": {
+    "label": "MISC",
+    "text": "Paris se sugcédaient de jour en jour",
+    "jalons": [
+      468,
+      504
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "Enfin",
+    "jalons": [
+      229,
+      234
+    ]
+  },
+  "entite_92": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      142,
+      149
+    ]
+  },
+  "entite_93": {
+    "label": "MISC",
+    "text": "Au retour de Sauviat",
+    "jalons": [
+      154,
+      174
+    ]
+  },
+  "entite_94": {
+    "label": "LOC",
+    "text": "Jtvro de Bérnardln de     médecin",
+    "jalons": [
+      479,
+      512
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "Véronique",
+    "jalons": [
+      479,
+      488
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "la santé de Graslin",
+    "jalons": [
+      368,
+      387
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "Gytise des Alpes",
+    "jalons": [
+      1,
+      17
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "Là",
+    "jalons": [
+      83,
+      85
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "Grasli",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_101": {
+    "label": "MISC",
+    "text": "Ladot de Véronique sécomposait de",
+    "jalons": [
+      204,
+      237
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Brézae",
+    "jalons": [
+      457,
+      463
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "Lie",
+    "jalons": [
+      424,
+      427
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      35,
+      42
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Véronique",
+    "jalons": [
+      499,
+      508
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Co",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_107": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      46,
+      53
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "Enfin",
+    "jalons": [
+      160,
+      165
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "Jes",
+    "jalons": [
+      167,
+      170
+    ]
+  },
+  "entite_110": {
+    "label": "MISC",
+    "text": "Exirait de la Comédie humaine",
+    "jalons": [
+      175,
+      204
+    ]
+  },
+  "entite_111": {
+    "label": "MISC",
+    "text": "énormité de la doi",
+    "jalons": [
+      1,
+      19
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      200,
+      205
+    ]
+  },
+  "entite_113": {
+    "label": "LOC",
+    "text": "Chiffrait la valeur des lustres",
+    "jalons": [
+      299,
+      330
+    ]
+  },
+  "entite_114": {
+    "label": "ORG",
+    "text": "Dans lo jardin de l'hôtel Graslin",
+    "jalons": [
+      476,
+      509
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      263,
+      270
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "Grastin",
+    "jalons": [
+      330,
+      337
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      110,
+      117
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Sauviat",
+    "jalons": [
+      462,
+      469
+    ]
+  },
+  "entite_119": {
+    "label": "ORG",
+    "text": "de Limoges",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      35,
+      42
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "Limousin",
+    "jalons": [
+      262,
+      270
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "Ville",
+    "jalons": [
+      73,
+      78
+    ]
+  },
+  "entite_123": {
+    "label": "LOC",
+    "text": "Charmante vue sur la Vienne",
+    "jalons": [
+      416,
+      443
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "Véronique",
+    "jalons": [
+      490,
+      499
+    ]
+  },
+  "entite_125": {
+    "label": "PER",
+    "text": "Ilo-de France",
+    "jalons": [
+      31,
+      44
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "Graslih",
+    "jalons": [
+      259,
+      266
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      309,
+      314
+    ]
+  },
+  "entite_128": {
+    "label": "LOC",
+    "text": "monde de la ville s'oseupa beaucoup de Véro",
+    "jalons": [
+      256,
+      299
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Fontenelle",
+    "jalons": [
+      457,
+      467
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Mons",
+    "jalons": [
+      429,
+      433
+    ]
+  },
+  "entite_131": {
+    "label": "MISC",
+    "text": "Elle Lu les ornans",
+    "jalons": [
+      73,
+      91
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "Sclilller el de Goëthie",
+    "jalons": [
+      155,
+      178
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "Condamna",
+    "jalons": [
+      204,
+      212
+    ]
+  },
+  "entite_134": {
+    "label": "LOC",
+    "text": "Soutenir la",
+    "jalons": [
+      495,
+      506
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "Grosselélé",
+    "jalons": [
+      321,
+      331
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "Véronique",
+    "jalons": [
+      489,
+      498
+    ]
+  },
+  "entite_137": {
+    "label": "LOC",
+    "text": "LU EU",
+    "jalons": [
+      370,
+      375
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "IL",
+    "jalons": [
+      507,
+      509
+    ]
+  },
+  "entite_139": {
+    "label": "MISC",
+    "text": "Jamais Le banguier",
+    "jalons": [
+      105,
+      123
+    ]
+  },
+  "entite_140": {
+    "label": "LOC",
+    "text": "Insonsiblomont",
+    "jalons": [
+      300,
+      314
+    ]
+  },
+  "entite_141": {
+    "label": "LOC",
+    "text": "Espagne",
+    "jalons": [
+      328,
+      335
+    ]
+  },
+  "entite_142": {
+    "label": "MISC",
+    "text": "la donnait des mates las et des",
+    "jalons": [
+      0,
+      31
+    ]
+  },
+  "entite_143": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      189,
+      193
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "dehors de la",
+    "jalons": [
+      24,
+      36
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "L'abbé de Gran",
+    "jalons": [
+      55,
+      69
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "Véron",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "Enfin",
+    "jalons": [
+      476,
+      481
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "Ainsi",
+    "jalons": [
+      100,
+      105
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "Véronique",
+    "jalons": [
+      438,
+      447
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "parquet de la cour de Limoges",
+    "jalons": [
+      125,
+      154
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "Jo",
+    "jalons": [
+      472,
+      474
+    ]
+  },
+  "entite_152": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      402,
+      409
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "vicomte de  Grandville",
+    "jalons": [
+      7,
+      29
+    ]
+  },
+  "entite_154": {
+    "label": "MISC",
+    "text": "Le charme eroissant de la conversation et des mar hières de Véronique",
+    "jalons": [
+      275,
+      344
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      281,
+      288
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      422,
+      427
+    ]
+  },
+  "entite_157": {
+    "label": "LOC",
+    "text": "Porsoune",
+    "jalons": [
+      281,
+      289
+    ]
+  },
+  "entite_158": {
+    "label": "PER",
+    "text": "digna de Raphaël",
+    "jalons": [
+      491,
+      507
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Los  Grandville",
+    "jalons": [
+      250,
+      265
+    ]
+  },
+  "entite_160": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      431,
+      438
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      479,
+      486
+    ]
+  },
+  "entite_162": {
+    "label": "LOC",
+    "text": "Limousin",
+    "jalons": [
+      238,
+      246
+    ]
+  },
+  "entite_163": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "La rive de la Vienno",
+    "jalons": [
+      350,
+      370
+    ]
+  },
+  "entite_165": {
+    "label": "PER",
+    "text": "renier de Ja ville",
+    "jalons": [
+      37,
+      55
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "La ruo des Clorbes",
+    "jalons": [
+      32,
+      50
+    ]
+  },
+  "entite_167": {
+    "label": "MISC",
+    "text": "la douleur  des Dos Vanneaulx",
+    "jalons": [
+      0,
+      29
+    ]
+  },
+  "entite_168": {
+    "label": "PER",
+    "text": "Jeanne Malassis",
+    "jalons": [
+      456,
+      471
+    ]
+  },
+  "entite_169": {
+    "label": "MISC",
+    "text": "Vers la fin du mois de",
+    "jalons": [
+      279,
+      301
+    ]
+  },
+  "entite_170": {
+    "label": "LOC",
+    "text": "Saint-Etien",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Joyeux",
+    "jalons": [
+      166,
+      172
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      404,
+      411
+    ]
+  },
+  "entite_173": {
+    "label": "LOC",
+    "text": "Lu",
+    "jalons": [
+      413,
+      415
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Jean-Fratigois Tascheron",
+    "jalons": [
+      473,
+      497
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "Le malheu",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_176": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      451,
+      458
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "Jean-François Taschéron",
+    "jalons": [
+      130,
+      153
+    ]
+  },
+  "entite_178": {
+    "label": "LOC",
+    "text": "Limousin",
+    "jalons": [
+      275,
+      283
+    ]
+  },
+  "entite_179": {
+    "label": "LOC",
+    "text": "Montégnac",
+    "jalons": [
+      498,
+      507
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "De",
+    "jalons": [
+      509,
+      511
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Jean-François",
+    "jalons": [
+      428,
+      441
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "Quel",
+    "jalons": [
+      223,
+      227
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "Jeanne Malissis",
+    "jalons": [
+      375,
+      390
+    ]
+  },
+  "entite_184": {
+    "label": "PER",
+    "text": "François T",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_185": {
+    "label": "LOC",
+    "text": "Séïde",
+    "jalons": [
+      372,
+      377
+    ]
+  },
+  "entite_186": {
+    "label": "PER",
+    "text": "de Joaïi-François",
+    "jalons": [
+      495,
+      512
+    ]
+  },
+  "entite_187": {
+    "label": "MISC",
+    "text": "la ressource de l'arrestation et de la",
+    "jalons": [
+      1,
+      39
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Denise Tascheron",
+    "jalons": [
+      127,
+      143
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Grandville",
+    "jalons": [
+      299,
+      309
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "Véronique",
+    "jalons": [
+      311,
+      320
+    ]
+  },
+  "entite_191": {
+    "label": "LOC",
+    "text": "LE CURÉDE VILLAGE",
+    "jalons": [
+      428,
+      445
+    ]
+  },
+  "entite_192": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      210,
+      214
+    ]
+  },
+  "entite_193": {
+    "label": "MISC",
+    "text": "Ainsi le projet de quitter la",
+    "jalons": [
+      216,
+      245
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      246,
+      252
+    ]
+  },
+  "entite_195": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      118,
+      123
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "Jean-François et sa maîtresse",
+    "jalons": [
+      227,
+      256
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      84,
+      89
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Pingtet",
+    "jalons": [
+      1,
+      8
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "Aujourd'hui",
+    "jalons": [
+      483,
+      494
+    ]
+  },
+  "entite_200": {
+    "label": "LOC",
+    "text": "Allons",
+    "jalons": [
+      472,
+      478
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Pingret",
+    "jalons": [
+      405,
+      412
+    ]
+  },
+  "entite_202": {
+    "label": "LOC",
+    "text": "ila l'adjoriction de la  Cour",
+    "jalons": [
+      0,
+      29
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Parrêt",
+    "jalons": [
+      486,
+      492
+    ]
+  },
+  "entite_204": {
+    "label": "PER",
+    "text": "Uno Jutto si achar",
+    "jalons": [
+      494,
+      512
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "Giles!",
+    "jalons": [
+      4,
+      10
+    ]
+  },
+  "entite_206": {
+    "label": "LOC",
+    "text": "Denise",
+    "jalons": [
+      153,
+      159
+    ]
+  },
+  "entite_207": {
+    "label": "PER",
+    "text": "Jeanie Deans",
+    "jalons": [
+      398,
+      410
+    ]
+  },
+  "entite_208": {
+    "label": "PER",
+    "text": "François Tascheron",
+    "jalons": [
+      493,
+      511
+    ]
+  },
+  "entite_209": {
+    "label": "LOC",
+    "text": "Napoléon",
+    "jalons": [
+      486,
+      494
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "aurnônier de  la prison",
+    "jalons": [
+      333,
+      356
+    ]
+  },
+  "entite_211": {
+    "label": "LOC",
+    "text": "Taschero",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "Vanneaulx",
+    "jalons": [
+      217,
+      226
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Vannoaulx",
+    "jalons": [
+      366,
+      375
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "Dés  Vañneäulx",
+    "jalons": [
+      490,
+      504
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Une",
+    "jalons": [
+      507,
+      510
+    ]
+  },
+  "entite_216": {
+    "label": "MISC",
+    "text": "es femmes dé la société do madame Graslin",
+    "jalons": [
+      0,
+      41
+    ]
+  },
+  "entite_217": {
+    "label": "MISC",
+    "text": "Palais et delà fub du Pont-Hérisson",
+    "jalons": [
+      20,
+      55
+    ]
+  },
+  "entite_218": {
+    "label": "LOC",
+    "text": "Arènes",
+    "jalons": [
+      183,
+      189
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "Laubardemiont",
+    "jalons": [
+      491,
+      504
+    ]
+  },
+  "entite_220": {
+    "label": "LOC",
+    "text": "Tas",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "l'abbé Dutlieil prit sur lui de proposer",
+    "jalons": [
+      3,
+      43
+    ]
+  },
+  "entite_222": {
+    "label": "MISC",
+    "text": "épiscopal de Limoges est assis sur uno éollino  qui borde la Vienne",
+    "jalons": [
+      1,
+      68
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Au delà de",
+    "jalons": [
+      206,
+      216
+    ]
+  },
+  "entite_224": {
+    "label": "MISC",
+    "text": "La  magie du sito et la riche",
+    "jalons": [
+      151,
+      180
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "Dutheil",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_226": {
+    "label": "PER",
+    "text": "monsieur de Grandéour",
+    "jalons": [
+      35,
+      56
+    ]
+  },
+  "entite_227": {
+    "label": "LOC",
+    "text": "t-Martial",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_228": {
+    "label": "PER",
+    "text": "côté du faubourg Saint-Eienne",
+    "jalons": [
+      2,
+      31
+    ]
+  },
+  "entite_229": {
+    "label": "MISC",
+    "text": "de la Vienno le mot de l'énigme alors cherché par les Das Vanneaulx et par la justice",
+    "jalons": [
+      410,
+      495
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "sieur de Grahcour",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "Ja.",
+    "jalons": [
+      376,
+      379
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "Sans",
+    "jalons": [
+      413,
+      417
+    ]
+  },
+  "entite_233": {
+    "label": "LOC",
+    "text": "Monseigneur",
+    "jalons": [
+      498,
+      509
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      384,
+      389
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "Montégha",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Saint-Elonne",
+    "jalons": [
+      465,
+      477
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Gabtlel",
+    "jalons": [
+      2,
+      9
+    ]
+  },
+  "entite_238": {
+    "label": "PER",
+    "text": "Etienne l'espace",
+    "jalons": [
+      14,
+      30
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_240": {
+    "label": "LOC",
+    "text": "Monsieur de Grandville",
+    "jalons": [
+      369,
+      391
+    ]
+  },
+  "entite_241": {
+    "label": "PER",
+    "text": "L'abbé Gabriel",
+    "jalons": [
+      5,
+      19
+    ]
+  },
+  "entite_242": {
+    "label": "MISC",
+    "text": "de la Corrèze et avoisino la Creuse",
+    "jalons": [
+      227,
+      262
+    ]
+  },
+  "entite_243": {
+    "label": "PER",
+    "text": "Gabriel de Rastignäc",
+    "jalons": [
+      455,
+      475
+    ]
+  },
+  "entite_244": {
+    "label": "PER",
+    "text": "L'abbé Gabriel",
+    "jalons": [
+      362,
+      376
+    ]
+  },
+  "entite_245": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      467,
+      472
+    ]
+  },
+  "entite_246": {
+    "label": "LOC",
+    "text": "Bordcoaux",
+    "jalons": [
+      448,
+      457
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      460,
+      464
+    ]
+  },
+  "entite_248": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      491,
+      498
+    ]
+  },
+  "entite_249": {
+    "label": "MISC",
+    "text": "sans do la Vienne et ls Jolies prüirivs en pente du Limou",
+    "jalons": [
+      14,
+      71
+    ]
+  },
+  "entite_250": {
+    "label": "LOC",
+    "text": "Saint-Léonard",
+    "jalons": [
+      150,
+      163
+    ]
+  },
+  "entite_251": {
+    "label": "PER",
+    "text": "ées de l'Apoñnin",
+    "jalons": [
+      0,
+      16
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      272,
+      278
+    ]
+  },
+  "entite_253": {
+    "label": "LOC",
+    "text": "Brie",
+    "jalons": [
+      504,
+      508
+    ]
+  },
+  "entite_254": {
+    "label": "MISC",
+    "text": "dant les deux",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_255": {
+    "label": "LOC",
+    "text": "Cooper",
+    "jalons": [
+      361,
+      367
+    ]
+  },
+  "entite_256": {
+    "label": "PER",
+    "text": "lu Sociéié",
+    "jalons": [
+      19,
+      29
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "la vallée de fa Vienne",
+    "jalons": [
+      72,
+      94
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "de la Loire du bas",
+    "jalons": [
+      280,
+      298
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "sin de la Seine",
+    "jalons": [
+      302,
+      317
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "Ja surlace de la France",
+    "jalons": [
+      400,
+      423
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Ies",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "Beau",
+    "jalons": [
+      310,
+      314
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      274,
+      280
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "Séparés de la grande",
+    "jalons": [
+      342,
+      362
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "Ari",
+    "jalons": [
+      24,
+      27
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "là Haute-Vienne",
+    "jalons": [
+      302,
+      317
+    ]
+  },
+  "entite_267": {
+    "label": "LOC",
+    "text": "Celte",
+    "jalons": [
+      435,
+      440
+    ]
+  },
+  "entite_268": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      492,
+      500
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      504,
+      508
+    ]
+  },
+  "entite_270": {
+    "label": "PER",
+    "text": "Bonne",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_271": {
+    "label": "LOC",
+    "text": "Franc",
+    "jalons": [
+      162,
+      167
+    ]
+  },
+  "entite_272": {
+    "label": "LOC",
+    "text": "Vésle",
+    "jalons": [
+      85,
+      90
+    ]
+  },
+  "entite_273": {
+    "label": "LOC",
+    "text": "Montégt",
+    "jalons": [
+      252,
+      259
+    ]
+  },
+  "entite_274": {
+    "label": "LOC",
+    "text": "Maisons",
+    "jalons": [
+      442,
+      449
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      232,
+      239
+    ]
+  },
+  "entite_276": {
+    "label": "LOC",
+    "text": "Pingret",
+    "jalons": [
+      492,
+      499
+    ]
+  },
+  "entite_277": {
+    "label": "MISC",
+    "text": "la roule les gens de",
+    "jalons": [
+      0,
+      20
+    ]
+  },
+  "entite_278": {
+    "label": "PER",
+    "text": "Charles Martel",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "Montégnac",
+    "jalons": [
+      335,
+      344
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Berry",
+    "jalons": [
+      43,
+      48
+    ]
+  },
+  "entite_281": {
+    "label": "LOC",
+    "text": "Bonnet",
+    "jalons": [
+      309,
+      315
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Castel de Moñtégnec",
+    "jalons": [
+      139,
+      158
+    ]
+  },
+  "entite_283": {
+    "label": "LOC",
+    "text": "Sièele",
+    "jalons": [
+      220,
+      226
+    ]
+  },
+  "entite_284": {
+    "label": "LOC",
+    "text": "Unie",
+    "jalons": [
+      506,
+      510
+    ]
+  },
+  "entite_285": {
+    "label": "LOC",
+    "text": "La bois",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "eric et les solives du plafond",
+    "jalons": [
+      0,
+      30
+    ]
+  },
+  "entite_287": {
+    "label": "LOC",
+    "text": "Sully",
+    "jalons": [
+      405,
+      410
+    ]
+  },
+  "entite_288": {
+    "label": "PER",
+    "text": "Jean-Baptiste 4ves",
+    "jalons": [
+      491,
+      509
+    ]
+  },
+  "entite_289": {
+    "label": "PER",
+    "text": "maison de Dipu",
+    "jalons": [
+      1,
+      15
+    ]
+  },
+  "entite_290": {
+    "label": "PER",
+    "text": "Goux",
+    "jalons": [
+      2,
+      6
+    ]
+  },
+  "entite_291": {
+    "label": "MISC",
+    "text": "Sbille et de Meaux",
+    "jalons": [
+      357,
+      375
+    ]
+  },
+  "entite_292": {
+    "label": "LOC",
+    "text": "Cambrai",
+    "jalons": [
+      415,
+      422
+    ]
+  },
+  "entite_293": {
+    "label": "LOC",
+    "text": "Boñnel",
+    "jalons": [
+      249,
+      255
+    ]
+  },
+  "entite_294": {
+    "label": "LOC",
+    "text": "de la Pensée, de la Foi",
+    "jalons": [
+      264,
+      287
+    ]
+  },
+  "entite_295": {
+    "label": "LOC",
+    "text": "Bonnet",
+    "jalons": [
+      448,
+      454
+    ]
+  },
+  "entite_296": {
+    "label": "PER",
+    "text": "Quand Ursule",
+    "jalons": [
+      493,
+      505
+    ]
+  },
+  "entite_297": {
+    "label": "PER",
+    "text": "rdu de vue l'abhé Gabriel",
+    "jalons": [
+      0,
+      25
+    ]
+  },
+  "entite_298": {
+    "label": "LOC",
+    "text": "Sülou la loi",
+    "jalons": [
+      468,
+      480
+    ]
+  },
+  "entite_299": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      124,
+      130
+    ]
+  },
+  "entite_300": {
+    "label": "LOC",
+    "text": "Néanmoins",
+    "jalons": [
+      455,
+      464
+    ]
+  },
+  "entite_301": {
+    "label": "LOC",
+    "text": "RÉ",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_302": {
+    "label": "MISC",
+    "text": "Les Tasché",
+    "jalons": [
+      81,
+      91
+    ]
+  },
+  "entite_303": {
+    "label": "PER",
+    "text": "S'écria Denise",
+    "jalons": [
+      492,
+      506
+    ]
+  },
+  "entite_304": {
+    "label": "PER",
+    "text": "Cabrel",
+    "jalons": [
+      96,
+      102
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "Marsoille",
+    "jalons": [
+      330,
+      339
+    ]
+  },
+  "entite_306": {
+    "label": "LOC",
+    "text": "J'obéiräi",
+    "jalons": [
+      361,
+      370
+    ]
+  },
+  "entite_307": {
+    "label": "LOC",
+    "text": "Mmonsicur",
+    "jalons": [
+      372,
+      381
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Deniso",
+    "jalons": [
+      192,
+      198
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "En",
+    "jalons": [
+      509,
+      511
+    ]
+  },
+  "entite_310": {
+    "label": "PER",
+    "text": "Gabriel",
+    "jalons": [
+      227,
+      234
+    ]
+  },
+  "entite_311": {
+    "label": "MISC",
+    "text": "la Visié de",
+    "jalons": [
+      1,
+      12
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "Vu",
+    "jalons": [
+      124,
+      126
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Saint-Sacrement",
+    "jalons": [
+      119,
+      134
+    ]
+  },
+  "entite_314": {
+    "label": "PER",
+    "text": "Pierre de Rome",
+    "jalons": [
+      232,
+      246
+    ]
+  },
+  "entite_315": {
+    "label": "LOC",
+    "text": "Pardonnez-moi",
+    "jalons": [
+      468,
+      481
+    ]
+  },
+  "entite_316": {
+    "label": "PER",
+    "text": "jo mourrai",
+    "jalons": [
+      2,
+      12
+    ]
+  },
+  "entite_317": {
+    "label": "PER",
+    "text": "do Montégnae",
+    "jalons": [
+      18,
+      30
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "Soignout",
+    "jalons": [
+      487,
+      495
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      439,
+      446
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Bourdon",
+    "jalons": [
+      172,
+      179
+    ]
+  },
+  "entite_321": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      216,
+      221
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "Limousin",
+    "jalons": [
+      501,
+      509
+    ]
+  },
+  "entite_323": {
+    "label": "LOC",
+    "text": "Montégnäc",
+    "jalons": [
+      96,
+      105
+    ]
+  },
+  "entite_324": {
+    "label": "LOC",
+    "text": "Leipsick",
+    "jalons": [
+      246,
+      254
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "Malgré",
+    "jalons": [
+      494,
+      500
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "François",
+    "jalons": [
+      355,
+      363
+    ]
+  },
+  "entite_327": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      253,
+      259
+    ]
+  },
+  "entite_328": {
+    "label": "MISC",
+    "text": "Puis elle baise la Lôto de Jean ot la garda",
+    "jalons": [
+      287,
+      330
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Lovai",
+    "jalons": [
+      480,
+      485
+    ]
+  },
+  "entite_330": {
+    "label": "LOC",
+    "text": "Partez",
+    "jalons": [
+      222,
+      228
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "Hôrnel",
+    "jalons": [
+      455,
+      461
+    ]
+  },
+  "entite_332": {
+    "label": "LOC",
+    "text": "Ada",
+    "jalons": [
+      238,
+      241
+    ]
+  },
+  "entite_333": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      496,
+      500
+    ]
+  },
+  "entite_334": {
+    "label": "LOC",
+    "text": "Hoi",
+    "jalons": [
+      502,
+      505
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "Mons",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_336": {
+    "label": "LOC",
+    "text": "Louis",
+    "jalons": [
+      316,
+      321
+    ]
+  },
+  "entite_337": {
+    "label": "PER",
+    "text": "Marie Teschron",
+    "jalons": [
+      323,
+      337
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "Havre",
+    "jalons": [
+      407,
+      412
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "Étrevus",
+    "jalons": [
+      491,
+      498
+    ]
+  },
+  "entite_340": {
+    "label": "LOC",
+    "text": "Quand",
+    "jalons": [
+      500,
+      505
+    ]
+  },
+  "entite_341": {
+    "label": "PER",
+    "text": "Jaiais",
+    "jalons": [
+      56,
+      62
+    ]
+  },
+  "entite_342": {
+    "label": "LOC",
+    "text": "Pardoitiaz-moi",
+    "jalons": [
+      247,
+      261
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Denise",
+    "jalons": [
+      32,
+      38
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Montégna",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "Elie",
+    "jalons": [
+      60,
+      64
+    ]
+  },
+  "entite_346": {
+    "label": "PER",
+    "text": "Gabriel al de l'évêque",
+    "jalons": [
+      226,
+      248
+    ]
+  },
+  "entite_347": {
+    "label": "LOC",
+    "text": "Faschoron",
+    "jalons": [
+      349,
+      358
+    ]
+  },
+  "entite_348": {
+    "label": "LOC",
+    "text": "Puis",
+    "jalons": [
+      360,
+      364
+    ]
+  },
+  "entite_349": {
+    "label": "LOC",
+    "text": "Vienne",
+    "jalons": [
+      420,
+      426
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "Louis-Marie",
+    "jalons": [
+      33,
+      44
+    ]
+  },
+  "entite_351": {
+    "label": "LOC",
+    "text": "Ja ville de Limoges",
+    "jalons": [
+      409,
+      428
+    ]
+  },
+  "entite_352": {
+    "label": "LOC",
+    "text": "Tascheroh",
+    "jalons": [
+      486,
+      495
+    ]
+  },
+  "entite_353": {
+    "label": "LOC",
+    "text": "Perret",
+    "jalons": [
+      459,
+      465
+    ]
+  },
+  "entite_354": {
+    "label": "MISC",
+    "text": "Dans un autre salon de Limoges",
+    "jalons": [
+      429,
+      459
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "madame Graslin",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_356": {
+    "label": "LOC",
+    "text": "La maison de Navar",
+    "jalons": [
+      155,
+      173
+    ]
+  },
+  "entite_357": {
+    "label": "PER",
+    "text": "Véroni",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_358": {
+    "label": "PER",
+    "text": "nom de Montégnae",
+    "jalons": [
+      25,
+      41
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "Bonnet",
+    "jalons": [
+      186,
+      192
+    ]
+  },
+  "entite_360": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      42,
+      49
+    ]
+  },
+  "entite_361": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      318,
+      325
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Limousin",
+    "jalons": [
+      351,
+      359
+    ]
+  },
+  "entite_363": {
+    "label": "PER",
+    "text": "de Moutégrac",
+    "jalons": [
+      495,
+      507
+    ]
+  },
+  "entite_364": {
+    "label": "LOC",
+    "text": "Gra",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "Corréziens",
+    "jalons": [
+      102,
+      112
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "Bengale",
+    "jalons": [
+      97,
+      104
+    ]
+  },
+  "entite_367": {
+    "label": "LOC",
+    "text": "Montégnac",
+    "jalons": [
+      35,
+      44
+    ]
+  },
+  "entite_368": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      306,
+      313
+    ]
+  },
+  "entite_369": {
+    "label": "LOC",
+    "text": "Grossotéle",
+    "jalons": [
+      1,
+      11
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "LE",
+    "jalons": [
+      277,
+      279
+    ]
+  },
+  "entite_371": {
+    "label": "MISC",
+    "text": "de Graslin la lurro de Muntégnac el",
+    "jalons": [
+      36,
+      71
+    ]
+  },
+  "entite_372": {
+    "label": "PER",
+    "text": "Francis Graslin",
+    "jalons": [
+      241,
+      256
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "Monsieur de Grandville",
+    "jalons": [
+      308,
+      330
+    ]
+  },
+  "entite_374": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      444,
+      451
+    ]
+  },
+  "entite_375": {
+    "label": "LOC",
+    "text": "Bonnet",
+    "jalons": [
+      207,
+      213
+    ]
+  },
+  "entite_376": {
+    "label": "PER",
+    "text": "L'abbé Dutheil",
+    "jalons": [
+      79,
+      93
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "la main de la Sauviat",
+    "jalons": [
+      129,
+      150
+    ]
+  },
+  "entite_378": {
+    "label": "MISC",
+    "text": "Jes yeux de Véronique le bleu qui",
+    "jalons": [
+      130,
+      163
+    ]
+  },
+  "entite_379": {
+    "label": "MISC",
+    "text": "Extrait de la Comédie humaine",
+    "jalons": [
+      336,
+      365
+    ]
+  },
+  "entite_380": {
+    "label": "PER",
+    "text": "Ii répouditealla",
+    "jalons": [
+      495,
+      511
+    ]
+  },
+  "entite_381": {
+    "label": "LOC",
+    "text": "Montéghae",
+    "jalons": [
+      151,
+      160
+    ]
+  },
+  "entite_382": {
+    "label": "LOC",
+    "text": "Léoturde",
+    "jalons": [
+      279,
+      287
+    ]
+  },
+  "entite_383": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      451,
+      453
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "Versailles",
+    "jalons": [
+      452,
+      462
+    ]
+  },
+  "entite_385": {
+    "label": "PER",
+    "text": "des Gerlvains",
+    "jalons": [
+      1,
+      14
+    ]
+  },
+  "entite_386": {
+    "label": "LOC",
+    "text": "des maisons de Gânes",
+    "jalons": [
+      19,
+      39
+    ]
+  },
+  "entite_387": {
+    "label": "LOC",
+    "text": "Montégriae",
+    "jalons": [
+      42,
+      52
+    ]
+  },
+  "entite_388": {
+    "label": "LOC",
+    "text": "de la Corrèze du côté de",
+    "jalons": [
+      309,
+      333
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "Adiou",
+    "jalons": [
+      163,
+      168
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Montignac",
+    "jalons": [
+      42,
+      51
+    ]
+  },
+  "entite_391": {
+    "label": "PER",
+    "text": "Aline",
+    "jalons": [
+      435,
+      440
+    ]
+  },
+  "entite_392": {
+    "label": "PER",
+    "text": "Us Lun ou L — Voiro",
+    "jalons": [
+      492,
+      511
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "Bonnet",
+    "jalons": [
+      501,
+      507
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "Bonnot",
+    "jalons": [
+      235,
+      241
+    ]
+  },
+  "entite_395": {
+    "label": "PER",
+    "text": "Voug voyez",
+    "jalons": [
+      282,
+      292
+    ]
+  },
+  "entite_396": {
+    "label": "MISC",
+    "text": "lions de la Grèce",
+    "jalons": [
+      130,
+      147
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "Pleurér",
+    "jalons": [
+      233,
+      240
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "Corréziens",
+    "jalons": [
+      292,
+      302
+    ]
+  },
+  "entite_399": {
+    "label": "PER",
+    "text": "Véro",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      423,
+      431
+    ]
+  },
+  "entite_401": {
+    "label": "LOC",
+    "text": "Soyez",
+    "jalons": [
+      482,
+      487
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "Ferréol",
+    "jalons": [
+      134,
+      141
+    ]
+  },
+  "entite_403": {
+    "label": "PER",
+    "text": "Joyeux",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      69,
+      76
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "EL",
+    "jalons": [
+      499,
+      501
+    ]
+  },
+  "entite_406": {
+    "label": "LOC",
+    "text": "Shat des logis de la garde",
+    "jalons": [
+      60,
+      86
+    ]
+  },
+  "entite_407": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      100,
+      107
+    ]
+  },
+  "entite_408": {
+    "label": "LOC",
+    "text": "Alpes",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_409": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      108,
+      114
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "Lois",
+    "jalons": [
+      271,
+      275
+    ]
+  },
+  "entite_411": {
+    "label": "LOC",
+    "text": "Bonnet",
+    "jalons": [
+      341,
+      347
+    ]
+  },
+  "entite_412": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_413": {
+    "label": "LOC",
+    "text": "Cortes",
+    "jalons": [
+      335,
+      341
+    ]
+  },
+  "entite_414": {
+    "label": "MISC",
+    "text": "Véronique",
+    "jalons": [
+      501,
+      510
+    ]
+  },
+  "entite_415": {
+    "label": "LOC",
+    "text": "Corrèze",
+    "jalons": [
+      304,
+      311
+    ]
+  },
+  "entite_416": {
+    "label": "LOC",
+    "text": "Lréparée",
+    "jalons": [
+      498,
+      506
+    ]
+  },
+  "entite_417": {
+    "label": "MISC",
+    "text": "Comparaison de celui qui vous",
+    "jalons": [
+      1,
+      30
+    ]
+  },
+  "entite_418": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      118,
+      124
+    ]
+  },
+  "entite_419": {
+    "label": "LOC",
+    "text": "Montéghae",
+    "jalons": [
+      287,
+      296
+    ]
+  },
+  "entite_420": {
+    "label": "PER",
+    "text": "Jo suis Parrabrscho",
+    "jalons": [
+      41,
+      60
+    ]
+  },
+  "entite_421": {
+    "label": "PER",
+    "text": "Madame Graslin",
+    "jalons": [
+      141,
+      155
+    ]
+  },
+  "entite_422": {
+    "label": "LOC",
+    "text": "Cebhommo",
+    "jalons": [
+      500,
+      508
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Farrahäsche",
+    "jalons": [
+      460,
+      471
+    ]
+  },
+  "entite_424": {
+    "label": "PER",
+    "text": "Véronique ralcnlit",
+    "jalons": [
+      3,
+      21
+    ]
+  },
+  "entite_425": {
+    "label": "LOC",
+    "text": "Tulle",
+    "jalons": [
+      291,
+      296
+    ]
+  },
+  "entite_426": {
+    "label": "LOC",
+    "text": "Quul",
+    "jalons": [
+      334,
+      338
+    ]
+  },
+  "entite_427": {
+    "label": "LOC",
+    "text": "Voyez-Vous",
+    "jalons": [
+      251,
+      261
+    ]
+  },
+  "entite_428": {
+    "label": "LOC",
+    "text": "de la Corrèze",
+    "jalons": [
+      404,
+      417
+    ]
+  },
+  "entite_429": {
+    "label": "LOC",
+    "text": "Latié",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_430": {
+    "label": "LOC",
+    "text": "Montenolle",
+    "jalons": [
+      3,
+      13
+    ]
+  },
+  "entite_431": {
+    "label": "LOC",
+    "text": "Stelngél",
+    "jalons": [
+      439,
+      447
+    ]
+  },
+  "entite_432": {
+    "label": "LOC",
+    "text": "Allemand",
+    "jalons": [
+      452,
+      460
+    ]
+  },
+  "entite_433": {
+    "label": "LOC",
+    "text": "Farrabvsche",
+    "jalons": [
+      117,
+      128
+    ]
+  },
+  "entite_434": {
+    "label": "LOC",
+    "text": "Farra",
+    "jalons": [
+      158,
+      163
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      401,
+      408
+    ]
+  },
+  "entite_436": {
+    "label": "LOC",
+    "text": "Giriex de Vizay",
+    "jalons": [
+      155,
+      170
+    ]
+  },
+  "entite_437": {
+    "label": "MISC",
+    "text": "Panformer dans la prison de Lubersaé",
+    "jalons": [
+      272,
+      308
+    ]
+  },
+  "entite_438": {
+    "label": "LOC",
+    "text": "Cochegrae",
+    "jalons": [
+      249,
+      258
+    ]
+  },
+  "entite_439": {
+    "label": "PER",
+    "text": "der au liou d'en prendre et de faire",
+    "jalons": [
+      0,
+      36
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "Farraboscho",
+    "jalons": [
+      489,
+      500
+    ]
+  },
+  "entite_441": {
+    "label": "PER",
+    "text": "madame Graslin",
+    "jalons": [
+      25,
+      39
+    ]
+  },
+  "entite_442": {
+    "label": "PER",
+    "text": "Denise Tascheron",
+    "jalons": [
+      388,
+      404
+    ]
+  },
+  "entite_443": {
+    "label": "LOC",
+    "text": "Vizay",
+    "jalons": [
+      195,
+      200
+    ]
+  },
+  "entite_444": {
+    "label": "LOC",
+    "text": "Farrahesche",
+    "jalons": [
+      394,
+      405
+    ]
+  },
+  "entite_445": {
+    "label": "LOC",
+    "text": "Monté",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "Aubusson",
+    "jalons": [
+      138,
+      146
+    ]
+  },
+  "entite_447": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      154,
+      161
+    ]
+  },
+  "entite_448": {
+    "label": "LOC",
+    "text": "Saint-Léonard",
+    "jalons": [
+      169,
+      182
+    ]
+  },
+  "entite_449": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      172,
+      177
+    ]
+  },
+  "entite_450": {
+    "label": "LOC",
+    "text": "de Montégnaë du haut de la",
+    "jalons": [
+      325,
+      351
+    ]
+  },
+  "entite_451": {
+    "label": "LOC",
+    "text": "Aline",
+    "jalons": [
+      486,
+      491
+    ]
+  },
+  "entite_452": {
+    "label": "LOC",
+    "text": "Alino",
+    "jalons": [
+      336,
+      341
+    ]
+  },
+  "entite_453": {
+    "label": "PER",
+    "text": "Aline",
+    "jalons": [
+      497,
+      502
+    ]
+  },
+  "entite_454": {
+    "label": "MISC",
+    "text": "vieille Auvergnate",
+    "jalons": [
+      0,
+      18
+    ]
+  },
+  "entite_455": {
+    "label": "LOC",
+    "text": "Farrabesche",
+    "jalons": [
+      436,
+      447
+    ]
+  },
+  "entite_456": {
+    "label": "PER",
+    "text": "Maurice la",
+    "jalons": [
+      4,
+      14
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "Jardin",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_458": {
+    "label": "LOC",
+    "text": "Au-dessus  de la",
+    "jalons": [
+      312,
+      328
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      492,
+      498
+    ]
+  },
+  "entite_460": {
+    "label": "LOC",
+    "text": "Maurienne",
+    "jalons": [
+      439,
+      448
+    ]
+  },
+  "entite_461": {
+    "label": "MISC",
+    "text": "do me donner avant lé jour de ma sortie",
+    "jalons": [
+      15,
+      54
+    ]
+  },
+  "entite_462": {
+    "label": "LOC",
+    "text": "Farrabesche",
+    "jalons": [
+      347,
+      358
+    ]
+  },
+  "entite_463": {
+    "label": "PER",
+    "text": "Véronique",
+    "jalons": [
+      489,
+      498
+    ]
+  },
+  "entite_464": {
+    "label": "PER",
+    "text": "Je ne l'afm",
+    "jalons": [
+      501,
+      512
+    ]
+  },
+  "entite_465": {
+    "label": "LOC",
+    "text": "Farrabesche",
+    "jalons": [
+      455,
+      466
+    ]
+  },
+  "entite_466": {
+    "label": "LOC",
+    "text": "Apôtros",
+    "jalons": [
+      91,
+      98
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "Madono",
+    "jalons": [
+      105,
+      111
+    ]
+  },
+  "entite_468": {
+    "label": "PER",
+    "text": "santé Anhe",
+    "jalons": [
+      148,
+      158
+    ]
+  },
+  "entite_469": {
+    "label": "LOC",
+    "text": "Bonnet",
+    "jalons": [
+      331,
+      337
+    ]
+  },
+  "entite_470": {
+    "label": "LOC",
+    "text": "Fatra",
+    "jalons": [
+      347,
+      352
+    ]
+  },
+  "entite_471": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      482,
+      489
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "Farrabosaho",
+    "jalons": [
+      125,
+      136
+    ]
+  },
+  "entite_473": {
+    "label": "LOC",
+    "text": "là fonte des noi",
+    "jalons": [
+      467,
+      483
+    ]
+  },
+  "entite_474": {
+    "label": "LOC",
+    "text": "Montégnac",
+    "jalons": [
+      40,
+      49
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "Limousin de la Corrèze",
+    "jalons": [
+      207,
+      229
+    ]
+  },
+  "entite_476": {
+    "label": "LOC",
+    "text": "Montégnae",
+    "jalons": [
+      330,
+      339
+    ]
+  },
+  "entite_477": {
+    "label": "PER",
+    "text": "nais hier du bas de la Roche-Vive",
+    "jalons": [
+      19,
+      52
+    ]
+  },
+  "entite_478": {
+    "label": "LOC",
+    "text": "Farrabes",
+    "jalons": [
+      346,
+      354
+    ]
+  },
+  "entite_479": {
+    "label": "LOC",
+    "text": "Gabon",
+    "jalons": [
+      68,
+      73
+    ]
+  },
+  "entite_480": {
+    "label": "LOC",
+    "text": "Bonnet",
+    "jalons": [
+      90,
+      96
+    ]
+  },
+  "entite_481": {
+    "label": "LOC",
+    "text": "Viva",
+    "jalons": [
+      183,
+      187
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "Gabuu",
+    "jalons": [
+      179,
+      184
+    ]
+  },
+  "entite_483": {
+    "label": "PER",
+    "text": "Ainsi",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_484": {
+    "label": "LOC",
+    "text": "La ceiuture de",
+    "jalons": [
+      405,
+      419
+    ]
+  },
+  "entite_485": {
+    "label": "PER",
+    "text": "celui de Maurice",
+    "jalons": [
+      349,
+      365
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Menez-moi",
+    "jalons": [
+      370,
+      379
+    ]
+  },
+  "entite_487": {
+    "label": "LOC",
+    "text": "Jones",
+    "jalons": [
+      402,
+      407
+    ]
+  },
+  "entite_488": {
+    "label": "LOC",
+    "text": "Farrabeshe",
+    "jalons": [
+      483,
+      493
+    ]
+  },
+  "entite_489": {
+    "label": "PER",
+    "text": "Aline",
+    "jalons": [
+      499,
+      504
+    ]
+  },
+  "entite_490": {
+    "label": "LOC",
+    "text": "Mada",
+    "jalons": [
+      156,
+      160
+    ]
+  },
+  "entite_491": {
+    "label": "LOC",
+    "text": "Bonnet",
+    "jalons": [
+      453,
+      459
+    ]
+  },
+  "entite_492": {
+    "label": "PER",
+    "text": "Catherine Curie",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_493": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      129,
+      136
+    ]
+  },
+  "entite_494": {
+    "label": "LOC",
+    "text": "Laisséz-MOi",
+    "jalons": [
+      368,
+      379
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "Montégnac",
+    "jalons": [
+      450,
+      459
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "la chapelle de la Vierge",
+    "jalons": [
+      79,
+      103
+    ]
+  },
+  "entite_497": {
+    "label": "LOC",
+    "text": "Chacun",
+    "jalons": [
+      210,
+      216
+    ]
+  },
+  "entite_498": {
+    "label": "LOC",
+    "text": "Modan",
+    "jalons": [
+      137,
+      142
+    ]
+  },
+  "entite_499": {
+    "label": "LOC",
+    "text": "Hi",
+    "jalons": [
+      89,
+      91
+    ]
+  },
+  "entite_500": {
+    "label": "PER",
+    "text": "nemi Commun",
+    "jalons": [
+      145,
+      156
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      489,
+      494
+    ]
+  },
+  "entite_502": {
+    "label": "PER",
+    "text": "tieni de cé que j'ai",
+    "jalons": [
+      22,
+      42
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "Ali l-Voilà",
+    "jalons": [
+      257,
+      268
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      120,
+      127
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "Farra",
+    "jalons": [
+      482,
+      487
+    ]
+  },
+  "entite_506": {
+    "label": "PER",
+    "text": "Elie Wa",
+    "jalons": [
+      38,
+      45
+    ]
+  },
+  "entite_507": {
+    "label": "PER",
+    "text": "Farrabesché se relira",
+    "jalons": [
+      14,
+      35
+    ]
+  },
+  "entite_508": {
+    "label": "PER",
+    "text": "sieur Bonnet",
+    "jalons": [
+      43,
+      55
+    ]
+  },
+  "entite_509": {
+    "label": "LOC",
+    "text": "Montégnao",
+    "jalons": [
+      439,
+      448
+    ]
+  },
+  "entite_510": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      228,
+      233
+    ]
+  },
+  "entite_511": {
+    "label": "LOC",
+    "text": "Ja.",
+    "jalons": [
+      339,
+      342
+    ]
+  },
+  "entite_512": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      297,
+      302
+    ]
+  },
+  "entite_513": {
+    "label": "LOC",
+    "text": "Li",
+    "jalons": [
+      213,
+      215
+    ]
+  },
+  "entite_514": {
+    "label": "LOC",
+    "text": "Montégnae",
+    "jalons": [
+      502,
+      511
+    ]
+  },
+  "entite_515": {
+    "label": "MISC",
+    "text": "Sociaux et l'oh",
+    "jalons": [
+      484,
+      499
+    ]
+  },
+  "entite_516": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      32,
+      38
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "Newlon",
+    "jalons": [
+      49,
+      55
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      297,
+      302
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "Cerles",
+    "jalons": [
+      163,
+      169
+    ]
+  },
+  "entite_520": {
+    "label": "LOC",
+    "text": "Telles",
+    "jalons": [
+      417,
+      423
+    ]
+  },
+  "entite_521": {
+    "label": "LOC",
+    "text": "Vinci",
+    "jalons": [
+      464,
+      469
+    ]
+  },
+  "entite_522": {
+    "label": "MISC",
+    "text": "rüsai             » de la société moderno",
+    "jalons": [
+      0,
+      41
+    ]
+  },
+  "entite_523": {
+    "label": "LOC",
+    "text": "Monge",
+    "jalons": [
+      468,
+      473
+    ]
+  },
+  "entite_524": {
+    "label": "LOC",
+    "text": "Francef",
+    "jalons": [
+      470,
+      477
+    ]
+  },
+  "entite_525": {
+    "label": "LOC",
+    "text": "ILse",
+    "jalons": [
+      479,
+      483
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      493,
+      498
+    ]
+  },
+  "entite_527": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      284,
+      289
+    ]
+  },
+  "entite_528": {
+    "label": "LOC",
+    "text": "LE CURÉ DE VILLAGE",
+    "jalons": [
+      313,
+      331
+    ]
+  },
+  "entite_529": {
+    "label": "MISC",
+    "text": "J'ai vu beau",
+    "jalons": [
+      289,
+      301
+    ]
+  },
+  "entite_530": {
+    "label": "MISC",
+    "text": "vantes et je vous les communique",
+    "jalons": [
+      0,
+      32
+    ]
+  },
+  "entite_531": {
+    "label": "LOC",
+    "text": "Illour",
+    "jalons": [
+      1,
+      7
+    ]
+  },
+  "entite_532": {
+    "label": "MISC",
+    "text": "Sans Napoléon",
+    "jalons": [
+      333,
+      346
+    ]
+  },
+  "entite_533": {
+    "label": "LOC",
+    "text": "Cavhih",
+    "jalons": [
+      348,
+      354
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "Cherbourg",
+    "jalons": [
+      397,
+      406
+    ]
+  },
+  "entite_535": {
+    "label": "PER",
+    "text": "Léonard de Vinel",
+    "jalons": [
+      484,
+      500
+    ]
+  },
+  "entite_536": {
+    "label": "PER",
+    "text": "Gachih",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_537": {
+    "label": "LOC",
+    "text": "Palladio",
+    "jalons": [
+      2,
+      10
+    ]
+  },
+  "entite_538": {
+    "label": "MISC",
+    "text": "Brunelleschi",
+    "jalons": [
+      12,
+      24
+    ]
+  },
+  "entite_539": {
+    "label": "MISC",
+    "text": "Michél-Ange",
+    "jalons": [
+      26,
+      37
+    ]
+  },
+  "entite_540": {
+    "label": "MISC",
+    "text": "Brainänte",
+    "jalons": [
+      39,
+      48
+    ]
+  },
+  "entite_541": {
+    "label": "LOC",
+    "text": "Vauban",
+    "jalons": [
+      54,
+      60
+    ]
+  },
+  "entite_542": {
+    "label": "LOC",
+    "text": "D'ahord",
+    "jalons": [
+      413,
+      420
+    ]
+  },
+  "entite_543": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      381,
+      387
+    ]
+  },
+  "entite_544": {
+    "label": "LOC",
+    "text": "Franre",
+    "jalons": [
+      319,
+      325
+    ]
+  },
+  "entite_545": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      90,
+      96
+    ]
+  },
+  "entite_546": {
+    "label": "LOC",
+    "text": "La Belgique",
+    "jalons": [
+      358,
+      369
+    ]
+  },
+  "entite_547": {
+    "label": "LOC",
+    "text": "États-Unis",
+    "jalons": [
+      375,
+      385
+    ]
+  },
+  "entite_548": {
+    "label": "LOC",
+    "text": "l'obliga",
+    "jalons": [
+      28,
+      36
+    ]
+  },
+  "entite_549": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      58,
+      64
+    ]
+  },
+  "entite_550": {
+    "label": "LOC",
+    "text": "Vail",
+    "jalons": [
+      56,
+      60
+    ]
+  },
+  "entite_551": {
+    "label": "LOC",
+    "text": "Frañce",
+    "jalons": [
+      290,
+      296
+    ]
+  },
+  "entite_552": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      72,
+      78
+    ]
+  },
+  "entite_553": {
+    "label": "LOC",
+    "text": "Loic",
+    "jalons": [
+      320,
+      324
+    ]
+  },
+  "entite_554": {
+    "label": "LOC",
+    "text": "Voici",
+    "jalons": [
+      329,
+      334
+    ]
+  },
+  "entite_555": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_556": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      168,
+      173
+    ]
+  },
+  "entite_557": {
+    "label": "LOC",
+    "text": "Bonnet",
+    "jalons": [
+      261,
+      267
+    ]
+  },
+  "entite_558": {
+    "label": "LOC",
+    "text": "Saint-Louis",
+    "jalons": [
+      482,
+      493
+    ]
+  },
+  "entite_559": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      54,
+      59
+    ]
+  },
+  "entite_560": {
+    "label": "LOC",
+    "text": "Aline",
+    "jalons": [
+      34,
+      39
+    ]
+  },
+  "entite_561": {
+    "label": "LOC",
+    "text": "Grôsse",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_562": {
+    "label": "LOC",
+    "text": "C'est'n",
+    "jalons": [
+      500,
+      507
+    ]
+  },
+  "entite_563": {
+    "label": "LOC",
+    "text": "Limousin",
+    "jalons": [
+      215,
+      223
+    ]
+  },
+  "entite_564": {
+    "label": "LOC",
+    "text": "llement de l'Ecole de médecine de Paris",
+    "jalons": [
+      0,
+      39
+    ]
+  },
+  "entite_565": {
+    "label": "LOC",
+    "text": "Essen",
+    "jalons": [
+      135,
+      140
+    ]
+  },
+  "entite_566": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      178,
+      183
+    ]
+  },
+  "entite_567": {
+    "label": "LOC",
+    "text": "Cérfére",
+    "jalons": [
+      84,
+      91
+    ]
+  },
+  "entite_568": {
+    "label": "MISC",
+    "text": "Pythagoro sur les",
+    "jalons": [
+      9,
+      26
+    ]
+  },
+  "entite_569": {
+    "label": "LOC",
+    "text": "Aussi",
+    "jalons": [
+      498,
+      503
+    ]
+  },
+  "entite_570": {
+    "label": "LOC",
+    "text": "besogne",
+    "jalons": [
+      1,
+      8
+    ]
+  },
+  "entite_571": {
+    "label": "LOC",
+    "text": "Toullier",
+    "jalons": [
+      282,
+      290
+    ]
+  },
+  "entite_572": {
+    "label": "LOC",
+    "text": "Sa",
+    "jalons": [
+      292,
+      294
+    ]
+  },
+  "entite_573": {
+    "label": "MISC",
+    "text": "Clousier avait déjà vu Véronique à  l'église",
+    "jalons": [
+      33,
+      77
+    ]
+  },
+  "entite_574": {
+    "label": "LOC",
+    "text": "Montégnac",
+    "jalons": [
+      464,
+      473
+    ]
+  },
+  "entite_575": {
+    "label": "LOC",
+    "text": "d'émbarras",
+    "jalons": [
+      5,
+      15
+    ]
+  },
+  "entite_576": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      97,
+      103
+    ]
+  },
+  "entite_577": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      105,
+      109
+    ]
+  },
+  "entite_578": {
+    "label": "LOC",
+    "text": "Roubaud",
+    "jalons": [
+      371,
+      378
+    ]
+  },
+  "entite_579": {
+    "label": "LOC",
+    "text": "Gélvin",
+    "jalons": [
+      398,
+      404
+    ]
+  },
+  "entite_580": {
+    "label": "ORG",
+    "text": "la  Franée.enliè",
+    "jalons": [
+      495,
+      511
+    ]
+  },
+  "entite_581": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      369,
+      375
+    ]
+  },
+  "entite_582": {
+    "label": "MISC",
+    "text": "La Russie",
+    "jalons": [
+      23,
+      32
+    ]
+  },
+  "entite_583": {
+    "label": "PER",
+    "text": "La Franco",
+    "jalons": [
+      205,
+      214
+    ]
+  },
+  "entite_584": {
+    "label": "LOC",
+    "text": "Au",
+    "jalons": [
+      508,
+      510
+    ]
+  },
+  "entite_585": {
+    "label": "LOC",
+    "text": "LE CURÉ DE VILLAGE",
+    "jalons": [
+      107,
+      125
+    ]
+  },
+  "entite_586": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      419,
+      424
+    ]
+  },
+  "entite_587": {
+    "label": "MISC",
+    "text": "que celui de Pelévalion progressive du pris dé la  viéndé",
+    "jalons": [
+      0,
+      57
+    ]
+  },
+  "entite_588": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      409,
+      411
+    ]
+  },
+  "entite_589": {
+    "label": "LOC",
+    "text": "Rüssie",
+    "jalons": [
+      412,
+      418
+    ]
+  },
+  "entite_590": {
+    "label": "PER",
+    "text": "L'Au",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_591": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      260,
+      266
+    ]
+  },
+  "entite_592": {
+    "label": "PER",
+    "text": "Clousio",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_593": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      207,
+      212
+    ]
+  },
+  "entite_594": {
+    "label": "LOC",
+    "text": "Sans",
+    "jalons": [
+      454,
+      458
+    ]
+  },
+  "entite_595": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      483,
+      488
+    ]
+  },
+  "entite_596": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      262,
+      267
+    ]
+  },
+  "entite_597": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_598": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      59,
+      64
+    ]
+  },
+  "entite_599": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      209,
+      215
+    ]
+  },
+  "entite_600": {
+    "label": "PER",
+    "text": "là pensée de Charles X",
+    "jalons": [
+      9,
+      31
+    ]
+  },
+  "entite_601": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      206,
+      211
+    ]
+  },
+  "entite_602": {
+    "label": "LOC",
+    "text": "Roubaud",
+    "jalons": [
+      483,
+      490
+    ]
+  },
+  "entite_603": {
+    "label": "LOC",
+    "text": "Amérique",
+    "jalons": [
+      166,
+      174
+    ]
+  },
+  "entite_604": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      488,
+      494
+    ]
+  },
+  "entite_605": {
+    "label": "LOC",
+    "text": "Montégnac",
+    "jalons": [
+      230,
+      239
+    ]
+  },
+  "entite_606": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      325,
+      331
+    ]
+  },
+  "entite_607": {
+    "label": "PER",
+    "text": "Madimé Grasiin",
+    "jalons": [
+      35,
+      49
+    ]
+  },
+  "entite_608": {
+    "label": "PER",
+    "text": "Mais",
+    "jalons": [
+      501,
+      505
+    ]
+  },
+  "entite_609": {
+    "label": "MISC",
+    "text": "Suscilera en Fran",
+    "jalons": [
+      495,
+      512
+    ]
+  },
+  "entite_610": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      224,
+      230
+    ]
+  },
+  "entite_611": {
+    "label": "LOC",
+    "text": "Clousier",
+    "jalons": [
+      261,
+      269
+    ]
+  },
+  "entite_612": {
+    "label": "LOC",
+    "text": "Lycurg",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_613": {
+    "label": "LOC",
+    "text": "Evidemment",
+    "jalons": [
+      30,
+      40
+    ]
+  },
+  "entite_614": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      244,
+      250
+    ]
+  },
+  "entite_615": {
+    "label": "MISC",
+    "text": "Tia  da Htussie ot de là Frances",
+    "jalons": [
+      182,
+      214
+    ]
+  },
+  "entite_616": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      468,
+      474
+    ]
+  },
+  "entite_617": {
+    "label": "LOC",
+    "text": "Avec de moréellemeént de la",
+    "jalons": [
+      476,
+      503
+    ]
+  },
+  "entite_618": {
+    "label": "MISC",
+    "text": "Certes",
+    "jalons": [
+      282,
+      288
+    ]
+  },
+  "entite_619": {
+    "label": "LOC",
+    "text": "dé la Médilerranée",
+    "jalons": [
+      130,
+      148
+    ]
+  },
+  "entite_620": {
+    "label": "PER",
+    "text": "Monsleur Cleusiér",
+    "jalons": [
+      380,
+      397
+    ]
+  },
+  "entite_621": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      497,
+      503
+    ]
+  },
+  "entite_622": {
+    "label": "LOC",
+    "text": "Frônce",
+    "jalons": [
+      43,
+      49
+    ]
+  },
+  "entite_623": {
+    "label": "LOC",
+    "text": "Aujourd'hui",
+    "jalons": [
+      320,
+      331
+    ]
+  },
+  "entite_624": {
+    "label": "LOC",
+    "text": "Clousidr",
+    "jalons": [
+      322,
+      330
+    ]
+  },
+  "entite_625": {
+    "label": "LOC",
+    "text": "Roubaud",
+    "jalons": [
+      332,
+      339
+    ]
+  },
+  "entite_626": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      344,
+      350
+    ]
+  },
+  "entite_627": {
+    "label": "PER",
+    "text": "Les gou",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_628": {
+    "label": "MISC",
+    "text": "Hommes de",
+    "jalons": [
+      2,
+      11
+    ]
+  },
+  "entite_629": {
+    "label": "LOC",
+    "text": "Clousier",
+    "jalons": [
+      466,
+      474
+    ]
+  },
+  "entite_630": {
+    "label": "LOC",
+    "text": "Monlégnac et de celle de Bordeaux",
+    "jalons": [
+      230,
+      263
+    ]
+  },
+  "entite_631": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      266,
+      270
+    ]
+  },
+  "entite_632": {
+    "label": "LOC",
+    "text": "Farrabesche",
+    "jalons": [
+      202,
+      213
+    ]
+  },
+  "entite_633": {
+    "label": "LOC",
+    "text": "Farrabesche",
+    "jalons": [
+      296,
+      307
+    ]
+  },
+  "entite_634": {
+    "label": "MISC",
+    "text": "Pendant  le mois de janvier de l'année",
+    "jalons": [
+      39,
+      77
+    ]
+  },
+  "entite_635": {
+    "label": "LOC",
+    "text": "Gabou",
+    "jalons": [
+      153,
+      158
+    ]
+  },
+  "entite_636": {
+    "label": "LOC",
+    "text": "Celle",
+    "jalons": [
+      160,
+      165
+    ]
+  },
+  "entite_637": {
+    "label": "MISC",
+    "text": "Le bartaga du Gebou",
+    "jalons": [
+      379,
+      398
+    ]
+  },
+  "entite_638": {
+    "label": "LOC",
+    "text": "Müis",
+    "jalons": [
+      507,
+      511
+    ]
+  },
+  "entite_639": {
+    "label": "LOC",
+    "text": "Celle",
+    "jalons": [
+      494,
+      499
+    ]
+  },
+  "entite_640": {
+    "label": "LOC",
+    "text": "Lombardie",
+    "jalons": [
+      372,
+      381
+    ]
+  },
+  "entite_641": {
+    "label": "PER",
+    "text": "Madumo Graslin",
+    "jalons": [
+      498,
+      512
+    ]
+  },
+  "entite_642": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      203,
+      209
+    ]
+  },
+  "entite_643": {
+    "label": "MISC",
+    "text": "Colorat",
+    "jalons": [
+      97,
+      104
+    ]
+  },
+  "entite_644": {
+    "label": "MISC",
+    "text": "Glousivr",
+    "jalons": [
+      107,
+      115
+    ]
+  },
+  "entite_645": {
+    "label": "LOC",
+    "text": "Roubaud",
+    "jalons": [
+      141,
+      148
+    ]
+  },
+  "entite_646": {
+    "label": "LOC",
+    "text": "Pourquol",
+    "jalons": [
+      243,
+      251
+    ]
+  },
+  "entite_647": {
+    "label": "LOC",
+    "text": "Montégnac",
+    "jalons": [
+      493,
+      502
+    ]
+  },
+  "entite_648": {
+    "label": "LOC",
+    "text": "Fresquin",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_649": {
+    "label": "LOC",
+    "text": "Gerard",
+    "jalons": [
+      205,
+      211
+    ]
+  },
+  "entite_650": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      351,
+      356
+    ]
+  },
+  "entite_651": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      376,
+      383
+    ]
+  },
+  "entite_652": {
+    "label": "PER",
+    "text": "Le tuur du visagé",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_653": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      131,
+      136
+    ]
+  },
+  "entite_654": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      304,
+      309
+    ]
+  },
+  "entite_655": {
+    "label": "LOC",
+    "text": "Mort de celle",
+    "jalons": [
+      323,
+      336
+    ]
+  },
+  "entite_656": {
+    "label": "LOC",
+    "text": "Saint-Louis",
+    "jalons": [
+      98,
+      109
+    ]
+  },
+  "entite_657": {
+    "label": "PER",
+    "text": "de Véronique",
+    "jalons": [
+      488,
+      500
+    ]
+  },
+  "entite_658": {
+    "label": "LOC",
+    "text": "Hénin",
+    "jalons": [
+      154,
+      159
+    ]
+  },
+  "entite_659": {
+    "label": "PER",
+    "text": "Benjamin",
+    "jalons": [
+      315,
+      323
+    ]
+  },
+  "entite_660": {
+    "label": "MISC",
+    "text": "Graslin L'mBrée",
+    "jalons": [
+      337,
+      352
+    ]
+  },
+  "entite_661": {
+    "label": "MISC",
+    "text": "o'Caiherine et de  Farrabesche",
+    "jalons": [
+      0,
+      30
+    ]
+  },
+  "entite_662": {
+    "label": "LOC",
+    "text": "Bonnet",
+    "jalons": [
+      67,
+      73
+    ]
+  },
+  "entite_663": {
+    "label": "LOC",
+    "text": "Mo",
+    "jalons": [
+      76,
+      78
+    ]
+  },
+  "entite_664": {
+    "label": "LOC",
+    "text": "Catheri",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_665": {
+    "label": "LOC",
+    "text": "Arrathez",
+    "jalons": [
+      55,
+      63
+    ]
+  },
+  "entite_666": {
+    "label": "LOC",
+    "text": "Bonnel",
+    "jalons": [
+      457,
+      463
+    ]
+  },
+  "entite_667": {
+    "label": "MISC",
+    "text": "Graslin de lui Accor",
+    "jalons": [
+      321,
+      341
+    ]
+  },
+  "entite_668": {
+    "label": "PER",
+    "text": "pu Cheval",
+    "jalons": [
+      93,
+      102
+    ]
+  },
+  "entite_669": {
+    "label": "LOC",
+    "text": "Depuis l'ouverture des travaux de la plaine",
+    "jalons": [
+      214,
+      257
+    ]
+  },
+  "entite_670": {
+    "label": "LOC",
+    "text": "la Vie de",
+    "jalons": [
+      259,
+      268
+    ]
+  },
+  "entite_671": {
+    "label": "LOC",
+    "text": "Houbaud",
+    "jalons": [
+      100,
+      107
+    ]
+  },
+  "entite_672": {
+    "label": "LOC",
+    "text": "Cas dé",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_673": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      268,
+      274
+    ]
+  },
+  "entite_674": {
+    "label": "MISC",
+    "text": "de la chaîne  des montagocs du côl de la plaine",
+    "jalons": [
+      41,
+      88
+    ]
+  },
+  "entite_675": {
+    "label": "LOC",
+    "text": "la Lômbardie",
+    "jalons": [
+      455,
+      467
+    ]
+  },
+  "entite_676": {
+    "label": "LOC",
+    "text": "Montégoac",
+    "jalons": [
+      14,
+      23
+    ]
+  },
+  "entite_677": {
+    "label": "LOC",
+    "text": "La ferme de Gérard",
+    "jalons": [
+      246,
+      264
+    ]
+  },
+  "entite_678": {
+    "label": "LOC",
+    "text": "GOUISAUN",
+    "jalons": [
+      143,
+      151
+    ]
+  },
+  "entite_679": {
+    "label": "LOC",
+    "text": "Gabon",
+    "jalons": [
+      98,
+      103
+    ]
+  },
+  "entite_680": {
+    "label": "LOC",
+    "text": "Ruttin",
+    "jalons": [
+      70,
+      76
+    ]
+  },
+  "entite_681": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      439,
+      441
+    ]
+  },
+  "entite_682": {
+    "label": "LOC",
+    "text": "de la plaine",
+    "jalons": [
+      487,
+      499
+    ]
+  },
+  "entite_683": {
+    "label": "LOC",
+    "text": "Les prairies de la plaine",
+    "jalons": [
+      391,
+      416
+    ]
+  },
+  "entite_684": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      505,
+      507
+    ]
+  },
+  "entite_685": {
+    "label": "LOC",
+    "text": "P'ingénieur",
+    "jalons": [
+      63,
+      74
+    ]
+  },
+  "entite_686": {
+    "label": "LOC",
+    "text": "Gabau",
+    "jalons": [
+      348,
+      353
+    ]
+  },
+  "entite_687": {
+    "label": "LOC",
+    "text": "Uolarat",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_688": {
+    "label": "MISC",
+    "text": "Tel était le projet de Grastin",
+    "jalons": [
+      474,
+      504
+    ]
+  },
+  "entite_689": {
+    "label": "MISC",
+    "text": "Véronique las fa mêe me réponse",
+    "jalons": [
+      435,
+      466
+    ]
+  },
+  "entite_690": {
+    "label": "LOC",
+    "text": "Montégnae",
+    "jalons": [
+      251,
+      260
+    ]
+  },
+  "entite_691": {
+    "label": "LOC",
+    "text": "de la Corrèze",
+    "jalons": [
+      299,
+      312
+    ]
+  },
+  "entite_692": {
+    "label": "LOC",
+    "text": "la forêt de Montéanae ct de la",
+    "jalons": [
+      348,
+      378
+    ]
+  },
+  "entite_693": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      47,
+      50
+    ]
+  },
+  "entite_694": {
+    "label": "LOC",
+    "text": "Guépin",
+    "jalons": [
+      369,
+      375
+    ]
+  },
+  "entite_695": {
+    "label": "LOC",
+    "text": "Monté",
+    "jalons": [
+      401,
+      406
+    ]
+  },
+  "entite_696": {
+    "label": "LOC",
+    "text": "Gabou",
+    "jalons": [
+      97,
+      102
+    ]
+  },
+  "entite_697": {
+    "label": "LOC",
+    "text": "Gabou",
+    "jalons": [
+      288,
+      293
+    ]
+  },
+  "entite_698": {
+    "label": "LOC",
+    "text": "Gerard",
+    "jalons": [
+      489,
+      495
+    ]
+  },
+  "entite_699": {
+    "label": "MISC",
+    "text": "dela valleo de Sion qui se trouva sur la roule de Brugg et que tous les",
+    "jalons": [
+      41,
+      112
+    ]
+  },
+  "entite_700": {
+    "label": "PER",
+    "text": "la Chartreuse",
+    "jalons": [
+      485,
+      498
+    ]
+  },
+  "entite_701": {
+    "label": "PER",
+    "text": "Grosselôt",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_702": {
+    "label": "LOC",
+    "text": "Véronique",
+    "jalons": [
+      497,
+      506
+    ]
+  },
+  "entite_703": {
+    "label": "LOC",
+    "text": "Véronique",
+    "jalons": [
+      453,
+      462
+    ]
+  },
+  "entite_704": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      231,
+      238
+    ]
+  },
+  "entite_705": {
+    "label": "LOC",
+    "text": "Lois",
+    "jalons": [
+      418,
+      422
+    ]
+  },
+  "entite_706": {
+    "label": "PER",
+    "text": "sou de Cotoraf",
+    "jalons": [
+      32,
+      46
+    ]
+  },
+  "entite_707": {
+    "label": "PER",
+    "text": "le la chrrehà du regarG",
+    "jalons": [
+      0,
+      23
+    ]
+  },
+  "entite_708": {
+    "label": "PER",
+    "text": "Raffin le Wii",
+    "jalons": [
+      55,
+      68
+    ]
+  },
+  "entite_709": {
+    "label": "PER",
+    "text": "la Sauv",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_710": {
+    "label": "LOC",
+    "text": "Francis",
+    "jalons": [
+      140,
+      147
+    ]
+  },
+  "entite_711": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      342,
+      348
+    ]
+  },
+  "entite_712": {
+    "label": "LOC",
+    "text": "Gé",
+    "jalons": [
+      496,
+      498
+    ]
+  },
+  "entite_713": {
+    "label": "LOC",
+    "text": "Sauvial",
+    "jalons": [
+      63,
+      70
+    ]
+  },
+  "entite_714": {
+    "label": "PER",
+    "text": "Fraucis Sous",
+    "jalons": [
+      90,
+      102
+    ]
+  },
+  "entite_715": {
+    "label": "PER",
+    "text": "Aline",
+    "jalons": [
+      504,
+      509
+    ]
+  },
+  "entite_716": {
+    "label": "ORG",
+    "text": "Quand la compagnie",
+    "jalons": [
+      493,
+      511
+    ]
+  },
+  "entite_717": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      242,
+      248
+    ]
+  },
+  "entite_718": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      288,
+      293
+    ]
+  },
+  "entite_719": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      457,
+      462
+    ]
+  },
+  "entite_720": {
+    "label": "PER",
+    "text": "Mais Véronique",
+    "jalons": [
+      464,
+      478
+    ]
+  },
+  "entite_721": {
+    "label": "LOC",
+    "text": "Yait",
+    "jalons": [
+      485,
+      489
+    ]
+  },
+  "entite_722": {
+    "label": "LOC",
+    "text": "Roubaud",
+    "jalons": [
+      495,
+      502
+    ]
+  },
+  "entite_723": {
+    "label": "PER",
+    "text": "Jes devo",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_724": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      175,
+      182
+    ]
+  },
+  "entite_725": {
+    "label": "LOC",
+    "text": "Véronique",
+    "jalons": [
+      448,
+      457
+    ]
+  },
+  "entite_726": {
+    "label": "LOC",
+    "text": "La lueur de la",
+    "jalons": [
+      189,
+      203
+    ]
+  },
+  "entite_727": {
+    "label": "MISC",
+    "text": "par les pas de  deux",
+    "jalons": [
+      0,
+      20
+    ]
+  },
+  "entite_728": {
+    "label": "LOC",
+    "text": "Monenfant",
+    "jalons": [
+      465,
+      474
+    ]
+  },
+  "entite_729": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      152,
+      158
+    ]
+  },
+  "entite_730": {
+    "label": "LOC",
+    "text": "Oui",
+    "jalons": [
+      389,
+      392
+    ]
+  },
+  "entite_731": {
+    "label": "LOC",
+    "text": "l'Ohio",
+    "jalons": [
+      437,
+      443
+    ]
+  },
+  "entite_732": {
+    "label": "LOC",
+    "text": "Ce",
+    "jalons": [
+      445,
+      447
+    ]
+  },
+  "entite_733": {
+    "label": "PER",
+    "text": "Gérard dé lui donner",
+    "jalons": [
+      78,
+      98
+    ]
+  },
+  "entite_734": {
+    "label": "PER",
+    "text": "Madame Groslin",
+    "jalons": [
+      200,
+      214
+    ]
+  },
+  "entite_735": {
+    "label": "LOC",
+    "text": "Frarii",
+    "jalons": [
+      457,
+      463
+    ]
+  },
+  "entite_736": {
+    "label": "LOC",
+    "text": "Seulement",
+    "jalons": [
+      465,
+      474
+    ]
+  },
+  "entite_737": {
+    "label": "ORG",
+    "text": "Sz-moi",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_738": {
+    "label": "LOC",
+    "text": "Voyez",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_739": {
+    "label": "MISC",
+    "text": "donc de que madame Graslin a fait du Gahou",
+    "jalons": [
+      1,
+      43
+    ]
+  },
+  "entite_740": {
+    "label": "LOC",
+    "text": "Denise",
+    "jalons": [
+      178,
+      184
+    ]
+  },
+  "entite_741": {
+    "label": "LOC",
+    "text": "Montégnac.",
+    "jalons": [
+      360,
+      370
+    ]
+  },
+  "entite_742": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      360,
+      367
+    ]
+  },
+  "entite_743": {
+    "label": "LOC",
+    "text": "Deniso",
+    "jalons": [
+      369,
+      375
+    ]
+  },
+  "entite_744": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      500,
+      506
+    ]
+  },
+  "entite_745": {
+    "label": "LOC",
+    "text": "Denise",
+    "jalons": [
+      80,
+      86
+    ]
+  },
+  "entite_746": {
+    "label": "LOC",
+    "text": "Voÿrz",
+    "jalons": [
+      164,
+      169
+    ]
+  },
+  "entite_747": {
+    "label": "MISC",
+    "text": "Voici monsieur Gérard de qui je",
+    "jalons": [
+      219,
+      250
+    ]
+  },
+  "entite_748": {
+    "label": "LOC",
+    "text": "NewYuik",
+    "jalons": [
+      91,
+      98
+    ]
+  },
+  "entite_749": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      110,
+      116
+    ]
+  },
+  "entite_750": {
+    "label": "LOC",
+    "text": "Gahou",
+    "jalons": [
+      273,
+      278
+    ]
+  },
+  "entite_751": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      503,
+      507
+    ]
+  },
+  "entite_752": {
+    "label": "PER",
+    "text": "va Gérard",
+    "jalons": [
+      0,
+      9
+    ]
+  },
+  "entite_753": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      111,
+      117
+    ]
+  },
+  "entite_754": {
+    "label": "LOC",
+    "text": "Loire",
+    "jalons": [
+      179,
+      184
+    ]
+  },
+  "entite_755": {
+    "label": "ORG",
+    "text": "DE DALZAG",
+    "jalons": [
+      318,
+      327
+    ]
+  },
+  "entite_756": {
+    "label": "LOC",
+    "text": "Montignac",
+    "jalons": [
+      439,
+      448
+    ]
+  },
+  "entite_757": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      346,
+      351
+    ]
+  },
+  "entite_758": {
+    "label": "PER",
+    "text": "Mousiaur Auflin",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_759": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      452,
+      457
+    ]
+  },
+  "entite_760": {
+    "label": "LOC",
+    "text": "Véro",
+    "jalons": [
+      488,
+      492
+    ]
+  },
+  "entite_761": {
+    "label": "PER",
+    "text": "Chéz",
+    "jalons": [
+      507,
+      511
+    ]
+  },
+  "entite_762": {
+    "label": "LOC",
+    "text": "Uuclor",
+    "jalons": [
+      89,
+      95
+    ]
+  },
+  "entite_763": {
+    "label": "LOC",
+    "text": "La reli",
+    "jalons": [
+      502,
+      509
+    ]
+  },
+  "entite_764": {
+    "label": "LOC",
+    "text": "Voyozvous",
+    "jalons": [
+      465,
+      474
+    ]
+  },
+  "entite_765": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      157,
+      163
+    ]
+  },
+  "entite_766": {
+    "label": "LOC",
+    "text": "Véroni",
+    "jalons": [
+      22,
+      28
+    ]
+  },
+  "entite_767": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      318,
+      324
+    ]
+  },
+  "entite_768": {
+    "label": "PER",
+    "text": "Monsieur Ruffin",
+    "jalons": [
+      414,
+      429
+    ]
+  },
+  "entite_769": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      213,
+      220
+    ]
+  },
+  "entite_770": {
+    "label": "MISC",
+    "text": "Madame Graslin avait le visage en feu",
+    "jalons": [
+      49,
+      86
+    ]
+  },
+  "entite_771": {
+    "label": "LOC",
+    "text": "Limoges",
+    "jalons": [
+      176,
+      183
+    ]
+  },
+  "entite_772": {
+    "label": "PER",
+    "text": "eria Véronique",
+    "jalons": [
+      6,
+      20
+    ]
+  },
+  "entite_773": {
+    "label": "PER",
+    "text": "Gabriel de Rartignacs",
+    "jalons": [
+      489,
+      510
+    ]
+  },
+  "entite_774": {
+    "label": "LOC",
+    "text": "Raubau",
+    "jalons": [
+      55,
+      61
+    ]
+  },
+  "entite_775": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      120,
+      125
+    ]
+  },
+  "entite_776": {
+    "label": "PER",
+    "text": "Horace Bianchons",
+    "jalons": [
+      127,
+      143
+    ]
+  },
+  "entite_777": {
+    "label": "LOC",
+    "text": "Grandville",
+    "jalons": [
+      80,
+      90
+    ]
+  },
+  "entite_778": {
+    "label": "LOC",
+    "text": "Montégnac",
+    "jalons": [
+      51,
+      60
+    ]
+  },
+  "entite_779": {
+    "label": "PER",
+    "text": "ur de Grandville",
+    "jalons": [
+      0,
+      16
+    ]
+  },
+  "entite_780": {
+    "label": "LOC",
+    "text": "la  montagne de Moutégnac",
+    "jalons": [
+      376,
+      401
+    ]
+  },
+  "entite_781": {
+    "label": "ORG",
+    "text": "Vous mada",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_782": {
+    "label": "PER",
+    "text": "Monsieur Roubaud",
+    "jalons": [
+      0,
+      16
+    ]
+  },
+  "entite_783": {
+    "label": "LOC",
+    "text": "decin de Paris",
+    "jalons": [
+      0,
+      14
+    ]
+  },
+  "entite_784": {
+    "label": "PER",
+    "text": "de Paris",
+    "jalons": [
+      1,
+      9
+    ]
+  },
+  "entite_785": {
+    "label": "LOC",
+    "text": "Roubaud",
+    "jalons": [
+      292,
+      299
+    ]
+  },
+  "entite_786": {
+    "label": "LOC",
+    "text": "Kent",
+    "jalons": [
+      58,
+      62
+    ]
+  },
+  "entite_787": {
+    "label": "LOC",
+    "text": "Ibvros",
+    "jalons": [
+      498,
+      504
+    ]
+  },
+  "entite_788": {
+    "label": "LOC",
+    "text": "Ma",
+    "jalons": [
+      506,
+      508
+    ]
+  },
+  "entite_789": {
+    "label": "PER",
+    "text": "Voyez",
+    "jalons": [
+      41,
+      46
+    ]
+  },
+  "entite_790": {
+    "label": "PER",
+    "text": "Aline",
+    "jalons": [
+      170,
+      175
+    ]
+  },
+  "entite_791": {
+    "label": "MISC",
+    "text": "Allez Chor",
+    "jalons": [
+      377,
+      387
+    ]
+  },
+  "entite_792": {
+    "label": "LOC",
+    "text": "Roubaud",
+    "jalons": [
+      203,
+      210
+    ]
+  },
+  "entite_793": {
+    "label": "LOC",
+    "text": "Napoléon",
+    "jalons": [
+      211,
+      219
+    ]
+  },
+  "entite_794": {
+    "label": "LOC",
+    "text": "D'a",
+    "jalons": [
+      453,
+      456
+    ]
+  },
+  "entite_795": {
+    "label": "LOC",
+    "text": "Église",
+    "jalons": [
+      388,
+      394
+    ]
+  },
+  "entite_796": {
+    "label": "PER",
+    "text": "Monseigneur",
+    "jalons": [
+      451,
+      462
+    ]
+  },
+  "entite_797": {
+    "label": "LOC",
+    "text": "SIÈGE",
+    "jalons": [
+      1,
+      6
+    ]
+  },
+  "entite_798": {
+    "label": "LOC",
+    "text": "XVIR",
+    "jalons": [
+      8,
+      12
+    ]
+  },
+  "entite_799": {
+    "label": "LOC",
+    "text": "OUR DE VILLAGE",
+    "jalons": [
+      18,
+      32
+    ]
+  },
+  "entite_800": {
+    "label": "LOC",
+    "text": "Exlraif de la Comédie",
+    "jalons": [
+      69,
+      90
+    ]
+  },
+  "entite_801": {
+    "label": "MISC",
+    "text": "Mourez en paix",
+    "jalons": [
+      140,
+      154
+    ]
+  },
+  "entite_802": {
+    "label": "LOC",
+    "text": "Sauveur",
+    "jalons": [
+      490,
+      497
+    ]
+  },
+  "entite_803": {
+    "label": "LOC",
+    "text": "Laissez-moi",
+    "jalons": [
+      499,
+      510
+    ]
+  },
+  "entite_804": {
+    "label": "LOC",
+    "text": "Diou",
+    "jalons": [
+      357,
+      361
+    ]
+  },
+  "entite_805": {
+    "label": "LOC",
+    "text": "Monseignaur",
+    "jalons": [
+      402,
+      413
+    ]
+  },
+  "entite_806": {
+    "label": "MISC",
+    "text": "la grandeur de la faute el du repentir",
+    "jalons": [
+      6,
+      44
+    ]
+  },
+  "entite_807": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      234,
+      239
+    ]
+  },
+  "entite_808": {
+    "label": "PER",
+    "text": "de Véroniquo",
+    "jalons": [
+      468,
+      480
+    ]
+  },
+  "entite_809": {
+    "label": "PER",
+    "text": "Horace Biane",
+    "jalons": [
+      10,
+      22
+    ]
+  },
+  "entite_810": {
+    "label": "PER",
+    "text": "Roub",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_811": {
+    "label": "LOC",
+    "text": "Monsnignenr",
+    "jalons": [
+      497,
+      508
+    ]
+  },
+  "entite_812": {
+    "label": "LOC",
+    "text": "CO",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_813": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      94,
+      101
+    ]
+  },
+  "entite_814": {
+    "label": "LOC",
+    "text": "Graslin",
+    "jalons": [
+      177,
+      184
+    ]
+  },
+  "entite_815": {
+    "label": "LOC",
+    "text": "Montégnne",
+    "jalons": [
+      36,
+      45
+    ]
+  },
+  "entite_816": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      503,
+      508
+    ]
+  },
+  "entite_817": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      510,
+      512
+    ]
+  },
+  "entite_818": {
+    "label": "LOC",
+    "text": "Les",
+    "jalons": [
+      400,
+      403
+    ]
+  },
+  "entite_819": {
+    "label": "LOC",
+    "text": "Sauviat",
+    "jalons": [
+      216,
+      223
+    ]
+  },
+  "entite_820": {
+    "label": "LOC",
+    "text": "Grandville",
+    "jalons": [
+      339,
+      349
+    ]
+  },
+  "entite_821": {
+    "label": "LOC",
+    "text": "Rau",
+    "jalons": [
+      351,
+      354
+    ]
+  },
+  "entite_822": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      362,
+      368
+    ]
+  },
+  "entite_823": {
+    "label": "MISC",
+    "text": "Clausior",
+    "jalons": [
+      370,
+      378
+    ]
+  },
+  "entite_824": {
+    "label": "MISC",
+    "text": "Huffin",
+    "jalons": [
+      380,
+      386
+    ]
+  },
+  "entite_825": {
+    "label": "LOC",
+    "text": "Véronique",
+    "jalons": [
+      352,
+      361
+    ]
+  },
+  "entite_826": {
+    "label": "PER",
+    "text": "Ame de sa",
+    "jalons": [
+      470,
+      479
+    ]
+  },
+  "entite_827": {
+    "label": "LOC",
+    "text": "l'Egliso",
+    "jalons": [
+      498,
+      506
+    ]
+  },
+  "entite_828": {
+    "label": "PER",
+    "text": "Bill",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_829": {
+    "label": "PER",
+    "text": "Véroni",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_830": {
+    "label": "PER",
+    "text": "Jean-François Tascheron",
+    "jalons": [
+      222,
+      245
+    ]
+  },
+  "entite_831": {
+    "label": "PER",
+    "text": "Aline lui",
+    "jalons": [
+      168,
+      177
+    ]
+  },
+  "entite_832": {
+    "label": "PER",
+    "text": "Jean-François Tascheron",
+    "jalons": [
+      70,
+      93
+    ]
+  },
+  "entite_833": {
+    "label": "LOC",
+    "text": "Il",
+    "jalons": [
+      504,
+      506
+    ]
+  },
+  "entite_834": {
+    "label": "LOC",
+    "text": "Denise",
+    "jalons": [
+      281,
+      287
+    ]
+  },
+  "entite_835": {
+    "label": "LOC",
+    "text": "meurlro",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_836": {
+    "label": "LOC",
+    "text": "Certes",
+    "jalons": [
+      9,
+      15
+    ]
+  },
+  "entite_837": {
+    "label": "PER",
+    "text": "Dion",
+    "jalons": [
+      502,
+      506
+    ]
+  },
+  "entite_838": {
+    "label": "PER",
+    "text": "lui donna l'absolution",
+    "jalons": [
+      3,
+      25
+    ]
+  },
+  "entite_839": {
+    "label": "PER",
+    "text": "d'hospico dos Tascheronss Véronique le vou",
+    "jalons": [
+      4,
+      46
+    ]
+  },
+  "entite_840": {
+    "label": "LOC",
+    "text": "Gérard",
+    "jalons": [
+      503,
+      509
+    ]
+  },
+  "entite_841": {
+    "label": "LOC",
+    "text": "Lanouvelle de",
+    "jalons": [
+      252,
+      265
+    ]
+  },
+  "entite_842": {
+    "label": "PER",
+    "text": "Gérard",
+    "jalons": [
+      21,
+      27
+    ]
+  },
+  "entite_843": {
+    "label": "PER",
+    "text": "de Francis Graslin",
+    "jalons": [
+      42,
+      60
+    ]
+  },
+  "entite_844": {
+    "label": "PER",
+    "text": "Véronique Denise Tasçhe",
+    "jalons": [
+      170,
+      193
+    ]
+  },
+  "entite_845": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      253,
+      258
+    ]
+  },
+  "entite_846": {
+    "label": "MISC",
+    "text": "Ello donnait en oulre à la commune de Montégnac uno élendue de prai",
+    "jalons": [
+      359,
+      426
+    ]
+  },
+  "entite_847": {
+    "label": "MISC",
+    "text": "L'Église",
+    "jalons": [
+      473,
+      481
+    ]
+  },
+  "entite_848": {
+    "label": "ORG",
+    "text": "de la Franco los miracles des Leifres",
+    "jalons": [
+      122,
+      159
+    ]
+  }
+}

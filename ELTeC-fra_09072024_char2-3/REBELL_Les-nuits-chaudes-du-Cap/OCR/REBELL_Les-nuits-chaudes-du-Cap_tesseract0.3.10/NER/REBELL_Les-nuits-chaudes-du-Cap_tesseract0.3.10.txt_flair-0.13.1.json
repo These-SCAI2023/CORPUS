@@ -1,0 +1,4346 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Gallica  Les nuits chaudes du Cap Français",
+    "jalons": [
+      6,
+      48
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "Hughes Rebell  Source",
+    "jalons": [
+      51,
+      72
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Bibliothèque nationale de France",
+    "jalons": [
+      90,
+      122
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "Gallica     Rebell",
+    "jalons": [
+      128,
+      146
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Hugues",
+    "jalons": [
+      148,
+      154
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Auteur du texte",
+    "jalons": [
+      168,
+      183
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Les nuits chaudes du Cap Français",
+    "jalons": [
+      185,
+      218
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Hughes Rebell",
+    "jalons": [
+      221,
+      234
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "libre et gratuite dans le respect de la législation en vigueur et notamment du maintien de la mention de",
+    "jalons": [
+      108,
+      212
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      315,
+      321
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Les contenus de Gallica sont la propriété de la BnF au sens de",
+    "jalons": [
+      398,
+      460
+    ]
+  },
+  "entite_11": {
+    "label": "ORG",
+    "text": "HUGUES REBELL  Les Nuits",
+    "jalons": [
+      441,
+      465
+    ]
+  },
+  "entite_12": {
+    "label": "ORG",
+    "text": "PARIS GEORGES CRÈS",
+    "jalons": [
+      494,
+      512
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Cie Éditions de la Plume",
+    "jalons": [
+      3,
+      27
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "BOULEVARD SAINT-GERMAIN",
+    "jalons": [
+      33,
+      56
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "MCMXVII   Les Nuits",
+    "jalons": [
+      63,
+      82
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "LA VENGEANCE D'UN'INCONNU  Comme je visitais",
+    "jalons": [
+      166,
+      210
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      211,
+      219
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Porte",
+    "jalons": [
+      307,
+      312
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Encadrée de jardins",
+    "jalons": [
+      490,
+      509
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "eu des marchandes de",
+    "jalons": [
+      0,
+      20
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Tallien",
+    "jalons": [
+      380,
+      387
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Thérésia de Cabarrus",
+    "jalons": [
+      359,
+      379
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "de M. de Fon",
+    "jalons": [
+      397,
+      409
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "le Cours de Tourny",
+    "jalons": [
+      432,
+      450
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Bord",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "eaux les confondit dans la même",
+    "jalons": [
+      0,
+      31
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Thérésia",
+    "jalons": [
+      50,
+      58
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Arracher de Tallien des",
+    "jalons": [
+      196,
+      219
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Tallien",
+    "jalons": [
+      177,
+      184
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Mais Thérésia",
+    "jalons": [
+      480,
+      493
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "de Tallien",
+    "jalons": [
+      45,
+      55
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Frénelle",
+    "jalons": [
+      103,
+      111
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Frénelle",
+    "jalons": [
+      361,
+      369
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "s’écria Frénelle",
+    "jalons": [
+      4,
+      20
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Tallien",
+    "jalons": [
+      501,
+      508
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "Thérésia de cette voix claire des Espagnoles du nord",
+    "jalons": [
+      157,
+      209
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Tallien",
+    "jalons": [
+      482,
+      489
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "L'aventure de la",
+    "jalons": [
+      199,
+      215
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      345,
+      353
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Sainte",
+    "jalons": [
+      498,
+      504
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Cather",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Porte",
+    "jalons": [
+      263,
+      268
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Palais",
+    "jalons": [
+      272,
+      278
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      412,
+      426
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Thérésia de Fontenay",
+    "jalons": [
+      110,
+      130
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      418,
+      426
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "hôtel de la Porte du Palais",
+    "jalons": [
+      482,
+      509
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "hôtel de la Porte du Palais",
+    "jalons": [
+      423,
+      450
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "Dans la ville",
+    "jalons": [
+      95,
+      108
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Ah",
+    "jalons": [
+      501,
+      503
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Tiens",
+    "jalons": [
+      96,
+      101
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "Thérésia",
+    "jalons": [
+      484,
+      492
+    ]
+  },
+  "entite_53": {
+    "label": "ORG",
+    "text": "Elle ne les montra",
+    "jalons": [
+      494,
+      512
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "C’es",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      162,
+      170
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Tallien",
+    "jalons": [
+      86,
+      93
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "Martignac",
+    "jalons": [
+      219,
+      228
+    ]
+  },
+  "entite_58": {
+    "label": "MISC",
+    "text": "Depuis",
+    "jalons": [
+      292,
+      298
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      228,
+      234
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Tallien",
+    "jalons": [
+      248,
+      255
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "Jumilhac",
+    "jalons": [
+      295,
+      303
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Du",
+    "jalons": [
+      431,
+      433
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "hôtel de la Porte du Palais",
+    "jalons": [
+      463,
+      490
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Mais Jumilhac",
+    "jalons": [
+      25,
+      38
+    ]
+  },
+  "entite_65": {
+    "label": "LOC",
+    "text": "Thérésia de Fontenay",
+    "jalons": [
+      396,
+      416
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Thérésia de Fonte",
+    "jalons": [
+      463,
+      480
+    ]
+  },
+  "entite_67": {
+    "label": "LOC",
+    "text": "Thérésia de Fontenay",
+    "jalons": [
+      182,
+      202
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Thérésia",
+    "jalons": [
+      497,
+      505
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Tallien",
+    "jalons": [
+      68,
+      75
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "Tenez",
+    "jalons": [
+      300,
+      305
+    ]
+  },
+  "entite_71": {
+    "label": "LOC",
+    "text": "Ouvrez",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_72": {
+    "label": "LOC",
+    "text": "de Sainte-Croix",
+    "jalons": [
+      285,
+      300
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Gagnez Soulac",
+    "jalons": [
+      302,
+      315
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Ah",
+    "jalons": [
+      509,
+      511
+    ]
+  },
+  "entite_75": {
+    "label": "PER",
+    "text": "gnie de Tallien",
+    "jalons": [
+      0,
+      15
+    ]
+  },
+  "entite_76": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      257,
+      263
+    ]
+  },
+  "entite_77": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      410,
+      418
+    ]
+  },
+  "entite_78": {
+    "label": "ORG",
+    "text": "Le Cap",
+    "jalons": [
+      504,
+      510
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "de M. de Montouroy",
+    "jalons": [
+      179,
+      197
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "Sans",
+    "jalons": [
+      92,
+      96
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "Cahier",
+    "jalons": [
+      149,
+      155
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      259,
+      269
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "Merci",
+    "jalons": [
+      245,
+      250
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Rose",
+    "jalons": [
+      252,
+      256
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "Perso",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      314,
+      321
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "Jeserai",
+    "jalons": [
+      454,
+      461
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "FRANÇAIS",
+    "jalons": [
+      493,
+      501
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      408,
+      413
+    ]
+  },
+  "entite_90": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      227,
+      237
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      378,
+      392
+    ]
+  },
+  "entite_92": {
+    "label": "MISC",
+    "text": "JOURNAL D'UNE DAME CRÉOLE",
+    "jalons": [
+      467,
+      492
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "J'ai besoin",
+    "jalons": [
+      73,
+      84
+    ]
+  },
+  "entite_94": {
+    "label": "PER",
+    "text": "elle laisse",
+    "jalons": [
+      1,
+      12
+    ]
+  },
+  "entite_95": {
+    "label": "ORG",
+    "text": "JOURNAL D'UNE DAME CRÉOLE",
+    "jalons": [
+      471,
+      496
+    ]
+  },
+  "entite_96": {
+    "label": "ORG",
+    "text": "Quelle desti",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "Restez",
+    "jalons": [
+      23,
+      29
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      223,
+      233
+    ]
+  },
+  "entite_99": {
+    "label": "PER",
+    "text": "M. de Montouroy",
+    "jalons": [
+      303,
+      318
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "Agathe de Létangestune de",
+    "jalons": [
+      88,
+      113
+    ]
+  },
+  "entite_101": {
+    "label": "PER",
+    "text": "de Mme Du Plantier",
+    "jalons": [
+      458,
+      476
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Montouroy",
+    "jalons": [
+      220,
+      229
+    ]
+  },
+  "entite_103": {
+    "label": "PER",
+    "text": "de M. de Montouroy",
+    "jalons": [
+      301,
+      319
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      388,
+      398
+    ]
+  },
+  "entite_105": {
+    "label": "MISC",
+    "text": "Peut-être de tout le mal que j'ai",
+    "jalons": [
+      11,
+      44
+    ]
+  },
+  "entite_106": {
+    "label": "PER",
+    "text": "M. de Montouroy",
+    "jalons": [
+      99,
+      114
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Madame Gourgueil",
+    "jalons": [
+      297,
+      313
+    ]
+  },
+  "entite_108": {
+    "label": "MISC",
+    "text": "D'UNE DAME CRÉOLE     pas l'habitude de faire du mal",
+    "jalons": [
+      335,
+      387
+    ]
+  },
+  "entite_109": {
+    "label": "PER",
+    "text": "Mo çcatouillé",
+    "jalons": [
+      53,
+      66
+    ]
+  },
+  "entite_110": {
+    "label": "MISC",
+    "text": "Elle connait bien les fai",
+    "jalons": [
+      109,
+      134
+    ]
+  },
+  "entite_111": {
+    "label": "PER",
+    "text": "Malgré moi",
+    "jalons": [
+      182,
+      192
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "M. de Mon",
+    "jalons": [
+      242,
+      251
+    ]
+  },
+  "entite_113": {
+    "label": "PER",
+    "text": "M. de Montouroy",
+    "jalons": [
+      311,
+      326
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "M. de Montouroy",
+    "jalons": [
+      258,
+      273
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      339,
+      344
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "C’est",
+    "jalons": [
+      503,
+      508
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "Zami",
+    "jalons": [
+      269,
+      273
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Saint-Jean",
+    "jalons": [
+      271,
+      281
+    ]
+  },
+  "entite_119": {
+    "label": "LOC",
+    "text": "Pouyade",
+    "jalons": [
+      227,
+      234
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "L'abbé de La",
+    "jalons": [
+      243,
+      255
+    ]
+  },
+  "entite_121": {
+    "label": "MISC",
+    "text": "Mme de Létang",
+    "jalons": [
+      90,
+      103
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "Le",
+    "jalons": [
+      504,
+      506
+    ]
+  },
+  "entite_123": {
+    "label": "LOC",
+    "text": "Ego de Gbsolto",
+    "jalons": [
+      426,
+      440
+    ]
+  },
+  "entite_124": {
+    "label": "LOC",
+    "text": "Berchoux",
+    "jalons": [
+      423,
+      431
+    ]
+  },
+  "entite_125": {
+    "label": "MISC",
+    "text": "L'abbé de La Pouyade me dit alors à mi",
+    "jalons": [
+      410,
+      448
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "moulin",
+    "jalons": [
+      1,
+      7
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "La Pouyade",
+    "jalons": [
+      498,
+      508
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "JOURNAL D'UNE DAME CRÉOLE",
+    "jalons": [
+      62,
+      87
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      495,
+      503
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Celle",
+    "jalons": [
+      142,
+      147
+    ]
+  },
+  "entite_131": {
+    "label": "MISC",
+    "text": "JOURNAL D'UNE DAME CRÉOLE",
+    "jalons": [
+      484,
+      509
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "malgré lui",
+    "jalons": [
+      7,
+      17
+    ]
+  },
+  "entite_133": {
+    "label": "PER",
+    "text": "Mme de Létang",
+    "jalons": [
+      123,
+      136
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "Mme Du Plantier",
+    "jalons": [
+      496,
+      511
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "Antoi",
+    "jalons": [
+      98,
+      103
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "Mais M. le gouverneer",
+    "jalons": [
+      42,
+      63
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "Mme de Létang",
+    "jalons": [
+      309,
+      322
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Agathe",
+    "jalons": [
+      258,
+      264
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "elle de ’emme",
+    "jalons": [
+      2,
+      15
+    ]
+  },
+  "entite_140": {
+    "label": "MISC",
+    "text": "FRANÇAIS     manières de Mme Du Plantier et de",
+    "jalons": [
+      90,
+      136
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "aussi Antoinette",
+    "jalons": [
+      171,
+      187
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "Montouroy",
+    "jalons": [
+      57,
+      66
+    ]
+  },
+  "entite_143": {
+    "label": "MISC",
+    "text": "OURNAL D’UNE DAME CRÉOLE",
+    "jalons": [
+      0,
+      24
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "J'étais",
+    "jalons": [
+      260,
+      267
+    ]
+  },
+  "entite_145": {
+    "label": "PER",
+    "text": "Mme de Létang",
+    "jalons": [
+      238,
+      251
+    ]
+  },
+  "entite_146": {
+    "label": "ORG",
+    "text": "JOURNAL D'UNE DAME",
+    "jalons": [
+      494,
+      512
+    ]
+  },
+  "entite_147": {
+    "label": "LOC",
+    "text": "J'ajoutai",
+    "jalons": [
+      67,
+      76
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "Agathe",
+    "jalons": [
+      315,
+      321
+    ]
+  },
+  "entite_149": {
+    "label": "PER",
+    "text": "Agathe arriva",
+    "jalons": [
+      0,
+      13
+    ]
+  },
+  "entite_150": {
+    "label": "PER",
+    "text": "Mme de Létang",
+    "jalons": [
+      118,
+      131
+    ]
+  },
+  "entite_151": {
+    "label": "PER",
+    "text": "de Mme de Lé",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_152": {
+    "label": "LOC",
+    "text": "Voyons",
+    "jalons": [
+      276,
+      282
+    ]
+  },
+  "entite_153": {
+    "label": "PER",
+    "text": "C'est Agathe",
+    "jalons": [
+      11,
+      23
+    ]
+  },
+  "entite_154": {
+    "label": "PER",
+    "text": "Agathe",
+    "jalons": [
+      180,
+      186
+    ]
+  },
+  "entite_155": {
+    "label": "PER",
+    "text": "M. de Montouroy",
+    "jalons": [
+      292,
+      307
+    ]
+  },
+  "entite_156": {
+    "label": "MISC",
+    "text": "saviez Comme je vous",
+    "jalons": [
+      3,
+      23
+    ]
+  },
+  "entite_157": {
+    "label": "LOC",
+    "text": "Maîlress",
+    "jalons": [
+      365,
+      373
+    ]
+  },
+  "entite_158": {
+    "label": "PER",
+    "text": "Quant à Antoinette",
+    "jalons": [
+      62,
+      80
+    ]
+  },
+  "entite_159": {
+    "label": "MISC",
+    "text": "Zinga ne lui raconte la mort de",
+    "jalons": [
+      14,
+      45
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "Mme Lafon",
+    "jalons": [
+      46,
+      55
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "Canaille",
+    "jalons": [
+      58,
+      66
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      121,
+      131
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "Mme de Létang",
+    "jalons": [
+      386,
+      399
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "Agathe",
+    "jalons": [
+      401,
+      407
+    ]
+  },
+  "entite_165": {
+    "label": "PER",
+    "text": "Mme Du",
+    "jalons": [
+      429,
+      435
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "Plantier",
+    "jalons": [
+      438,
+      446
+    ]
+  },
+  "entite_167": {
+    "label": "PER",
+    "text": "le docteur Chiron",
+    "jalons": [
+      448,
+      465
+    ]
+  },
+  "entite_168": {
+    "label": "PER",
+    "text": "l'abbé de La Pouyade et moi",
+    "jalons": [
+      467,
+      494
+    ]
+  },
+  "entite_169": {
+    "label": "ORG",
+    "text": "De la galerie",
+    "jalons": [
+      496,
+      509
+    ]
+  },
+  "entite_170": {
+    "label": "PER",
+    "text": "Mme Du Plantier",
+    "jalons": [
+      65,
+      80
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      250,
+      255
+    ]
+  },
+  "entite_172": {
+    "label": "PER",
+    "text": "l'abbé de la Pouyade",
+    "jalons": [
+      12,
+      32
+    ]
+  },
+  "entite_173": {
+    "label": "LOC",
+    "text": "Soudain",
+    "jalons": [
+      472,
+      479
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Mme de Létang",
+    "jalons": [
+      441,
+      454
+    ]
+  },
+  "entite_175": {
+    "label": "LOC",
+    "text": "de la Pouyade",
+    "jalons": [
+      495,
+      508
+    ]
+  },
+  "entite_176": {
+    "label": "PER",
+    "text": "Joseph Figeroux-Larougerie",
+    "jalons": [
+      463,
+      489
+    ]
+  },
+  "entite_177": {
+    "label": "LOC",
+    "text": "Obalukun",
+    "jalons": [
+      29,
+      37
+    ]
+  },
+  "entite_178": {
+    "label": "MISC",
+    "text": "Figeroux a pris le nom de",
+    "jalons": [
+      39,
+      64
+    ]
+  },
+  "entite_179": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      100,
+      108
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      139,
+      145
+    ]
+  },
+  "entite_181": {
+    "label": "PER",
+    "text": "Mme Du Plantier",
+    "jalons": [
+      28,
+      43
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "éloignée de la ville",
+    "jalons": [
+      232,
+      252
+    ]
+  },
+  "entite_183": {
+    "label": "ORG",
+    "text": "JOURNAL D'UNE",
+    "jalons": [
+      499,
+      512
+    ]
+  },
+  "entite_184": {
+    "label": "MISC",
+    "text": "DAME CRÉOLE",
+    "jalons": [
+      1,
+      12
+    ]
+  },
+  "entite_185": {
+    "label": "LOC",
+    "text": "Syracuse",
+    "jalons": [
+      63,
+      71
+    ]
+  },
+  "entite_186": {
+    "label": "MISC",
+    "text": "Français a le dessein de vous",
+    "jalons": [
+      5,
+      34
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "Vos",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Zinga! s’écria Antoinette",
+    "jalons": [
+      3,
+      28
+    ]
+  },
+  "entite_189": {
+    "label": "PER",
+    "text": "Mme Du Plantier",
+    "jalons": [
+      77,
+      92
+    ]
+  },
+  "entite_190": {
+    "label": "PER",
+    "text": "Samuel Goring",
+    "jalons": [
+      261,
+      274
+    ]
+  },
+  "entite_191": {
+    "label": "PER",
+    "text": "Joseph Figeroux",
+    "jalons": [
+      319,
+      334
+    ]
+  },
+  "entite_192": {
+    "label": "PER",
+    "text": "Samuel Goring",
+    "jalons": [
+      471,
+      484
+    ]
+  },
+  "entite_193": {
+    "label": "LOC",
+    "text": "Figeroux",
+    "jalons": [
+      290,
+      298
+    ]
+  },
+  "entite_194": {
+    "label": "MISC",
+    "text": "Grand Dieu",
+    "jalons": [
+      1,
+      11
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Du Plantier",
+    "jalons": [
+      36,
+      47
+    ]
+  },
+  "entite_196": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      1,
+      6
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      220,
+      225
+    ]
+  },
+  "entite_198": {
+    "label": "PER",
+    "text": "Samuel Goring",
+    "jalons": [
+      491,
+      504
+    ]
+  },
+  "entite_199": {
+    "label": "PER",
+    "text": "Aussitôt Agathe",
+    "jalons": [
+      432,
+      447
+    ]
+  },
+  "entite_200": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      449,
+      459
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Bonjour",
+    "jalons": [
+      105,
+      112
+    ]
+  },
+  "entite_202": {
+    "label": "PER",
+    "text": "Samuel Goring",
+    "jalons": [
+      167,
+      180
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "La société des Amis des",
+    "jalons": [
+      446,
+      469
+    ]
+  },
+  "entite_204": {
+    "label": "LOC",
+    "text": "L'A",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_205": {
+    "label": "MISC",
+    "text": "seils de la raison et de la vertu",
+    "jalons": [
+      41,
+      74
+    ]
+  },
+  "entite_206": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      76,
+      80
+    ]
+  },
+  "entite_207": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      100,
+      106
+    ]
+  },
+  "entite_208": {
+    "label": "PER",
+    "text": "Mme Du Plantier",
+    "jalons": [
+      468,
+      483
+    ]
+  },
+  "entite_209": {
+    "label": "PER",
+    "text": "ajouta Mme de Létang",
+    "jalons": [
+      4,
+      24
+    ]
+  },
+  "entite_210": {
+    "label": "LOC",
+    "text": "J'irai",
+    "jalons": [
+      152,
+      158
+    ]
+  },
+  "entite_211": {
+    "label": "LOC",
+    "text": "Faites-le",
+    "jalons": [
+      335,
+      344
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      497,
+      501
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "L'auteur de",
+    "jalons": [
+      17,
+      28
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "Alors",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Bientôt",
+    "jalons": [
+      485,
+      492
+    ]
+  },
+  "entite_216": {
+    "label": "PER",
+    "text": "donna  \"Vidée de la",
+    "jalons": [
+      1,
+      20
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "Mme Lafon",
+    "jalons": [
+      502,
+      511
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "le nom de Mme Lafon",
+    "jalons": [
+      31,
+      50
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "Tais-toi",
+    "jalons": [
+      213,
+      221
+    ]
+  },
+  "entite_220": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      476,
+      484
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      47,
+      57
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "Antoinefte",
+    "jalons": [
+      148,
+      158
+    ]
+  },
+  "entite_223": {
+    "label": "MISC",
+    "text": "Comme à Moïse sur le Sinaï",
+    "jalons": [
+      0,
+      26
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Seigneur",
+    "jalons": [
+      192,
+      200
+    ]
+  },
+  "entite_225": {
+    "label": "PER",
+    "text": "Mme Du Plantier",
+    "jalons": [
+      237,
+      252
+    ]
+  },
+  "entite_226": {
+    "label": "LOC",
+    "text": "Mme de Létang",
+    "jalons": [
+      316,
+      329
+    ]
+  },
+  "entite_227": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      266,
+      271
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "M. de Mauduït",
+    "jalons": [
+      396,
+      409
+    ]
+  },
+  "entite_229": {
+    "label": "ORG",
+    "text": "Mes angoisses de la veille",
+    "jalons": [
+      474,
+      500
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "Agathe de Létang",
+    "jalons": [
+      229,
+      245
+    ]
+  },
+  "entite_231": {
+    "label": "MISC",
+    "text": "rmée la porte de",
+    "jalons": [
+      0,
+      16
+    ]
+  },
+  "entite_232": {
+    "label": "MISC",
+    "text": "D'UNE DAME CRÉOLE",
+    "jalons": [
+      32,
+      49
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "Mais Zinga",
+    "jalons": [
+      62,
+      72
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Marion",
+    "jalons": [
+      490,
+      496
+    ]
+  },
+  "entite_235": {
+    "label": "PER",
+    "text": "Agathe",
+    "jalons": [
+      423,
+      429
+    ]
+  },
+  "entite_236": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      433,
+      443
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Prodigieux",
+    "jalons": [
+      70,
+      80
+    ]
+  },
+  "entite_238": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      268,
+      273
+    ]
+  },
+  "entite_239": {
+    "label": "PER",
+    "text": "Antoinette de danser",
+    "jalons": [
+      46,
+      66
+    ]
+  },
+  "entite_240": {
+    "label": "PER",
+    "text": "Agathe",
+    "jalons": [
+      102,
+      108
+    ]
+  },
+  "entite_241": {
+    "label": "MISC",
+    "text": "Chiron qui se montre",
+    "jalons": [
+      441,
+      461
+    ]
+  },
+  "entite_242": {
+    "label": "PER",
+    "text": "J’essayai de le lui",
+    "jalons": [
+      476,
+      495
+    ]
+  },
+  "entite_243": {
+    "label": "MISC",
+    "text": "Agathe",
+    "jalons": [
+      366,
+      372
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "Mais",
+    "jalons": [
+      280,
+      284
+    ]
+  },
+  "entite_245": {
+    "label": "ORG",
+    "text": "Je le regardai",
+    "jalons": [
+      497,
+      511
+    ]
+  },
+  "entite_246": {
+    "label": "MISC",
+    "text": "LES NUITS CHAUDES DU CAP FRANÇAIS  les plantes et les",
+    "jalons": [
+      0,
+      53
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      345,
+      355
+    ]
+  },
+  "entite_248": {
+    "label": "MISC",
+    "text": "de la Société des Amis des Noirs,ils vont applaudir Samuel Goring et Figeroux qui réclament pour les hommes de couleur les",
+    "jalons": [
+      163,
+      285
+    ]
+  },
+  "entite_249": {
+    "label": "ORG",
+    "text": "JOURNAL D'UNE",
+    "jalons": [
+      499,
+      512
+    ]
+  },
+  "entite_250": {
+    "label": "MISC",
+    "text": "DAME CRÉOLE",
+    "jalons": [
+      1,
+      12
+    ]
+  },
+  "entite_251": {
+    "label": "PER",
+    "text": "Déjà M. de Larnage",
+    "jalons": [
+      378,
+      396
+    ]
+  },
+  "entite_252": {
+    "label": "PER",
+    "text": "de M. Mettereau",
+    "jalons": [
+      135,
+      150
+    ]
+  },
+  "entite_253": {
+    "label": "PER",
+    "text": "Mme Lafon",
+    "jalons": [
+      152,
+      161
+    ]
+  },
+  "entite_254": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      180,
+      188
+    ]
+  },
+  "entite_255": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      356,
+      370
+    ]
+  },
+  "entite_256": {
+    "label": "LOC",
+    "text": "Figeroux",
+    "jalons": [
+      247,
+      255
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "Lafon",
+    "jalons": [
+      366,
+      371
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "Mettereau",
+    "jalons": [
+      373,
+      382
+    ]
+  },
+  "entite_259": {
+    "label": "LOC",
+    "text": "D'ailleurs",
+    "jalons": [
+      442,
+      452
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "de la mort de Mette",
+    "jalons": [
+      464,
+      483
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Sauvez",
+    "jalons": [
+      391,
+      397
+    ]
+  },
+  "entite_262": {
+    "label": "PER",
+    "text": "Mme Lafon",
+    "jalons": [
+      54,
+      63
+    ]
+  },
+  "entite_263": {
+    "label": "MISC",
+    "text": "C’est le bon Dieu qui nous",
+    "jalons": [
+      386,
+      412
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      116,
+      121
+    ]
+  },
+  "entite_265": {
+    "label": "PER",
+    "text": "M. Mettercau",
+    "jalons": [
+      217,
+      229
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "Figeroux",
+    "jalons": [
+      383,
+      391
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "de Mme Lafon",
+    "jalons": [
+      6,
+      18
+    ]
+  },
+  "entite_268": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      21,
+      35
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "La",
+    "jalons": [
+      409,
+      411
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      197,
+      207
+    ]
+  },
+  "entite_271": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      437,
+      442
+    ]
+  },
+  "entite_272": {
+    "label": "LOC",
+    "text": "CHAUDES",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_273": {
+    "label": "LOC",
+    "text": "Certes",
+    "jalons": [
+      279,
+      285
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "Jamais Antoinette",
+    "jalons": [
+      11,
+      28
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      392,
+      402
+    ]
+  },
+  "entite_276": {
+    "label": "ORG",
+    "text": "Elle passa devant",
+    "jalons": [
+      495,
+      512
+    ]
+  },
+  "entite_277": {
+    "label": "PER",
+    "text": "Samuel Goring",
+    "jalons": [
+      55,
+      68
+    ]
+  },
+  "entite_278": {
+    "label": "LOC",
+    "text": "Kouraj",
+    "jalons": [
+      69,
+      75
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "Partez",
+    "jalons": [
+      85,
+      91
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Zinga sortit de la",
+    "jalons": [
+      299,
+      317
+    ]
+  },
+  "entite_281": {
+    "label": "LOC",
+    "text": "Le ciel",
+    "jalons": [
+      478,
+      485
+    ]
+  },
+  "entite_282": {
+    "label": "PER",
+    "text": "mais Zinga",
+    "jalons": [
+      11,
+      21
+    ]
+  },
+  "entite_283": {
+    "label": "LOC",
+    "text": "Lontan",
+    "jalons": [
+      77,
+      83
+    ]
+  },
+  "entite_284": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      290,
+      295
+    ]
+  },
+  "entite_285": {
+    "label": "PER",
+    "text": "Samuel Gorin",
+    "jalons": [
+      500,
+      512
+    ]
+  },
+  "entite_286": {
+    "label": "LOC",
+    "text": "Dubousquens",
+    "jalons": [
+      113,
+      124
+    ]
+  },
+  "entite_287": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      186,
+      194
+    ]
+  },
+  "entite_288": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      406,
+      411
+    ]
+  },
+  "entite_289": {
+    "label": "LOC",
+    "text": "Calmez-vous",
+    "jalons": [
+      394,
+      405
+    ]
+  },
+  "entite_290": {
+    "label": "LOC",
+    "text": "L’elfron",
+    "jalons": [
+      390,
+      398
+    ]
+  },
+  "entite_291": {
+    "label": "LOC",
+    "text": "Derrière la haie de",
+    "jalons": [
+      408,
+      427
+    ]
+  },
+  "entite_292": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      123,
+      128
+    ]
+  },
+  "entite_293": {
+    "label": "LOC",
+    "text": "Dubousquens",
+    "jalons": [
+      491,
+      502
+    ]
+  },
+  "entite_294": {
+    "label": "PER",
+    "text": "Je négli",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_295": {
+    "label": "MISC",
+    "text": "Paris et ailleurs",
+    "jalons": [
+      28,
+      45
+    ]
+  },
+  "entite_296": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      468,
+      473
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      362,
+      367
+    ]
+  },
+  "entite_298": {
+    "label": "PER",
+    "text": "Mais Dubousquens",
+    "jalons": [
+      304,
+      320
+    ]
+  },
+  "entite_299": {
+    "label": "PER",
+    "text": "Allons",
+    "jalons": [
+      500,
+      506
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "Zing",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_301": {
+    "label": "PER",
+    "text": "Zinga lui",
+    "jalons": [
+      379,
+      388
+    ]
+  },
+  "entite_302": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      8,
+      13
+    ]
+  },
+  "entite_303": {
+    "label": "MISC",
+    "text": "Cela m'intéressait de connaitre la maison de",
+    "jalons": [
+      15,
+      59
+    ]
+  },
+  "entite_304": {
+    "label": "PER",
+    "text": "Mlle Antoinette",
+    "jalons": [
+      427,
+      442
+    ]
+  },
+  "entite_305": {
+    "label": "PER",
+    "text": "Moi",
+    "jalons": [
+      492,
+      495
+    ]
+  },
+  "entite_306": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      337,
+      345
+    ]
+  },
+  "entite_307": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      308,
+      313
+    ]
+  },
+  "entite_308": {
+    "label": "ORG",
+    "text": "Elle",
+    "jalons": [
+      507,
+      511
+    ]
+  },
+  "entite_309": {
+    "label": "MISC",
+    "text": "Celles de « la demoiselle",
+    "jalons": [
+      28,
+      53
+    ]
+  },
+  "entite_310": {
+    "label": "LOC",
+    "text": "Pourquoi",
+    "jalons": [
+      207,
+      215
+    ]
+  },
+  "entite_311": {
+    "label": "PER",
+    "text": "Joseph Figeroux",
+    "jalons": [
+      475,
+      490
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      494,
+      499
+    ]
+  },
+  "entite_313": {
+    "label": "LOC",
+    "text": "Guinée",
+    "jalons": [
+      366,
+      372
+    ]
+  },
+  "entite_314": {
+    "label": "LOC",
+    "text": "Voici du",
+    "jalons": [
+      27,
+      35
+    ]
+  },
+  "entite_315": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_316": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      191,
+      196
+    ]
+  },
+  "entite_317": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      353,
+      358
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "Marion qui rega",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_319": {
+    "label": "PER",
+    "text": "Catherine Fuseau",
+    "jalons": [
+      41,
+      57
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Marion",
+    "jalons": [
+      349,
+      355
+    ]
+  },
+  "entite_321": {
+    "label": "LOC",
+    "text": "Catherine, des filles de",
+    "jalons": [
+      357,
+      381
+    ]
+  },
+  "entite_322": {
+    "label": "PER",
+    "text": "Bon Dieu",
+    "jalons": [
+      482,
+      490
+    ]
+  },
+  "entite_323": {
+    "label": "LOC",
+    "text": "Antoipelie",
+    "jalons": [
+      205,
+      215
+    ]
+  },
+  "entite_324": {
+    "label": "MISC",
+    "text": "Comme le jardinier et Justin venaient de notre côté",
+    "jalons": [
+      332,
+      383
+    ]
+  },
+  "entite_325": {
+    "label": "MISC",
+    "text": "L'un des diables",
+    "jalons": [
+      6,
+      22
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      87,
+      97
+    ]
+  },
+  "entite_327": {
+    "label": "ORG",
+    "text": "FRANÇAIS     Chiron",
+    "jalons": [
+      390,
+      409
+    ]
+  },
+  "entite_328": {
+    "label": "ORG",
+    "text": "Ramenez-le!",
+    "jalons": [
+      411,
+      422
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      396,
+      406
+    ]
+  },
+  "entite_330": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      89,
+      94
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      262,
+      272
+    ]
+  },
+  "entite_332": {
+    "label": "LOC",
+    "text": "Sinon",
+    "jalons": [
+      160,
+      165
+    ]
+  },
+  "entite_333": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      148,
+      153
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "Agathe",
+    "jalons": [
+      486,
+      492
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "Provence",
+    "jalons": [
+      465,
+      473
+    ]
+  },
+  "entite_336": {
+    "label": "LOC",
+    "text": "Conseil",
+    "jalons": [
+      281,
+      288
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      354,
+      364
+    ]
+  },
+  "entite_338": {
+    "label": "PER",
+    "text": "M. de la Pouyade",
+    "jalons": [
+      206,
+      222
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "N’im",
+    "jalons": [
+      491,
+      495
+    ]
+  },
+  "entite_340": {
+    "label": "PER",
+    "text": "M. de la Pouyade",
+    "jalons": [
+      350,
+      366
+    ]
+  },
+  "entite_341": {
+    "label": "LOC",
+    "text": "Eglise",
+    "jalons": [
+      120,
+      126
+    ]
+  },
+  "entite_342": {
+    "label": "PER",
+    "text": "de Jésu",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Gourgueil",
+    "jalons": [
+      455,
+      464
+    ]
+  },
+  "entite_344": {
+    "label": "PER",
+    "text": "Mme de Létang",
+    "jalons": [
+      156,
+      169
+    ]
+  },
+  "entite_345": {
+    "label": "LOC",
+    "text": "J’oubli",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "la porte de M. de la Pouyade",
+    "jalons": [
+      113,
+      141
+    ]
+  },
+  "entite_347": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      347,
+      357
+    ]
+  },
+  "entite_348": {
+    "label": "PER",
+    "text": "Madame Gourguei",
+    "jalons": [
+      497,
+      512
+    ]
+  },
+  "entite_349": {
+    "label": "PER",
+    "text": "Tandis que si j'allais",
+    "jalons": [
+      10,
+      32
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "Elle",
+    "jalons": [
+      201,
+      205
+    ]
+  },
+  "entite_351": {
+    "label": "PER",
+    "text": "Daignez",
+    "jalons": [
+      494,
+      501
+    ]
+  },
+  "entite_352": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      503,
+      509
+    ]
+  },
+  "entite_353": {
+    "label": "PER",
+    "text": "Nanette Berthier",
+    "jalons": [
+      126,
+      142
+    ]
+  },
+  "entite_354": {
+    "label": "PER",
+    "text": "Nanette Berthier",
+    "jalons": [
+      194,
+      210
+    ]
+  },
+  "entite_355": {
+    "label": "LOC",
+    "text": "Kouma-Toulou",
+    "jalons": [
+      286,
+      298
+    ]
+  },
+  "entite_356": {
+    "label": "MISC",
+    "text": "la Langue Joyeuse",
+    "jalons": [
+      300,
+      317
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Dodue-Fleurie",
+    "jalons": [
+      353,
+      366
+    ]
+  },
+  "entite_358": {
+    "label": "LOC",
+    "text": "Indes",
+    "jalons": [
+      225,
+      230
+    ]
+  },
+  "entite_359": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      329,
+      339
+    ]
+  },
+  "entite_360": {
+    "label": "LOC",
+    "text": "Manon",
+    "jalons": [
+      275,
+      280
+    ]
+  },
+  "entite_361": {
+    "label": "MISC",
+    "text": "D'UNE DAME CRÉOLE",
+    "jalons": [
+      0,
+      17
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Troussot",
+    "jalons": [
+      200,
+      208
+    ]
+  },
+  "entite_363": {
+    "label": "MISC",
+    "text": "oire de Fa mer et des monts",
+    "jalons": [
+      0,
+      27
+    ]
+  },
+  "entite_364": {
+    "label": "MISC",
+    "text": "En ce dimanche de la Saint-Jean et sous",
+    "jalons": [
+      331,
+      370
+    ]
+  },
+  "entite_365": {
+    "label": "LOC",
+    "text": "mandai",
+    "jalons": [
+      0,
+      6
+    ]
+  },
+  "entite_366": {
+    "label": "PER",
+    "text": "cris Trou",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_367": {
+    "label": "LOC",
+    "text": "Nicba",
+    "jalons": [
+      494,
+      499
+    ]
+  },
+  "entite_368": {
+    "label": "LOC",
+    "text": "Lbaguifing",
+    "jalons": [
+      501,
+      511
+    ]
+  },
+  "entite_369": {
+    "label": "LOC",
+    "text": "Nicba",
+    "jalons": [
+      146,
+      151
+    ]
+  },
+  "entite_370": {
+    "label": "PER",
+    "text": "Tita Marka",
+    "jalons": [
+      298,
+      308
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Ils",
+    "jalons": [
+      503,
+      506
+    ]
+  },
+  "entite_372": {
+    "label": "MISC",
+    "text": "Toutes les filles de Marka",
+    "jalons": [
+      44,
+      70
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "Guiambas",
+    "jalons": [
+      46,
+      54
+    ]
+  },
+  "entite_374": {
+    "label": "LOC",
+    "text": "Figeroux",
+    "jalons": [
+      135,
+      143
+    ]
+  },
+  "entite_375": {
+    "label": "PER",
+    "text": "Elle n'e",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_376": {
+    "label": "LOC",
+    "text": "Figeroux",
+    "jalons": [
+      98,
+      106
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Moi",
+    "jalons": [
+      112,
+      115
+    ]
+  },
+  "entite_378": {
+    "label": "PER",
+    "text": "Figeroux rugissait",
+    "jalons": [
+      461,
+      479
+    ]
+  },
+  "entite_379": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_380": {
+    "label": "MISC",
+    "text": "Au nom du Ciel",
+    "jalons": [
+      227,
+      241
+    ]
+  },
+  "entite_381": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      401,
+      406
+    ]
+  },
+  "entite_382": {
+    "label": "LOC",
+    "text": "Figeroux",
+    "jalons": [
+      135,
+      143
+    ]
+  },
+  "entite_383": {
+    "label": "PER",
+    "text": "Samuel Goring",
+    "jalons": [
+      146,
+      159
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "J'essaierai",
+    "jalons": [
+      88,
+      99
+    ]
+  },
+  "entite_385": {
+    "label": "MISC",
+    "text": "Les deux",
+    "jalons": [
+      114,
+      122
+    ]
+  },
+  "entite_386": {
+    "label": "MISC",
+    "text": "Je pris l'Allée des Lataniers et n’eus pas de peine à trouver la demeure du sieur",
+    "jalons": [
+      239,
+      320
+    ]
+  },
+  "entite_387": {
+    "label": "LOC",
+    "text": "Pichon",
+    "jalons": [
+      321,
+      327
+    ]
+  },
+  "entite_388": {
+    "label": "PER",
+    "text": "de Nanette",
+    "jalons": [
+      10,
+      20
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "Berthier",
+    "jalons": [
+      442,
+      450
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "Ingas",
+    "jalons": [
+      376,
+      381
+    ]
+  },
+  "entite_391": {
+    "label": "LOC",
+    "text": "Maitresse",
+    "jalons": [
+      453,
+      462
+    ]
+  },
+  "entite_392": {
+    "label": "PER",
+    "text": "Mame Gourgueil",
+    "jalons": [
+      470,
+      484
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "Dodue-Fleurie",
+    "jalons": [
+      498,
+      511
+    ]
+  },
+  "entite_394": {
+    "label": "PER",
+    "text": "Agathe de Létang",
+    "jalons": [
+      274,
+      290
+    ]
+  },
+  "entite_395": {
+    "label": "LOC",
+    "text": "Dodue-Fleurie",
+    "jalons": [
+      493,
+      506
+    ]
+  },
+  "entite_396": {
+    "label": "MISC",
+    "text": "Mme de Létang",
+    "jalons": [
+      32,
+      45
+    ]
+  },
+  "entite_397": {
+    "label": "PER",
+    "text": "M. de Montouroy ne cessa de me laisser voir",
+    "jalons": [
+      96,
+      139
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "Létang",
+    "jalons": [
+      487,
+      493
+    ]
+  },
+  "entite_399": {
+    "label": "PER",
+    "text": "Mais Létang",
+    "jalons": [
+      92,
+      103
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Tuez",
+    "jalons": [
+      470,
+      474
+    ]
+  },
+  "entite_401": {
+    "label": "LOC",
+    "text": "Montouroy",
+    "jalons": [
+      17,
+      26
+    ]
+  },
+  "entite_402": {
+    "label": "PER",
+    "text": "Mme de Létang",
+    "jalons": [
+      28,
+      41
+    ]
+  },
+  "entite_403": {
+    "label": "MISC",
+    "text": "FRANÇAIS     relations et de son pouvoir dans la colonie",
+    "jalons": [
+      276,
+      332
+    ]
+  },
+  "entite_404": {
+    "label": "MISC",
+    "text": "Hélas ! j'avais besoin de bonnes ou de",
+    "jalons": [
+      72,
+      110
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Montouroy",
+    "jalons": [
+      413,
+      422
+    ]
+  },
+  "entite_406": {
+    "label": "MISC",
+    "text": "Le gouverneur et Montourov avaient trouvé dans la demeure de leur victime de",
+    "jalons": [
+      10,
+      86
+    ]
+  },
+  "entite_407": {
+    "label": "LOC",
+    "text": "Fleurie",
+    "jalons": [
+      423,
+      430
+    ]
+  },
+  "entite_408": {
+    "label": "PER",
+    "text": "Mais M. de Montouroy",
+    "jalons": [
+      165,
+      185
+    ]
+  },
+  "entite_409": {
+    "label": "LOC",
+    "text": "Figeroux",
+    "jalons": [
+      246,
+      254
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "Surveiller",
+    "jalons": [
+      443,
+      453
+    ]
+  },
+  "entite_411": {
+    "label": "LOC",
+    "text": "Montouroy",
+    "jalons": [
+      186,
+      195
+    ]
+  },
+  "entite_412": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      454,
+      468
+    ]
+  },
+  "entite_413": {
+    "label": "LOC",
+    "text": "Agathe de Létang",
+    "jalons": [
+      99,
+      115
+    ]
+  },
+  "entite_414": {
+    "label": "LOC",
+    "text": "Montouroy",
+    "jalons": [
+      150,
+      159
+    ]
+  },
+  "entite_415": {
+    "label": "LOC",
+    "text": "Agathe",
+    "jalons": [
+      351,
+      357
+    ]
+  },
+  "entite_416": {
+    "label": "PER",
+    "text": "M. de Montouroy",
+    "jalons": [
+      95,
+      110
+    ]
+  },
+  "entite_417": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      314,
+      324
+    ]
+  },
+  "entite_418": {
+    "label": "LOC",
+    "text": "Jamais",
+    "jalons": [
+      329,
+      335
+    ]
+  },
+  "entite_419": {
+    "label": "LOC",
+    "text": "Chiron",
+    "jalons": [
+      341,
+      347
+    ]
+  },
+  "entite_420": {
+    "label": "LOC",
+    "text": "Domingue",
+    "jalons": [
+      421,
+      429
+    ]
+  },
+  "entite_421": {
+    "label": "PER",
+    "text": "de M. de La Marzelle",
+    "jalons": [
+      431,
+      451
+    ]
+  },
+  "entite_422": {
+    "label": "LOC",
+    "text": "Sur",
+    "jalons": [
+      508,
+      511
+    ]
+  },
+  "entite_423": {
+    "label": "LOC",
+    "text": "Chiron",
+    "jalons": [
+      383,
+      389
+    ]
+  },
+  "entite_424": {
+    "label": "LOC",
+    "text": "Londres",
+    "jalons": [
+      413,
+      420
+    ]
+  },
+  "entite_425": {
+    "label": "LOC",
+    "text": "Amsterdam",
+    "jalons": [
+      426,
+      435
+    ]
+  },
+  "entite_426": {
+    "label": "LOC",
+    "text": "Léveillé",
+    "jalons": [
+      480,
+      488
+    ]
+  },
+  "entite_427": {
+    "label": "LOC",
+    "text": "Léveillé",
+    "jalons": [
+      38,
+      46
+    ]
+  },
+  "entite_428": {
+    "label": "PER",
+    "text": "Buffon",
+    "jalons": [
+      473,
+      479
+    ]
+  },
+  "entite_429": {
+    "label": "PER",
+    "text": "Madame Dodue-Fleurie",
+    "jalons": [
+      427,
+      447
+    ]
+  },
+  "entite_430": {
+    "label": "LOC",
+    "text": "Certes",
+    "jalons": [
+      138,
+      144
+    ]
+  },
+  "entite_431": {
+    "label": "LOC",
+    "text": "Léveillé",
+    "jalons": [
+      388,
+      396
+    ]
+  },
+  "entite_432": {
+    "label": "LOC",
+    "text": "Attendez",
+    "jalons": [
+      442,
+      450
+    ]
+  },
+  "entite_433": {
+    "label": "LOC",
+    "text": "Qu'en",
+    "jalons": [
+      365,
+      370
+    ]
+  },
+  "entite_434": {
+    "label": "LOC",
+    "text": "Montouroy",
+    "jalons": [
+      287,
+      296
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "Montouroy",
+    "jalons": [
+      448,
+      457
+    ]
+  },
+  "entite_436": {
+    "label": "ORG",
+    "text": "J'ai besoin de vous",
+    "jalons": [
+      411,
+      430
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "Montouroy",
+    "jalons": [
+      433,
+      442
+    ]
+  },
+  "entite_438": {
+    "label": "MISC",
+    "text": "et de rentrer dans la chambre de la négresse",
+    "jalons": [
+      0,
+      44
+    ]
+  },
+  "entite_439": {
+    "label": "LOC",
+    "text": "Dodue",
+    "jalons": [
+      46,
+      51
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "Montouroy",
+    "jalons": [
+      229,
+      238
+    ]
+  },
+  "entite_441": {
+    "label": "LOC",
+    "text": "Lèche-moi",
+    "jalons": [
+      274,
+      283
+    ]
+  },
+  "entite_442": {
+    "label": "LOC",
+    "text": "Toutou",
+    "jalons": [
+      285,
+      291
+    ]
+  },
+  "entite_443": {
+    "label": "MISC",
+    "text": "ussi libre avec lui que si je",
+    "jalons": [
+      0,
+      29
+    ]
+  },
+  "entite_444": {
+    "label": "MISC",
+    "text": "er comme Montouroy tous les hommes que vous venez de voir dans",
+    "jalons": [
+      0,
+      62
+    ]
+  },
+  "entite_445": {
+    "label": "MISC",
+    "text": "Cap et de Saint-Domingue",
+    "jalons": [
+      171,
+      195
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "Saint-Domingue",
+    "jalons": [
+      475,
+      489
+    ]
+  },
+  "entite_447": {
+    "label": "PER",
+    "text": "Je la suivais",
+    "jalons": [
+      39,
+      52
+    ]
+  },
+  "entite_448": {
+    "label": "LOC",
+    "text": "Morne des Capucins",
+    "jalons": [
+      377,
+      395
+    ]
+  },
+  "entite_449": {
+    "label": "PER",
+    "text": "Samuel Goring",
+    "jalons": [
+      13,
+      26
+    ]
+  },
+  "entite_450": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      416,
+      421
+    ]
+  },
+  "entite_451": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      440,
+      445
+    ]
+  },
+  "entite_452": {
+    "label": "MISC",
+    "text": "Moins que Figeroux",
+    "jalons": [
+      451,
+      469
+    ]
+  },
+  "entite_453": {
+    "label": "LOC",
+    "text": "Voyez",
+    "jalons": [
+      474,
+      479
+    ]
+  },
+  "entite_454": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      310,
+      315
+    ]
+  },
+  "entite_455": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      18,
+      24
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      276,
+      281
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      248,
+      253
+    ]
+  },
+  "entite_458": {
+    "label": "MISC",
+    "text": "Figeroux de réunir ses amis",
+    "jalons": [
+      83,
+      110
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "Agathe",
+    "jalons": [
+      100,
+      106
+    ]
+  },
+  "entite_460": {
+    "label": "MISC",
+    "text": "Mme Du Plantier et Samuel Goring qui",
+    "jalons": [
+      336,
+      372
+    ]
+  },
+  "entite_461": {
+    "label": "LOC",
+    "text": "irai",
+    "jalons": [
+      0,
+      4
+    ]
+  },
+  "entite_462": {
+    "label": "PER",
+    "text": "Séquestrer Antoinette",
+    "jalons": [
+      85,
+      106
+    ]
+  },
+  "entite_463": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      419,
+      429
+    ]
+  },
+  "entite_464": {
+    "label": "PER",
+    "text": "Mme de Létang",
+    "jalons": [
+      438,
+      451
+    ]
+  },
+  "entite_465": {
+    "label": "PER",
+    "text": "Samuel Goring",
+    "jalons": [
+      209,
+      222
+    ]
+  },
+  "entite_466": {
+    "label": "LOC",
+    "text": "Nullement",
+    "jalons": [
+      280,
+      289
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "Licr",
+    "jalons": [
+      313,
+      317
+    ]
+  },
+  "entite_468": {
+    "label": "LOC",
+    "text": "Sortez",
+    "jalons": [
+      497,
+      503
+    ]
+  },
+  "entite_469": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      168,
+      173
+    ]
+  },
+  "entite_470": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      131,
+      141
+    ]
+  },
+  "entite_471": {
+    "label": "LOC",
+    "text": "La Gourgueil",
+    "jalons": [
+      493,
+      505
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "Pierre",
+    "jalons": [
+      50,
+      56
+    ]
+  },
+  "entite_473": {
+    "label": "LOC",
+    "text": "Troussot",
+    "jalons": [
+      362,
+      370
+    ]
+  },
+  "entite_474": {
+    "label": "MISC",
+    "text": "Veillez bien sur Mademoiselle",
+    "jalons": [
+      449,
+      478
+    ]
+  },
+  "entite_475": {
+    "label": "PER",
+    "text": "Antoinette et je revins",
+    "jalons": [
+      25,
+      48
+    ]
+  },
+  "entite_476": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      121,
+      126
+    ]
+  },
+  "entite_477": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      131,
+      136
+    ]
+  },
+  "entite_478": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      318,
+      328
+    ]
+  },
+  "entite_479": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      9,
+      19
+    ]
+  },
+  "entite_480": {
+    "label": "MISC",
+    "text": "D'UNE DAME CRÉOLE",
+    "jalons": [
+      8,
+      25
+    ]
+  },
+  "entite_481": {
+    "label": "MISC",
+    "text": "suivie de Zozo et de Troussot",
+    "jalons": [
+      95,
+      124
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      377,
+      387
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      99,
+      104
+    ]
+  },
+  "entite_484": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      489,
+      499
+    ]
+  },
+  "entite_485": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      500,
+      510
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      498,
+      503
+    ]
+  },
+  "entite_487": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      404,
+      414
+    ]
+  },
+  "entite_488": {
+    "label": "PER",
+    "text": "Zinga",
+    "jalons": [
+      506,
+      511
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      487,
+      495
+    ]
+  },
+  "entite_490": {
+    "label": "LOC",
+    "text": "Oui",
+    "jalons": [
+      33,
+      36
+    ]
+  },
+  "entite_491": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      481,
+      491
+    ]
+  },
+  "entite_492": {
+    "label": "LOC",
+    "text": "N’allait",
+    "jalons": [
+      497,
+      505
+    ]
+  },
+  "entite_493": {
+    "label": "LOC",
+    "text": "Dubousquens",
+    "jalons": [
+      144,
+      155
+    ]
+  },
+  "entite_494": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      161,
+      167
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "Moi",
+    "jalons": [
+      169,
+      172
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "Charlot",
+    "jalons": [
+      402,
+      409
+    ]
+  },
+  "entite_497": {
+    "label": "ORG",
+    "text": "Alors",
+    "jalons": [
+      505,
+      510
+    ]
+  },
+  "entite_498": {
+    "label": "MISC",
+    "text": "is-je en me tournant vers Zinga",
+    "jalons": [
+      0,
+      31
+    ]
+  },
+  "entite_499": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      42,
+      52
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "Maitresse",
+    "jalons": [
+      26,
+      35
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "Figeroux",
+    "jalons": [
+      261,
+      269
+    ]
+  },
+  "entite_502": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      205,
+      210
+    ]
+  },
+  "entite_503": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      203,
+      213
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      215,
+      225
+    ]
+  },
+  "entite_505": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      396,
+      406
+    ]
+  },
+  "entite_506": {
+    "label": "MISC",
+    "text": "Elle vient de s'enfuir de la maison",
+    "jalons": [
+      305,
+      340
+    ]
+  },
+  "entite_507": {
+    "label": "LOC",
+    "text": "Sais-tu",
+    "jalons": [
+      455,
+      462
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      5,
+      11
+    ]
+  },
+  "entite_509": {
+    "label": "LOC",
+    "text": "le Duquesne",
+    "jalons": [
+      77,
+      88
+    ]
+  },
+  "entite_510": {
+    "label": "LOC",
+    "text": "Charlot",
+    "jalons": [
+      153,
+      160
+    ]
+  },
+  "entite_511": {
+    "label": "LOC",
+    "text": "Charlot",
+    "jalons": [
+      384,
+      391
+    ]
+  },
+  "entite_512": {
+    "label": "ORG",
+    "text": "Le Duquesne",
+    "jalons": [
+      468,
+      479
+    ]
+  },
+  "entite_513": {
+    "label": "LOC",
+    "text": "Madame",
+    "jalons": [
+      485,
+      491
+    ]
+  },
+  "entite_514": {
+    "label": "LOC",
+    "text": "Duquesne",
+    "jalons": [
+      246,
+      254
+    ]
+  },
+  "entite_515": {
+    "label": "MISC",
+    "text": "FRANÇAIS     Et je payai le marinier qui m'avait",
+    "jalons": [
+      152,
+      200
+    ]
+  },
+  "entite_516": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      445,
+      455
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      130,
+      136
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "Voyez",
+    "jalons": [
+      138,
+      143
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "Duquesne",
+    "jalons": [
+      380,
+      388
+    ]
+  },
+  "entite_520": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      122,
+      132
+    ]
+  },
+  "entite_521": {
+    "label": "LOC",
+    "text": "Duquesne",
+    "jalons": [
+      398,
+      406
+    ]
+  },
+  "entite_522": {
+    "label": "PER",
+    "text": "Mais déjà",
+    "jalons": [
+      427,
+      436
+    ]
+  },
+  "entite_523": {
+    "label": "MISC",
+    "text": "Zozo et Troussot",
+    "jalons": [
+      15,
+      31
+    ]
+  },
+  "entite_524": {
+    "label": "PER",
+    "text": "Mais Antoinette",
+    "jalons": [
+      350,
+      365
+    ]
+  },
+  "entite_525": {
+    "label": "MISC",
+    "text": "pas Antoinette !  Troussot qui avait le front couvert de sang",
+    "jalons": [
+      1,
+      62
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "Troussot",
+    "jalons": [
+      496,
+      504
+    ]
+  },
+  "entite_527": {
+    "label": "MISC",
+    "text": "la chambre de la pauvre",
+    "jalons": [
+      1,
+      24
+    ]
+  },
+  "entite_528": {
+    "label": "MISC",
+    "text": "Dodue Fleurie",
+    "jalons": [
+      447,
+      460
+    ]
+  },
+  "entite_529": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      383,
+      393
+    ]
+  },
+  "entite_530": {
+    "label": "PER",
+    "text": "Dodue Fleurie",
+    "jalons": [
+      454,
+      467
+    ]
+  },
+  "entite_531": {
+    "label": "PER",
+    "text": "Antoinette",
+    "jalons": [
+      65,
+      75
+    ]
+  },
+  "entite_532": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      347,
+      357
+    ]
+  },
+  "entite_533": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      371,
+      381
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      137,
+      142
+    ]
+  },
+  "entite_535": {
+    "label": "PER",
+    "text": "Zinga",
+    "jalons": [
+      503,
+      508
+    ]
+  },
+  "entite_536": {
+    "label": "MISC",
+    "text": "bousquens se trouvent sur le Duquesne",
+    "jalons": [
+      0,
+      37
+    ]
+  },
+  "entite_537": {
+    "label": "PER",
+    "text": "Antoi",
+    "jalons": [
+      507,
+      512
+    ]
+  },
+  "entite_538": {
+    "label": "LOC",
+    "text": "Dubousquens",
+    "jalons": [
+      44,
+      55
+    ]
+  },
+  "entite_539": {
+    "label": "LOC",
+    "text": "Antoinette",
+    "jalons": [
+      269,
+      279
+    ]
+  },
+  "entite_540": {
+    "label": "LOC",
+    "text": "Zinga",
+    "jalons": [
+      202,
+      207
+    ]
+  },
+  "entite_541": {
+    "label": "LOC",
+    "text": "Buzançais",
+    "jalons": [
+      125,
+      134
+    ]
+  },
+  "entite_542": {
+    "label": "LOC",
+    "text": "Indre",
+    "jalons": [
+      136,
+      141
+    ]
+  }
+}
