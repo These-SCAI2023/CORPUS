@@ -578,7 +578,7 @@ Dieu B-MISC
 Saniel B-PER
 l'École B-ORG
 Sénat B-LOC
-  B-DATE
+; B-DATE
 maintenant, I-DATE
 après I-DATE
 Faculté B-ORG
@@ -674,7 +674,7 @@ Saniel B-PER
 Saniel B-PER
 trois B-DATE
 mois I-DATE
-  I-DATE
+; I-DATE
 et I-DATE
 en I-DATE
 mars I-DATE
@@ -2301,7 +2301,7 @@ Fatalité B-PER
 aujourd'hui B-DATE
 madame B-PER
 Dammauville I-PER
-  B-DATE
+; B-DATE
 demain I-DATE
 madame B-PER
 Dammauville I-PER
