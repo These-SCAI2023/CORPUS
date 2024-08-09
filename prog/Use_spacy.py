@@ -13,6 +13,9 @@ warnings.simplefilter("ignore")
 # TODO: gérer warnings
 # from generic_tools import *
 
+spacy_models: dict = {"fr": ["fr_core_news_sm", "fr_core_news_md", "fr_core_news_lg"],
+                      "pt": ["pt_core_news_sm", "pt_core_news_md", "pt_core_news_lg"], "en": ["en_core_web_sm", "en_core_web_md", "en_core_web_lg"]}
+
 
 def get_parser():
     """Returns a command line parser
@@ -64,28 +67,23 @@ def chunk_text(text: str, chunk_size: int = 1024) -> list[str]:
     return [" ".join(chunk) for chunk in chunks]
 
 
-def dico_resultats(texte, nlp=""):
+def dico_resultats(texte, spacy_model: str = ""):
+    try:
+        nlp = spacy.load(spacy_model)
+    except:
+        cmd = f"python -m spacy download {spacy_model}"
+        os.system(cmd)
+        nlp = spacy.load(spacy_model)
     nlp.max_length = 50000000  # or any large value, as long as you don't run out of RAM
-    # nlp=spacy.load("fr_core_news_sm")):
-    if nlp == "":
-        try:
-            nlp = spacy.load("fr_core_news_sm")
-        except:
-            cmd = "python3 -m spacy download fr_core_news_sm"
-            os.system(cmd)
-            nlp = spacy.load("fr_core_news_sm")
-
     doc = nlp(texte)
     dico_resultats = {}
-    i = 0
-    for ent in doc.ents:
-        entite = "entite_"+str(i)
+    for i, ent in enumerate(doc.ents):
+        entite = f"entite_{i}"
         dico_resultats[entite] = {}
         dico_resultats[entite]["label"] = ent.label_
         dico_resultats[entite]["text"] = ent.text
         dico_resultats[entite]["jalons"] = [ent.start_char, ent.end_char]
-        i = i+1
-    return (dico_resultats)
+    return dico_resultats, nlp
 
 
 def bio_spacy(texte, nlp="") -> list[list]:
@@ -121,10 +119,13 @@ def bio_spacy(texte, nlp="") -> list[list]:
 
 
 if __name__ == "__main__":
-    do_json: bool = False
-    # for modele in ["sm"]:
-    for modele in ["sm", "md", "lg"]:
-        # liste_subcorpus = glob.glob(f"{path_corpora}/*")
+    do_json: bool = True
+    nlp = "fr"
+    # nlp = "pt"
+    # nlp = "en"
+    for spacy_model in spacy_models[nlp]:
+        print(spacy_model)
+        modele = spacy_model[-2:]
         liste_subcorpus = list(Path(path_corpora).glob("*"))
         print(liste_subcorpus)
         print(os.getcwd())
@@ -132,20 +133,20 @@ if __name__ == "__main__":
             print(
                 f"Pas de dossier trouvé dans {path_corpora}, traitement terminé")
             exit()
-        print("Starting with modèle %s" % modele)
-        nom_complet_modele = "fr_core_news_%s" % modele
-        try:
-            nlp = spacy.load(nom_complet_modele)
-        except:
-            cmd = f"python3 -m spacy download {nom_complet_modele}"
-            os.system(cmd)
-            nlp = spacy.load(nom_complet_modele)
+        print(f"Starting with modèle {modele}")
+        # nom_complet_modele = "fr_core_news_%s" % modele
+        # try:
+        #    nlp = spacy.load(nom_complet_modele)
+        # except:
+        #    cmd = f"{nom_complet_modele}"
+        #    os.system(cmd)
+        #    nlp = spacy.load(nom_complet_modele)
         nom_modele = f"spacy-{modele}"
 
         for subcorpus in liste_subcorpus:
             print(f"  Processing {subcorpus}")
             liste_txt = glob.glob(f"{subcorpus}/*_REF/*.txt")
-            liste_txt += glob.glob(f"{subcorpus}/OCR/*/*.txt")
+            liste_txt += glob.glob(f"{subcorpus}/*OCR/*/*.txt")
             print("  nombre de fichiers txt trouvés :", len(liste_txt))
             for path in liste_txt:
                 dossiers = re.split("/", path)[:-1]
@@ -168,11 +169,12 @@ if __name__ == "__main__":
                         continue
                 texte = lire_fichier(path)
                 if do_json:
-                    entites = dico_resultats(texte, nlp)
+                    entites, nlp_new = dico_resultats(
+                        texte, spacy_model=spacy_model)
                     stocker(path_output, entites, is_json=True)
 
                 # Pour le format bio
-                entites_bio: list[list] = bio_spacy(texte, nlp)
+                entites_bio: list[list] = bio_spacy(texte, nlp_new)
                 concat_bio_path: str = f"{path_ner}/{nom_txt}_{nom_modele}-{spacy.__version__}.bio"
                 # for ent in entites_bio:
                 #    print(ent)
