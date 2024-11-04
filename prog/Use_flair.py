@@ -66,7 +66,7 @@ def chunk_text(text, chunk_size) -> list[list]:
     return chunks
 
 
-def get_entity(entity_dict: dict) -> dict:
+def get_entity(entity_dict: dict, offset: int = 0) -> dict:
     """reformat flair entity dict.
 
     Args:
@@ -78,7 +78,7 @@ def get_entity(entity_dict: dict) -> dict:
     return {
         'label': label,
         'text': entity_dict["text"],
-        'jalons': [entity_dict["start_pos"], entity_dict["end_pos"]]
+        'jalons': [(offset + entity_dict["start_pos"]), (offset + entity_dict["end_pos"])]
     }
 
 
@@ -98,10 +98,11 @@ def generate_bio_tags(entity: dict, sep: str = " ") -> list[list[str]]:
 def dico_resultats(text, tagger: SequenceTagger, chunk_size: int = 512):
     chunks: list[list] = chunk_text(text=text, chunk_size=chunk_size)
     all_ner_results: list[dict] = []
-    for chunk in chunks:
+    for i, chunk in enumerate(chunks):
+        offset: int = i * chunk_size
         sentence = Sentence(chunk)
         tagger.predict(sentence)
-        all_ner_results.extend([get_entity(entity_dict=entity)
+        all_ner_results.extend([get_entity(entity_dict=entity, offset=offset)
                                 for entity in sentence.to_dict(tag_type='ner')["entities"]])
         # print(all_ner_results)
     return {f"entite_{i}": ent for i, ent in enumerate(all_ner_results)}
@@ -121,6 +122,9 @@ def bio_flair(text, tagger: SequenceTagger, chunk_size: int = 512):
 
 if __name__ == "__main__":
     tagger = SequenceTagger.load('ner')
+    # tagger = SequenceTagger.load('flair/ner-english')
+    # tagger = SequenceTagger.load('flair/ner-english')
+
     tagger.to('cpu')  # Ensure model runs on CPU
 
     liste_subcorpus = list(Path(path_corpora).glob("*"))
@@ -131,9 +135,10 @@ if __name__ == "__main__":
         exit()
 
     for subcorpus in liste_subcorpus:
+        bio: bool = False
         print(f"  Processing {subcorpus}")
         liste_txt = glob.glob(f"{subcorpus}/*_REF/*.txt")
-        liste_txt += glob.glob(f"{subcorpus}/OCR/*/*.txt")
+        liste_txt += glob.glob(f"{subcorpus}/*OCR/*/*.txt")
         print("  nombre de fichiers txt trouvés :", len(liste_txt))
         for path in liste_txt:
             dossiers = re.split("/", path)[:-1]
@@ -152,6 +157,8 @@ if __name__ == "__main__":
             entites = dico_resultats(texte, tagger)
             print(entites)
             stocker(path_output, entites, is_json=True)
-            bio_entites = bio_flair(text=texte, tagger=tagger)
-            print(bio_entites)
-            stocker(chemin=path_output_bio, contenu=bio_entites, is_json=False)
+            if bio:
+                bio_entites = bio_flair(text=texte, tagger=tagger)
+                print(bio_entites)
+                stocker(chemin=path_output_bio,
+                        contenu=bio_entites, is_json=False)
